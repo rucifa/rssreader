@@ -9,4 +9,23 @@ sources:
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://ivonblog.com/index.xml
-  - href: https://codepen.io/collection/GKhpw/feed
+  
+  # WordPress
+  - href: https://tw.wordpress.org/download/feed/
+  - href: https://wordpress.blog.tw/feed/
+  - href: https://blog.gtwang.org/category/wordpress/feed/
+  - href: https://blog.gtwang.org/category/linux/feed/
+
+  # Linux / Server
+  - href: https://blog.gtwang.org/linux/feed/
+  - href: https://www.aml-cft.moj.gov.tw/rss/624199/630481/
+  - href: https://www.taki.com.tw/blog/feed/
+  - href: https://www.chirue.com/feed/
+
+  # English / Front-end inspiration
+  - href: https://blog.codepen.io/feed/
+  - href: https://codepen.io/picks/feed/
+  - href: https://codepen.io/popular/feed/
+
+  # Japanese / English technical sites
+  - href: https://blog.codepen.io/feed/
