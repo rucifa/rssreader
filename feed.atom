@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2026-05-25T07:04:26.109Z</id>
+    <title>osmos::feed</title>
+    <updated>2026-05-25T07:04:26.109Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python]]></title>
+        <id>6a10ab6c1f237623ea28e372</id>
+        <link href="https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/"/>
+        <updated>2026-05-22T19:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers]]></title>
+        <id>6a109b5d1f237623ea2023a3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/"/>
+        <updated>2026-05-22T18:07:25.000Z</updated>
+        <summary type="html"><![CDATA[There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research]]></title>
+        <id>6a1070e71f237623ea06ca2d</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/"/>
+        <updated>2026-05-22T15:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development]]></title>
+        <id>6a106a2f1f237623ea0336d3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/"/>
+        <updated>2026-05-22T14:37:35.000Z</updated>
+        <summary type="html"><![CDATA[AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ]]></summary>
+        <author>
+            <name>Qudrat Ullah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of CSS Centering in 2026]]></title>
+        <id>https://css-tricks.com/?p=394429</id>
+        <link href="https://css-tricks.com/the-state-of-css-centering-in-2026/"/>
+        <updated>2026-05-22T13:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. 
+The State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Levels Of Customer Understanding]]></title>
+        <id>https://smashingmagazine.com/2026/05/four-levels-customer-understanding/</id>
+        <link href="https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"/>
+        <updated>2026-05-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Rebuilding Infrastructure for Every New Project]]></title>
+        <id>6a0f78aad8e265f60d5f7b56</id>
+        <link href="https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/"/>
+        <updated>2026-05-21T21:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Search Like a Pro]]></title>
+        <id>6a0f57a1d8e265f60d4f8624</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/"/>
+        <updated>2026-05-21T19:06:09.000Z</updated>
+        <summary type="html"><![CDATA[GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn LaTeX in 41 Hours]]></title>
+        <id>6a0f4895d8e265f60d42650e</id>
+        <link href="https://www.freecodecamp.org/news/learn-latex-in-41-hours/"/>
+        <updated>2026-05-21T18:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think Like the JavaScript Engine]]></title>
+        <id>6a0f459fd8e265f60d40984d</id>
+        <link href="https://www.freecodecamp.org/news/think-like-the-javascript-engine/"/>
+        <updated>2026-05-21T17:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`]]></title>
+        <id>https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/</id>
+        <link href="https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"/>
+        <updated>2026-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS]]></title>
+        <id>6a0df3b68b034602219e482c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/"/>
+        <updated>2026-05-20T17:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow: When We Stop Asking]]></title>
+        <id>https://css-tricks.com/?p=393076</id>
+        <link href="https://css-tricks.com/stack-overflow-when-we-stop-asking/"/>
+        <updated>2026-05-20T13:51:34.000Z</updated>
+        <summary type="html"><![CDATA[It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?
+Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from ASP.NET Framework to ASP.NET Core]]></title>
+        <id>6a0d28828837277411cbeeb3</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-asp-net-to-asp-net-core/"/>
+        <updated>2026-05-20T03:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Migrating to ASP.NET Core is a strategic upgrade that improves performance, scalability, and cross-platform support. Instead of a risky full rewrite, you can use an incremental approach, refactor for]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
+        <id>https://css-tricks.com/?p=393399</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-1/"/>
+        <updated>2026-05-18T13:47:19.000Z</updated>
+        <summary type="html"><![CDATA[This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.
+Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
+        <id>https://css-tricks.com/?p=394879</id>
+        <link href="https://css-tricks.com/whats-important-11/"/>
+        <updated>2026-05-15T13:16:34.000Z</updated>
+        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
+What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
+        <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
+        <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
+        <updated>2026-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing and Displaying Discounted Prices in CSS]]></title>
+        <id>https://css-tricks.com/?p=393498</id>
+        <link href="https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/"/>
+        <updated>2026-05-14T14:05:01.000Z</updated>
+        <summary type="html"><![CDATA[A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().
+Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393625</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
+        <updated>2026-05-13T14:36:54.000Z</updated>
+        <summary type="html"><![CDATA[The rotateX() function rotates an element around the x-axis in a three-dimensional space
+rotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393615</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatey/"/>
+        <updated>2026-05-13T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[The rotateY() function rotates an element around its vertical y-axis.
+rotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=393630</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotatez/"/>
+        <updated>2026-05-13T14:33:03.000Z</updated>
+        <summary type="html"><![CDATA[The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. 
+rotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotate()]]></title>
+        <id>https://css-tricks.com/?page_id=393611</id>
+        <link href="https://css-tricks.com/almanac/functions/r/rotate/"/>
+        <updated>2026-05-13T14:32:47.000Z</updated>
+        <summary type="html"><![CDATA[The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.
+rotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Interface Patterns For AI Transparency (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/</id>
+        <link href="https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/"/>
+        <updated>2026-05-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
+        <id>https://css-tricks.com/?p=393604</id>
+        <link href="https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"/>
+        <updated>2026-05-12T13:59:35.000Z</updated>
+        <summary type="html"><![CDATA[The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.
+Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
+        <id>https://css-tricks.com/?p=393431</id>
+        <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
+        <updated>2026-05-08T13:54:10.000Z</updated>
+        <summary type="html"><![CDATA[I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.
+Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
+        <id>https://css-tricks.com/?p=394649</id>
+        <link href="https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/"/>
+        <updated>2026-05-07T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.
+A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Prompt API]]></title>
+        <id>https://css-tricks.com/?p=394653</id>
+        <link href="https://css-tricks.com/googles-prompt-api/"/>
+        <updated>2026-05-06T19:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:
+As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, 
+…
+Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Zigzag CSS Layouts With a Grid + Transform Trick]]></title>
+        <id>https://css-tricks.com/?p=393013</id>
+        <link href="https://css-tricks.com/zigzag-css-grid-layouts/"/>
+        <updated>2026-05-06T13:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.
+Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
+        <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
+        <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
+        <updated>2026-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking The Experience Of System Tools]]></title>
+        <id>https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/</id>
+        <link href="https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"/>
+        <updated>2026-05-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kyrylo Levashov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed-Height Cards: More Fragile Than They Look]]></title>
+        <id>https://css-tricks.com/?p=393102</id>
+        <link href="https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/"/>
+        <updated>2026-05-04T14:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.
+Fixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Kevine Nzapdi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Stable Interfaces For Streaming Content]]></title>
+        <id>https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/</id>
+        <link href="https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/"/>
+        <updated>2026-05-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Fresh View In May (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/</id>
+        <link href="https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"/>
+        <updated>2026-04-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams]]></title>
+        <id>https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/</id>
+        <link href="https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Casey Hudetz and Eric Olive)</name>
+        </author>
+    </entry>
+</feed>

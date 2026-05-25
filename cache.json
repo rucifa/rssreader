@@ -1,0 +1,422 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=394429",
+          "author": "Temani Afif",
+          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+          "publishedOn": "2026-05-22T13:44:40.000Z",
+          "wordCount": 5473,
+          "title": "The State of CSS Centering in 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393076",
+          "author": "Sunkanmi Fafowora",
+          "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+          "publishedOn": "2026-05-20T13:51:34.000Z",
+          "wordCount": 4683,
+          "title": "Stack Overflow: When We Stop Asking",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393399",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+          "publishedOn": "2026-05-18T13:47:19.000Z",
+          "wordCount": 6726,
+          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394879",
+          "author": "Daniel Schwarz",
+          "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-11/",
+          "publishedOn": "2026-05-15T13:16:34.000Z",
+          "wordCount": 3638,
+          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393498",
+          "author": "Preethi",
+          "description": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
+          "publishedOn": "2026-05-14T14:05:01.000Z",
+          "wordCount": 4009,
+          "title": "Computing and Displaying Discounted Prices in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393625",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
+          "publishedOn": "2026-05-13T14:36:54.000Z",
+          "wordCount": 4618,
+          "title": "rotateX()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393615",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
+          "publishedOn": "2026-05-13T14:33:58.000Z",
+          "wordCount": 4714,
+          "title": "rotateY()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393630",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
+          "publishedOn": "2026-05-13T14:33:03.000Z",
+          "wordCount": 3996,
+          "title": "rotateZ()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393611",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotate/",
+          "publishedOn": "2026-05-13T14:32:47.000Z",
+          "wordCount": 4198,
+          "title": "rotate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393604",
+          "author": "Mat Marquis",
+          "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+          "publishedOn": "2026-05-12T13:59:35.000Z",
+          "wordCount": 5549,
+          "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393431",
+          "author": "Daniel Schwarz",
+          "description": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+          "publishedOn": "2026-05-08T13:54:10.000Z",
+          "wordCount": 4425,
+          "title": "Using CSS corner-shape For Folded Corners",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/corner-shape-fold-5-1.mp4",
+            "length": "350278",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394649",
+          "author": "Lee Meyer",
+          "description": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+          "publishedOn": "2026-05-07T14:22:38.000Z",
+          "wordCount": 4164,
+          "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394653",
+          "author": "Geoff Graham",
+          "description": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/googles-prompt-api/",
+          "publishedOn": "2026-05-06T19:41:29.000Z",
+          "wordCount": 3345,
+          "title": "Google’s Prompt API",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393013",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
+          "publishedOn": "2026-05-06T13:50:44.000Z",
+          "wordCount": 4651,
+          "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=393102",
+          "author": "Kevine Nzapdi",
+          "description": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\nFixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
+          "publishedOn": "2026-05-04T14:01:36.000Z",
+          "wordCount": 5267,
+          "title": "Fixed-Height Cards: More Fragile Than They Look",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/borken-card-layout.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+          "publishedOn": "2026-05-22T13:00:00.000Z",
+          "wordCount": 4356,
+          "title": "Four Levels Of Customer Understanding",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+          "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+          "publishedOn": "2026-05-21T08:00:00.000Z",
+          "wordCount": 4897,
+          "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+          "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+          "publishedOn": "2026-05-15T10:00:00.000Z",
+          "wordCount": 4906,
+          "title": "Ten Data-Backed Truths Of User Experience ROI",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
+          "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": 6264,
+          "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+          "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+          "publishedOn": "2026-05-06T10:00:00.000Z",
+          "wordCount": 8653,
+          "title": "The Architecture Of Local-First Web Development",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+          "author": "hello@smashingmagazine.com (Kyrylo Levashov)",
+          "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+          "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+          "publishedOn": "2026-05-05T08:00:00.000Z",
+          "wordCount": 3952,
+          "title": "Rethinking The Experience Of System Tools",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
+          "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+          "publishedOn": "2026-05-01T08:00:00.000Z",
+          "wordCount": 6545,
+          "title": "Designing Stable Interfaces For Streaming Content",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
+          "publishedOn": "2026-04-30T11:00:00.000Z",
+          "wordCount": 4622,
+          "title": "A Fresh View In May (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+          "author": "hello@smashingmagazine.com (Casey Hudetz and Eric Olive)",
+          "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
+          "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": 4608,
+          "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "6a10ab6c1f237623ea28e372",
+          "author": "Rudrendu Paul",
+          "description": "Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t",
+          "link": "https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/",
+          "publishedOn": "2026-05-22T19:15:56.000Z",
+          "wordCount": 5196,
+          "title": "Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/35d6e16c-0c87-4160-9c02-2eb0db8505d7.png"
+        },
+        {
+          "id": "6a109b5d1f237623ea2023a3",
+          "author": "Atuoha Anthony",
+          "description": "There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/",
+          "publishedOn": "2026-05-22T18:07:25.000Z",
+          "wordCount": 14117,
+          "title": "How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/faa7ab26-537d-47f6-ae20-c34c2efbf408.png"
+        },
+        {
+          "id": "6a1070e71f237623ea06ca2d",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro",
+          "link": "https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/",
+          "publishedOn": "2026-05-22T15:06:15.000Z",
+          "wordCount": 2528,
+          "title": "How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/04f2b51b-5590-4bde-9d2c-4af3a6d4237c.png"
+        },
+        {
+          "id": "6a106a2f1f237623ea0336d3",
+          "author": "Qudrat Ullah",
+          "description": "AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ",
+          "link": "https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/",
+          "publishedOn": "2026-05-22T14:37:35.000Z",
+          "wordCount": 19252,
+          "title": "How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9dba291f-c5b1-4c0c-99a6-44941e60f014.png"
+        },
+        {
+          "id": "6a0f78aad8e265f60d5f7b56",
+          "author": "Manish Shivanandhan",
+          "description": "Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can",
+          "link": "https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/",
+          "publishedOn": "2026-05-21T21:27:06.000Z",
+          "wordCount": 2404,
+          "title": "How to Avoid Rebuilding Infrastructure for Every New Project",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6c414744-42af-430a-8bbd-76a33b564e4b.png"
+        },
+        {
+          "id": "6a0f57a1d8e265f60d4f8624",
+          "author": "Rajdeep Singh",
+          "description": "GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff",
+          "link": "https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/",
+          "publishedOn": "2026-05-21T19:06:09.000Z",
+          "wordCount": 2661,
+          "title": "How to Use GitHub Search Like a Pro",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0e61e7e1-619c-4a66-b994-6a888100d0dd.png"
+        },
+        {
+          "id": "6a0f4895d8e265f60d42650e",
+          "author": "Beau Carnes",
+          "description": "Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i",
+          "link": "https://www.freecodecamp.org/news/learn-latex-in-41-hours/",
+          "publishedOn": "2026-05-21T18:01:57.000Z",
+          "wordCount": 1170,
+          "title": "Learn LaTeX in 41 Hours",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/83817630-820c-4713-9c42-6b8331fea403.jpg"
+        },
+        {
+          "id": "6a0f459fd8e265f60d40984d",
+          "author": "Beau Carnes",
+          "description": "Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s",
+          "link": "https://www.freecodecamp.org/news/think-like-the-javascript-engine/",
+          "publishedOn": "2026-05-21T17:49:19.000Z",
+          "wordCount": 1185,
+          "title": "Think Like the JavaScript Engine",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/33ed65b4-a837-490c-b215-e21554a739ad.jpg"
+        },
+        {
+          "id": "6a0df3b68b034602219e482c",
+          "author": "Destiny Erhabor",
+          "description": "Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki",
+          "link": "https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/",
+          "publishedOn": "2026-05-20T17:47:34.000Z",
+          "wordCount": 5415,
+          "title": "How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c1cf9847-fa0f-49f3-93f4-3c5c1e8ac4c0.png"
+        },
+        {
+          "id": "6a0d28828837277411cbeeb3",
+          "author": "Gopinath Karunanithi",
+          "description": "Migrating to ASP.NET Core is a strategic upgrade that improves performance, scalability, and cross-platform support. Instead of a risky full rewrite, you can use an incremental approach, refactor for",
+          "link": "https://www.freecodecamp.org/news/migrate-from-asp-net-to-asp-net-core/",
+          "publishedOn": "2026-05-20T03:20:34.000Z",
+          "wordCount": 3549,
+          "title": "How to Migrate from ASP.NET Framework to ASP.NET Core",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b403b6fe-7924-4c2c-8ae2-ce089c743c76.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
