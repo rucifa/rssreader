@@ -1,10 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-25T07:04:26.109Z</id>
+    <id>urn:2026-05-25T07:15:31.748Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T07:04:26.109Z</updated>
+    <updated>2026-05-25T07:15:31.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LibRedirect擴充功能教學：免登入社群媒體又可以接收資訊，順便保護隱私]]></title>
+        <id>https://ivonblog.com/posts/libredirect-browser-extension/</id>
+        <link href="https://ivonblog.com/posts/libredirect-browser-extension/"/>
+        <updated>2026-05-24T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[這是幫助你淡出社群媒體的瀏覽器小工具。
+我把瀏覽器的搜尋結果全部重新導向了。
+透過「LibRedirect」的瀏覽器擴充功能，自動將社群媒體的網址重新導向到第三方前端 (alternative frontend) ，改變接受資訊的方式，修正被演算法控制的心態。
+
+ 
+例如，不用登入Twitter (X) 的帳號，也不用開啟x.com，就可以查看推文更新。這是透過名為Nitter的第三方前端做到的。
+
+ 
+1. 什麼是第三方前端？
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+要取得資訊，就會打開瀏覽器，使用搜尋引擎或AI找資料吧。即使是不想用社群媒體的用戶，也不免會到社群媒體網站接受資訊。
+提供資訊的一方多半是網頁形式，所以，你會接觸到別人寫的「前端」，也就是frontend。
+至於那些要求下載APP才能看的網站，罪該萬死。
+可是，現在很多網站會要求你登入才能看，否則就只對搜尋引擎機器人而非人類用戶提供完整資訊。你一往下滑，網頁就會跳出提示框禁止瀏覽！破壞瀏覽體驗。然後，你就會被社群媒體設計的機制越綁越深，無法脫離演算法給你的好處，忘記真正需要的資訊。
+並且網站會在網頁放一堆臃腫的JavaScript以投放廣告，追蹤使用者行為，還有用演算法向你推薦感興趣的內容，順便賣產品。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Nitter免登入X.com查看貼文 + RSS訂閱推文更新]]></title>
+        <id>https://ivonblog.com/posts/nitter-x-privacy-frontend/</id>
+        <link href="https://ivonblog.com/posts/nitter-x-privacy-frontend/"/>
+        <updated>2026-05-24T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nitter是X.com (Twitter) 的第三方前端。不需要登入就能查看推文，瀏覽NSFW內容，以及下載影片。
+
+ 
+1. Nitter特色功能
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Nitter是一個開源的第三方網頁前端，主打極簡設計，去掉了X.com首頁有的沒有的功能，刪除了廣告和追蹤器，保護隱私。不需要JavaScript就能用。界面類似10年前的Twitter。
+我知道這個名字聽起來很像nigger…才怪，之所以叫這個名字是因為Nitter用Nim語言編寫。Nit也有傻瓜的意思。
+有趣的是，自從Twitter被Elon Musk收購變成X.com之後，一些用戶受不了他的自大作風（例如每次X.com有新功能就會狂發文昭告天下，還有放任極右派言論擴散）紛紛離開。而且Hacker News有人會建議說，如果你要分享X.com的推文，可否改附上Nitter的代理網址呢？由此可見Elon Musk在一些人心中的厭惡程度！
+Nitter可以搜尋X.com上面所有公開的推文。
+
+ 
+包括原本沒登入就不給看的NSFW內容。Nitter自動幫你處理掉了login wall的部分。
+
+ 
+X.com的圖片和影片會渲染為HTML5播放器，不過不能右鍵下載影片，還是得使用yt-dlp來抓。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mikuinvidious：第三方Bilibili網頁端 + 下載影片，讓陳睿叔叔無法追蹤你的隱私]]></title>
+        <id>https://ivonblog.com/posts/mikuinvidious-bilibili-frontend/</id>
+        <link href="https://ivonblog.com/posts/mikuinvidious-bilibili-frontend/"/>
+        <updated>2026-05-24T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[叔叔我啊，最討厭不登入帳號看視頻的孩子了。
+Mikuinvidious是模仿 Invidious Youtube 的網頁前端，專為Bilibili設計。
+主打保護隱私的觀看體驗。
+1. Mikuinvidious功能
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Mikuinvidious是由趙喜娜 (Bing Chilling) 開發的開源專案，去掉了Bilibili主站的臃腫界面與追蹤器，只保留影片播放功能，不需要JavaScript就能用。
+用意在於讓用戶可以免登入觀看Bilibili影片，不會播放到一半被「登入享高清」的訊息干擾。還可以下載現正播放的影片。
+
+ 
+Mikuinvidious也可以用來追番（需要輸入av號），只要不是大會員的公開番劇都能播放。依照Mikuinvidious伺服器部署的地理位置IP不同，能看的番劇也會不同。
+
+ 
+可以用RSS訂閱UP主更新。不過看不到動態和文字專欄，只有影片。
+Bilibili對外開放的影片畫質有限制。而且搜尋影片很容易被限流。
+支援登入Bilibili帳號觀看更多內容。
+2. 打包Mikuinvidious專案
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+參考Gitlab，這個專案似乎已經一年以上沒更新了（悲）作者的README是空白的。我實測當下還是勉強可以用，一些頁面會報錯。彈幕無法顯示。
+沒有現成的Docker映像檔，需要自己打包。Mikuinvidious目前似乎沒有公共站臺，需要自架。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Phice下載Facebook影片，免登入，RSS訂閱更新]]></title>
+        <id>https://ivonblog.com/posts/phice-facebook-frontend/</id>
+        <link href="https://ivonblog.com/posts/phice-facebook-frontend/"/>
+        <updated>2026-05-24T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[祖克伯知道了會氣死的東西。
+眾所周知，你不登入Facebook帳號，會一直有提示框跳出來阻擋瀏覽。
+但我就是不想給他們追蹤呀？那就用Phice網頁瀏覽吧。
+
+ 
+1. Phice特色
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Phice為一款尊重隱私的第三方Facebook前端。這聽起來挺矛盾的，Facebook和隱私似乎沾不上邊，但就是被做出來了。
+架構簡單，網頁元素幾乎沒用到JavaScript。
+我們不用登入Facebook帳號，就能搜尋公開貼文，查看留言。排序由Facebook演算法決定
+
+ 
+
+ 
+也可以搜尋粉絲專頁的最新發文。不會看到任何廣告
+
+ 
+Phice會將網頁元素渲染為基本的HTML元素，因此可以右鍵下載影片，Facebook Reels也可以
+
+ 
+另外提供RSS訂閱功能，讓你能夠追蹤特定帳號的新貼文。
+不過，Phice只是一個簡單爬取Facebook公開資料的服務而已，無法瀏覽私密社團的內容，無法登入Facebook帳號，也不能使用Messenger。
+況且你要是真的用這個登入帳號的話，使用者也可能被ban。
+Facebook對爬蟲程式抓很兇的，第三方程式嘗試爬貼文IP就會被封鎖，我想這是目前Phice沒有公共站臺的原因。建議自架Phice。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shoelace：免登入看Threads串文 + 影片下載]]></title>
+        <id>https://ivonblog.com/posts/shoelace-threads-frontend/</id>
+        <link href="https://ivonblog.com/posts/shoelace-threads-frontend/"/>
+        <updated>2026-05-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shoelace，鞋帶，是脆的諧音，一個酷酷的諧音梗。不是蒸丸，蒸的丸子(臺語)。
+
+ 
+這是脆 (Threads) 的第三方前端。免登入看脆的串文，不被登入框干擾，。
+雖然我很討厭Threads，rage-baiting導向的演算法老是推送一堆智障貼文，但它現在是臺灣活網最熱門的地方，每天都有新梗，我還是得用它。
+瀏覽器不登入Threads帳號的話就會跳出登入框阻止往下滑，那麼我就用這個吧。
+1. Shoelace功能
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+這個前端主要是提供一個簡單的界面來查看Threads的文章，去掉廣告與追蹤器。
+要擺脫演算法的惡意，就是乾脆不要有演算法。
+目前可以爬取文字串文和圖片。
+
+ 
+要看串文回覆的話點一下帳號旁邊的日期。
+
+ 
+影片的話要點進串文才會播放。Shoelace會將影片渲染為標準HTML5播放器，Firefox應該可以直接右鍵下載。
+
+ 89超商跳舞
+Shoelace只能看特定帳號的發文和回覆，不能搜尋串文。而且似乎沒辦法看到更久以前的發文。
+折衷方法是透過搜尋引擎來找Threads貼文。Threads的SEO做的還不錯，因此Google應該都會收錄。
+另外可以透過RSS按鈕，訂閱Threads帳號的發文更新。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python]]></title>
         <id>6a10ab6c1f237623ea28e372</id>
@@ -36,6 +218,37 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rclone + GUI教學，簡單搞定Linux電腦雲端同步，支援Google Drive、OneDrive、Dropbox、MEGA]]></title>
+        <id>https://ivonblog.com/posts/rclone-linux/</id>
+        <link href="https://ivonblog.com/posts/rclone-linux/"/>
+        <updated>2026-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[想要同時使用多個雲端硬碟又不想裝一堆客戶端？
+你的雲端硬碟供應商沒有提供Linux版桌面客戶端嗎？
+Rclone一個工具搞定！
+
+ 
+Rclone是受Rsync所啟發的軟體，開發者Nick Craig-Wood稱其為"rsync for cloud storage"，或可理解為一把萬用的「瑞士軍刀」！
+提供強大的指令，還有直觀的面板，讓你存取大大小小的檔案。
+
+ 
+Rclone特色功能如下：
+本體是Go語言寫成的單一執行檔，沒有其他依賴項目，安裝簡單
+比Rsync效能更好，加入多執行緒支援
+開源軟體，不會蒐集使用者資料
+跨平台支援Linux、Windows、macOS
+使用靈活，可以用純文字指令操作，也有網頁圖形介面
+支援許多雲端硬碟，例如Google Drive、OneDrive、iCloud、Dropbox、pCloud、MEGA、NextCloud、Amazon S3等等
+支援掛載遠端FTP、SSHFS、SMB、WebDAV伺服器、檔案系統，當作Rsync備份檔案之用。
+可透過rclone serve將自身變身為一個簡易HTTP檔案分享伺服器，後端抽象化，對客戶端來說看到的都是一樣的路徑
+因為能同時連線到多個雲端硬碟，所以能在不同雲端之間同步檔案
+支援本機加密後再上傳檔案
+透過rclone mount將雲端目錄掛載到本機瀏覽，直接在檔案管理員修改遠端檔案。
+本文Ivon示範 如何在Linux安裝Rclone，並以Google雲端硬碟為例子 示範Rclone的各種用法。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development]]></title>
         <id>6a106a2f1f237623ea0336d3</id>
         <link href="https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/"/>
@@ -43,6 +256,39 @@
         <summary type="html"><![CDATA[AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ]]></summary>
         <author>
             <name>Qudrat Ullah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux電腦同步iCloud檔案、郵件、行事曆（Rclone + Thunderbird 教學）]]></title>
+        <id>https://ivonblog.com/posts/icloud-on-linux/</id>
+        <link href="https://ivonblog.com/posts/icloud-on-linux/"/>
+        <updated>2026-05-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在Linux電腦存取Apple iCloud雲碟，同步來自iPhone、iPad、Mac的檔案。打破Apple壁壘！
+目的是要達到類似Windows版iCloud客戶端的效果，即在Linux電腦檢視iCloud檔案，還有將iCloud郵件與行事曆整合到Linux桌面，讓我們能跨裝置工作。
+
+ 透過Linux檔案管理器瀏覽iCloud雲碟的檔案
+
+ 用Linux版Thunderbird查看iCloud行事曆並接收通知
+你可能會說，iCloud網頁版就夠用了，為什麼要用同步的呢？確實啦，iCloud雲碟、照片、郵件、行事曆、備忘錄、iWork套件都有網頁版，實無將檔案同步到電腦的必要。
+
+ 
+但總有人喜歡這樣檔案隨手可得的感覺，檔案同步到本機之後，要用其他程式編輯比較方便嘛。
+還有，若有重要檔案放在iCloud的話，自行用程式備份到Linux伺服器也是一個保險措施。
+1. iCloud有Linux版客戶端嗎？
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+沒有。目前Apple沒有支援Linux的打算，畢竟他們連Linux版iTunes都不願意推出，逼人得用libimobiledevice才能在Linux查看iPhone的檔案。
+我在Ubuntu的Snap Store看到了Marcus Tomlinson開發的iCloud for Linux程式，不過這並沒有將檔案同步到Linux本機的作用，它只是封裝了iCloud網頁版而已！
+能不能跑Windows版的iCloud呢？根據Wine資料庫顯示，Windows版iCloud客戶端或許可以透過Wine執行。
+不過我不打算這樣做，而是透過第三方程式來存取iCloud。我主要會用到的程式是Rclone和Thunderbird。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -107,6 +353,177 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自架網頁RSS閱讀器FreshRSS，取回閱讀自主權，不被社群媒體演算法控制]]></title>
+        <id>https://ivonblog.com/posts/setup-freshrss-server/</id>
+        <link href="https://ivonblog.com/posts/setup-freshrss-server/"/>
+        <updated>2026-05-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[用Docker架設一個自動爬取網站RSS資訊的「FreshRSS」伺服器兼閱讀器，隨時隨地用電腦與手機瀏覽。
+
+ 
+這是一個簡單的網頁RSS閱讀器，可以自定義主題。
+
+ 
+
+ 
+1. 使用RSS的動機
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+為什麼要用RSS？如果你不想再依賴社群媒體演算法被動餵食訊息，決定你能看到什麼，推送垃圾rage-baiting內容，你必須開始學會用RSS訂閱網站更新！主動找你想看的內容，打造自己的資訊流，不被社群媒體平臺綁架。
+RSS是20年前就有的標準，網站作者只要發佈一個XML檔案就能向讀者廣播有新文章的訊息，而且也不用透過E-mail接收。讀者可以使用任意程式閱讀RSS。本文介紹的FreshRSS就是一個例子。
+即使在現在，演算法與AI當道的時代，RSS依然是社群媒體以外一個很好的資訊來源管道，協助你整合資訊，不被演算法控制，取得閱讀自主權。
+Ivon使用RSS的目的，除了打造自己的資訊流以外，就是將一些臭味相投的小眾部落格收集起來，他們可能轉瞬即逝，所以用RSS訂閱起來就不會錯過了。
+你可能會說現在很多網站壓根就沒考慮到RSS功能，或是根本就把該功能移除了。
+沒有RSS，那麼隨機看到超ㄅㄧㄤˋ的網頁該怎辦？你應該馬上將那個網頁送到Internet Archive拍快照，永久封存。
+
+ 我還幫你挑了很酷的標本罐]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「有露點的肉番福利動漫列表」規格書 + 開放原始碼]]></title>
+        <id>https://ivonblog.com/posts/ecchi-fanservice-anime-list-specification/</id>
+        <link href="https://ivonblog.com/posts/ecchi-fanservice-anime-list-specification/"/>
+        <updated>2026-05-21T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[.form-name-popup {
+ color: white;
+ text-align: center;
+ position: fixed;
+ z-index: 9;
+ top: 0%;
+ left: 0%;
+ width: 100%;
+ height: 100%;
+ background: rgba(0, 0, 0, 0.6);
+ overflow: scroll;
+ }
+
+ .form-name-popup-inner {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ padding: 50px;
+ overflow: scroll;
+ }
+
+ .form-name-popup-close {
+ position: absolute;
+ z-index: 999;
+ top: 5px;
+ right: 10px;
+ color: #fff;
+ }
+
+ .r18button {
+ width: 100px;
+ height: auto;
+ }
+
+ .r18icon {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+
+
+
+
+ var formhtml = `
+
+ 
+金、暴力、SEX！年齡驗證
+ 
+Kane, Bouryoku, Sex! You must be 18+ years old to view this.
+ 
+是 Yes
+ 否 No
+ 
+為使專案「有露點的肉番福利動漫列表」未來能順利進行，特訂定此規格書 (Specification) 。
+
+ 
+內容規範了製作表格的流程，動漫的收錄標準，還有遵循事項。
+
+ 
+
+ 
+這個列表專門收錄在巴哈動畫瘋會被列為年齡驗證的作品，收錄了自1960年代以來有好康內容的動畫，詳細列出了集數與角色名稱，並附上福利鏡頭圖片。
+這是我從2021年11月斷斷續續在個人網站上更新的專案，參考了多個來源彙整之後整理為一個容易查閱的表格。雖然我為了做這個大概看了200部以上的動漫，但還是有很多缺漏之處。然後我覺得自己不可能做的完，因此我將蒐集到的資料公開成開放格式供自由利用。
+這個專案包括.json資料列表，以及一個Hugo範本網站。確保你能夠利用這些資料架設自己的實例。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有露點的肉番福利動漫列表]]></title>
+        <id>https://ivonblog.com/posts/fanservice-anime/</id>
+        <link href="https://ivonblog.com/posts/fanservice-anime/"/>
+        <updated>2026-05-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.form-name-popup {
+ color: white;
+ text-align: center;
+ position: fixed;
+ z-index: 9;
+ top: 0%;
+ left: 0%;
+ width: 100%;
+ height: 100%;
+ background: rgba(0, 0, 0, 0.6);
+ overflow: scroll;
+ }
+
+ .form-name-popup-inner {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ padding: 50px;
+ overflow: scroll;
+ }
+
+ .form-name-popup-close {
+ position: absolute;
+ z-index: 999;
+ top: 5px;
+ right: 10px;
+ color: #fff;
+ }
+
+ .r18button {
+ width: 100px;
+ height: auto;
+ }
+
+ .r18icon {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+
+
+
+
+ var formhtml = `
+
+ 
+金、暴力、SEX！年齡驗證
+ 
+Kane, Bouryoku, Sex! You must be 18+ years old to view this.
+ 
+是 Yes
+ 否 No
+ 
+譁譁，這個頁面已經搬家啦。
+請點選：這裡]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`]]></title>
         <id>https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/</id>
         <link href="https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"/>
@@ -148,6 +565,109 @@ Stack Overflow: When We Stop Asking originally handwritten and published with lo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何用Docker自架Unbound DNS伺服器]]></title>
+        <id>https://ivonblog.com/posts/unbound-dns-resolver/</id>
+        <link href="https://ivonblog.com/posts/unbound-dns-resolver/"/>
+        <updated>2026-05-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我們知道有很多公共DNS伺服器可以用，那麼你有沒有想過自己架設一個呢？從今天起透過「Unbound」實施DNS自主吧！
+為什麼要自架一個DNS伺服器：我們可以把DNS想像成網際網路的門牌。當你輸入一個網址時，就像在找房子地址。但電腦其實不知道這個名字對應哪一個IP位址，就像只知道人名，卻不知道門牌號碼一樣。此時，DNS伺服器就像是一個幫你查門牌的查號台。當你第一次查詢網站時，它會幫你找到正確的IP位址，用DNS快取把結果記在附近，讓下一次查詢可以更快完成。不過呢，DNS伺服器如果是使用公共的，你等於是直接問現有查號台，而非自己去找地址。那麼，負責回答你問題的DNS伺服器就很關鍵了，它能夠干涉你所能看到的網站。要是…它回覆的內容不誠實呢？因為各種因素，過濾掉了你不該看到的東西，或者導向錯誤的地址。那麼這時，自己架設一個DNS伺服器便有必要了。
+「Unbound」是一種自架DNS伺服器的方案，由NLnet Labst開發。
+
+ 
+你可以在離你家電腦最近的伺服器用Unbound，建立DNS快取，加快造訪網站時的網路回應速度，減少延遲。並且查詢DNS位址的時候會啟用DNS over TLS和DNSSEC，防止網路業者(ISP)窺探你造訪的網站為何，保護隱私。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[謝謝茄子：使用開源AI軟體「Lada」去掉AV影片馬賽克]]></title>
+        <id>https://ivonblog.com/posts/lada-app/</id>
+        <link href="https://ivonblog.com/posts/lada-app/"/>
+        <updated>2026-05-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.form-name-popup {
+ color: white;
+ text-align: center;
+ position: fixed;
+ z-index: 9;
+ top: 0%;
+ left: 0%;
+ width: 100%;
+ height: 100%;
+ background: rgba(0, 0, 0, 0.6);
+ overflow: scroll;
+ }
+
+ .form-name-popup-inner {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ padding: 50px;
+ overflow: scroll;
+ }
+
+ .form-name-popup-close {
+ position: absolute;
+ z-index: 999;
+ top: 5px;
+ right: 10px;
+ color: #fff;
+ }
+
+ .r18button {
+ width: 100px;
+ height: auto;
+ }
+
+ .r18icon {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+
+
+
+
+ var formhtml = `
+
+ 
+金、暴力、SEX！年齡驗證
+ 
+Kane, Bouryoku, Sex! You must be 18+ years old to view this.
+ 
+是 Yes
+ 否 No
+ 
+Lada是開源免費的去碼軟體，支援Linux與Windows系統。
+
+ 
+快說：謝謝茄子！射爆了！
+Lada可以透過AI即時去掉影片馬賽克，免轉檔，使用開源的BasicVSR++與RealESRGAN修復模型，並參考DeepMosaics的方法訓練模型。
+它能夠去掉馬賽克像素，但不能去海苔。
+我測試下來，Lada的效果，接近JavPlayer呢。可作為JAVPlayer替代品。
+不論是田中瞳的片子
+
+ 
+還是魔人的裏番
+
+ 
+都可以去掉馬賽克，雖然還是糊成一團，但看上去比較沒那麼突兀了。
+Lada目前看來是針對真人片訓練的，動畫的效果不太自然。
+要更好效果得自己訓練模型了吧。
+1. 系統需求
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Lada可以即時在播放影片的時候去掉馬賽克，因此很吃GPU效能。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
         <id>https://css-tricks.com/?p=393399</id>
         <link href="https://css-tricks.com/cross-document-view-transitions-part-1/"/>
@@ -156,6 +676,23 @@ Stack Overflow: When We Stop Asking originally handwritten and published with lo
 Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu記憶體不足？透過zSWAP與zRAM功能，擠出更多RAM]]></title>
+        <id>https://ivonblog.com/posts/linux-zswap-and-zram/</id>
+        <link href="https://ivonblog.com/posts/linux-zswap-and-zram/"/>
+        <updated>2026-05-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux記憶體不足又不想買更多RAM，該怎麼辦呢，大家都會想到使用SWAP吧！
+
+「SWAP」又稱置換空間、虛擬記憶體，這個技術非常古老，幾乎所有的Linux發行版都有使用。它將硬碟的一部份作為RAM，在RAM不夠的時候讓程式利用，免得記憶體不足(OOM)導致程式被系統中止。
+Linux的SWAP功能在Windows等同於分頁檔功能。可以在硬碟建立一個虛擬記憶體檔案當作RAM使用。
+Linux系統的SWAP可以是一個分區(swap partition)，或者單一檔案(swapfile)。需要多少RAM就建立多大的SWAP，例如根據SWAP大小=2倍實體RAM的大拇指定律，在擁有16GB實體RAM的電腦建立32GB的SWAP，就有額外的32GB RAM可以用。
+但傳統SWAP檔案有個問題，因為在硬碟上跑，SWAP檔案速度是比實體RAM要慢的，把程式丟在裡面跑會拖慢速度。將程式切換到SWAP可能短暫導致桌面卡頓。還有就是長期寫入大量資料會傷害SSD。
+這個時候有兩個改進方案可以考慮，那就是「zSWAP」與「zRAM」，能夠增加SWAP的效能。他們都是Linux核心提供的功能，應當所有發行版都支援。
+我們還可以透過kernel parameters的方式，細微地調整什麼時候要使用SWAP檔案，提升系統回應速度。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -245,6 +782,96 @@ rotate() originally handwritten and published with love on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[想知道你的網站讀者水準有多高，看多少人用Firefox]]></title>
+        <id>https://ivonblog.com/posts/2026051301/</id>
+        <link href="https://ivonblog.com/posts/2026051301/"/>
+        <updated>2026-05-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[想知道你的網站讀者水準有多高，看多少人用Firefox造訪就知道了。
+畢竟現在Firefox是市佔率2%的瀏覽器。
+我做了一個禮拜的實驗，大膽得出結論：果然用Firefox的不存在低智商用戶。Firefox用戶多半會使用Adblock加上uBlock Origin攔截器封鎖網頁的追蹤器。
+一開始網站部署Umami Analytics取代Google Analytics的時候，我刻意混淆script name讓uBlock Origin抓不到tracking script，所以在造訪我網站的流量統計裡面Firefox是第二名，僅次於Chrome的60%。
+
+ 
+
+ 
+結果我因為良心發現把它改回去之後，Firefox的流量就慢慢跌出五名之外了。同樣的User Agent標記為Linux的在這之後也有顯著下滑。
+這個觀測可能不精準，因為只有一個禮拜而已，樣本數不夠精準。
+這樣我可以推論，最死忠的目標讀者（開源軟體死士）正好是表面上最不可能被統計到的黑數，他們這些tech-savvy太在乎隱私權了。所以我很難確切統計有多少讀者吧。
+另外GA是不是高估了使用者的流量啊，把AI Bot也算了進去？Umami顯示的在線人數都只有GA的1/4左右。
+畢竟殘酷的現實是，從後臺數據來看，每月網站造訪最多的頁面是EhViewer載點……但這些用下面思考的人並非是我的主要目標。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開源的數位相機系統看來只有Android手機 + Open Camera一途]]></title>
+        <id>https://ivonblog.com/posts/foss-digital-camera/</id>
+        <link href="https://ivonblog.com/posts/foss-digital-camera/"/>
+        <updated>2026-05-13T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[想過一個問題，有沒有開源的數位相機系統存在呢？
+開源攝影的影像處理流程存在嘛？開源影像處理軟體有GIMP、Krita、digiKam、darktable這類的。可是要先解決上游採集影像裝置的問題吧。
+那些光圈比手機大許多的單眼相機還有攝影機，如Nikon和Sony出的，上面跑的OS都是閉源的吧。
+有無可能底層驅動到軟體都是開放的數位相機呢？並非只是樹莓派裝上相機那種玩具而已。
+缺乏開源軟體的相機會讓我買不下手（其實也買不起：P）
+正如我因為拒絕專有軟體而不買Switch、PS5這類家機一樣。他們奪走了BSD的開源成果。Steam平臺勉強能接受。但使用PC玩專有的Steam遊戲我內心就夠煎熬的了說。
+即使是Android相機的拍照技術，好像很大程度被閉源APP的演算法控制著呢。每家手機廠商都有研發自身的原廠相機APP。逼迫我們依賴這些閉源的APP。
+縱然我們有Open Camera和FreeDCam和Photon Camera這類功能豐富的開源APP，他們也沒辦法完全支援每臺手機的鏡頭硬體功能，例如30倍AI放大，或是背後美化照片的演算法。
+拍照之後進行後處理的演算法，那更是各大廠商的商業機密。Sony、小米、Pixel、Samsung都有自家的風味。就算你有辦法移植Gcam到其他手機，你也無法弄清楚背後的演算法是怎麼回事。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看貼吧老哥蹲子與K島尼特的經驗分享，讓人覺得心理比較舒適一點]]></title>
+        <id>https://ivonblog.com/posts/2026051201/</id>
+        <link href="https://ivonblog.com/posts/2026051201/"/>
+        <updated>2026-05-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リア充死ね☆。
+近十年來我在匿名板論壇流連，看百度貼吧老哥與Komica島民分享的NEET故事，總讓人覺得「有趣」。喜歡看比自己過得慘的人來獲得存在價值。
+
+ 
+
+ 
+如果本文講述的用語你都聽過，恭喜你的人生真的滿失敗的。啊如果你是北極鯰魚那種小留真趙就當我沒說。
+NEET，尼特，家裡蹲，也可稱為蹲子。不精確的說法叫做宅男。長期不工作不就學，沒現實朋友，沒怎麼跟家人互動，啃老，靠3C產品的虛擬世界過活的，沉溺於電子色情與遊戲。通常會被視為人生失敗組。
+並非要真的足不出戶才算NEET啦，做低薪的保安工作，躺平的，宅家考公的，自覺職業沒前途的，也可以被視為底層人物。
+NEET都在哪些網站流連呢？在日本，常見於5ch這些匿名板。英文圈主要就Reddit與4chan吧。中文圈，在百度貼吧、Komica綜合板、巴哈姆特場外休憩區、PTT八卦板都有這些人，比如說「霸主」王希銘，還有「獨人13」楊帆。
+
+ 
+用「啃老」「尼特」下去搜尋就會有很多討論串。
+甚至還會有曾經專業啃老的人現身說法（？）
+【國動】啃老教學 額外加開男女關係小教室by蔡播
+以前在大陸還有很多線下實況，最著名的就是「三和大神」做一天玩三天的放蕩精神。「冲浪TV」也有鼠人分享自己的生活。在中國政府嚴打三和大神後，現在好像要到抖音和快手才能看到比較多這種底層社會的內容了，所謂下沉市場嘛，在土嗨搖的視頻背後也能窺見中國大陸最真實的斬殺線。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去廣告的Youtube「Youtube Morphe」APK安裝教學]]></title>
+        <id>https://ivonblog.com/posts/morphe-app-for-youtube/</id>
+        <link href="https://ivonblog.com/posts/morphe-app-for-youtube/"/>
+        <updated>2026-05-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這是去掉所有Youtube廣告的Android APP：Youtube Morphe。
+
+它可以：去掉所有APP內廣告、背景播放影片、顯示倒讚(Return YouTube Dislike)、替換標題黨縮圖(DeArrow)、跳過業配片段(SponsorBlock)、隱藏Youtube Shorts、登入Google帳號同步播放紀錄、調用NewPipe下載影片。所有的功能都有中文翻譯。
+1. 由來
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+根據這篇Reddit文章，Youtube Morphe是從Youtube ReVanced分裂出來的專案。2026年，由於Youtube ReVanced專案領導人oSumAtrIX對待社群貢獻者的態度惡劣，口出惡言，還不在程式碼當中註明貢獻者的名字，甚至拒絕合併PR。引發主要貢獻者LisoUseInAIKyrios出走，另立Youtube Morphe。
+
+在專案成立後，Youtube Morphe對Youtube ReVanced的Github儲存庫發起DMCA請求，指控ReVanced盜竊Morphe的程式碼且違反GPL授權，將ReVanced的儲存庫下架。
+順帶一提，在Youtube Morphe出來後，Youtube ReVanced Extended作者inotia00便停止更新了，改為向Morphe貢獻程式碼。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
         <id>https://css-tricks.com/?p=393604</id>
         <link href="https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"/>
@@ -253,6 +880,81 @@ rotate() originally handwritten and published with love on CSS-Tricks. You shoul
 Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android手機如何安裝BusyBox工具箱 ～ 一鍵存取常用Linux命令行工具]]></title>
+        <id>https://ivonblog.com/posts/install-busybox-on-android/</id>
+        <link href="https://ivonblog.com/posts/install-busybox-on-android/"/>
+        <updated>2026-05-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[誰會在手機跑shell script呀？
+解釋如何在最新Android系統安裝BusyBox。
+BusyBox是一款行之有年的自由軟體，使用GPL授權釋出。根據官網資料，BusyBox透過單一的二進位執行檔，將常用的Unix-like系統工具打包進去，這個執行檔是靜態連結的，不依賴外部函式庫就能用。
+舉例來說，一個busybox的指令，才不到2MB而已，就包含了ash shell、vi文字編輯器、wget下載器、httpd伺服器、tar解壓縮、chroot容器、mv、cp、rm、diff、ping……等實用命令行工具，可說是一個便利工具箱。
+
+BusyBox是輕量可移植的，支援多種處理器架構，常用於嵌入式系統，當然也能用在Android囉。
+Android是基於Linux核心開發的系統，但幾乎沒有使用Linux發行版常用的GNU coreutils，缺少很多Linux的命令行工具。GNU coreutils動輒20MB以上，要移植這些工具到Android也顯得太龐雜了些。Android頂多只有使用Toybox，在Android 6.0之後加入。Toybox比BusyBox還要精簡，而且它的BSD授權條款更為寬鬆，方便商業公司利用而不會產生GPL授權汙染的問題。但是，Toybox功能依然不如BusyBox完整。
+透過安裝BusyBox，便可以做到GNU coreutils的七八成功能，又不會佔用太多空間。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUIR，用命令行看Reddit論壇，極致節省系統資源]]></title>
+        <id>https://ivonblog.com/posts/tuir-browse-reddit-from-your-terminal/</id>
+        <link href="https://ivonblog.com/posts/tuir-browse-reddit-from-your-terminal/"/>
+        <updated>2026-05-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Terminal UI for Reddit (TUIR). A text-based interface to view and interact with Reddit from your terminal. —— 來自Gitlab簡介
+TUIR一款專門為瀏覽Reddit所設計的命令行TUI程式，讓您用終端機純文字界面看Reddit，還能點讚、發表留言。
+
+ 用TUIR瀏覽Reddit中文sub r/real_China_irl
+適用場景：上班摸魚、平鋪視窗用戶、硬體效能差到連瀏覽器都跑不動的電腦。也適合想要追求不被圖片元素干擾閱讀體驗的用戶。你知道的，Reddit跟主流社群媒體越來越像，有大量短影音和meme圖會吸引你眼球。用TUIR的話，就只有專注在文字上了。
+TUIR好似把Reddit變得台灣像PTT那樣的古老網站，或者說更像Hacker News吧。但Reddit本就是文字為主的網站，因此終端機足以瀏覽80%的內容了。順帶一提PTT在Linux上也可以用SSH連線喔。
+雖然現在Reddit依然提供https://old.reddit.com的舊版精簡網頁界面，但誰知道這家貪婪的公司什麼時候會把它給廢了呢？用w3m也不見得能在命令行正常渲染日益複雜的Reddit網頁。因此需要一個專門的TUI程式。
+可是多媒體和網站連結怎麼辦呢？只要設定得當，TUIR就能直接用電腦安裝的程式開多媒體檔案！無需開啟網頁版。
+
+ 
+1. 安裝TUIR
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+TUIR是ajak開發的軟體，本身用Python寫成，fork自Michael Lazar的RTV專案。目前還有在維護的版本是Chocimier的tuir-contiuned
+這個軟體可以用pip安裝，目前只支援Linux系統。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 16安裝最新版Xposed框架教學 (Vector Framework)]]></title>
+        <id>https://ivonblog.com/posts/xposed-framework-android/</id>
+        <link href="https://ivonblog.com/posts/xposed-framework-android/"/>
+        <updated>2026-05-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[討論如何在最新Android 16系統安裝Xposed框架。
+1. 什麼是Xposed Framework
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Xposed Framework為一款開源的Hook程式框架，可以攔截Android APP底層的系統呼叫，修改hook函數，達到修改APP行為之目的，不需要去反編譯APK。
+
+ 
+比如說，使用者可以用Xposed模組修改Android系統的外觀，或者破解特定APP令其無法顯示廣告。
+圖例：利用Xposed的「詞幕」模組，在原生Android狀態欄顯示Spotify的動態歌詞。
+
+Xposed需要Root權限才能安裝。它提供的修改功能比單純的Magisk模組更為深入。Xposed透過統一的API來規範存取Android系統函數的方式，省得開發者要重新造輪子。
+Xposed最初是由rovo89開發的軟體，於2017年發佈。Xposed從Android 7以來經歷多個fork，有了EdXposed、LSPosed等專案，出於各種原因相繼停止維護了。因為Xposed本質是破解Android系統的運作機制，通常依賴少數幾個厲害的開發者主導開發工作，只要領頭的出事了專案就會垮掉，然後就會有新的fork崛起。
+本文介紹的是目前最新的活躍分支：JingMatrix維護的「Vector Framework」。Vector Framework最初是2024年出現的，用於接替停止維護的LSPosed（原開發者遭到人身攻擊，遂將LSPosed轉向閉源發佈，從此消失在Github）。後來此專案改名為Vector Framework，保留了對舊版libxposed API的相容性。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
