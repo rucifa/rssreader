@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T07:18:51.890Z</updated>
+    <updated>2026-05-25T07:28:03.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -189,36 +189,6 @@ Shoelace只能看特定帳號的發文和回覆，不能搜尋串文。而且似
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Experimentation for Collaborative AI Features: Cluster Randomization for LLM-Based Tools in Python]]></title>
-        <id>6a10ab6c1f237623ea28e372</id>
-        <link href="https://www.freecodecamp.org/news/cluster-randomization-for-llm-based-tools-in-python/"/>
-        <updated>2026-05-22T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Every product experimentation team running causal inference on LLM-based collaborative features eventually hits the same wall: your users aren't independent. Your team ships an AI meeting summarizer t]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers]]></title>
-        <id>6a109b5d1f237623ea2023a3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-dart-cloud-functions-and-the-firebase-admin-sdk/"/>
-        <updated>2026-05-22T18:07:25.000Z</updated>
-        <summary type="html"><![CDATA[There is a specific kind of friction that every Flutter developer who has tried to write a backend has felt. You spend your days writing expressive, null-safe, strongly typed Dart code on the frontend]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research]]></title>
-        <id>6a1070e71f237623ea06ca2d</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/"/>
-        <updated>2026-05-22T15:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rclone + GUI教學，簡單搞定Linux電腦雲端同步，支援Google Drive、OneDrive、Dropbox、MEGA]]></title>
         <id>https://ivonblog.com/posts/rclone-linux/</id>
         <link href="https://ivonblog.com/posts/rclone-linux/"/>
@@ -247,16 +217,6 @@ Rclone特色功能如下：
 本文Ivon示範 如何在Linux安裝Rclone，並以Google雲端硬碟為例子 示範Rclone的各種用法。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development]]></title>
-        <id>6a106a2f1f237623ea0336d3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/"/>
-        <updated>2026-05-22T14:37:35.000Z</updated>
-        <summary type="html"><![CDATA[AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ]]></summary>
-        <author>
-            <name>Qudrat Ullah</name>
         </author>
     </entry>
     <entry>
@@ -311,46 +271,6 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
         <summary type="html"><![CDATA[What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid Rebuilding Infrastructure for Every New Project]]></title>
-        <id>6a0f78aad8e265f60d5f7b56</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/"/>
-        <updated>2026-05-21T21:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GitHub Search Like a Pro]]></title>
-        <id>6a0f57a1d8e265f60d4f8624</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/"/>
-        <updated>2026-05-21T19:06:09.000Z</updated>
-        <summary type="html"><![CDATA[GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn LaTeX in 41 Hours]]></title>
-        <id>6a0f4895d8e265f60d42650e</id>
-        <link href="https://www.freecodecamp.org/news/learn-latex-in-41-hours/"/>
-        <updated>2026-05-21T18:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think Like the JavaScript Engine]]></title>
-        <id>6a0f459fd8e265f60d40984d</id>
-        <link href="https://www.freecodecamp.org/news/think-like-the-javascript-engine/"/>
-        <updated>2026-05-21T17:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -535,16 +455,6 @@ Kane, Bouryoku, Sex! You must be 18+ years old to view this.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS]]></title>
-        <id>6a0df3b68b034602219e482c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/"/>
-        <updated>2026-05-20T17:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stack Overflow: When We Stop Asking]]></title>
         <id>https://css-tricks.com/?p=393076</id>
         <link href="https://css-tricks.com/stack-overflow-when-we-stop-asking/"/>
@@ -553,16 +463,6 @@ Kane, Bouryoku, Sex! You must be 18+ years old to view this.
 Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate from ASP.NET Framework to ASP.NET Core]]></title>
-        <id>6a0d28828837277411cbeeb3</id>
-        <link href="https://www.freecodecamp.org/news/migrate-from-asp-net-to-asp-net-core/"/>
-        <updated>2026-05-20T03:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Migrating to ASP.NET Core is a strategic upgrade that improves performance, scalability, and cross-platform support. Instead of a risky full rewrite, you can use an incremental approach, refactor for]]></summary>
-        <author>
-            <name>Gopinath Karunanithi</name>
         </author>
     </entry>
     <entry>
