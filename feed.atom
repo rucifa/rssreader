@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T07:59:36.038Z</updated>
+    <updated>2026-05-26T01:06:17.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Finding Type]]></title>
+        <id>https://blog.codepen.io/?p=21210</id>
+        <link href="https://blog.codepen.io/2026/05/25/chris-corner-finding-type/"/>
+        <updated>2026-05-25T17:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Finding the typeface you need is a whole thing. You’ll know it when you see it is one approach. Look at a lot of choices. Make sure to save ones that you think are really nice, even if they aren’t the winner this time. On my local machine, I use an app called Typeface. I […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Finding Type]]></title>
+        <id>https://blog.codepen.io/?p=21210</id>
+        <link href="https://blog.codepen.io/2026/05/25/chris-corner-finding-type/"/>
+        <updated>2026-05-25T17:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Finding the typeface you need is a whole thing. You’ll know it when you see it is one approach. Look at a lot of choices. Make sure to save ones that you think are really nice, even if they aren’t the winner this time. On my local machine, I use an app called Typeface. I […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Engine在各大Linux發行版的安裝教學]]></title>
+        <id>https://ivonblog.com/posts/install-docker-engine-on-linux/</id>
+        <link href="https://ivonblog.com/posts/install-docker-engine-on-linux/"/>
+        <updated>2026-05-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文參照Docker官方文件，簡介各大Linux發行版的Docker安裝方式，以及安裝後建議採取的措施，配合個人經驗做註解。指令未來可能有所變更，請以Docker公司的官方文件為準。
+1. 什麼是Docker？
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Docker是適用於Linux系統的容器技術，可提升應用程式部署的效率，也能用來跑伺服器服務。
+
+ 
+容器 (container) 相較於虛擬機 (virtual machine) 是更輕量，速度更快，佔用硬體資源低的技術。容器並不會模擬完整硬體與作業系統，而是透過Linux核心的namespaces與 cgroups等機制隔離行程，並與宿主系統共用同一個Linux核心。Docker本身則是將這些Linux核心功能進一步封裝與標準化的容器平台。
+用Docker的好處是什麼呢？它對軟體開發人員和使用者都有好處。
+對軟體開發人員來說，你可以把一個程式所需要的依賴項目打包為一個Docker映像檔(image)，然後部署到多個機器上。一次打包多處執行。這樣每個Linux發行版只要裝了Docker，都能用一樣的指令跑一樣的服務，不用調整一堆有的沒的設定檔，省去解決依賴衝突的時間。例如，你在Ubuntu開發的軟體，打包為Docker映像檔之後，便能確保它在Debain、Arch Linux、Fedora、openSUSE的機器也能跑起來。不需要重新打包。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LibRedirect擴充功能教學：免登入社群媒體又可以接收資訊，順便保護隱私]]></title>
         <id>https://ivonblog.com/posts/libredirect-browser-extension/</id>
@@ -215,6 +260,159 @@ Rclone特色功能如下：
 支援本機加密後再上傳檔案
 透過rclone mount將雲端目錄掛載到本機瀏覽，直接在檔案管理員修改遠端檔案。
 本文Ivon示範 如何在Linux安裝Rclone，並以Google雲端硬碟為例子 示範Rclone的各種用法。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分類]]></title>
+        <id>https://ivonblog.com/category-icons/</id>
+        <link href="https://ivonblog.com/category-icons/"/>
+        <updated>2026-05-22T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[.category-icons {
+ width: 100% !important;
+ max-width: 100% !important;
+}
+
+.category-icons table {
+ width: 90% !important; 
+ max-width: 1000px !important;
+ margin-left: auto !important;
+ margin-right: auto !important;
+ table-layout: fixed !important;
+ text-align: center !important;
+ margin-top: 2em !important;
+ margin-bottom: 2em !important;
+ font-size: 0.875em !important;
+ line-height: 1.7142857 !important;
+ border-collapse: collapse !important;
+ border-spacing: 0 !important;
+ border: 0px !important;
+}
+
+.category-icons img {
+ pointer-events: none;
+ user-select: none;
+ max-width: 100%;
+ height: auto;
+}
+
+.category-icons td,
+.category-icons th {
+ border: hidden !important;
+ text-align: center !important;
+ padding: 5px !important;
+ word-break: normal !important;
+}
+
+.category-icons th {
+ font-weight: normal !important;
+}
+
+
+Linux系統
+Linux使用技巧
+ Linux好用軟體
+ Linux系統安裝
+ 
+Self-host自架
+ Linux玩遊戲
+ 自由軟體議題
+ 
+智慧型手機
+手機APP分享
+ Root與刷機
+ iOS玩機與越獄
+ 
+Termux教學
+ 真Linux手機
+ 
+人文藝術
+書影心潮
+ 繪圖創作
+ 音樂欣賞
+ 
+隨筆
+ 歷史研究
+ 政論
+ 
+NSFW
+NSFW
+NSFW雜談
+ 同人誌心得
+ 裏番心得
+ 
+飛機杯評價
+
+
+
+資訊科技
+資訊科技應用
+ 電腦軟體分享
+ 3C開箱評測
+ 
+作業系統安裝
+ 虛擬機技術
+ BSD系統
+ 
+Hugo網站架設
+ 
+遊戲攻略
+Fate系列
+ Minecraft
+ 艦隊Collection
+ 
+Luanti]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部落滾]]></title>
+        <id>https://ivonblog.com/blogroll/</id>
+        <link href="https://ivonblog.com/blogroll/"/>
+        <updated>2026-05-22T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。
+之所以叫部落滾(blogroll)而非直接稱呼友站連結，乃因為這些連結大都是我私自放上來的，沒有全部都經過與對方的交換連結程序。如果用友站連結稱呼感覺在裝熟，很不好意思。
+如果你想讓你的有趣網站連結出現在這裡，或是覺得我對你的網站有什麼誤會，不要吝惜，立即用E-Mail跟我聯絡吧！
+名稱
+ URL
+ 第一印象
+ 
+DarkRanger’s Secret Area
+ https://darkranger.no-ip.org
+ Fedora用戶
+ 
+大丙的筆記 Dabinn’s Note
+ https://blog.dabinn.net
+ 玩車和VR
+ 
+DuckLL’s Blog
+ https://blog.duckll.tw/
+ 
+ 
+Freedom Wolf
+ https://www.freedomwolf.cc
+ 分享自由軟體與Linux系統管理技巧。
+ 
+Gea-Suan Lin’s BLOG – 幹壞事是進步最大的原動力
+ https://blog.gslin.org
+ 分享即時科技圈新聞與系統操作小撇步。
+ 
+Hiroshi Y. - 個人雜記
+ https://ghostsinthelab.org
+ 新酷音作者。
+ 
+ltlnx 的網誌
+ https://ltlnx.tw
+ Slackware用戶。
+ 
+Luke Smith
+ https://lukesmith.xyz
+ Artix Linux用戶，除了自由軟體議題外，還常常在自己Youtube頻道分享一些獨到的見解。整天幹譙監控資本主義的社會議題，教你怎麼守護線上隱私權，活生生像是4chan /g/ 鄉民的化身。
+ 
+The Lunduke Journal
+ ht…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

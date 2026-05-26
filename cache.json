@@ -316,6 +316,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/install-docker-engine-on-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "本文參照Docker官方文件，簡介各大Linux發行版的Docker安裝方式，以及安裝後建議採取的措施，配合個人經驗做註解。指令未來可能有所變更，請以Docker公司的官方文件為準。\n1. 什麼是Docker？\n \n\n \n \n #\n \n \n\nDocker是適用於Linux系統的容器技術，可提升應用程式部署的效率，也能用來跑伺服器服務。\n\n \n容器 (container) 相較於虛擬機 (virtual machine) 是更輕量，速度更快，佔用硬體資源低的技術。容器並不會模擬完整硬體與作業系統，而是透過Linux核心的namespaces與 cgroups等機制隔離行程，並與宿主系統共用同一個Linux核心。Docker本身則是將這些Linux核心功能進一步封裝與標準化的容器平台。\n用Docker的好處是什麼呢？它對軟體開發人員和使用者都有好處。\n對軟體開發人員來說，你可以把一個程式所需要的依賴項目打包為一個Docker映像檔(image)，然後部署到多個機器上。一次打包多處執行。這樣每個Linux發行版只要裝了Docker，都能用一樣的指令跑一樣的服務，不用調整一堆有的沒的設定檔，省去解決依賴衝突的時間。例如，你在Ubuntu開發的軟體，打包為Docker映像檔之後，便能確保它在Debain、Arch Linux、Fedora、openSUSE的機器也能跑起來。不需要重新打包。",
+          "link": "https://ivonblog.com/posts/install-docker-engine-on-linux/",
+          "publishedOn": "2026-05-25T13:00:00.000Z",
+          "wordCount": 388,
+          "title": "Docker Engine在各大Linux發行版的安裝教學",
+          "imageUrl": "https://ivonblog.com/posts/install-docker-engine-on-linux/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/libredirect-browser-extension/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "這是幫助你淡出社群媒體的瀏覽器小工具。\n我把瀏覽器的搜尋結果全部重新導向了。\n透過「LibRedirect」的瀏覽器擴充功能，自動將社群媒體的網址重新導向到第三方前端 (alternative frontend) ，改變接受資訊的方式，修正被演算法控制的心態。\n\n \n例如，不用登入Twitter (X) 的帳號，也不用開啟x.com，就可以查看推文更新。這是透過名為Nitter的第三方前端做到的。\n\n \n1. 什麼是第三方前端？\n \n\n \n \n #\n \n \n\n要取得資訊，就會打開瀏覽器，使用搜尋引擎或AI找資料吧。即使是不想用社群媒體的用戶，也不免會到社群媒體網站接受資訊。\n提供資訊的一方多半是網頁形式，所以，你會接觸到別人寫的「前端」，也就是frontend。\n至於那些要求下載APP才能看的網站，罪該萬死。\n可是，現在很多網站會要求你登入才能看，否則就只對搜尋引擎機器人而非人類用戶提供完整資訊。你一往下滑，網頁就會跳出提示框禁止瀏覽！破壞瀏覽體驗。然後，你就會被社群媒體設計的機制越綁越深，無法脫離演算法給你的好處，忘記真正需要的資訊。\n並且網站會在網頁放一堆臃腫的JavaScript以投放廣告，追蹤使用者行為，還有用演算法向你推薦感興趣的內容，順便賣產品。",
@@ -374,6 +384,26 @@
           "wordCount": 385,
           "title": "Rclone + GUI教學，簡單搞定Linux電腦雲端同步，支援Google Drive、OneDrive、Dropbox、MEGA",
           "imageUrl": "https://ivonblog.com/posts/rclone-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/category-icons/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": ".category-icons {\n width: 100% !important;\n max-width: 100% !important;\n}\n\n.category-icons table {\n width: 90% !important; \n max-width: 1000px !important;\n margin-left: auto !important;\n margin-right: auto !important;\n table-layout: fixed !important;\n text-align: center !important;\n margin-top: 2em !important;\n margin-bottom: 2em !important;\n font-size: 0.875em !important;\n line-height: 1.7142857 !important;\n border-collapse: collapse !important;\n border-spacing: 0 !important;\n border: 0px !important;\n}\n\n.category-icons img {\n pointer-events: none;\n user-select: none;\n max-width: 100%;\n height: auto;\n}\n\n.category-icons td,\n.category-icons th {\n border: hidden !important;\n text-align: center !important;\n padding: 5px !important;\n word-break: normal !important;\n}\n\n.category-icons th {\n font-weight: normal !important;\n}\n\n\nLinux系統\nLinux使用技巧\n Linux好用軟體\n Linux系統安裝\n \nSelf-host自架\n Linux玩遊戲\n 自由軟體議題\n \n智慧型手機\n手機APP分享\n Root與刷機\n iOS玩機與越獄\n \nTermux教學\n 真Linux手機\n \n人文藝術\n書影心潮\n 繪圖創作\n 音樂欣賞\n \n隨筆\n 歷史研究\n 政論\n \nNSFW\nNSFW\nNSFW雜談\n 同人誌心得\n 裏番心得\n \n飛機杯評價\n\n\n\n資訊科技\n資訊科技應用\n 電腦軟體分享\n 3C開箱評測\n \n作業系統安裝\n 虛擬機技術\n BSD系統\n \nHugo網站架設\n \n遊戲攻略\nFate系列\n Minecraft\n 艦隊Collection\n \nLuanti",
+          "link": "https://ivonblog.com/category-icons/",
+          "publishedOn": "2026-05-22T14:22:00.000Z",
+          "wordCount": 63,
+          "title": "分類",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/blogroll/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。\n之所以叫部落滾(blogroll)而非直接稱呼友站連結，乃因為這些連結大都是我私自放上來的，沒有全部都經過與對方的交換連結程序。如果用友站連結稱呼感覺在裝熟，很不好意思。\n如果你想讓你的有趣網站連結出現在這裡，或是覺得我對你的網站有什麼誤會，不要吝惜，立即用E-Mail跟我聯絡吧！\n名稱\n URL\n 第一印象\n \nDarkRanger’s Secret Area\n https://darkranger.no-ip.org\n Fedora用戶\n \n大丙的筆記 Dabinn’s Note\n https://blog.dabinn.net\n 玩車和VR\n \nDuckLL’s Blog\n https://blog.duckll.tw/\n \n \nFreedom Wolf\n https://www.freedomwolf.cc\n 分享自由軟體與Linux系統管理技巧。\n \nGea-Suan Lin’s BLOG – 幹壞事是進步最大的原動力\n https://blog.gslin.org\n 分享即時科技圈新聞與系統操作小撇步。\n \nHiroshi Y. - 個人雜記\n https://ghostsinthelab.org\n 新酷音作者。\n \nltlnx 的網誌\n https://ltlnx.tw\n Slackware用戶。\n \nLuke Smith\n https://lukesmith.xyz\n Artix Linux用戶，除了自由軟體議題外，還常常在自己Youtube頻道分享一些獨到的見解。整天幹譙監控資本主義的社會議題，教你怎麼守護線上隱私權，活生生像是4chan /g/ 鄉民的化身。\n \nThe Lunduke Journal\n ht…",
+          "link": "https://ivonblog.com/blogroll/",
+          "publishedOn": "2026-05-22T14:22:00.000Z",
+          "wordCount": 116,
+          "title": "部落滾",
+          "imageUrl": null
         },
         {
           "id": "https://ivonblog.com/posts/icloud-on-linux/",
@@ -546,6 +576,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21210",
+          "author": "Chris Coyier",
+          "description": "Finding the typeface you need is a whole thing. You’ll know it when you see it is one approach. Look at a lot of choices. Make sure to save ones that you think are really nice, even if they aren’t the winner this time. On my local machine, I use an app called Typeface. I […]",
+          "link": "https://blog.codepen.io/2026/05/25/chris-corner-finding-type/",
+          "publishedOn": "2026-05-25T17:02:11.000Z",
+          "wordCount": 1188,
+          "title": "Chris’ Corner: Finding Type",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/otbessivubeth7kkfefx.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21186",
           "author": "Chris Coyier",
           "description": "I’ve had View Transitions on the mind a little bit after experimenting with using them to move the focus ring around the page. I found that pretty satisfying, except the part where I was binding events to the tab key myself and keeping track of “focusable” elements. I know better, as that kind of thing […]",
@@ -612,6 +652,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21210",
+          "author": "Chris Coyier",
+          "description": "Finding the typeface you need is a whole thing. You’ll know it when you see it is one approach. Look at a lot of choices. Make sure to save ones that you think are really nice, even if they aren’t the winner this time. On my local machine, I use an app called Typeface. I […]",
+          "link": "https://blog.codepen.io/2026/05/25/chris-corner-finding-type/",
+          "publishedOn": "2026-05-25T17:02:11.000Z",
+          "wordCount": 1188,
+          "title": "Chris’ Corner: Finding Type",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/otbessivubeth7kkfefx.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21186",
           "author": "Chris Coyier",
