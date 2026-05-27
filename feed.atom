@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T01:06:17.464Z</updated>
+    <updated>2026-05-27T01:09:38.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing in the AI Age]]></title>
+        <id>https://css-tricks.com/?p=395048</id>
+        <link href="https://css-tricks.com/technical-writing-in-the-ai-age/"/>
+        <updated>2026-05-26T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.
+Technical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: Finding Type]]></title>
         <id>https://blog.codepen.io/?p=21210</id>
@@ -24,6 +35,37 @@
         <summary type="html"><![CDATA[Finding the typeface you need is a whole thing. You’ll know it when you see it is one approach. Look at a lot of choices. Make sure to save ones that you think are really nice, even if they aren’t the winner this time. On my local machine, I use an app called Typeface. I […]]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把我Blog邪惡的思想散播到全世界！利用AI自動翻譯為多國語言]]></title>
+        <id>https://ivonblog.com/posts/machine-translated-blog-posts/</id>
+        <link href="https://ivonblog.com/posts/machine-translated-blog-posts/"/>
+        <updated>2026-05-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[當我用VPN切換地區，看到Google搜尋結果變成外文，回傳的結果並不是那麼容易出現我的網站，甚至搜尋小眾術語也看不到的時候。
+我就想到了希斯特莉亞說過的：困在（中文圈的）牆內，是沒有未來的啊！
+
+ 
+那麼，我要把我blog邪惡的思想散播到全世界！就翻譯為英文和日文等多國語言吧！簡體中文應該不用刻意翻譯因為我網站有繁轉簡按鈕。利用Hugo的i18n功能製作多語言部落格。
+最主要我認為包含原創想法，而非依靠中英文資訊差割韭菜（就是簡單寫個README翻譯的教學文，價值比XDA首頁文章還低的），起碼有100篇，例如對自由軟體的思考，是可以優先推廣的對象。
+不敢說我寫的多好，但這些rant的內容驚世駭俗的程度隨便一篇都是能被掛上Hacker News公幹的。
+我應該是挑戰自己寫英文內容的才對，從2022年就有在做英文版網站了（https://ivonblog.com/en-us/），又做了日本版網站（https://ivonblog.com/ja-jp/），主要是把一些在Reddit反響不錯的技術文章貼上來，內容就是我一字一字翻譯的。有時候發現中文原文寫的太抽象，我還得用英文思維重寫段落，等同再創作。翻譯速度最快也就1天1篇1000字的文章。
+可惜的是，我沒辦法像以前一樣手動一篇一篇翻譯了，這樣根本不可能翻譯得完。這也是我英文版網站更新頻率很低的緣故。雖然手動翻譯能維持英語寫作語感，可是不切實際呀。
+所以…交給VS Code裡面的ChatGPT Codex執行吧。網站文章原始碼都是Markdown應該很好給機器處理。
+訂閱ChatGPT Plus，使用GPT 5 Thinking模型，這樣它會考量文章整體內容再翻譯，較為通順。並會把覺得有問題的翻譯文本寫入log向我回報，我再看情況手動糾正。在VS Code裡面操作，協同AI修改檔案很是方便。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Document View Transitions: Scaling Across Hundreds of Elements]]></title>
+        <id>https://css-tricks.com/?p=393441</id>
+        <link href="https://css-tricks.com/cross-document-view-transitions-part-2/"/>
+        <updated>2026-05-25T13:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.
+Cross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +91,16 @@ Docker是適用於Linux系統的容器技術，可提升應用程式部署的效
 對軟體開發人員來說，你可以把一個程式所需要的依賴項目打包為一個Docker映像檔(image)，然後部署到多個機器上。一次打包多處執行。這樣每個Linux發行版只要裝了Docker，都能用一樣的指令跑一樣的服務，不用調整一堆有的沒的設定檔，省去解決依賴衝突的時間。例如，你在Ubuntu開發的軟體，打包為Docker映像檔之後，便能確保它在Debain、Arch Linux、Fedora、openSUSE的機器也能跑起來。不需要重新打包。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
+        <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
+        <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
+        <updated>2026-05-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Joseph L.)</name>
         </author>
     </entry>
     <entry>
@@ -1281,16 +1333,6 @@ Fixed-Height Cards: More Fragile Than They Look originally handwritten and publi
         <summary type="html"><![CDATA[I love ideas that feel clearly better than what was before. I used to feel that way about curved shower curtain bars. Like, instead of the shower curtain being perfectly straight against the edge of the shower, it curves outward. No harm in functionality, but it gives more space inside the shower. It’s just better. […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams]]></title>
-        <id>https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/</id>
-        <link href="https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/"/>
-        <updated>2026-04-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Casey Hudetz and Eric Olive)</name>
         </author>
     </entry>
 </feed>
