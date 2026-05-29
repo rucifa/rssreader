@@ -204,6 +204,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+          "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+          "publishedOn": "2026-05-28T13:00:00.000Z",
+          "wordCount": 5657,
+          "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
           "author": "hello@smashingmagazine.com (Eric Joseph L.)",
           "description": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
@@ -346,6 +361,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/the-unix-way-or-the-containerization/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我有多個Linux伺服器，不論是VPS還是樹莓派亦或是x86主機，我認為所有跑在Linux Server上的服務都應該要是container而非systemd service，除了SSH以外。\n\n ChatGPT生成\n從幾年前用Arch Linux的時候就養成了這個習慣吧。在資源有限的硬體環境，如樹莓派和1C1G VPS，我會使用container取代VM。\n覺得有點矛盾的一點是，不論是在我自己的樹莓派還是VPS，我都會用Docker部署服務，連DNS Server與Cloudflare Tunnel這些都是如此。\n因為這建基一個假設與恐懼：部署一個服務所需要的依賴會互相衝突，破壞系統穩定性，所以應該容器化。比如如果多個程式用到不同版本的PHP，系統就會發生衝突。\n此外，系統的容器服務應該是給Docker daemon統一管理，Systemd就在旁邊看就好了。我不是很喜歡Podman Quadlets的做法，很醜。\n要上K8S還是Cluster嗎？可是我家又不是資料中心！Container就夠管理了吧！這是減少系統維護與減少複雜度與之間取得的平衡。\n但是我的Server系統都是選取穩定的Debian來用，不太可能安裝軟體就炸，用The Unix Way，也就是安裝二進位檔去部署系統其實也是沒問題的才對。若是用Arch Linux，也根本不用擔心軟體版本太舊的問題。什麼都要Container的系統反而應該選用immutable distro才對。要是我用BSD系統當伺服器的話就不可避免的只能用The Unix Way了！但Linux用習慣了沒什麼動機換掉。",
+          "link": "https://ivonblog.com/posts/the-unix-way-or-the-containerization/",
+          "publishedOn": "2026-05-28T19:00:00.000Z",
+          "wordCount": 129,
+          "title": "伺服器要走The Unix Way亦或是完全容器化？",
+          "imageUrl": "https://ivonblog.com/posts/the-unix-way-or-the-containerization/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/fading-out-of-social-media/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "延續今年一月的挑戰：退出社群媒體一週..3天，渾身不對勁，戒斷症狀都跑出來了\n沉迷滑社群媒體令人焦躁。我們要有意識地對抗這種行為，改變獲取多巴胺的方式。\n我快不行了。\nどんな気分だ？DIO 動けねぇのに 背後から近づかれる 気分ってのは たとえると…水の中に1分しか 潜ってられない男が…限界1分目に　やっと 水面で呼吸しようと した瞬間！ グイイッ\n感覺如何啊，DIO？動彈不得的時候，被人從後面靠近的感覺。那種感覺就好像憋氣一分鐘的人，到達極限正要浮上水面換氣時…突然…又被人猛地拖回水裡！\n我用很多主流社群媒體，看最多的依序是Facebook/Threads/Reddit/Youtube，我在上面發佈內容後會一直doom scrolling，在意留言與按讚數。有時候還會到處海巡，看別人在講些什麼，我有沒有被點名等等。\n社群媒體的通知紅點，還有演算法推送，就像賭博的拉霸機一樣，不斷刺激你的心靈。彷彿在說：你要多po文喔，就能獲得獎勵，反之若看到沒有通知，內心就會焦躁。點選按鈕，就能獲得多巴胺！\n我透過LibRedirect等自架服務的手段，幾乎阻絕了我與社群媒體平臺的交流，淡出。\n淡出是指，我不再積極瀏覽社群媒體的訊息了。就只是當作文章發佈場所而不會一直往下滑。非必要不登入帳號。\n為什麼不是退出呢？\n我不可能完全不發文，因為Facebook還有生意要顧。我有加入數位創作者計劃，目前追蹤者數量穩定成長中，發廢文就有被動收入誰不愛！你不覺得這很像在割韭菜嗎，演算法喜歡激烈的東西，我只要po個爭議性或者耍憨的文案，當賽博小丑，流量就手到擒來，Facebook獎勵你幫他們平臺曝光，然後帶著罪惡感領取金錢。",
+          "link": "https://ivonblog.com/posts/fading-out-of-social-media/",
+          "publishedOn": "2026-05-28T18:00:00.000Z",
+          "wordCount": 116,
+          "title": "淡出社群媒體一週，最終目標是退出社群媒體，又失敗了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/trackers-are-back-again-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你在看網頁的當下，我《Google Analytics正在監視著你。\n每次我看到Adblocker上面的數字都會觸目驚心。\n有的網站居然放了10個以上廣告和追蹤器。尤其是Youtube，如果不重新整理頁面，uBlock Origin攔截到的廣告會一直疊加到999。\n最近又反彈回去了。\n是的很抱歉，我的網站雖然在今年5月初移除了廣告，趁勢把用了3年的Google Analytics追蹤器移除。2022年的時候我就做過這種事情，當時只撐了15天就用回去了。\n最近degoogle慾望比較強烈因此想擺脫Google，把Google Analytics換成了Umami Analytics和GoatCounter等遵守GDPR的統計服務。但終究克服不了誘惑。\n我又把追蹤器加回去了，還是想知道誰在看我網站。Umami Analytics和GoatCounter蒐集的資料太無趣了，界面不好看，又會破費。到頭來我還是只能蹭比較大間的免費流量分析網站。這次撐了15天已經很棒了吧…？不對這不是又重蹈覆徹了嗎！？\n現在我的網站重新有了3個追蹤器，分別是Microsoft Clarity、Google Analytics、Cloudflare Web Analytics。",
+          "link": "https://ivonblog.com/posts/trackers-are-back-again-2026/",
+          "publishedOn": "2026-05-28T17:00:00.000Z",
+          "wordCount": 116,
+          "title": "網站的追蹤器又回來了，而且這次是主委加碼，增加到3個",
+          "imageUrl": "https://ivonblog.com/posts/trackers-are-back-again-2026/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/a-sentence-changing-you-2026/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "這是我的「BlogBlog 同樂會 - 2026 年 5 月」的投稿文章。本月主題是「改變人生觀的一句話」，由 Eddie Lv 主持。如果你有自己的部落格，歡迎一起來參加！\n這次，高文決定，不會再逃避綠騎士砍頭。\n\n \n這不是一句話，而是電影的總結。\nHonor, that is what a knight does what he does.\n因著2023年修英國文學史課程教授的介紹，得知了《綠騎士》(Green Knight2021)這部電影，拖了好幾年說要看都沒看，結果今天一次看完…\n這部電影是改編自中世紀敘事詩《Sir Gawain and the Green Knight》的作品，屬於亞瑟王傳說中的一篇。大意是說聖誕節的時候，一名綠騎士來到了圓桌騎士面前，要人跟他玩砍頭遊戲。高文自告奮勇的跳了出來，綠騎士頭被砍掉之後掉頭就走，並要他一年後去找他砍頭。於是高文踏上了旅程，經歷了冒險。最終成長的故事。\n看官方預告，我以為這是一部史詩爽片，但沒人跟我說是一部吃A24工作室電波的片子！\n\n\n\n\n\n \n \n\n雖然特效很棒，畫面與台詞很藝術，但劇情表現上就精簡太多，跟中世紀原作《Sir Gawain and the Green Knight》有很大差距，沒有那麼強的寓言性。\n觀眾必須看過原作才能去猜測導演想表達的意圖，或者從另一個角度去呈現整個故事。\n嗯，雖然我在教授的要求下讀過中古英語的原本，不過電影呈現方式跟原作差很多。",
@@ -454,6 +499,46 @@
           "wordCount": 385,
           "title": "Rclone + GUI教學，簡單搞定Linux電腦雲端同步，支援Google Drive、OneDrive、Dropbox、MEGA",
           "imageUrl": "https://ivonblog.com/posts/rclone-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/search/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "使用DuckDuckGo搜尋\n\n使用Google搜尋",
+          "link": "https://ivonblog.com/search/",
+          "publishedOn": "2026-05-22T14:22:00.000Z",
+          "wordCount": 54,
+          "title": "站內文章搜尋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/steins-gate-choice/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "There is no end though there is a start in space. — Infinite. It has (its) own power, it ruins, and it goes though there is a start also in the star. — Finite. Only the person who (has) wisdom can read the most foolish one from the history. The fish that lives in the sea doesn’t know the world in the land. It also ruins and goes if they have wisdom. It is funnier that man exceeds the speed of light than fish start living in the land. It can be said that this is (a) final ultimatum from the god to the people who can fight.",
+          "link": "https://ivonblog.com/steins-gate-choice/",
+          "publishedOn": "2026-05-22T14:22:00.000Z",
+          "wordCount": 168,
+          "title": "這一切都是命運石之門的選擇——",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/random-post/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "點選以下按鈕，隨機跳轉到本站的一篇文章，可能會有意外的驚喜！內容可能是一個實用軟體的教學文，也可能是好康的圖片，也可能是我的深夜murmur。\n🎲 隨機閱讀 🎲\n警告：這裡會遍歷全站的文章，沒有進行過濾，可能會看到不堪入目的內容，請謹慎使用！\n為什麼做這個頁面：因為寫的文章的太多了，有的我已經不知道怎麼整理了。",
+          "link": "https://ivonblog.com/random-post/",
+          "publishedOn": "2026-05-22T14:22:00.000Z",
+          "wordCount": 56,
+          "title": "隨機頁面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/privacy-policy/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "非常歡迎您光臨「Ivon的部落格」（以下簡稱本網站），為了讓您能夠安心使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策，以保障您的權益，請您詳閱下列內容：\n一、隱私權保護政策的適用範圍\n \n\n \n \n #\n \n \n\n隱私權保護政策內容，包括本網站如何處理在您使用網站服務時收集到的個人識別資料。隱私權保護政策不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。\n二、個人資料的蒐集、處理及利用方式\n \n\n \n \n #\n \n \n\n\n當您造訪本網站或使用本網站所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。\n本網站在您使用服務信箱、問卷調查等互動性功能時，會保留您所提供的姓名、電子郵件地址、聯絡方式及使用時間等。\n於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站服務的參考依據，此記錄為內部應用，決不對外公佈。\n為提供精確的服務，我們會將收集的問卷調查內容進行統計與分析，分析結果之統計數據或說明文字呈現，除供內部研究外，我們會視需要公佈統計數據及說明文字，但不涉及特定個人之資料。\n您可以隨時向我們提出請求，以更正或刪除您的帳戶或本網站所蒐集的個人資料等隱私資訊。聯繫方式請見最下方聯繫管道。\n三、資料之保護\n \n\n \n \n #\n \n \n\n\n本網站主機均設有防火牆、防毒系統等相關的各項資訊安全設備及必要的安全防護措施，加以保護網站及您的個人資料採用嚴格的保護措施，只由經過授權的人員才能接觸您的個人資料，相關處理人員皆簽有保密合約，如有違反保密義務者，將會受到相關的法律處分。\n如因業務需要有必要委託其他單位提供服務時，本網站亦會嚴格要求其遵守保密義務，並且採取必要檢查程序以確定其將確實遵守。\n四、網站對外的相關連結\n \n\n \n \n #\n \n \n\n本網站的網頁提供其他網站的網路連結，您也可經由本網站所提供的連結，點選進入其他網站。但該連結網站不適用本網站的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。",
+          "link": "https://ivonblog.com/privacy-policy/",
+          "publishedOn": "2026-05-22T14:22:00.000Z",
+          "wordCount": 53,
+          "title": "隱私權政策",
+          "imageUrl": null
         },
         {
           "id": "https://ivonblog.com/category-icons/",
