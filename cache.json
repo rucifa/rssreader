@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395357",
+          "author": "Daniel Schwarz",
+          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-12/",
+          "publishedOn": "2026-05-29T13:25:38.000Z",
+          "wordCount": 3479,
+          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393536",
           "author": "Preethi",
           "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -337,21 +347,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": null,
-          "title": "A Fresh View In May (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
         }
       ]
     },
@@ -789,16 +784,6 @@
           "wordCount": 1142,
           "title": "Chris’ Corner: Import Maps",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21158",
-          "author": "Chris Coyier",
-          "description": "The 2.0 Editor can support hundreds of files per Pen, not to mention folders mixed in which don’t count toward that total. This can be pretty weighty on the DOM and thus adversely affect performance. Especially as each file/folder has children, a variety of event listeners, are drag and drop enabled, etc. “Virtualizing” data like […]",
-          "link": "https://blog.codepen.io/2026/04/29/424-file-list-optimization/",
-          "publishedOn": "2026-04-29T14:47:42.000Z",
-          "wordCount": null,
-          "title": "424: File List Optimization",
-          "imageUrl": null
         }
       ]
     },
@@ -866,16 +851,6 @@
           "wordCount": 1142,
           "title": "Chris’ Corner: Import Maps",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21158",
-          "author": "Chris Coyier",
-          "description": "The 2.0 Editor can support hundreds of files per Pen, not to mention folders mixed in which don’t count toward that total. This can be pretty weighty on the DOM and thus adversely affect performance. Especially as each file/folder has children, a variety of event listeners, are drag and drop enabled, etc. “Virtualizing” data like […]",
-          "link": "https://blog.codepen.io/2026/04/29/424-file-list-optimization/",
-          "publishedOn": "2026-04-29T14:47:42.000Z",
-          "wordCount": null,
-          "title": "424: File List Optimization",
-          "imageUrl": null
         }
       ]
     }

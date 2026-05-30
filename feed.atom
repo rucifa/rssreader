@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T01:12:21.290Z</updated>
+    <updated>2026-05-30T01:06:46.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
+        <id>https://css-tricks.com/?p=395357</id>
+        <link href="https://css-tricks.com/whats-important-12/"/>
+        <updated>2026-05-29T13:25:38.000Z</updated>
+        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
+What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伺服器要走The Unix Way亦或是完全容器化？]]></title>
         <id>https://ivonblog.com/posts/the-unix-way-or-the-containerization/</id>
@@ -1544,36 +1555,6 @@ Fixed-Height Cards: More Fragile Than They Look originally handwritten and publi
         <summary type="html"><![CDATA[Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Fresh View In May (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/</id>
-        <link href="https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/"/>
-        <updated>2026-04-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[424: File List Optimization]]></title>
-        <id>https://blog.codepen.io/?p=21158</id>
-        <link href="https://blog.codepen.io/2026/04/29/424-file-list-optimization/"/>
-        <updated>2026-04-29T14:47:42.000Z</updated>
-        <summary type="html"><![CDATA[The 2.0 Editor can support hundreds of files per Pen, not to mention folders mixed in which don’t count toward that total. This can be pretty weighty on the DOM and thus adversely affect performance. Especially as each file/folder has children, a variety of event listeners, are drag and drop enabled, etc. “Virtualizing” data like […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[424: File List Optimization]]></title>
-        <id>https://blog.codepen.io/?p=21158</id>
-        <link href="https://blog.codepen.io/2026/04/29/424-file-list-optimization/"/>
-        <updated>2026-04-29T14:47:42.000Z</updated>
-        <summary type="html"><![CDATA[The 2.0 Editor can support hundreds of files per Pen, not to mention folders mixed in which don’t count toward that total. This can be pretty weighty on the DOM and thus adversely affect performance. Especially as each file/folder has children, a variety of event listeners, are drag and drop enabled, etc. “Virtualizing” data like […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
