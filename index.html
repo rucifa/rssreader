@@ -22,6 +22,420 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-05-31 datetime="2026-05-31T19:00:00.000Z">2026-05-31</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-05-31 datetime="2026-05-31T19:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ivon的部落格</button>
+                  <a class="source-heading__link" href="https://ivonblog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/"
+                        open
+                      >
+                        <summary class="article-expander__title">調整Hugo的PermaLink，讓不同section的頁面產生同一個URL</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Generating same URL for pages from different sections under content directory of Hugo website.
+讓Hugo生成的網址保持一致，不會因為放的目錄不同而產出不同的路徑。
+1. Hugo內容與網址管理問題
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+
+長久以來我都是把所有文章放在同一個/posts目錄下
+
+content
+├── posts/
+│ ├── article1/
+├─── ├─index.md
+│ ├── article2/
+├─── ├─index.md
+│ ├── article3/
+├─── ├─index.md
+│ ├── article4/
+├─── ├─index.md
+
+這樣所有文章都會產生/posts/為前綴的網址，等同是永久連結：
+
+https://example.com/posts/article1/
+https://example.com/posts/article2/
+
+問題來了，久而久之，文章越來越多，現在已經超過500個資料夾了，難以管理呀。我想要把文章依照類別放目錄，例如這樣：
+
+content
+├── posts/
+│ ├── article1/
+├─── ├─index.md
+├── linux/
+│ ├── article2/
+├─── ├─index.md
+├── mobilephone/
+│ ├── article3/
+├─── ├─index.md
+├── technology/
+│ ├── article4/
+├─── ├─index.md
+
+但是，如果直接這樣放，生成的文章網址就會變成下面這樣，每個網址由Hugo自動帶入section，造成困擾。
+
+https://example.com/posts/article1/
+https://example.com/linux/article2/
+https://example.com/mobilephone/article3/
+https://example.com/technology/article4/
+
+為什麼？因為我常常用categories的front matter來調整文章分類，文章的網址最好是固定的日後才能方便移動：
+
+https://example.com/posts/article1/
+https://example.com/posts/article2/
+https://example.com/posts/article3/
+https://example.com/posts/article4/
+
+要解決這個問題，得調整Hugo生成網址的設定。我想要讓不同目錄section下的文章最終都擁有一樣的/posts/網址，即永久連結。
+2. 解決方案：修改PermaLink
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+
+
+讓我們再看一次Hugo的渲染機制。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/termux-proot-distro/"
+                        open
+                      >
+                        <summary class="article-expander__title">Termux proot-distro使用教學：Android手機安裝Linux發行版容器</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/termux-proot-distro/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/termux-proot-distro/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>這篇文章討論proot-distro安裝Linux發行版的用法。
+Termux作為終端模擬器，能在手機上以proot-distro工具安裝Linux發行版，不需要Root權限。
+例如可以裝Ubuntu、Arch Linux、Alpine Linux、Fedora、Debian、openSUSE等。
+圖例：在Sony Xperia 10 V手機執行Debian系統
+proot-distro安裝的Linux發行版僅有純文字界面，圖形介面要自行設定。
+如果你覺得很麻煩，可以參閱文末提供的自動化指令稿。
+1. 什麼是proot &amp; proot-distro？
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+在電腦GNU/Linux系統上，我們可以利用chroot指令，建立一個隔離的Linux環境。這就是在cgroups之前出現的，最早的容器概念。透過chroot指令切換進去後，就彷彿進到了另外一個系統。例如在Ubuntu用debootstrap建立Debian的環境，然後跑一個Debian的環境。
+chroot不是虛擬機也不是模擬器，因為chroot容器內部是與宿主機共用Linux核心的，共享許多系統資源。
+相關文章：手機Termux建立chroot Ubuntu環境
+但是chroot一定得用到root權限，Android的Termux終端機收錄了proot套件作為替代品。
+根據PRoot官網說明，proot是chroot的usersapce實作，用ptrace來模擬系統呼叫，包含bind mount、binfmt_misc等功能。
+
+ 
+因為用ptrace的因素，proot的程式執行速度必然比chroot慢，但好處是不用root權限也能跑Linux環境。
+跟chroot一樣，proot只要搭配一個Linux rootfs(根檔案系統)，再利用Termux載入一個假的Linux核心，就能讓程式以為自己跑在一個真的Linux環境。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/2026060101/"
+                        open
+                      >
+                        <summary class="article-expander__title">何以見得逃亡美國的中國移民會為了反共而傾向極右派</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/2026060101/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在想一些逃出中國大陸的移民（非全部，只是部分）跑到美國會變成極右派，也就是黃右，迷信宗教支持法輪功或者基督徒，當川粉，聽信far-right influencer的話語，還不自知？
+或者說擴大到華人，包含臺灣裔，也會傾向極右派？
+這片文章只是我的臆想，非正經學術研究。
+我們當然要反獨裁，但一些人為了反共，什麼臭魚爛蝦都能接受。 他們沉溺於過時的冷戰二極對抗思維 無法理解多極世界的現況，認爲美國就是反共的正義戰士，不少人還會用基督徒的宗教視角看事情。要打倒惡魔，就只能成為惡魔嗎？
+最早是我在觀察變態辣椒（王立銘）的Twitter時候有了這些想法。他常常創作好笑的諷刺中共漫畫，近年來有點支黑化了，會直接罵支那豬。他說讓小孩去上教會學校。看起來是為了防止左逼教材讓他小孩去變性。
+篤信基督教的曹長青，常常投書媒體，稱任何偏左的政治人物是「左瘋」，相信美國有深層政府在阻撓川普獨裁。並主張臺灣獨立，大力支持民進黨的反共敘事。不知道他看到蔡英文和賴清德政府的LGBTQ包容政策作何感想，甚至學拜登政府找性少數人士來官邸跳舞了呢。接見魯保羅drag queen秀冠軍得主　賴清德總統盼帶給許多臺灣年輕人勇氣　無所畏懼、保留真心、做自己
+上面舉例的還只是冰山一角而已。Youtube上還有很多重量級的反共極右翼頻道，多半與法輪功有合作關係。我们整理了一份法轮功媒体的矩阵图，供翻墙不久的朋友辨识。 - 王局志安 雖然王志安有小機率是大外宣但看他拷打民運還是很爽的。
+嘗試推測這些人腦迴路：因為在共產中國，1950年代以來官方敘事走左派，右派是要挨打的，可是中國政府最近30年的秦制復甦早就把中國人調教成外左內右的縫合怪形態，因此跑到美國不過是血緣覺醒罷了。這些人其實不知道什麼是左派右派。崇拜強人領袖勝過法制，不拜毛澤東了就改拜川普。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/"
+                        open
+                      >
+                        <summary class="article-expander__title">回顧經典的多P本：イモネイド寮長「チチとバストと乳房厨」笨蛋測驗召喚獸的最佳本子</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>html.content-warning-locked {
+ overflow: hidden;
+ }
+
+ html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+ overflow: hidden;
+ }
+
+ .content-warning-close-target {
+ position: fixed;
+ width: 1px;
+ height: 1px;
+ opacity: 0;
+ pointer-events: none;
+ }
+
+ #content-warning-accepted:target + .content-warning-overlay {
+ display: none;
+ }
+
+ .content-warning-overlay {
+ position: fixed;
+ inset: 0;
+ z-index: 1000;
+ display: grid;
+ place-items: center;
+ padding: 1.25rem;
+ background: rgba(0, 0, 0, 0.68);
+ color: #333333;
+ overflow: auto;
+ }
+
+ .content-warning-dialog {
+ width: min(92vw, 520px);
+ padding: 1.35rem 1.25rem 1.25rem;
+ text-align: center;
+ background:
+ linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
+ border: 1px solid #9f9f9f;
+ border-radius…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/simply-drawing-simple-things/"
+                        open
+                      >
+                        <summary class="article-expander__title">你線條畫那麼簡單我也會畫啊！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/simply-drawing-simple-things/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/simply-drawing-simple-things/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>總覺得，現在AI生圖那麼方便，如果你畫太好接近商業稿等級會被一般通過路人噴是AI，因此有人會覺得畫潦草一點比較真實。
+但是看你畫的太簡單，又會有人說：這個我也會畫啊！
+要畫的潦草又有個人風格，可不是說畫就畫了。
+我國中考美術班前，學畫畫的時候老師就拿畢卡索的公牛 (Le Taureau) 出來給我們看化繁為簡的概念。
+
+ 
+雖然我是落榜美術生但也沒有參加第一次世界大戰。
+要有深厚的繪畫訓練功力，苦練打好素描基本功，才能發展個人風格。刻意畫簡單的線條，是經過自己分析人體後拆解出來的。我有很多次這種感受，畫簡單線條我像是三歲小孩在塗鴉，線條都不穩，但會繪圖的人就能隨手畫出可愛Q版。拆分出緊要。不然你畫出來的東西很容易變成一拳超人原作ONE的風格。
+所以要像什麼都畫的主廚那樣畫簡單的東方Project人物，反而是最難的。
+
+ 
+除非你只是要當側翼圖卡畫家，目的在於當肉喇叭做政治宣傳，才用簡單的插圖遮掩自己的不思進取。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/2025091501/"
+                        open
+                      >
+                        <summary class="article-expander__title">小學的音樂欣賞奠定今日的品味</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/2025091501/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>不要忽視藝術與人文的教育。
+之前寫過聆聽音樂的心路歷程(2013~2021)。現在則是要專門感謝以前老師佈下的養分。
+雖然過去很多年了，我依然記得小學時候音樂課聽過的許多經典名曲
+例如舒伯特的魔王（Erlkönig，有OxfordSong製作的恐怖動畫版，給小孩子看這個是不是有病&#x3D;&#x3D;）
+聖桑的動物狂歡節(Le carnaval des animaux)
+普契尼的杜蘭朵公主徹夜未眠(Nessun dorma)
+中國民謠紫竹調等等。
+儘管小時候不知道那些音樂家偉大，要長大後學過歷史才能從更多元的欣賞方式切入，卻是潛移默化的讓人了解好作品。比起教S.H.E〈我愛雨夜花〉、嚴爵〈好的事情〉、自由發揮〈歡迎光臨〉這類當代的流行歌曲，這些雋永的經典作品欣賞才是讓人多年後體會到老師的用心，後勁更強的存在呀。
+所以不要用功利的角度看待，認為音樂課看影片欣賞音樂都是在浪費時間的…well，雖然我確實遇過國中音樂老師（可能是代理老師？）好幾個禮拜上來都直接放2012年的〈悲慘世界〉電影然後拖到下課的，超混的好不好！不過我確實蠻喜歡這部音樂劇的，現在仍常常複習。
+還遇過有音樂老師當面嗆我的童年偶像周杰倫長得很醜，結果播放大支作品宣揚自己饒舌品味的。但是大支在瘋狂舔民進黨之前的作品是真的很不錯的，例如與達賴喇嘛對談的〈人〉，拯救流浪動物的〈最後的早晨〉。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/termux-proot-distro-archlinux/"
+                        open
+                      >
+                        <summary class="article-expander__title">Termux：從0到1安裝Arch Linux ARM桌面系統＋一鍵啟動指令稿</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/termux-proot-distro-archlinux/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/termux-proot-distro-archlinux/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>這篇文章說明如何在Android手機上，使用Termux的proot-distro套件，手動設定一個帶有桌面環境的Arch Linux ARM，並可以播放音樂影片和使用桌面Linux的程式。
+
+ 
+Arch Linux是重視簡潔的Linux發行版，要求使用者按自己的需求安裝系統，所以安裝過程要手動打指令。這裡安裝的是Arch Linux ARM，是原版Arch Linux的分支。原始版本是專注於x86架構的系統，某些x86版的套件ARM這邊可能會找不到，但同樣有AUR可以用。
+本文介紹如何手動安裝Arch Linux系統，懶的手動設定的請改用一鍵安裝指令稿：安裝Termux Proot-distro
+1. 事前準備
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+要跑Arch Linux，手機需要至少4GB RAM，圖形界面至少6GB，免得系統崩潰。
+儲存空間需準備10GB。
+我的裝置：Sony Xperia 10 V (Android 16)
+請先閱讀：Termux基礎教學
+接著安裝Termux X11
+設定硬體加速。Termux以virglrenderer達成GPU 3D硬體加速
+2. 安裝Proot Arch Linux基本系統
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Termux執行時通知欄下滑，按ACQUIRE WAKELOCK使其保持在背景執行。
+首先，安裝proot-distro、Pulse Audio、vim
+
+pkg update
+
+pkg install proot-distro pulseaudio vim
+
+安裝Arch Linux
+
+proot-distro install archlinux/archlinux:latest
+
+下載後使用以下指令登入Arch Linux，--user參數表示登入指定帳戶，目前是root。--shared-tmp則是將Termux的tmp目錄掛載至proot內部以共享X伺服器資源。
+
+proot-distro login archlinux --user root --shared-tmp
+
+更新系統套件，輸入y確認更新。
+
+pacman -Syu
+
+要退出Proot系統，請輸入exit登出。
+3. 更換Arch Linux套件庫鏡像站
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+此為選擇性步驟。到Arch Linux ARM官網找一個鏡像站加快下載速度。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"
+                        open
+                      >
+                        <summary class="article-expander__title">June Is For Exploring (2026 Wallpapers Edition)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-05-29 datetime="2026-05-29T13:25:38.000Z">2026-05-29</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-05-29 datetime="2026-05-29T13:25:38.000Z"></time>
           </button>
@@ -135,6 +549,65 @@ What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, a
 淡出是指，我不再積極瀏覽社群媒體的訊息了。就只是當作文章發佈場所而不會一直往下滑。非必要不登入帳號。
 為什麼不是退出呢？
 我不可能完全不發文，因為Facebook還有生意要顧。我有加入數位創作者計劃，目前追蹤者數量穩定成長中，發廢文就有被動收入誰不愛！你不覺得這很像在割韭菜嗎，演算法喜歡激烈的東西，我只要po個爭議性或者耍憨的文案，當賽博小丑，流量就手到擒來，Facebook獎勵你幫他們平臺曝光，然後帶著罪惡感領取金錢。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/2026052901/"
+                        open
+                      >
+                        <summary class="article-expander__title">不知愛為何物所以只能被性慾牽著走，不想渴望女人又仇女</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/2026052901/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/2026052901/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>html.content-warning-locked {
+ overflow: hidden;
+ }
+
+ html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+ overflow: hidden;
+ }
+
+ .content-warning-close-target {
+ position: fixed;
+ width: 1px;
+ height: 1px;
+ opacity: 0;
+ pointer-events: none;
+ }
+
+ #content-warning-accepted:target + .content-warning-overlay {
+ display: none;
+ }
+
+ .content-warning-overlay {
+ position: fixed;
+ inset: 0;
+ z-index: 1000;
+ display: grid;
+ place-items: center;
+ padding: 1.25rem;
+ background: rgba(0, 0, 0, 0.68);
+ color: #333333;
+ overflow: auto;
+ }
+
+ .content-warning-dialog {
+ width: min(92vw, 520px);
+ padding: 1.35rem 1.25rem 1.25rem;
+ text-align: center;
+ background:
+ linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
+ border: 1px solid #9f9f9f;
+ border-radius…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -3228,8 +3701,8 @@ Fixed-Height Cards: More Fragile Than They Look originally handwritten and publi
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/rucifa/rssreader/actions/runs/26699714833">
-        <time id="build-timestamp" datetime="2026-05-31T01:13:43.834Z">2026-05-31T01:13:43.834Z</time>
+      <a class="footer-link" href="https://github.com/rucifa/rssreader/actions/runs/26730148262">
+        <time id="build-timestamp" datetime="2026-06-01T01:17:10.659Z">2026-06-01T01:17:10.659Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

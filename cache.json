@@ -214,6 +214,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "publishedOn": "2026-05-31T08:00:00.000Z",
+          "wordCount": 5524,
+          "title": "June Is For Exploring (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
@@ -341,6 +356,76 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Generating same URL for pages from different sections under content directory of Hugo website.\n讓Hugo生成的網址保持一致，不會因為放的目錄不同而產出不同的路徑。\n1. Hugo內容與網址管理問題\n \n\n \n \n #\n \n \n\n\n長久以來我都是把所有文章放在同一個/posts目錄下\n\ncontent\n├── posts/\n│ ├── article1/\n├─── ├─index.md\n│ ├── article2/\n├─── ├─index.md\n│ ├── article3/\n├─── ├─index.md\n│ ├── article4/\n├─── ├─index.md\n\n這樣所有文章都會產生/posts/為前綴的網址，等同是永久連結：\n\nhttps://example.com/posts/article1/\nhttps://example.com/posts/article2/\n\n問題來了，久而久之，文章越來越多，現在已經超過500個資料夾了，難以管理呀。我想要把文章依照類別放目錄，例如這樣：\n\ncontent\n├── posts/\n│ ├── article1/\n├─── ├─index.md\n├── linux/\n│ ├── article2/\n├─── ├─index.md\n├── mobilephone/\n│ ├── article3/\n├─── ├─index.md\n├── technology/\n│ ├── article4/\n├─── ├─index.md\n\n但是，如果直接這樣放，生成的文章網址就會變成下面這樣，每個網址由Hugo自動帶入section，造成困擾。\n\nhttps://example.com/posts/article1/\nhttps://example.com/linux/article2/\nhttps://example.com/mobilephone/article3/\nhttps://example.com/technology/article4/\n\n為什麼？因為我常常用categories的front matter來調整文章分類，文章的網址最好是固定的日後才能方便移動：\n\nhttps://example.com/posts/article1/\nhttps://example.com/posts/article2/\nhttps://example.com/posts/article3/\nhttps://example.com/posts/article4/\n\n要解決這個問題，得調整Hugo生成網址的設定。我想要讓不同目錄section下的文章最終都擁有一樣的/posts/網址，即永久連結。\n2. 解決方案：修改PermaLink\n \n\n \n \n #\n \n \n\n\n\n讓我們再看一次Hugo的渲染機制。",
+          "link": "https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/",
+          "publishedOn": "2026-05-31T19:00:00.000Z",
+          "wordCount": 285,
+          "title": "調整Hugo的PermaLink，讓不同section的頁面產生同一個URL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/termux-proot-distro/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這篇文章討論proot-distro安裝Linux發行版的用法。\nTermux作為終端模擬器，能在手機上以proot-distro工具安裝Linux發行版，不需要Root權限。\n例如可以裝Ubuntu、Arch Linux、Alpine Linux、Fedora、Debian、openSUSE等。\n圖例：在Sony Xperia 10 V手機執行Debian系統\nproot-distro安裝的Linux發行版僅有純文字界面，圖形介面要自行設定。\n如果你覺得很麻煩，可以參閱文末提供的自動化指令稿。\n1. 什麼是proot & proot-distro？\n \n\n \n \n #\n \n \n\n在電腦GNU/Linux系統上，我們可以利用chroot指令，建立一個隔離的Linux環境。這就是在cgroups之前出現的，最早的容器概念。透過chroot指令切換進去後，就彷彿進到了另外一個系統。例如在Ubuntu用debootstrap建立Debian的環境，然後跑一個Debian的環境。\nchroot不是虛擬機也不是模擬器，因為chroot容器內部是與宿主機共用Linux核心的，共享許多系統資源。\n相關文章：手機Termux建立chroot Ubuntu環境\n但是chroot一定得用到root權限，Android的Termux終端機收錄了proot套件作為替代品。\n根據PRoot官網說明，proot是chroot的usersapce實作，用ptrace來模擬系統呼叫，包含bind mount、binfmt_misc等功能。\n\n \n因為用ptrace的因素，proot的程式執行速度必然比chroot慢，但好處是不用root權限也能跑Linux環境。\n跟chroot一樣，proot只要搭配一個Linux rootfs(根檔案系統)，再利用Termux載入一個假的Linux核心，就能讓程式以為自己跑在一個真的Linux環境。",
+          "link": "https://ivonblog.com/posts/termux-proot-distro/",
+          "publishedOn": "2026-05-31T18:00:00.000Z",
+          "wordCount": 244,
+          "title": "Termux proot-distro使用教學：Android手機安裝Linux發行版容器",
+          "imageUrl": "https://ivonblog.com/posts/termux-proot-distro/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2026060101/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在想一些逃出中國大陸的移民（非全部，只是部分）跑到美國會變成極右派，也就是黃右，迷信宗教支持法輪功或者基督徒，當川粉，聽信far-right influencer的話語，還不自知？\n或者說擴大到華人，包含臺灣裔，也會傾向極右派？\n這片文章只是我的臆想，非正經學術研究。\n我們當然要反獨裁，但一些人為了反共，什麼臭魚爛蝦都能接受。 他們沉溺於過時的冷戰二極對抗思維 無法理解多極世界的現況，認爲美國就是反共的正義戰士，不少人還會用基督徒的宗教視角看事情。要打倒惡魔，就只能成為惡魔嗎？\n最早是我在觀察變態辣椒（王立銘）的Twitter時候有了這些想法。他常常創作好笑的諷刺中共漫畫，近年來有點支黑化了，會直接罵支那豬。他說讓小孩去上教會學校。看起來是為了防止左逼教材讓他小孩去變性。\n篤信基督教的曹長青，常常投書媒體，稱任何偏左的政治人物是「左瘋」，相信美國有深層政府在阻撓川普獨裁。並主張臺灣獨立，大力支持民進黨的反共敘事。不知道他看到蔡英文和賴清德政府的LGBTQ包容政策作何感想，甚至學拜登政府找性少數人士來官邸跳舞了呢。接見魯保羅drag queen秀冠軍得主　賴清德總統盼帶給許多臺灣年輕人勇氣　無所畏懼、保留真心、做自己\n上面舉例的還只是冰山一角而已。Youtube上還有很多重量級的反共極右翼頻道，多半與法輪功有合作關係。我们整理了一份法轮功媒体的矩阵图，供翻墙不久的朋友辨识。 - 王局志安 雖然王志安有小機率是大外宣但看他拷打民運還是很爽的。\n嘗試推測這些人腦迴路：因為在共產中國，1950年代以來官方敘事走左派，右派是要挨打的，可是中國政府最近30年的秦制復甦早就把中國人調教成外左內右的縫合怪形態，因此跑到美國不過是血緣覺醒罷了。這些人其實不知道什麼是左派右派。崇拜強人領袖勝過法制，不拜毛澤東了就改拜川普。",
+          "link": "https://ivonblog.com/posts/2026060101/",
+          "publishedOn": "2026-05-31T17:00:00.000Z",
+          "wordCount": 150,
+          "title": "何以見得逃亡美國的中國移民會為了反共而傾向極右派",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n overflow: hidden;\n }\n\n html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n overflow: hidden;\n }\n\n .content-warning-close-target {\n position: fixed;\n width: 1px;\n height: 1px;\n opacity: 0;\n pointer-events: none;\n }\n\n #content-warning-accepted:target + .content-warning-overlay {\n display: none;\n }\n\n .content-warning-overlay {\n position: fixed;\n inset: 0;\n z-index: 1000;\n display: grid;\n place-items: center;\n padding: 1.25rem;\n background: rgba(0, 0, 0, 0.68);\n color: #333333;\n overflow: auto;\n }\n\n .content-warning-dialog {\n width: min(92vw, 520px);\n padding: 1.35rem 1.25rem 1.25rem;\n text-align: center;\n background:\n linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);\n border: 1px solid #9f9f9f;\n border-radius…",
+          "link": "https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/",
+          "publishedOn": "2026-05-31T16:30:00.000Z",
+          "wordCount": 233,
+          "title": "回顧經典的多P本：イモネイド寮長「チチとバストと乳房厨」笨蛋測驗召喚獸的最佳本子",
+          "imageUrl": "https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/simply-drawing-simple-things/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "總覺得，現在AI生圖那麼方便，如果你畫太好接近商業稿等級會被一般通過路人噴是AI，因此有人會覺得畫潦草一點比較真實。\n但是看你畫的太簡單，又會有人說：這個我也會畫啊！\n要畫的潦草又有個人風格，可不是說畫就畫了。\n我國中考美術班前，學畫畫的時候老師就拿畢卡索的公牛 (Le Taureau) 出來給我們看化繁為簡的概念。\n\n \n雖然我是落榜美術生但也沒有參加第一次世界大戰。\n要有深厚的繪畫訓練功力，苦練打好素描基本功，才能發展個人風格。刻意畫簡單的線條，是經過自己分析人體後拆解出來的。我有很多次這種感受，畫簡單線條我像是三歲小孩在塗鴉，線條都不穩，但會繪圖的人就能隨手畫出可愛Q版。拆分出緊要。不然你畫出來的東西很容易變成一拳超人原作ONE的風格。\n所以要像什麼都畫的主廚那樣畫簡單的東方Project人物，反而是最難的。\n\n \n除非你只是要當側翼圖卡畫家，目的在於當肉喇叭做政治宣傳，才用簡單的插圖遮掩自己的不思進取。",
+          "link": "https://ivonblog.com/posts/simply-drawing-simple-things/",
+          "publishedOn": "2026-05-31T16:20:00.000Z",
+          "wordCount": 132,
+          "title": "你線條畫那麼簡單我也會畫啊！",
+          "imageUrl": "https://ivonblog.com/posts/simply-drawing-simple-things/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2025091501/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "不要忽視藝術與人文的教育。\n之前寫過聆聽音樂的心路歷程(2013~2021)。現在則是要專門感謝以前老師佈下的養分。\n雖然過去很多年了，我依然記得小學時候音樂課聽過的許多經典名曲\n例如舒伯特的魔王（Erlkönig，有OxfordSong製作的恐怖動畫版，給小孩子看這個是不是有病==）\n聖桑的動物狂歡節(Le carnaval des animaux)\n普契尼的杜蘭朵公主徹夜未眠(Nessun dorma)\n中國民謠紫竹調等等。\n儘管小時候不知道那些音樂家偉大，要長大後學過歷史才能從更多元的欣賞方式切入，卻是潛移默化的讓人了解好作品。比起教S.H.E〈我愛雨夜花〉、嚴爵〈好的事情〉、自由發揮〈歡迎光臨〉這類當代的流行歌曲，這些雋永的經典作品欣賞才是讓人多年後體會到老師的用心，後勁更強的存在呀。\n所以不要用功利的角度看待，認為音樂課看影片欣賞音樂都是在浪費時間的…well，雖然我確實遇過國中音樂老師（可能是代理老師？）好幾個禮拜上來都直接放2012年的〈悲慘世界〉電影然後拖到下課的，超混的好不好！不過我確實蠻喜歡這部音樂劇的，現在仍常常複習。\n還遇過有音樂老師當面嗆我的童年偶像周杰倫長得很醜，結果播放大支作品宣揚自己饒舌品味的。但是大支在瘋狂舔民進黨之前的作品是真的很不錯的，例如與達賴喇嘛對談的〈人〉，拯救流浪動物的〈最後的早晨〉。",
+          "link": "https://ivonblog.com/posts/2025091501/",
+          "publishedOn": "2026-05-31T16:10:00.000Z",
+          "wordCount": 119,
+          "title": "小學的音樂欣賞奠定今日的品味",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/termux-proot-distro-archlinux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這篇文章說明如何在Android手機上，使用Termux的proot-distro套件，手動設定一個帶有桌面環境的Arch Linux ARM，並可以播放音樂影片和使用桌面Linux的程式。\n\n \nArch Linux是重視簡潔的Linux發行版，要求使用者按自己的需求安裝系統，所以安裝過程要手動打指令。這裡安裝的是Arch Linux ARM，是原版Arch Linux的分支。原始版本是專注於x86架構的系統，某些x86版的套件ARM這邊可能會找不到，但同樣有AUR可以用。\n本文介紹如何手動安裝Arch Linux系統，懶的手動設定的請改用一鍵安裝指令稿：安裝Termux Proot-distro\n1. 事前準備\n \n\n \n \n #\n \n \n\n要跑Arch Linux，手機需要至少4GB RAM，圖形界面至少6GB，免得系統崩潰。\n儲存空間需準備10GB。\n我的裝置：Sony Xperia 10 V (Android 16)\n請先閱讀：Termux基礎教學\n接著安裝Termux X11\n設定硬體加速。Termux以virglrenderer達成GPU 3D硬體加速\n2. 安裝Proot Arch Linux基本系統\n \n\n \n \n #\n \n \n\nTermux執行時通知欄下滑，按ACQUIRE WAKELOCK使其保持在背景執行。\n首先，安裝proot-distro、Pulse Audio、vim\n\npkg update\n\npkg install proot-distro pulseaudio vim\n\n安裝Arch Linux\n\nproot-distro install archlinux/archlinux:latest\n\n下載後使用以下指令登入Arch Linux，--user參數表示登入指定帳戶，目前是root。--shared-tmp則是將Termux的tmp目錄掛載至proot內部以共享X伺服器資源。\n\nproot-distro login archlinux --user root --shared-tmp\n\n更新系統套件，輸入y確認更新。\n\npacman -Syu\n\n要退出Proot系統，請輸入exit登出。\n3. 更換Arch Linux套件庫鏡像站\n \n\n \n \n #\n \n \n\n此為選擇性步驟。到Arch Linux ARM官網找一個鏡像站加快下載速度。",
+          "link": "https://ivonblog.com/posts/termux-proot-distro-archlinux/",
+          "publishedOn": "2026-05-31T09:00:00.000Z",
+          "wordCount": 431,
+          "title": "Termux：從0到1安裝Arch Linux ARM桌面系統＋一鍵啟動指令稿",
+          "imageUrl": "https://ivonblog.com/posts/termux-proot-distro-archlinux/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/the-unix-way-or-the-containerization/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "我有多個Linux伺服器，不論是VPS還是樹莓派亦或是x86主機，我認為所有跑在Linux Server上的服務都應該要是container而非systemd service，除了SSH以外。\n\n ChatGPT生成\n從幾年前用Arch Linux的時候就養成了這個習慣吧。在資源有限的硬體環境，如樹莓派和1C1G VPS，我會使用container取代VM。\n覺得有點矛盾的一點是，不論是在我自己的樹莓派還是VPS，我都會用Docker部署服務，連DNS Server與Cloudflare Tunnel這些都是如此。\n因為這建基一個假設與恐懼：部署一個服務所需要的依賴會互相衝突，破壞系統穩定性，所以應該容器化。比如如果多個程式用到不同版本的PHP，系統就會發生衝突。\n此外，系統的容器服務應該是給Docker daemon統一管理，Systemd就在旁邊看就好了。我不是很喜歡Podman Quadlets的做法，很醜。\n要上K8S還是Cluster嗎？可是我家又不是資料中心！Container就夠管理了吧！這是減少系統維護與減少複雜度與之間取得的平衡。\n但是我的Server系統都是選取穩定的Debian來用，不太可能安裝軟體就炸，用The Unix Way，也就是安裝二進位檔去部署系統其實也是沒問題的才對。若是用Arch Linux，也根本不用擔心軟體版本太舊的問題。什麼都要Container的系統反而應該選用immutable distro才對。要是我用BSD系統當伺服器的話就不可避免的只能用The Unix Way了！但Linux用習慣了沒什麼動機換掉。",
@@ -359,6 +444,16 @@
           "wordCount": 116,
           "title": "淡出社群媒體一週，最終目標是退出社群媒體，又失敗了",
           "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/2026052901/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n overflow: hidden;\n }\n\n html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n overflow: hidden;\n }\n\n .content-warning-close-target {\n position: fixed;\n width: 1px;\n height: 1px;\n opacity: 0;\n pointer-events: none;\n }\n\n #content-warning-accepted:target + .content-warning-overlay {\n display: none;\n }\n\n .content-warning-overlay {\n position: fixed;\n inset: 0;\n z-index: 1000;\n display: grid;\n place-items: center;\n padding: 1.25rem;\n background: rgba(0, 0, 0, 0.68);\n color: #333333;\n overflow: auto;\n }\n\n .content-warning-dialog {\n width: min(92vw, 520px);\n padding: 1.35rem 1.25rem 1.25rem;\n text-align: center;\n background:\n linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);\n border: 1px solid #9f9f9f;\n border-radius…",
+          "link": "https://ivonblog.com/posts/2026052901/",
+          "publishedOn": "2026-05-28T17:00:00.000Z",
+          "wordCount": 187,
+          "title": "不知愛為何物所以只能被性慾牽著走，不想渴望女人又仇女",
+          "imageUrl": "https://ivonblog.com/posts/2026052901/featured.webp"
         },
         {
           "id": "https://ivonblog.com/posts/trackers-are-back-again-2026/",
