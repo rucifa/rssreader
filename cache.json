@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392775",
+          "author": "Zell Liew",
+          "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+          "publishedOn": "2026-06-01T13:25:00.000Z",
+          "wordCount": 3063,
+          "title": "Astro Markdown Component Utility for Any Framework",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=395357",
           "author": "Daniel Schwarz",
           "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -356,6 +366,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/embed-marp-slides-in-hugo/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Marp是一款讓你用Markdown做簡報的VS Code插件。可以將簡報輸出為PDF或HTML格式。\n我想要在自己的Hugo網頁展示簡報，但又不把它上傳到第三方平台託管，該怎麼辦呢？\n這有幾種做法：一種是在網頁引入Marp的Javascript函式庫，即時將Markdown程式碼渲染成簡報。",
+          "link": "https://ivonblog.com/posts/embed-marp-slides-in-hugo/",
+          "publishedOn": "2026-06-01T04:00:00.000Z",
+          "wordCount": 205,
+          "title": "在網頁嵌入Markdown簡報：使用Marp + Hugo page bundle HTML iframe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/install-codex-on-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "分享在Ubuntu Linux使用Codex的方法。\nCodex是OpenAI推出的AI Agent程式，可以讓ChatGPT直接在電腦上執行指令操控電腦，內建多種Skills。\n它能讀取你Linux系統環境變數，根據你的發行版提供適合你環境的解答。",
+          "link": "https://ivonblog.com/posts/install-codex-on-linux/",
+          "publishedOn": "2026-06-01T03:00:00.000Z",
+          "wordCount": 231,
+          "title": "在Linux桌面使用Codex CLI / Codex Desktop進行自動化操作",
+          "imageUrl": "https://ivonblog.com/posts/install-codex-on-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/qbittorrent-docker/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "qBittorrent是一款開源跨平台的下載軟體，支援Linux、Windows、macOS系統，能夠下載BT種子 (.torrent) 和 磁力連結 (.magnet) 協定的檔案。\n\n \n在之前的文章介紹了Linux版qBittorrent用法。本文介紹Docker版的qBittorrent裝法，界面大同小異。可以透過瀏覽器遠端存取qBittorrent的下載任務。\n\n \n1. 用Docker部署qBittorrent\n \n\n \n \n #\n \n \n\n雖說qBittorrent官方有提供qbittorrentofficial/qbittorrent-nox映像檔專門用於遠端的用途，不過我認為linuxserver打包的linuxserver/qbittorrent比較完整，它包含了完整桌面客戶端並啟用WebUI做遠端存取。且這個映像檔提供x86與ARM的多架構支援。",
+          "link": "https://ivonblog.com/posts/qbittorrent-docker/",
+          "publishedOn": "2026-06-01T03:00:00.000Z",
+          "wordCount": 231,
+          "title": "使用Docker部署qBittorrent，搭配容器VPN做種",
+          "imageUrl": "https://ivonblog.com/posts/qbittorrent-docker/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "Generating same URL for pages from different sections under content directory of Hugo website.\n讓Hugo生成的網址保持一致，不會因為放的目錄不同而產出不同的路徑。\n1. Hugo內容與網址管理問題\n \n\n \n \n #\n \n \n\n\n長久以來我都是把所有文章放在同一個/posts目錄下\n\ncontent\n├── posts/\n│ ├── article1/\n├─── ├─index.md\n│ ├── article2/\n├─── ├─index.md\n│ ├── article3/\n├─── ├─index.md\n│ ├── article4/\n├─── ├─index.md\n\n這樣所有文章都會產生/posts/為前綴的網址，等同是永久連結：\n\nhttps://example.com/posts/article1/\nhttps://example.com/posts/article2/\n\n問題來了，久而久之，文章越來越多，現在已經超過500個資料夾了，難以管理呀。我想要把文章依照類別放目錄，例如這樣：\n\ncontent\n├── posts/\n│ ├── article1/\n├─── ├─index.md\n├── linux/\n│ ├── article2/\n├─── ├─index.md\n├── mobilephone/\n│ ├── article3/\n├─── ├─index.md\n├── technology/\n│ ├── article4/\n├─── ├─index.md\n\n但是，如果直接這樣放，生成的文章網址就會變成下面這樣，每個網址由Hugo自動帶入section，造成困擾。\n\nhttps://example.com/posts/article1/\nhttps://example.com/linux/article2/\nhttps://example.com/mobilephone/article3/\nhttps://example.com/technology/article4/\n\n為什麼？因為我常常用categories的front matter來調整文章分類，文章的網址最好是固定的日後才能方便移動：\n\nhttps://example.com/posts/article1/\nhttps://example.com/posts/article2/\nhttps://example.com/posts/article3/\nhttps://example.com/posts/article4/\n\n要解決這個問題，得調整Hugo生成網址的設定。我想要讓不同目錄section下的文章最終都擁有一樣的/posts/網址，即永久連結。\n2. 解決方案：修改PermaLink\n \n\n \n \n #\n \n \n\n\n\n讓我們再看一次Hugo的渲染機制。",
@@ -374,6 +414,16 @@
           "wordCount": 244,
           "title": "Termux proot-distro使用教學：Android手機安裝Linux發行版容器",
           "imageUrl": "https://ivonblog.com/posts/termux-proot-distro/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/timeline-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n overflow: hidden;\n }\n\n html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n overflow: hidden;\n }\n\n .content-warning-close-target {\n position: fixed;\n width: 1px;\n height: 1px;\n opacity: 0;\n pointer-events: none;\n }\n\n #content-warning-accepted:target + .content-warning-overlay {\n display: none;\n }\n\n .content-warning-overlay {\n position: fixed;\n inset: 0;\n z-index: 1000;\n display: grid;\n place-items: center;\n padding: 1.25rem;\n background: rgba(0, 0, 0, 0.68);\n color: #333333;\n overflow: auto;\n }\n\n .content-warning-dialog {\n width: min(92vw, 520px);\n padding: 1.35rem 1.25rem 1.25rem;\n text-align: center;\n background:\n linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);\n border: 1px solid #9f9f9f;\n border-radius: 10px;\n box-shadow:\n inset 0 1px 0 #ffffff,\n inset 0 -1px 0 #c3c3c3,\n 0 12px 28px #050505;\n text-shadow: 0 1px 0 #ffffff;\n }\n\n .content-warning-icon {\n display: block;\n width: 170px;\n max-width: 56vw;\n height: auto;\n margin: 0 auto 1rem;\n }\n\n .content-warning-title {\n margin: 0 0 0.7rem;\n font-size: 1.35rem;\n line-height: 1.3;\n font-weight: 800;\n }\n\n .content-warning-description {\n margin: 0 auto 1.15rem;\n max-width: 32rem;\n line-height: 1.7;\n }\n\n .content-warning-actions {\n display: flex;\n flex-wrap: wrap;\n justify-content: center;\n gap: 0.75rem;\n }\n\n .content-warning-actions button,\n .content-warning-actions a,\n .content-warning-actions label {\n display: inline-block;\n min-width: 7rem;\n padding: 0.45rem 1rem;\n color: inherit;\n text-decoration: none;\n cursor: pointer;\n }\n\n html.dark .content-warning-overlay {\n color: #f2f2f2;\n }\n\n html.dark .content-warning-dialog {\n background:\n linear-gradient(180deg, #555555 0%, #373737 48%, #1f1f1f 49%, #343434 100%);\n border-color: #050505;\n box-shadow:\n inset 0 1px 0 #6a6a6a,\n inset 0 -1px 0 #000000,\n 0 12px 28px #000000;\n text-shadow: 0 -1px 0 #000000;\n }\n\n\n\n\n\n \n \n \n 金、暴力、SEX！年齡驗證\n \n \n 本頁面含有成人、暴力、血腥內容，請問您是否已成年？若您尚未成年，請點選「否」離開本頁面。",
+          "link": "https://ivonblog.com/posts/timeline-2026/",
+          "publishedOn": "2026-05-31T17:01:00.000Z",
+          "wordCount": 5326,
+          "title": "/dev/null",
+          "imageUrl": null
         },
         {
           "id": "https://ivonblog.com/posts/2026060101/",

@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T01:17:10.691Z</updated>
+    <updated>2026-06-02T01:16:20.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
+        <id>https://css-tricks.com/?p=392775</id>
+        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
+        <updated>2026-06-01T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
+Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
+Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在網頁嵌入Markdown簡報：使用Marp + Hugo page bundle HTML iframe]]></title>
+        <id>https://ivonblog.com/posts/embed-marp-slides-in-hugo/</id>
+        <link href="https://ivonblog.com/posts/embed-marp-slides-in-hugo/"/>
+        <updated>2026-06-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Marp是一款讓你用Markdown做簡報的VS Code插件。可以將簡報輸出為PDF或HTML格式。
+我想要在自己的Hugo網頁展示簡報，但又不把它上傳到第三方平台託管，該怎麼辦呢？
+這有幾種做法：一種是在網頁引入Marp的Javascript函式庫，即時將Markdown程式碼渲染成簡報。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux桌面使用Codex CLI / Codex Desktop進行自動化操作]]></title>
+        <id>https://ivonblog.com/posts/install-codex-on-linux/</id>
+        <link href="https://ivonblog.com/posts/install-codex-on-linux/"/>
+        <updated>2026-06-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[分享在Ubuntu Linux使用Codex的方法。
+Codex是OpenAI推出的AI Agent程式，可以讓ChatGPT直接在電腦上執行指令操控電腦，內建多種Skills。
+它能讀取你Linux系統環境變數，根據你的發行版提供適合你環境的解答。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Docker部署qBittorrent，搭配容器VPN做種]]></title>
+        <id>https://ivonblog.com/posts/qbittorrent-docker/</id>
+        <link href="https://ivonblog.com/posts/qbittorrent-docker/"/>
+        <updated>2026-06-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[qBittorrent是一款開源跨平台的下載軟體，支援Linux、Windows、macOS系統，能夠下載BT種子 (.torrent) 和 磁力連結 (.magnet) 協定的檔案。
+
+ 
+在之前的文章介紹了Linux版qBittorrent用法。本文介紹Docker版的qBittorrent裝法，界面大同小異。可以透過瀏覽器遠端存取qBittorrent的下載任務。
+
+ 
+1. 用Docker部署qBittorrent
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+雖說qBittorrent官方有提供qbittorrentofficial/qbittorrent-nox映像檔專門用於遠端的用途，不過我認為linuxserver打包的linuxserver/qbittorrent比較完整，它包含了完整桌面客戶端並啟用WebUI做遠端存取。且這個映像檔提供x86與ARM的多架構支援。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[調整Hugo的PermaLink，讓不同section的頁面產生同一個URL]]></title>
         <id>https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/</id>
@@ -117,6 +178,127 @@ chroot不是虛擬機也不是模擬器，因為chroot容器內部是與宿主�
  
 因為用ptrace的因素，proot的程式執行速度必然比chroot慢，但好處是不用root權限也能跑Linux環境。
 跟chroot一樣，proot只要搭配一個Linux rootfs(根檔案系統)，再利用Termux載入一個假的Linux核心，就能讓程式以為自己跑在一個真的Linux環境。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[/dev/null]]></title>
+        <id>https://ivonblog.com/posts/timeline-2026/</id>
+        <link href="https://ivonblog.com/posts/timeline-2026/"/>
+        <updated>2026-05-31T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+ overflow: hidden;
+ }
+
+ html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+ overflow: hidden;
+ }
+
+ .content-warning-close-target {
+ position: fixed;
+ width: 1px;
+ height: 1px;
+ opacity: 0;
+ pointer-events: none;
+ }
+
+ #content-warning-accepted:target + .content-warning-overlay {
+ display: none;
+ }
+
+ .content-warning-overlay {
+ position: fixed;
+ inset: 0;
+ z-index: 1000;
+ display: grid;
+ place-items: center;
+ padding: 1.25rem;
+ background: rgba(0, 0, 0, 0.68);
+ color: #333333;
+ overflow: auto;
+ }
+
+ .content-warning-dialog {
+ width: min(92vw, 520px);
+ padding: 1.35rem 1.25rem 1.25rem;
+ text-align: center;
+ background:
+ linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
+ border: 1px solid #9f9f9f;
+ border-radius: 10px;
+ box-shadow:
+ inset 0 1px 0 #ffffff,
+ inset 0 -1px 0 #c3c3c3,
+ 0 12px 28px #050505;
+ text-shadow: 0 1px 0 #ffffff;
+ }
+
+ .content-warning-icon {
+ display: block;
+ width: 170px;
+ max-width: 56vw;
+ height: auto;
+ margin: 0 auto 1rem;
+ }
+
+ .content-warning-title {
+ margin: 0 0 0.7rem;
+ font-size: 1.35rem;
+ line-height: 1.3;
+ font-weight: 800;
+ }
+
+ .content-warning-description {
+ margin: 0 auto 1.15rem;
+ max-width: 32rem;
+ line-height: 1.7;
+ }
+
+ .content-warning-actions {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 0.75rem;
+ }
+
+ .content-warning-actions button,
+ .content-warning-actions a,
+ .content-warning-actions label {
+ display: inline-block;
+ min-width: 7rem;
+ padding: 0.45rem 1rem;
+ color: inherit;
+ text-decoration: none;
+ cursor: pointer;
+ }
+
+ html.dark .content-warning-overlay {
+ color: #f2f2f2;
+ }
+
+ html.dark .content-warning-dialog {
+ background:
+ linear-gradient(180deg, #555555 0%, #373737 48%, #1f1f1f 49%, #343434 100%);
+ border-color: #050505;
+ box-shadow:
+ inset 0 1px 0 #6a6a6a,
+ inset 0 -1px 0 #000000,
+ 0 12px 28px #000000;
+ text-shadow: 0 -1px 0 #000000;
+ }
+
+
+
+
+
+ 
+ 
+ 
+ 金、暴力、SEX！年齡驗證
+ 
+ 
+ 本頁面含有成人、暴力、血腥內容，請問您是否已成年？若您尚未成年，請點選「否」離開本頁面。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
