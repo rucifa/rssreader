@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T01:16:20.678Z</updated>
+    <updated>2026-06-03T01:21:34.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[427: Next.js and The Journey of SSR]]></title>
+        <id>https://blog.codepen.io/?p=21237</id>
+        <link href="https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/"/>
+        <updated>2026-06-02T14:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id="app">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[427: Next.js and The Journey of SSR]]></title>
+        <id>https://blog.codepen.io/?p=21237</id>
+        <link href="https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/"/>
+        <updated>2026-06-02T14:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id="app">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[::search-text]]></title>
+        <id>https://css-tricks.com/?page_id=393544</id>
+        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
+        <updated>2026-06-02T12:59:21.000Z</updated>
+        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
+::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Android Open：反對Google強制驗證Android開發者身份，阻擋安裝第三方APK]]></title>
+        <id>https://ivonblog.com/posts/keep-android-open/</id>
+        <link href="https://ivonblog.com/posts/keep-android-open/"/>
+        <updated>2026-06-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[未來，Android手機將無法自由地安裝APK！
+從2026年9月開始，Google將實施Android Developer Verification政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。
+請支援：保持Android開放運動 (Keep Android Open)！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
         <id>https://css-tricks.com/?p=392775</id>

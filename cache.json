@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=393544",
+          "author": "Sunkanmi Fafowora",
+          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+          "publishedOn": "2026-06-02T12:59:21.000Z",
+          "wordCount": 4202,
+          "title": "::search-text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=392775",
           "author": "Zell Liew",
           "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -365,6 +375,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/keep-android-open/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "未來，Android手機將無法自由地安裝APK！\n從2026年9月開始，Google將實施Android Developer Verification政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。\n請支援：保持Android開放運動 (Keep Android Open)！",
+          "link": "https://ivonblog.com/posts/keep-android-open/",
+          "publishedOn": "2026-06-02T04:00:00.000Z",
+          "wordCount": 197,
+          "title": "Keep Android Open：反對Google強制驗證Android開發者身份，阻擋安裝第三方APK",
+          "imageUrl": "https://ivonblog.com/posts/keep-android-open/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/embed-marp-slides-in-hugo/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -856,6 +876,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21237",
+          "author": "Chris Coyier",
+          "description": "Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id=\"app\">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]",
+          "link": "https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/",
+          "publishedOn": "2026-06-02T14:01:50.000Z",
+          "wordCount": 906,
+          "title": "427: Next.js and The Journey of SSR",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21226",
           "author": "Chris Coyier",
           "description": "Stephen and Chris chat about how the 2.0 editor (well, the compiler really) understands and supports Browserslist, a config format that lives in your package.json file that multiple blocks can understand and make browser support decisions against. Jump Links",
@@ -922,6 +952,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21237",
+          "author": "Chris Coyier",
+          "description": "Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id=\"app\">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]",
+          "link": "https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/",
+          "publishedOn": "2026-06-02T14:01:50.000Z",
+          "wordCount": 906,
+          "title": "427: Next.js and The Journey of SSR",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21226",
           "author": "Chris Coyier",
