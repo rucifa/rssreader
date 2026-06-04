@@ -12,6 +12,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=243521",
+          "author": "Geoff Graham",
+          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+          "publishedOn": "2026-06-03T15:02:38.000Z",
+          "wordCount": 4295,
+          "title": "offset-path",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394739",
+          "author": "Declan Chidlow",
+          "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+          "publishedOn": "2026-06-03T13:03:21.000Z",
+          "wordCount": 4179,
+          "title": "@custom-media",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394732",
+          "author": "Declan Chidlow",
+          "description": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/rules/f/function/",
+          "publishedOn": "2026-06-03T13:02:39.000Z",
+          "wordCount": 4787,
+          "title": "@function",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=393544",
           "author": "Sunkanmi Fafowora",
           "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -215,16 +245,6 @@
           "wordCount": 4651,
           "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393102",
-          "author": "Kevine Nzapdi",
-          "description": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\nFixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
-          "publishedOn": "2026-05-04T14:01:36.000Z",
-          "wordCount": 5267,
-          "title": "Fixed-Height Cards: More Fragile Than They Look",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/borken-card-layout.jpg"
         }
       ]
     },
@@ -233,6 +253,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+          "publishedOn": "2026-06-03T13:00:00.000Z",
+          "wordCount": 3390,
+          "title": "How To Make Your Design System AI-Ready",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -352,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
-          "author": "hello@smashingmagazine.com (Kyrylo Levashov)",
-          "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
-          "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
-          "publishedOn": "2026-05-05T08:00:00.000Z",
-          "wordCount": 3952,
-          "title": "Rethinking The Experience Of System Tools",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg"
         }
       ]
     },
@@ -375,6 +395,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/linux-on-screen-keyboard/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Use virtual / on-screen keyboard on Linux devices with touch screen.\n\n \n使用Microsoft Surface、Lenovo Yoga、Pine64 PineTab、Librem Tab這類Linux平板的用戶，就會遇到觸控螢幕輸入的問題吧。我們是否能用螢幕小鍵盤打中文呢？",
+          "link": "https://ivonblog.com/posts/linux-on-screen-keyboard/",
+          "publishedOn": "2026-06-03T11:00:00.000Z",
+          "wordCount": 267,
+          "title": "Linux觸控螢幕使用虛擬鍵盤打字 (X11 & Wayland桌面)",
+          "imageUrl": "https://ivonblog.com/posts/linux-on-screen-keyboard/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/keep-android-open/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -876,6 +906,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21231",
+          "author": "Chris Coyier",
+          "description": "I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.",
+          "link": "https://blog.codepen.io/2026/06/03/chris-corner-a11y/",
+          "publishedOn": "2026-06-03T15:24:32.000Z",
+          "wordCount": 1237,
+          "title": "Chris’ Corner: A11Y",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21237",
           "author": "Chris Coyier",
           "description": "Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id=\"app\">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]",
@@ -952,6 +992,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21231",
+          "author": "Chris Coyier",
+          "description": "I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.",
+          "link": "https://blog.codepen.io/2026/06/03/chris-corner-a11y/",
+          "publishedOn": "2026-06-03T15:24:32.000Z",
+          "wordCount": 1237,
+          "title": "Chris’ Corner: A11Y",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21237",
           "author": "Chris Coyier",

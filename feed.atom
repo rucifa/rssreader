@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T01:21:34.234Z</updated>
+    <updated>2026-06-04T01:21:29.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: A11Y]]></title>
+        <id>https://blog.codepen.io/?p=21231</id>
+        <link href="https://blog.codepen.io/2026/06/03/chris-corner-a11y/"/>
+        <updated>2026-06-03T15:24:32.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: A11Y]]></title>
+        <id>https://blog.codepen.io/?p=21231</id>
+        <link href="https://blog.codepen.io/2026/06/03/chris-corner-a11y/"/>
+        <updated>2026-06-03T15:24:32.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[offset-path]]></title>
+        <id>http://css-tricks.com/?page_id=243521</id>
+        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
+        <updated>2026-06-03T15:02:38.000Z</updated>
+        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
+This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
+offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@custom-media]]></title>
+        <id>https://css-tricks.com/?page_id=394739</id>
+        <link href="https://css-tricks.com/almanac/rules/c/custom-media/"/>
+        <updated>2026-06-03T13:03:21.000Z</updated>
+        <summary type="html"><![CDATA[The CSS @custom-media at-rule allows creating aliases for media queries.
+@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@function]]></title>
+        <id>https://css-tricks.com/?page_id=394732</id>
+        <link href="https://css-tricks.com/almanac/rules/f/function/"/>
+        <updated>2026-06-03T13:02:39.000Z</updated>
+        <summary type="html"><![CDATA[The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. 
+@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
+        <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
+        <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
+        <updated>2026-06-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux觸控螢幕使用虛擬鍵盤打字 (X11 & Wayland桌面)]]></title>
+        <id>https://ivonblog.com/posts/linux-on-screen-keyboard/</id>
+        <link href="https://ivonblog.com/posts/linux-on-screen-keyboard/"/>
+        <updated>2026-06-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use virtual / on-screen keyboard on Linux devices with touch screen.
+
+ 
+使用Microsoft Surface、Lenovo Yoga、Pine64 PineTab、Librem Tab這類Linux平板的用戶，就會遇到觸控螢幕輸入的問題吧。我們是否能用螢幕小鍵盤打中文呢？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[427: Next.js and The Journey of SSR]]></title>
         <id>https://blog.codepen.io/?p=21237</id>
@@ -2097,27 +2174,6 @@ Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten a
         <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking The Experience Of System Tools]]></title>
-        <id>https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/</id>
-        <link href="https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/"/>
-        <updated>2026-05-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kyrylo Levashov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed-Height Cards: More Fragile Than They Look]]></title>
-        <id>https://css-tricks.com/?p=393102</id>
-        <link href="https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/"/>
-        <updated>2026-05-04T14:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.
-Fixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Kevine Nzapdi</name>
         </author>
     </entry>
 </feed>
