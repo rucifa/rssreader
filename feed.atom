@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T01:21:29.866Z</updated>
+    <updated>2026-06-05T01:12:16.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
+        <id>https://css-tricks.com/?p=393178</id>
+        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
+        <updated>2026-06-04T13:14:49.000Z</updated>
+        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
+Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Antoine Villepreux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waywallen：在Linux系統享用Wallpaper Engine動態桌布]]></title>
+        <id>https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/</id>
+        <link href="https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/"/>
+        <updated>2026-06-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[想要在Linux桌面安裝動態桌布嗎？試試Wallpaper Engine吧！這個軟體由Kristjan Skutta等人開發，在Steam上非常高人氣。有許多精美的動態桌布可以下載。
+咦，但是這個軟體不是只有Windows版本嗎？是的，Wallpaper Engine作者說過暫時無支援其他平臺的計劃。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux使用Discord的經驗分享]]></title>
+        <id>https://ivonblog.com/posts/installl-discord-on-linux/</id>
+        <link href="https://ivonblog.com/posts/installl-discord-on-linux/"/>
+        <updated>2026-06-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discord是美國Discord公司推出的跨平臺通訊軟體，提供遊戲玩家一個群聊的空間，並有低延遲的語音通話功能。
+在Linux使用Discord卡簡單，不過有一些眉角愛注意！
+
+ 
+
+
+1. 官方客戶端與第三方客戶端？
+ 
+
+ 
+ 
+ #
+ 
+ 
+
+Discord是跨平臺軟體，官方客戶端是用Electron寫的專有軟體，因此不可避免的臃腫。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: A11Y]]></title>
         <id>https://blog.codepen.io/?p=21231</id>
@@ -2164,16 +2211,6 @@ Google’s Prompt API originally handwritten and published with love on CSS-Tric
 Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
-        <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
-        <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
-        <updated>2026-05-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393178",
+          "author": "Antoine Villepreux",
+          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+          "publishedOn": "2026-06-04T13:14:49.000Z",
+          "wordCount": 4924,
+          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
+            "length": "644313",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=243521",
           "author": "Geoff Graham",
           "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -372,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
-          "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8653,
-          "title": "The Architecture Of Local-First Web Development",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg"
         }
       ]
     },
@@ -395,6 +395,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "想要在Linux桌面安裝動態桌布嗎？試試Wallpaper Engine吧！這個軟體由Kristjan Skutta等人開發，在Steam上非常高人氣。有許多精美的動態桌布可以下載。\n咦，但是這個軟體不是只有Windows版本嗎？是的，Wallpaper Engine作者說過暫時無支援其他平臺的計劃。",
+          "link": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/",
+          "publishedOn": "2026-06-04T08:00:00.000Z",
+          "wordCount": 311,
+          "title": "Waywallen：在Linux系統享用Wallpaper Engine動態桌布",
+          "imageUrl": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/installl-discord-on-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Discord是美國Discord公司推出的跨平臺通訊軟體，提供遊戲玩家一個群聊的空間，並有低延遲的語音通話功能。\n在Linux使用Discord卡簡單，不過有一些眉角愛注意！\n\n \n\n\n1. 官方客戶端與第三方客戶端？\n \n\n \n \n #\n \n \n\nDiscord是跨平臺軟體，官方客戶端是用Electron寫的專有軟體，因此不可避免的臃腫。",
+          "link": "https://ivonblog.com/posts/installl-discord-on-linux/",
+          "publishedOn": "2026-06-04T07:00:00.000Z",
+          "wordCount": 252,
+          "title": "在Linux使用Discord的經驗分享",
+          "imageUrl": "https://ivonblog.com/posts/installl-discord-on-linux/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/linux-on-screen-keyboard/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
