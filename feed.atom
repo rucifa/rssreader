@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T01:12:16.819Z</updated>
+    <updated>2026-06-06T01:07:46.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android不是Linux系統，正如Fate裡面魔術不是魔法]]></title>
+        <id>https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/</id>
+        <link href="https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/"/>
+        <updated>2026-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[詠唱：
+I am the bone of my source.
+Shell is my body, and fork is my blood.
+I have compiled over a thousand builds.
+Unknown to root.
+Nor known to closed.
+Have withstood bugs to create many forks.
+Yet, these hands will never own the cloud.
+So, as I pray——
+Unlimited Source Works.
+
+讓我告訴你吧：Android不是Linux系統，就跟《Fate/stay night》裡面魔術不是魔法一樣。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
         <id>https://css-tricks.com/?p=393178</id>
@@ -2167,50 +2188,6 @@ Using CSS corner-shape For Folded Corners originally handwritten and published
 A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Prompt API]]></title>
-        <id>https://css-tricks.com/?p=394653</id>
-        <link href="https://css-tricks.com/googles-prompt-api/"/>
-        <updated>2026-05-06T19:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:
-As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, 
-…
-Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Import Maps]]></title>
-        <id>https://blog.codepen.io/?p=21155</id>
-        <link href="https://blog.codepen.io/2026/05/06/chris-corner-import-maps/"/>
-        <updated>2026-05-06T14:33:36.000Z</updated>
-        <summary type="html"><![CDATA[<script type="importmap"> Import Maps are pretty great! You get to write import thing from "place"; and then you get to map what you mean by "place". You could map it to a file in your project somewhere, that way you’ve got one place to update it and update it everywhere that imports it. Or you […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Import Maps]]></title>
-        <id>https://blog.codepen.io/?p=21155</id>
-        <link href="https://blog.codepen.io/2026/05/06/chris-corner-import-maps/"/>
-        <updated>2026-05-06T14:33:36.000Z</updated>
-        <summary type="html"><![CDATA[<script type="importmap"> Import Maps are pretty great! You get to write import thing from "place"; and then you get to map what you mean by "place". You could map it to a file in your project somewhere, that way you’ve got one place to update it and update it everywhere that imports it. Or you […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Zigzag CSS Layouts With a Grid + Transform Trick]]></title>
-        <id>https://css-tricks.com/?p=393013</id>
-        <link href="https://css-tricks.com/zigzag-css-grid-layouts/"/>
-        <updated>2026-05-06T13:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.
-Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
         </author>
     </entry>
 </feed>

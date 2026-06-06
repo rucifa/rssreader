@@ -240,26 +240,6 @@
           "wordCount": 4164,
           "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394653",
-          "author": "Geoff Graham",
-          "description": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/googles-prompt-api/",
-          "publishedOn": "2026-05-06T19:41:29.000Z",
-          "wordCount": 3345,
-          "title": "Google’s Prompt API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393013",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
-          "publishedOn": "2026-05-06T13:50:44.000Z",
-          "wordCount": 4651,
-          "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
         }
       ]
     },
@@ -395,6 +375,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "詠唱：\nI am the bone of my source.\nShell is my body, and fork is my blood.\nI have compiled over a thousand builds.\nUnknown to root.\nNor known to closed.\nHave withstood bugs to create many forks.\nYet, these hands will never own the cloud.\nSo, as I pray——\nUnlimited Source Works.\n\n讓我告訴你吧：Android不是Linux系統，就跟《Fate/stay night》裡面魔術不是魔法一樣。",
+          "link": "https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/",
+          "publishedOn": "2026-06-05T15:00:00.000Z",
+          "wordCount": 233,
+          "title": "Android不是Linux系統，正如Fate裡面魔術不是魔法",
+          "imageUrl": "https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -994,16 +984,6 @@
           "wordCount": 1547,
           "title": "Chris’ Corner: Check It B4 U Wreck It",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/claude-scaled.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21155",
-          "author": "Chris Coyier",
-          "description": "<script type=\"importmap\"> Import Maps are pretty great! You get to write import thing from \"place\"; and then you get to map what you mean by \"place\". You could map it to a file in your project somewhere, that way you’ve got one place to update it and update it everywhere that imports it. Or you […]",
-          "link": "https://blog.codepen.io/2026/05/06/chris-corner-import-maps/",
-          "publishedOn": "2026-05-06T14:33:36.000Z",
-          "wordCount": 1142,
-          "title": "Chris’ Corner: Import Maps",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1081,16 +1061,6 @@
           "wordCount": 1547,
           "title": "Chris’ Corner: Check It B4 U Wreck It",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/claude-scaled.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21155",
-          "author": "Chris Coyier",
-          "description": "<script type=\"importmap\"> Import Maps are pretty great! You get to write import thing from \"place\"; and then you get to map what you mean by \"place\". You could map it to a file in your project somewhere, that way you’ve got one place to update it and update it everywhere that imports it. Or you […]",
-          "link": "https://blog.codepen.io/2026/05/06/chris-corner-import-maps/",
-          "publishedOn": "2026-05-06T14:33:36.000Z",
-          "wordCount": 1142,
-          "title": "Chris’ Corner: Import Maps",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     }
