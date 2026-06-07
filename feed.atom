@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-06T01:07:46.491Z</updated>
+    <updated>2026-06-07T01:18:07.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -2177,17 +2177,6 @@ Xposed最初是由rovo89開發的軟體，於2017年發佈。Xposed從Android 7�
 Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Scrollytelling Gift for Mum on Mother’s Day 2026]]></title>
-        <id>https://css-tricks.com/?p=394649</id>
-        <link href="https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/"/>
-        <updated>2026-05-07T14:22:38.000Z</updated>
-        <summary type="html"><![CDATA[I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.
-A Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>
