@@ -2,10 +2,192 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T01:18:07.076Z</updated>
+    <updated>2026-06-08T01:15:59.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[gallery-dl教學：大量下載IG、X、Pixiv圖片的命令行工具]]></title>
+        <id>https://ivonblog.com/posts/gallery-dl-usage/</id>
+        <link href="https://ivonblog.com/posts/gallery-dl-usage/"/>
+        <updated>2026-06-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你看到喜歡的帳號po的圖，你會一張一張右鍵存檔嗎？這樣太沒效率了。
+gallery-dl是一款用Python寫成的命令行圖片下載工具，專門用來大量抓圖之用。
+例如，你可以下載某個Instagram帳號的所有公開圖片。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用gallery-dl批次下載E-hentai本子]]></title>
+        <id>https://ivonblog.com/posts/gallery-dl-download-e-hentai-galleries/</id>
+        <link href="https://ivonblog.com/posts/gallery-dl-download-e-hentai-galleries/"/>
+        <updated>2026-06-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+ overflow: hidden;
+ }
+
+ html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+ overflow: hidden;
+ }
+
+ .content-warning-close-target {
+ position: fixed;
+ width: 1px;
+ height: 1px;
+ opacity: 0;
+ pointer-events: none;
+ }
+
+ #content-warning-accepted:target + .content-warning-overlay {
+ display: none;
+ }
+
+ .content-warning-overlay {
+ position: fixed;
+ inset: 0;
+ z-index: 1000;
+ display: grid;
+ place-items: center;
+ padding: 1.25rem;
+ background: rgba(0, 0, 0, 0.68);
+ color: #333333;
+ overflow: auto;
+ }
+
+ .content-warning-dialog {
+ width: min(92vw, 520px);
+ padding: 1.35rem 1.25rem 1.25rem;
+ text-align: center;
+ background:
+ linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
+ border: 1px solid #9f9f9f;
+ border-radius: 10px;
+ box-shadow:
+ inset 0 1px 0 #ffffff,
+ inset 0 -1px 0 #c3c3c3,
+ 0 12px 28px #050505;
+ text-shadow: 0 1px 0 #ffffff;
+ }
+
+ .content-warning-icon {
+ display: block;
+ width: 170px;
+ max-width: 56vw;
+ height: auto;
+ margin: 0 auto 1rem;
+ }
+
+ .content-warning-title {
+ margin: 0 0 0.7rem;
+ font-size: 1.35rem;
+ line-height: 1.3;
+ font-weight: 800;
+ }
+
+ .content-warning-description {
+ margin: 0 auto 1.15rem;
+ max-width: 32rem;
+ line-height: 1.7;
+ }
+
+ .content-warning-actions {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 0.75rem;
+ }
+
+ .content-warning-actions button,
+ .content-warning-actions a,
+ .content-warning-actions label {
+ display: inline-block;
+ min-width: 7rem;
+ padding: 0.45rem 1rem;
+ color: inherit;
+ text-decoration: none;
+ cursor: pointer;
+ }
+
+ html.dark .content-warning-overlay {
+ color: #f2f2f2;
+ }
+
+ html.dark .content-warning-dialog {
+ background:
+ linear-gradient(180deg, #555555 0%, #373737 48%, #1f1f1f 49%, #343434 100%);
+ border-color: #050505;
+ box-shadow:
+ inset 0 1px 0 #6a6a6a,
+ inset 0 -1px 0 #000000,
+ 0 12px 28px #000000;
+ text-shadow: 0 -1px 0 #000000;
+ }
+
+
+
+
+
+ 
+ 
+ 
+ 金、暴力、SEX！年齡驗證
+ 
+ 
+ 本頁面含有成人、暴力、血腥內容，請問您是否已成年？若您尚未成年，請點選「否」離開本頁面。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用Aurora Store下載Play商店APP，免登入Google帳號]]></title>
+        <id>https://ivonblog.com/posts/how-to-install-aurora-store/</id>
+        <link href="https://ivonblog.com/posts/how-to-install-aurora-store/"/>
+        <updated>2026-06-06T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aurora Store是一款開源的Android應用商店，用來下載Google Play才有的APP又不用登入Google帳號。
+
+ 
+
+適用於在沒有GMS服務的環境安裝Play商店的APP。
+例如對於Degoogle的用戶，你依然想安裝Line，就得到ApkMirror找APK。有了Aurora Store就能省去手動抓APK的時間了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microG設定教學，Google Play服務隱私替代品]]></title>
+        <id>https://ivonblog.com/posts/how-to-install-microg/</id>
+        <link href="https://ivonblog.com/posts/how-to-install-microg/"/>
+        <updated>2026-06-06T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「microG」是Google服務框架API的開源實作，源自德國，用來取代GMS服務，避免某些APP無法運作，讓你能在APP登入Google帳號。
+Android手機廠商多半跟Google有合作關係，裝有Google行動服務（GMS），也就是Google Play服務。很多APP依賴它才能運作。不過GMS服務權限太高，且有蒐集資料過多的隱私疑慮，幾乎24小時在運作。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yt-dlp安裝教學 (Linux / Windows / macOS / Android / iOS)]]></title>
+        <id>https://ivonblog.com/posts/yt-dlp-installation/</id>
+        <link href="https://ivonblog.com/posts/yt-dlp-installation/"/>
+        <updated>2026-06-06T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[介紹如何在各大系統安裝影片下載器「yt-dlp」。
+參考yt-dlp的說明文件Github。
+由於Youtube會常常更新網站，yt-dlp開發者也得常常修正下載方法。因此用套件管理器安裝yt-dlp最方便，可以自動收到yt-dlp程式更新。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yt-dlp指令使用教學，萬能Youtube影片命令行下載工具]]></title>
+        <id>https://ivonblog.com/posts/yt-dlp-usage/</id>
+        <link href="https://ivonblog.com/posts/yt-dlp-usage/"/>
+        <updated>2026-06-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文Ivon簡介如何使用yt-dlp工具，下載Youtube影片、音樂。
+如果你想要一個開源免費的Youtube下載軟體，那一定就得試試「yt-dlp」了。跨平台支援Linux/Windows/macOS/Android/iOS系統。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android不是Linux系統，正如Fate裡面魔術不是魔法]]></title>
         <id>https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/</id>
@@ -23,6 +205,18 @@ So, as I pray——
 Unlimited Source Works.
 
 讓我告訴你吧：Android不是Linux系統，就跟《Fate/stay night》裡面魔術不是魔法一樣。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android如何移除GMS服務，不刪除資料，改刷MicroG]]></title>
+        <id>https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/</id>
+        <link href="https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/"/>
+        <updated>2026-06-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remove Google Play Services (MindTheGapps) from LineageOS without losing data.
+在不清除資料的情況下從Android手機解除安裝Google服務框架(GMS)。
+這篇文章是在LineageOS ROM測試的。非LineageOS用戶斟酌參考，雖然理論上可行但有機率卡開機。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
@@ -2166,17 +2360,6 @@ Xposed最初是由rovo89開發的軟體，於2017年發佈。Xposed從Android 7�
 本文介紹的是目前最新的活躍分支：JingMatrix維護的「Vector Framework」。Vector Framework最初是2024年出現的，用於接替停止維護的LSPosed（原開發者遭到人身攻擊，遂將LSPosed轉向閉源發佈，從此消失在Github）。後來此專案改名為Vector Framework，保留了對舊版libxposed API的相容性。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
-        <id>https://css-tricks.com/?p=393431</id>
-        <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
-        <updated>2026-05-08T13:54:10.000Z</updated>
-        <summary type="html"><![CDATA[I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.
-Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
