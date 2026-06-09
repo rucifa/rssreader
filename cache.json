@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393503",
+          "author": "Geoff Graham",
+          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+          "publishedOn": "2026-06-08T13:00:34.000Z",
+          "wordCount": 3354,
+          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
+            "length": "3122373",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=393178",
           "author": "Antoine Villepreux",
           "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -350,6 +365,66 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/minecraft-classic-parody-songs/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "A list of classic Minecraft songs from 2011 to 2013.\n古有孔子刪改詩經成詩三百，現有在下整理古典典籍藉此紀念過去的譯者: s2011131。(下簡稱S大)\n\n \n\n\n1. 偉大的翻譯先驅者\n \n\n \n \n #\n \n \n\n2011 ~ 2013年間，是Minecraft第一次開始盛行的年代，大量的Minecraft歌曲也在此出現，譯者也紛紛出現，此時翻譯最多的非S大莫屬。",
+          "link": "https://ivonblog.com/posts/minecraft-classic-parody-songs/",
+          "publishedOn": "2026-06-08T16:09:00.000Z",
+          "wordCount": 1371,
+          "title": "Minecraft歌曲翻譯：2011年～2013年的經典101首歌曲列表",
+          "imageUrl": "https://ivonblog.com/posts/minecraft-classic-parody-songs/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/the-bureaucratic-theory-of-max-weber/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我們時代的命運以理性化與知識化為特徵，而最重要的是世界的除魅。 （馬克斯·韋伯）\n一個組織如何運作？一個組織或公司的層級應該有清楚的規則、職位與權力。與其透過內線關係雇用員工，一個人的能力更重要。他是古典組織理論中官僚學派的創始人。Weber的管理理論對政府等大型組織有益，因為他制定了組織的清楚規則，並詳細解釋它們應如何行為。",
+          "link": "https://ivonblog.com/posts/the-bureaucratic-theory-of-max-weber/",
+          "publishedOn": "2026-06-08T15:00:00.000Z",
+          "wordCount": 247,
+          "title": "馬克斯·韋伯(Max Weber)的官僚理論簡述與在管理學中的運用",
+          "imageUrl": "https://ivonblog.com/posts/the-bureaucratic-theory-of-max-weber/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/the-comparison-and-contrast-of-a6m-zero-and-ki-43-oscar/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "三菱A6M零式艦上戰鬥機 與 中島 Ki-43 一式戰鬥機「隼」 的比較。\n（原文我是用英文寫的，所以這篇文章翻譯腔很重）\n介紹\n \n\n \n \n #\n \n \n\n1937年，日本帝國陸軍與海軍入侵中國，並開始轟炸中國城市。在天上，中國仰賴來自蘇聯與美國的志願飛行員對抗日本飛機。然而，美國人被日本飛機震驚了，因為它們非常靈活，擅長纏鬥。最快的P-40在轉彎戰中也追不上它們，總是被日本的零式戰鬥機與一式戰擊落。盟軍給它們的代號是「Zeke」與「Oscar」。「零戰」與「一式戰」有一些相似的特徵，但也有顯著差異。",
+          "link": "https://ivonblog.com/posts/the-comparison-and-contrast-of-a6m-zero-and-ki-43-oscar/",
+          "publishedOn": "2026-06-08T14:00:00.000Z",
+          "wordCount": 220,
+          "title": "簡單比較日軍「零戰」與「一式戰」的性能",
+          "imageUrl": "https://ivonblog.com/posts/the-comparison-and-contrast-of-a6m-zero-and-ki-43-oscar/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/artwork-20210429/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "1937年至1945年，第二次世界大戰，日本派出許多架次轟炸機，殺死了許多中國平民。\n\n \n\nPixiv\nGoodbye Blue Sky，在九七式重爆黑影籠罩下，再會藍天，再會青天白日。\n旭日即將吃掉白日！\n這張圖我確實有仿造當時戰爭海報的風格繪製，例如日本常常配上軍事畫面，表面寫滿「日華親善」、「暴支膺懲」的文字，實則是宣揚帝國主義。",
+          "link": "https://ivonblog.com/posts/artwork-20210429/",
+          "publishedOn": "2026-06-08T13:00:00.000Z",
+          "wordCount": 246,
+          "title": "繪圖：日本轟炸中國，再會青天白日 Goodbye Blue Sky",
+          "imageUrl": "https://ivonblog.com/posts/artwork-20210429/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/3dartwork-20210810/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "宮崎駿電影《紅豬》(Proco Rosso)波魯克駕駛的戰鬥機，Savoia S.21飛行艇。使用Blockbench製作，2021年8月10日發表。\n渲染圖使用了翻譯學的localization技巧，因為波魯克把自己變成豬，Minecraft裡面的「豬人」代表當然就是豬布靈囉…",
+          "link": "https://ivonblog.com/posts/3dartwork-20210810/",
+          "publishedOn": "2026-06-08T12:00:00.000Z",
+          "wordCount": 220,
+          "title": "【3D繪圖】紅豬波魯克座機Savoia S.21，在那個人還活得像人的時代",
+          "imageUrl": "https://ivonblog.com/posts/3dartwork-20210810/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-tor-proxy/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "How to setup Tor proxy on Linux.\nTor，The Onion Router，又稱洋蔥網路，是一種匿名上網的開源技術，連上網路的時候會經過多次跳轉，可以有效隱藏使用者的IP，保護上網隱私。\n此外，連上Tor網路，使用者便能存取以.onion網址結尾的網站（俗稱暗網，儘管這個定義並不準確）。",
+          "link": "https://ivonblog.com/posts/linux-tor-proxy/",
+          "publishedOn": "2026-06-08T04:00:00.000Z",
+          "wordCount": 293,
+          "title": "Linux電腦如何設定Tor代理連線 ＆ 安裝Tor瀏覽器",
+          "imageUrl": "https://ivonblog.com/posts/linux-tor-proxy/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/gallery-dl-usage/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -961,6 +1036,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21244",
+          "author": "Chris Coyier",
+          "description": "I’ve been doing computers for a good minute, but the Scroll Lock key still predates me. There may have been a day when I could have explained what it does, but that knowledge had evaporated until I read Marcin Wichary’s Lock Scroll With a Vengeance. It’s fascinating that the technology that deprecates the Scroll Lock […]",
+          "link": "https://blog.codepen.io/2026/06/08/chris-corner-design-3/",
+          "publishedOn": "2026-06-08T17:58:22.000Z",
+          "wordCount": null,
+          "title": "Chris’ Corner: Design",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codepen.io/?p=21231",
           "author": "Chris Coyier",
           "description": "I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.",
@@ -1037,6 +1122,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21244",
+          "author": "Chris Coyier",
+          "description": "I’ve been doing computers for a good minute, but the Scroll Lock key still predates me. There may have been a day when I could have explained what it does, but that knowledge had evaporated until I read Marcin Wichary’s Lock Scroll With a Vengeance. It’s fascinating that the technology that deprecates the Scroll Lock […]",
+          "link": "https://blog.codepen.io/2026/06/08/chris-corner-design-3/",
+          "publishedOn": "2026-06-08T17:58:22.000Z",
+          "wordCount": null,
+          "title": "Chris’ Corner: Design",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21231",
           "author": "Chris Coyier",
