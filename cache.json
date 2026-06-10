@@ -366,6 +366,46 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/android-newpipe/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "NewPipe是一款輕量開源的第三方Youtube APP，適合想不受打擾看Youtube影片、聽Youtube音樂的用戶使用。\n\n \n\nNewPipe有以下特色：\nAPP容量小，速度快，最低支援到Android 5的裝置\n界面適用於Android手機/平板/電視盒\n無廣告，無追蹤器\n支援背景與懸浮窗播放\n將任意影片加入待播清單，自由調整影片播放順序\n可指定搜尋音樂時只列出專輯，不列出MV結果\n支援下載影片或純音訊\n隨時備份觀看記錄和播放清單\n無法登入Google帳號，不支援Chromecast\n本文將會詳細介紹NewPipe各個功能的用法。",
+          "link": "https://ivonblog.com/posts/android-newpipe/",
+          "publishedOn": "2026-06-09T15:00:00.000Z",
+          "wordCount": 260,
+          "title": "NewPipe使用教學，無廣告的第三方Youtube App，適用Android手機/平板/電視盒",
+          "imageUrl": "https://ivonblog.com/posts/android-newpipe/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/build-a-website-with-hugo/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "「Hugo」是一支Go語言寫成的靜態網站生成器(static site generator)，支援Linux、Windows、macOS。使用者可以用Hugo架設個人部落格、程式說明文件，甚至是商業網站。\n\n \n\n這篇文章簡介如何在個人電腦用Hugo生成靜態網站，將原始碼提交到Github，並部署至Netlify，完成網站架設。整個過程大致上免費，只有域名需要花錢。",
+          "link": "https://ivonblog.com/posts/build-a-website-with-hugo/",
+          "publishedOn": "2026-06-09T10:00:00.000Z",
+          "wordCount": 370,
+          "title": "Hugo + Github + Netlify免費架設靜態網站教學",
+          "imageUrl": "https://ivonblog.com/posts/build-a-website-with-hugo/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/anime4k-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "如果你找到的動漫影片畫質低下想要改善，或是看到喜歡的圖片畫質卻不夠做成桌布，那麼你就需要能用魔法放大圖像的工具。\n在這裡為您介紹bloc97開發的「Anime4K」，它是可以即時提昇2D動畫畫質的開源工具。不用轉檔播放影片立即生效。可在Linux上達成類似mpv-lazy的效果。",
+          "link": "https://ivonblog.com/posts/anime4k-linux/",
+          "publishedOn": "2026-06-09T09:00:00.000Z",
+          "wordCount": 375,
+          "title": "Linux版Anime4K使用教學，一鍵提昇動畫畫質",
+          "imageUrl": "https://ivonblog.com/posts/anime4k-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/mpv-mvtools-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "解說如何在Linux系統設定MPV，配合VapourSynth的MVTools插件達到即時補幀效果，類似Windows上的mpv-lazy那樣。\n\n \n\n不知何為補幀？請看這部30FPS影片補幀到60FPS後的效果：",
+          "link": "https://ivonblog.com/posts/mpv-mvtools-linux/",
+          "publishedOn": "2026-06-09T08:00:00.000Z",
+          "wordCount": 795,
+          "title": "動畫即時補幀 ～ Linux版MPV播放器 ＋ VapourSynth MVTools設定教學",
+          "imageUrl": "https://ivonblog.com/posts/mpv-mvtools-linux/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/minecraft-classic-parody-songs/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "A list of classic Minecraft songs from 2011 to 2013.\n古有孔子刪改詩經成詩三百，現有在下整理古典典籍藉此紀念過去的譯者: s2011131。(下簡稱S大)\n\n \n\n\n1. 偉大的翻譯先驅者\n \n\n \n \n #\n \n \n\n2011 ~ 2013年間，是Minecraft第一次開始盛行的年代，大量的Minecraft歌曲也在此出現，譯者也紛紛出現，此時翻譯最多的非S大莫屬。",
@@ -414,6 +454,16 @@
           "wordCount": 220,
           "title": "【3D繪圖】紅豬波魯克座機Savoia S.21，在那個人還活得像人的時代",
           "imageUrl": "https://ivonblog.com/posts/3dartwork-20210810/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/vapoursynth-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "討論如何在Linux系統安裝VapourSynth。\n「VapourSynth」是一款開源跨平台的影片處理軟體，使用C++和Python寫成，支援Linux、Windows、macOS系統。\nVapourSynth開發靈感來自另一款古老的軟體Avisynth，功能很類似，它能給影片加上許多效果，再搭配其他轉檔軟體使用，組成完整的影片處理管線 (Video Pipeline)。",
+          "link": "https://ivonblog.com/posts/vapoursynth-linux/",
+          "publishedOn": "2026-06-08T05:00:00.000Z",
+          "wordCount": 328,
+          "title": "VapourSynth在Linux系統的安裝方法，影片濾鏡處理軟體",
+          "imageUrl": "https://ivonblog.com/posts/vapoursynth-linux/featured.webp"
         },
         {
           "id": "https://ivonblog.com/posts/linux-tor-proxy/",
@@ -1036,6 +1086,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21252",
+          "author": "Chris Coyier",
+          "description": "Rachel and Chris on the show this week to discuss a series of big changes over the last, say, six months or so with our billing system. We’ve essentially re-written this thing several times, and obviously this is the best time. Having three plans, two payment providers, teams, and fifteen years of history is a […]",
+          "link": "https://blog.codepen.io/2026/06/09/428-billing/",
+          "publishedOn": "2026-06-09T15:37:09.000Z",
+          "wordCount": 902,
+          "title": "428: Billing",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21244",
           "author": "Chris Coyier",
           "description": "I’ve been doing computers for a good minute, but the Scroll Lock key still predates me. There may have been a day when I could have explained what it does, but that knowledge had evaporated until I read Marcin Wichary’s Lock Scroll With a Vengeance. It’s fascinating that the technology that deprecates the Scroll Lock […]",
@@ -1122,6 +1182,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21252",
+          "author": "Chris Coyier",
+          "description": "Rachel and Chris on the show this week to discuss a series of big changes over the last, say, six months or so with our billing system. We’ve essentially re-written this thing several times, and obviously this is the best time. Having three plans, two payment providers, teams, and fifteen years of history is a […]",
+          "link": "https://blog.codepen.io/2026/06/09/428-billing/",
+          "publishedOn": "2026-06-09T15:37:09.000Z",
+          "wordCount": 902,
+          "title": "428: Billing",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21244",
           "author": "Chris Coyier",
