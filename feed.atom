@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-10T01:13:06.939Z</updated>
+    <updated>2026-06-11T01:14:32.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux跑Android APP，Ubuntu安裝Waydroid教學]]></title>
+        <id>https://ivonblog.com/posts/ubuntu-waydroid/</id>
+        <link href="https://ivonblog.com/posts/ubuntu-waydroid/"/>
+        <updated>2026-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「Waydroid」是一個讓您在Linux系統跑Android APP的軟體。
+
+ 
+
+Waydroid可以登入Google Play商店下載APP，安裝許多常用APP。而且Waydroid支援GPU硬體加速，所以可以玩許多款Android手機遊戲。
+
+ 使用Waydroid下載Play商店的通訊軟體Line
+
+
+ 透過Waydroid在Linux玩手機遊戲FGO]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11用WSL跑「Waydroid」的Android容器]]></title>
+        <id>https://ivonblog.com/posts/waydroid-on-wsl/</id>
+        <link href="https://ivonblog.com/posts/waydroid-on-wsl/"/>
+        <updated>2026-06-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這是一款無廣告的Android「模擬器」，或許可以作爲WSA替代品。
+現在，Waydroid可以透過WSL在 Windows 11上執行。你甚至可以玩一些輕量級的Androiod遊戲。
+
+ 
+
+在Windows跑Android模擬器有很多種做法，曾經Microsoft也有官方的「WSA」方案出現。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
+        <id>https://css-tricks.com/?p=393676</id>
+        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
+        <updated>2026-06-10T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
+Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReDroid，在Windows電腦用Docker跑Android系統]]></title>
+        <id>https://ivonblog.com/posts/setup-redroid-on-wsl/</id>
+        <link href="https://ivonblog.com/posts/setup-redroid-on-wsl/"/>
+        <updated>2026-06-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ReDroid是一個開源雲手機的解決方案。不同於一般的Android模擬器。ReDroid是用Docker跑Android系統，可以headless的執行，再透過Scrcpy連線到桌面，支援GPU加速。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits Of Cognitive Inclusion In UX Research]]></title>
+        <id>https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/</id>
+        <link href="https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/"/>
+        <updated>2026-06-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何編譯與更換WSL核心 (custom WSL kernel)]]></title>
+        <id>https://ivonblog.com/posts/compile-custom-wsl-kernel-on-wsl/</id>
+        <link href="https://ivonblog.com/posts/compile-custom-wsl-kernel-on-wsl/"/>
+        <updated>2026-06-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WSL可以自己編譯新的Linux核心給自己用！
+從官方文件來看，WSL2的Linux核心不能透過Linux裡面的套件管理器替換，而是要由WSL.exe載入。因此Linux核心更新時程是由WSL決定的，apt install無效。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code ＋ Front Matter CMS，打造Hugo靜態網站管理後台]]></title>
+        <id>https://ivonblog.com/posts/vscode-front-matter-cms/</id>
+        <link href="https://ivonblog.com/posts/vscode-front-matter-cms/"/>
+        <updated>2026-06-09T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[覺得靜態網站的文章難以管理嗎？
+希望有個漂亮的前端編輯器輔助寫作嗎？
+使用「Front Matter」就對了。這是一款Headless CMS right in your code editor.
+記錄設定vscode-front-matter的過程，最後分享設定好之後的發文流程，展示操作簡化後的威力。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[428: Billing]]></title>
         <id>https://blog.codepen.io/?p=21252</id>
@@ -2498,91 +2587,6 @@ NEET都在哪些網站流連呢？在日本，常見於5ch這些匿名板。英�
 Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare DLP 完整解析｜3 大偵測面向與 5 大規則設定，築起 AI 時代資料防護網]]></title>
-        <id>https://www.chirue.com/?p=15846</id>
-        <link href="https://www.chirue.com/cloudflare-dlp-prevent-ai-data-leak/"/>
-        <updated>2026-05-12T08:17:49.000Z</updated>
-        <summary type="html"><![CDATA[AI 提升效率、DLP 守住資料 根據史丹佛 2025 的 AI Index Report ，全球已有 78% […]]]></summary>
-        <author>
-            <name>Niel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android手機如何安裝BusyBox工具箱 ～ 一鍵存取常用Linux命令行工具]]></title>
-        <id>https://ivonblog.com/posts/install-busybox-on-android/</id>
-        <link href="https://ivonblog.com/posts/install-busybox-on-android/"/>
-        <updated>2026-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[誰會在手機跑shell script呀？
-解釋如何在最新Android系統安裝BusyBox。
-BusyBox是一款行之有年的自由軟體，使用GPL授權釋出。根據官網資料，BusyBox透過單一的二進位執行檔，將常用的Unix-like系統工具打包進去，這個執行檔是靜態連結的，不依賴外部函式庫就能用。
-舉例來說，一個busybox的指令，才不到2MB而已，就包含了ash shell、vi文字編輯器、wget下載器、httpd伺服器、tar解壓縮、chroot容器、mv、cp、rm、diff、ping……等實用命令行工具，可說是一個便利工具箱。
-
-BusyBox是輕量可移植的，支援多種處理器架構，常用於嵌入式系統，當然也能用在Android囉。
-Android是基於Linux核心開發的系統，但幾乎沒有使用Linux發行版常用的GNU coreutils，缺少很多Linux的命令行工具。GNU coreutils動輒20MB以上，要移植這些工具到Android也顯得太龐雜了些。Android頂多只有使用Toybox，在Android 6.0之後加入。Toybox比BusyBox還要精簡，而且它的BSD授權條款更為寬鬆，方便商業公司利用而不會產生GPL授權汙染的問題。但是，Toybox功能依然不如BusyBox完整。
-透過安裝BusyBox，便可以做到GNU coreutils的七八成功能，又不會佔用太多空間。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUIR，用命令行看Reddit論壇，極致節省系統資源]]></title>
-        <id>https://ivonblog.com/posts/tuir-browse-reddit-from-your-terminal/</id>
-        <link href="https://ivonblog.com/posts/tuir-browse-reddit-from-your-terminal/"/>
-        <updated>2026-05-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Terminal UI for Reddit (TUIR). A text-based interface to view and interact with Reddit from your terminal. —— 來自Gitlab簡介
-TUIR一款專門為瀏覽Reddit所設計的命令行TUI程式，讓您用終端機純文字界面看Reddit，還能點讚、發表留言。
-
- 用TUIR瀏覽Reddit中文sub r/real_China_irl
-適用場景：上班摸魚、平鋪視窗用戶、硬體效能差到連瀏覽器都跑不動的電腦。也適合想要追求不被圖片元素干擾閱讀體驗的用戶。你知道的，Reddit跟主流社群媒體越來越像，有大量短影音和meme圖會吸引你眼球。用TUIR的話，就只有專注在文字上了。
-TUIR好似把Reddit變得台灣像PTT那樣的古老網站，或者說更像Hacker News吧。但Reddit本就是文字為主的網站，因此終端機足以瀏覽80%的內容了。順帶一提PTT在Linux上也可以用SSH連線喔。
-雖然現在Reddit依然提供https://old.reddit.com的舊版精簡網頁界面，但誰知道這家貪婪的公司什麼時候會把它給廢了呢？用w3m也不見得能在命令行正常渲染日益複雜的Reddit網頁。因此需要一個專門的TUI程式。
-可是多媒體和網站連結怎麼辦呢？只要設定得當，TUIR就能直接用電腦安裝的程式開多媒體檔案！無需開啟網頁版。
-
- 
-1. 安裝TUIR
- 
-
- 
- 
- #
- 
- 
-
-TUIR是ajak開發的軟體，本身用Python寫成，fork自Michael Lazar的RTV專案。目前還有在維護的版本是Chocimier的tuir-contiuned
-這個軟體可以用pip安裝，目前只支援Linux系統。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 16安裝最新版Xposed框架教學 (Vector Framework)]]></title>
-        <id>https://ivonblog.com/posts/xposed-framework-android/</id>
-        <link href="https://ivonblog.com/posts/xposed-framework-android/"/>
-        <updated>2026-05-11T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[討論如何在最新Android 16系統安裝Xposed框架。
-1. 什麼是Xposed Framework
- 
-
- 
- 
- #
- 
- 
-
-Xposed Framework為一款開源的Hook程式框架，可以攔截Android APP底層的系統呼叫，修改hook函數，達到修改APP行為之目的，不需要去反編譯APK。
-
- 
-比如說，使用者可以用Xposed模組修改Android系統的外觀，或者破解特定APP令其無法顯示廣告。
-圖例：利用Xposed的「詞幕」模組，在原生Android狀態欄顯示Spotify的動態歌詞。
-
-Xposed需要Root權限才能安裝。它提供的修改功能比單純的Magisk模組更為深入。Xposed透過統一的API來規範存取Android系統函數的方式，省得開發者要重新造輪子。
-Xposed最初是由rovo89開發的軟體，於2017年發佈。Xposed從Android 7以來經歷多個fork，有了EdXposed、LSPosed等專案，出於各種原因相繼停止維護了。因為Xposed本質是破解Android系統的運作機制，通常依賴少數幾個厲害的開發者主導開發工作，只要領頭的出事了專案就會垮掉，然後就會有新的fork崛起。
-本文介紹的是目前最新的活躍分支：JingMatrix維護的「Vector Framework」。Vector Framework最初是2024年出現的，用於接替停止維護的LSPosed（原開發者遭到人身攻擊，遂將LSPosed轉向閉源發佈，從此消失在Github）。後來此專案改名為Vector Framework，保留了對舊版libxposed API的相容性。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
