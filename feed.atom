@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T01:17:59.439Z</updated>
+    <updated>2026-06-13T01:15:47.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
+        <id>https://css-tricks.com/?p=395594</id>
+        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
+        <updated>2026-06-12T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
+Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
+        <id>https://css-tricks.com/?p=395744</id>
+        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
+        <updated>2026-06-12T15:08:38.000Z</updated>
+        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
+There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux與Android玩《東方紅魔鄉》，原生執行]]></title>
+        <id>https://ivonblog.com/posts/touhou-project-decompilation-ports/</id>
+        <link href="https://ivonblog.com/posts/touhou-project-decompilation-ports/"/>
+        <updated>2026-06-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在Linux與Android手機玩東方Project原版遊戲《東方紅魔鄉》！
+東方Project遊戲多半在Windows平臺發表，沒有Linux版。不過在一些開發者的逆向工程努力之下能在Linux跑起來了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
+        <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
+        <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
+        <updated>2026-06-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？]]></title>
+        <id>https://www.chirue.com/?p=15908</id>
+        <link href="https://www.chirue.com/2026-06-12/"/>
+        <updated>2026-06-12T00:58:51.000Z</updated>
+        <summary type="html"><![CDATA[進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]]]></summary>
+        <author>
+            <name>Fany</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux桌面自訂滑鼠游標這檔事]]></title>
         <id>https://ivonblog.com/posts/linux-custom-cursor-themes/</id>
@@ -2463,50 +2516,6 @@ What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More o
 Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rotateX()]]></title>
-        <id>https://css-tricks.com/?page_id=393625</id>
-        <link href="https://css-tricks.com/almanac/functions/r/rotatex/"/>
-        <updated>2026-05-13T14:36:54.000Z</updated>
-        <summary type="html"><![CDATA[The rotateX() function rotates an element around the x-axis in a three-dimensional space
-rotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rotateY()]]></title>
-        <id>https://css-tricks.com/?page_id=393615</id>
-        <link href="https://css-tricks.com/almanac/functions/r/rotatey/"/>
-        <updated>2026-05-13T14:33:58.000Z</updated>
-        <summary type="html"><![CDATA[The rotateY() function rotates an element around its vertical y-axis.
-rotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rotateZ()]]></title>
-        <id>https://css-tricks.com/?page_id=393630</id>
-        <link href="https://css-tricks.com/almanac/functions/r/rotatez/"/>
-        <updated>2026-05-13T14:33:03.000Z</updated>
-        <summary type="html"><![CDATA[The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. 
-rotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rotate()]]></title>
-        <id>https://css-tricks.com/?page_id=393611</id>
-        <link href="https://css-tricks.com/almanac/functions/r/rotate/"/>
-        <updated>2026-05-13T14:32:47.000Z</updated>
-        <summary type="html"><![CDATA[The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.
-rotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
         </author>
     </entry>
 </feed>

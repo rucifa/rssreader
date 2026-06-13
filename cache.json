@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395594",
+          "author": "Sunkanmi Fafowora",
+          "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+          "publishedOn": "2026-06-12T15:09:00.000Z",
+          "wordCount": 3901,
+          "title": "Why Isn’t My 3D View Transition Working?",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
+            "length": "2984445",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/cover.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395744",
+          "author": "Geoff Graham",
+          "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
+          "publishedOn": "2026-06-12T15:08:38.000Z",
+          "wordCount": 2784,
+          "title": "There’s no need to include ‘navigation’ in your navigation labels",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393676",
           "author": "Mariana Beldi",
           "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -195,46 +220,6 @@
           "wordCount": 4009,
           "title": "Computing and Displaying Discounted Prices in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393625",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
-          "publishedOn": "2026-05-13T14:36:54.000Z",
-          "wordCount": 4618,
-          "title": "rotateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393615",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
-          "publishedOn": "2026-05-13T14:33:58.000Z",
-          "wordCount": 4714,
-          "title": "rotateY()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393630",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
-          "publishedOn": "2026-05-13T14:33:03.000Z",
-          "wordCount": 3996,
-          "title": "rotateZ()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393611",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotate/",
-          "publishedOn": "2026-05-13T14:32:47.000Z",
-          "wordCount": 4198,
-          "title": "rotate()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -243,6 +228,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+          "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+          "publishedOn": "2026-06-12T08:00:00.000Z",
+          "wordCount": 4819,
+          "title": "The Impact Of Humanoid Robots On Humanity",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich)",
@@ -370,6 +370,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/touhou-project-decompilation-ports/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在Linux與Android手機玩東方Project原版遊戲《東方紅魔鄉》！\n東方Project遊戲多半在Windows平臺發表，沒有Linux版。不過在一些開發者的逆向工程努力之下能在Linux跑起來了。",
+          "link": "https://ivonblog.com/posts/touhou-project-decompilation-ports/",
+          "publishedOn": "2026-06-12T09:00:00.000Z",
+          "wordCount": 1223,
+          "title": "在Linux與Android玩《東方紅魔鄉》，原生執行",
+          "imageUrl": "https://ivonblog.com/posts/touhou-project-decompilation-ports/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/linux-custom-cursor-themes/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -1082,7 +1092,18 @@
       "title": "齊瑞科技",
       "feedUrl": "https://www.chirue.com/feed/",
       "siteUrl": "https://www.chirue.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.chirue.com/?p=15908",
+          "author": "Fany",
+          "description": "進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]",
+          "link": "https://www.chirue.com/2026-06-12/",
+          "publishedOn": "2026-06-12T00:58:51.000Z",
+          "wordCount": 2343,
+          "title": "為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/06/siem-2026-cover.png"
+        }
+      ]
     },
     {
       "title": "CodePen",
