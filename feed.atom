@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T01:15:47.656Z</updated>
+    <updated>2026-06-14T01:17:55.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -2484,38 +2484,6 @@ Linux系統的SWAP可以是一個分區(swap partition)，或者單一檔案(swa
 我們還可以透過kernel parameters的方式，細微地調整什麼時候要使用SWAP檔案，提升系統回應速度。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More]]></title>
-        <id>https://css-tricks.com/?p=394879</id>
-        <link href="https://css-tricks.com/whats-important-11/"/>
-        <updated>2026-05-15T13:16:34.000Z</updated>
-        <summary type="html"><![CDATA[If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.
-What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
-        <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
-        <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
-        <updated>2026-05-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing and Displaying Discounted Prices in CSS]]></title>
-        <id>https://css-tricks.com/?p=393498</id>
-        <link href="https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/"/>
-        <updated>2026-05-14T14:05:01.000Z</updated>
-        <summary type="html"><![CDATA[A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().
-Computing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>

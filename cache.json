@@ -200,26 +200,6 @@
           "wordCount": 6726,
           "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394879",
-          "author": "Daniel Schwarz",
-          "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-11/",
-          "publishedOn": "2026-05-15T13:16:34.000Z",
-          "wordCount": 3638,
-          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393498",
-          "author": "Preethi",
-          "description": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
-          "publishedOn": "2026-05-14T14:05:01.000Z",
-          "wordCount": 4009,
-          "title": "Computing and Displaying Discounted Prices in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
         }
       ]
     },
@@ -347,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
-          "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-          "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4906,
-          "title": "Ten Data-Backed Truths Of User Experience ROI",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg"
         }
       ]
     },
