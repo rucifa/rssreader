@@ -336,6 +336,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/2026061401/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "0分作文範例：在文章裡面跟閱卷老師說Ciallo\n\n  \n\n改編自真人真事，最近我又參加了一次國家級別的考試，在作文題目的時候靈機一動，不如寫個愛情故事並把《サノバウィッチ》的元素包裝進去吧。寫作的時候在腦海中回想了保科柊史與因幡巡的經歷才比較好寫。",
+          "link": "https://ivonblog.com/posts/2026061401/",
+          "publishedOn": "2026-06-14T09:00:00.000Z",
+          "wordCount": 809,
+          "title": "在國考國文作文寫Ciallo跟閱卷老師說早安",
+          "imageUrl": "https://ivonblog.com/posts/2026061401/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/touhou-project-decompilation-ports/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "在Linux與Android手機玩東方Project原版遊戲《東方紅魔鄉》！\n東方Project遊戲多半在Windows平臺發表，沒有Linux版。不過在一些開發者的逆向工程努力之下能在Linux跑起來了。",

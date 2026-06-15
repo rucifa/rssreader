@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T01:17:55.384Z</updated>
+    <updated>2026-06-15T01:20:46.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在國考國文作文寫Ciallo跟閱卷老師說早安]]></title>
+        <id>https://ivonblog.com/posts/2026061401/</id>
+        <link href="https://ivonblog.com/posts/2026061401/"/>
+        <updated>2026-06-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[0分作文範例：在文章裡面跟閱卷老師說Ciallo
+
+  
+
+改編自真人真事，最近我又參加了一次國家級別的考試，在作文題目的時候靈機一動，不如寫個愛情故事並把《サノバウィッチ》的元素包裝進去吧。寫作的時候在腦海中回想了保科柊史與因幡巡的經歷才比較好寫。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
         <id>https://css-tricks.com/?p=395594</id>
