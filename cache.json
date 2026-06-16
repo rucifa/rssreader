@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395752",
+          "author": "Daniel Schwarz",
+          "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-13/",
+          "publishedOn": "2026-06-15T13:15:33.000Z",
+          "wordCount": 3500,
+          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395594",
           "author": "Sunkanmi Fafowora",
           "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -335,6 +345,46 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我常常在電腦上使用Firefox，那麼爲什麼我在手機上卻不用？\n為什麼我不用Android版Firefox？有什麼開源的手機瀏覽器APP呢？\n我幾乎不在手機安裝社群媒體APP，只用網頁版，99%時間都在瀏覽器裡面，故一款瀏覽器很重要。\nAndroid的瀏覽器引擎九成以上是Chromium，少部分才是拿Gecko改的。Chromium專案雖是開源的，但受到Google主導。",
+          "link": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/",
+          "publishedOn": "2026-06-15T15:00:00.000Z",
+          "wordCount": 1182,
+          "title": "為什麼我不用Android版Firefox瀏覽器？",
+          "imageUrl": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-nvk-nvidia-driver/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "哇靠，不看不知道，開源Nvidia驅動NVK現在最舊支援到Kepler架構 (GeForce 600) 的顯卡了。也就是說十年前的Nvidia顯卡碰到現代的Wayland桌面仍能顯示畫面。\n這起碼不會讓老電腦變成廢鐵吧，被迫停留在X11桌面。",
+          "link": "https://ivonblog.com/posts/linux-nvk-nvidia-driver/",
+          "publishedOn": "2026-06-15T14:00:00.000Z",
+          "wordCount": 1212,
+          "title": "測試新開源Nvidia驅動NVK，補強Linux桌面的Vulkan這一塊",
+          "imageUrl": "https://ivonblog.com/posts/linux-nvk-nvidia-driver/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/apple-devices-are-prisons/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "iPhone就是監獄，然鵝很多人心甘情願被Apple奴役。\n專有軟體的監獄 - 案例分析 - Free Software Foundation\n這個列表的篇幅Google不知道爲何比Apple還少。\n這張圖真不錯。\n\n  \n\n如何刪除所有蘋果的服務再使用iPhone呢？根本不可能。你花大錢買的裝置，其實並不屬於你。iOS，就是個籠子。",
+          "link": "https://ivonblog.com/posts/apple-devices-are-prisons/",
+          "publishedOn": "2026-06-15T12:00:00.000Z",
+          "wordCount": 858,
+          "title": "iPhone是監獄，因爲脫離不了Apple服務，比Android更糟",
+          "imageUrl": "https://ivonblog.com/posts/apple-devices-are-prisons/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/helium-browser-android/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "氦瀏覽器 Helium Browser是2025年新出現的Chromium fork，輕量保護隱私擋廣告。\n在現代瀏覽器不斷加入各種臃腫功能的當下，Helium開發者反而做減法。預設狀態下跟Chromium一樣幾乎什麼都沒有，是分輕量。內建uBlock Origin將所有廣告全擋掉。Helium沒有Brave的各種品牌置入。且瀏覽器不蒐集使用者資訊。",
+          "link": "https://ivonblog.com/posts/helium-browser-android/",
+          "publishedOn": "2026-06-14T16:00:00.000Z",
+          "wordCount": 1185,
+          "title": "「Helium Browser」Android版，支援擴充套件的輕量瀏覽器",
+          "imageUrl": "https://ivonblog.com/posts/helium-browser-android/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/2026061401/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",

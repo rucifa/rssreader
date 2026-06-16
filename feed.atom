@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-15T01:20:46.300Z</updated>
+    <updated>2026-06-16T01:22:14.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[為什麼我不用Android版Firefox瀏覽器？]]></title>
+        <id>https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/</id>
+        <link href="https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/"/>
+        <updated>2026-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我常常在電腦上使用Firefox，那麼爲什麼我在手機上卻不用？
+為什麼我不用Android版Firefox？有什麼開源的手機瀏覽器APP呢？
+我幾乎不在手機安裝社群媒體APP，只用網頁版，99%時間都在瀏覽器裡面，故一款瀏覽器很重要。
+Android的瀏覽器引擎九成以上是Chromium，少部分才是拿Gecko改的。Chromium專案雖是開源的，但受到Google主導。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[測試新開源Nvidia驅動NVK，補強Linux桌面的Vulkan這一塊]]></title>
+        <id>https://ivonblog.com/posts/linux-nvk-nvidia-driver/</id>
+        <link href="https://ivonblog.com/posts/linux-nvk-nvidia-driver/"/>
+        <updated>2026-06-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[哇靠，不看不知道，開源Nvidia驅動NVK現在最舊支援到Kepler架構 (GeForce 600) 的顯卡了。也就是說十年前的Nvidia顯卡碰到現代的Wayland桌面仍能顯示畫面。
+這起碼不會讓老電腦變成廢鐵吧，被迫停留在X11桌面。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #13: @function, alpha(), CSS Wordle, and More]]></title>
+        <id>https://css-tricks.com/?p=395752</id>
+        <link href="https://css-tricks.com/whats-important-13/"/>
+        <updated>2026-06-15T13:15:33.000Z</updated>
+        <summary type="html"><![CDATA[CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.
+What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone是監獄，因爲脫離不了Apple服務，比Android更糟]]></title>
+        <id>https://ivonblog.com/posts/apple-devices-are-prisons/</id>
+        <link href="https://ivonblog.com/posts/apple-devices-are-prisons/"/>
+        <updated>2026-06-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone就是監獄，然鵝很多人心甘情願被Apple奴役。
+專有軟體的監獄 - 案例分析 - Free Software Foundation
+這個列表的篇幅Google不知道爲何比Apple還少。
+這張圖真不錯。
+
+  
+
+如何刪除所有蘋果的服務再使用iPhone呢？根本不可能。你花大錢買的裝置，其實並不屬於你。iOS，就是個籠子。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Helium Browser」Android版，支援擴充套件的輕量瀏覽器]]></title>
+        <id>https://ivonblog.com/posts/helium-browser-android/</id>
+        <link href="https://ivonblog.com/posts/helium-browser-android/"/>
+        <updated>2026-06-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[氦瀏覽器 Helium Browser是2025年新出現的Chromium fork，輕量保護隱私擋廣告。
+在現代瀏覽器不斷加入各種臃腫功能的當下，Helium開發者反而做減法。預設狀態下跟Chromium一樣幾乎什麼都沒有，是分輕量。內建uBlock Origin將所有廣告全擋掉。Helium沒有Brave的各種品牌置入。且瀏覽器不蒐集使用者資訊。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在國考國文作文寫Ciallo跟閱卷老師說早安]]></title>
         <id>https://ivonblog.com/posts/2026061401/</id>
