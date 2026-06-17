@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395776",
+          "author": "Geoff Graham",
+          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/prop-for-that/",
+          "publishedOn": "2026-06-16T18:36:25.000Z",
+          "wordCount": 2819,
+          "title": "Prop For That",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395752",
           "author": "Daniel Schwarz",
           "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -219,6 +229,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
+          "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+          "publishedOn": "2026-06-16T15:00:00.000Z",
+          "wordCount": 6496,
+          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
@@ -345,6 +370,56 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/postmarketos-prebuilt-images/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "關於postmarketOS系統的介紹請看這篇。\npostmarketOS官方提供的pmbootstrap能夠製作刷機檔案，將系統刷入Android手機。\n不過，除了使用pmbootstrap建立刷機檔之外，手機有在官方Main和Community支援列表的，也可以從postmarketOS官網下載預先建構好的映像檔(prebuilt image)。\n\n  \n\npostmarketOS開發組會定期給官方支援的裝置提供穩定的系統更新，讓你可以把它當作日常系統使用。",
+          "link": "https://ivonblog.com/posts/postmarketos-prebuilt-images/",
+          "publishedOn": "2026-06-17T00:00:00.000Z",
+          "wordCount": 1183,
+          "title": "postmarketOS刷機教學，使用Prebuilt image安裝系統",
+          "imageUrl": "https://ivonblog.com/posts/postmarketos-prebuilt-images/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/postmarketos-introduction/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "1. 什麼是postmarketOS？\n    \n\n    \n    \n        #\n    \n    \n\nAndroid基於Linux的核心研發而來，但跟一般的GNU/Linux仍有所差異。postmarketOS是基於Alpine Linux的作業系統，跟Ubuntu Touch一樣，旨在為行動作業系統提供另一種選擇，將真正的GNU/Linux發行版安裝到手機。",
+          "link": "https://ivonblog.com/posts/postmarketos-introduction/",
+          "publishedOn": "2026-06-16T23:00:00.000Z",
+          "wordCount": 1174,
+          "title": "postmarketOS介紹，專為手機打造的Linux發行版",
+          "imageUrl": "https://ivonblog.com/posts/postmarketos-introduction/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/postmarketos-tips/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "postmarektOS是一款基於Alpine Linux研發的手機Linux作業系統，目前已移植到多款Android手機上。\n相關文章：postmarketOS是什麼？\npostmarketOS雖然有圖形化界面，但有時候還是需要指令。因此有需要的話建議用SSH遠端輸入指令，postmarketOS也有提供手機終端機APP。",
+          "link": "https://ivonblog.com/posts/postmarketos-tips/",
+          "publishedOn": "2026-06-16T22:00:00.000Z",
+          "wordCount": 1554,
+          "title": "postmarketOS使用技巧：安裝APP、中文化、執行Android APP、跑Docker",
+          "imageUrl": "https://ivonblog.com/posts/postmarketos-tips/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/host-a-onion-website-docker/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "本文討論如何用Tor + Nginx + Docker架設洋蔥網站(Onion Website)。\n\n  \n\n不是經營Tor realy節點，而是架設.onion網址的網站，專門給Tor網路的用戶訪問。\n1. Tor網路連線架構簡介\n    \n\n    \n    \n        #\n    \n    \n\n什麼是Tor？The Onion Router，又稱洋蔥網路，是一種匿名上網的開源技術，連上網路的時候會經過多次伺服器跳轉，令人難以追蹤使用者，可以有效隱藏使用者的IP，保護上網隱私。",
+          "link": "https://ivonblog.com/posts/host-a-onion-website-docker/",
+          "publishedOn": "2026-06-16T09:00:00.000Z",
+          "wordCount": 1353,
+          "title": "使用Tor + Nginx + Docker架設Onion暗網網站 (Onion Service)",
+          "imageUrl": "https://ivonblog.com/posts/host-a-onion-website-docker/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-appimage-introduction/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這篇文章將講解Linux上以.AppImage檔名結尾的應用程式安裝方法，並介紹輔助工具「AppImageD」。\nAppImage是Linux的一種軟體打包格式，用於解決不同Linux發行版安裝應用程式依賴的問題而生。由probonopd (Simon Peter) 等人在2013年發起。",
+          "link": "https://ivonblog.com/posts/linux-appimage-introduction/",
+          "publishedOn": "2026-06-16T08:00:00.000Z",
+          "wordCount": 1267,
+          "title": "Linux AppImage格式安裝方法，新增桌面捷徑",
+          "imageUrl": "https://ivonblog.com/posts/linux-appimage-introduction/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -1094,16 +1169,6 @@
           "wordCount": 270,
           "title": "謝謝茄子：使用開源AI軟體「Lada」去掉AV影片馬賽克",
           "imageUrl": "https://ivonblog.com/posts/lada-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-zswap-and-zram/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Linux記憶體不足又不想買更多RAM，該怎麼辦呢，大家都會想到使用SWAP吧！\n\n「SWAP」又稱置換空間、虛擬記憶體，這個技術非常古老，幾乎所有的Linux發行版都有使用。它將硬碟的一部份作為RAM，在RAM不夠的時候讓程式利用，免得記憶體不足(OOM)導致程式被系統中止。\nLinux的SWAP功能在Windows等同於分頁檔功能。可以在硬碟建立一個虛擬記憶體檔案當作RAM使用。\nLinux系統的SWAP可以是一個分區(swap partition)，或者單一檔案(swapfile)。需要多少RAM就建立多大的SWAP，例如根據SWAP大小=2倍實體RAM的大拇指定律，在擁有16GB實體RAM的電腦建立32GB的SWAP，就有額外的32GB RAM可以用。\n但傳統SWAP檔案有個問題，因為在硬碟上跑，SWAP檔案速度是比實體RAM要慢的，把程式丟在裡面跑會拖慢速度。將程式切換到SWAP可能短暫導致桌面卡頓。還有就是長期寫入大量資料會傷害SSD。\n這個時候有兩個改進方案可以考慮，那就是「zSWAP」與「zRAM」，能夠增加SWAP的效能。他們都是Linux核心提供的功能，應當所有發行版都支援。\n我們還可以透過kernel parameters的方式，細微地調整什麼時候要使用SWAP檔案，提升系統回應速度。",
-          "link": "https://ivonblog.com/posts/linux-zswap-and-zram/",
-          "publishedOn": "2026-05-17T17:00:00.000Z",
-          "wordCount": 313,
-          "title": "Ubuntu記憶體不足？透過zSWAP與zRAM功能，擠出更多RAM",
-          "imageUrl": "https://ivonblog.com/posts/linux-zswap-and-zram/featured.webp"
         }
       ]
     },
@@ -1135,6 +1200,26 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21298",
+          "author": "Chris Coyier",
+          "description": "We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]",
+          "link": "https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/",
+          "publishedOn": "2026-06-16T22:00:53.000Z",
+          "wordCount": null,
+          "title": "429: Why CodePen Rebuilt Its Realtime Service",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21265",
+          "author": "Chris Coyier",
+          "description": "Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]",
+          "link": "https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/",
+          "publishedOn": "2026-06-16T21:37:01.000Z",
+          "wordCount": 1687,
+          "title": "Chris’ Corner: The Edge, Man",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/edge-to-edge.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21252",
           "author": "Chris Coyier",
@@ -1212,6 +1297,26 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21298",
+          "author": "Chris Coyier",
+          "description": "We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]",
+          "link": "https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/",
+          "publishedOn": "2026-06-16T22:00:53.000Z",
+          "wordCount": null,
+          "title": "429: Why CodePen Rebuilt Its Realtime Service",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21265",
+          "author": "Chris Coyier",
+          "description": "Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]",
+          "link": "https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/",
+          "publishedOn": "2026-06-16T21:37:01.000Z",
+          "wordCount": null,
+          "title": "Chris’ Corner: The Edge, Man",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21252",
           "author": "Chris Coyier",

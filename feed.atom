@@ -2,10 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T01:22:14.370Z</updated>
+    <updated>2026-06-17T01:17:46.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[postmarketOS刷機教學，使用Prebuilt image安裝系統]]></title>
+        <id>https://ivonblog.com/posts/postmarketos-prebuilt-images/</id>
+        <link href="https://ivonblog.com/posts/postmarketos-prebuilt-images/"/>
+        <updated>2026-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[關於postmarketOS系統的介紹請看這篇。
+postmarketOS官方提供的pmbootstrap能夠製作刷機檔案，將系統刷入Android手機。
+不過，除了使用pmbootstrap建立刷機檔之外，手機有在官方Main和Community支援列表的，也可以從postmarketOS官網下載預先建構好的映像檔(prebuilt image)。
+
+  
+
+postmarketOS開發組會定期給官方支援的裝置提供穩定的系統更新，讓你可以把它當作日常系統使用。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[postmarketOS介紹，專為手機打造的Linux發行版]]></title>
+        <id>https://ivonblog.com/posts/postmarketos-introduction/</id>
+        <link href="https://ivonblog.com/posts/postmarketos-introduction/"/>
+        <updated>2026-06-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 什麼是postmarketOS？
+    
+
+    
+    
+        #
+    
+    
+
+Android基於Linux的核心研發而來，但跟一般的GNU/Linux仍有所差異。postmarketOS是基於Alpine Linux的作業系統，跟Ubuntu Touch一樣，旨在為行動作業系統提供另一種選擇，將真正的GNU/Linux發行版安裝到手機。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[429: Why CodePen Rebuilt Its Realtime Service]]></title>
+        <id>https://blog.codepen.io/?p=21298</id>
+        <link href="https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/"/>
+        <updated>2026-06-16T22:00:53.000Z</updated>
+        <summary type="html"><![CDATA[We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[429: Why CodePen Rebuilt Its Realtime Service]]></title>
+        <id>https://blog.codepen.io/?p=21298</id>
+        <link href="https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/"/>
+        <updated>2026-06-16T22:00:53.000Z</updated>
+        <summary type="html"><![CDATA[We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[postmarketOS使用技巧：安裝APP、中文化、執行Android APP、跑Docker]]></title>
+        <id>https://ivonblog.com/posts/postmarketos-tips/</id>
+        <link href="https://ivonblog.com/posts/postmarketos-tips/"/>
+        <updated>2026-06-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[postmarektOS是一款基於Alpine Linux研發的手機Linux作業系統，目前已移植到多款Android手機上。
+相關文章：postmarketOS是什麼？
+postmarketOS雖然有圖形化界面，但有時候還是需要指令。因此有需要的話建議用SSH遠端輸入指令，postmarketOS也有提供手機終端機APP。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: The Edge, Man]]></title>
+        <id>https://blog.codepen.io/?p=21265</id>
+        <link href="https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/"/>
+        <updated>2026-06-16T21:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: The Edge, Man]]></title>
+        <id>https://blog.codepen.io/?p=21265</id>
+        <link href="https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/"/>
+        <updated>2026-06-16T21:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prop For That]]></title>
+        <id>https://css-tricks.com/?p=395776</id>
+        <link href="https://css-tricks.com/prop-for-that/"/>
+        <updated>2026-06-16T18:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
+Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing With Uncertainty: How AI Supercharges Probabilistic Thinking]]></title>
+        <id>https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/</id>
+        <link href="https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"/>
+        <updated>2026-06-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Tor + Nginx + Docker架設Onion暗網網站 (Onion Service)]]></title>
+        <id>https://ivonblog.com/posts/host-a-onion-website-docker/</id>
+        <link href="https://ivonblog.com/posts/host-a-onion-website-docker/"/>
+        <updated>2026-06-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文討論如何用Tor + Nginx + Docker架設洋蔥網站(Onion Website)。
+
+  
+
+不是經營Tor realy節點，而是架設.onion網址的網站，專門給Tor網路的用戶訪問。
+1. Tor網路連線架構簡介
+    
+
+    
+    
+        #
+    
+    
+
+什麼是Tor？The Onion Router，又稱洋蔥網路，是一種匿名上網的開源技術，連上網路的時候會經過多次伺服器跳轉，令人難以追蹤使用者，可以有效隱藏使用者的IP，保護上網隱私。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux AppImage格式安裝方法，新增桌面捷徑]]></title>
+        <id>https://ivonblog.com/posts/linux-appimage-introduction/</id>
+        <link href="https://ivonblog.com/posts/linux-appimage-introduction/"/>
+        <updated>2026-06-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這篇文章將講解Linux上以.AppImage檔名結尾的應用程式安裝方法，並介紹輔助工具「AppImageD」。
+AppImage是Linux的一種軟體打包格式，用於解決不同Linux發行版安裝應用程式依賴的問題而生。由probonopd (Simon Peter) 等人在2013年發起。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我不用Android版Firefox瀏覽器？]]></title>
         <id>https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/</id>
@@ -2544,23 +2687,6 @@ Lada可以即時在播放影片的時候去掉馬賽克，因此很吃GPU效能�
 Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu記憶體不足？透過zSWAP與zRAM功能，擠出更多RAM]]></title>
-        <id>https://ivonblog.com/posts/linux-zswap-and-zram/</id>
-        <link href="https://ivonblog.com/posts/linux-zswap-and-zram/"/>
-        <updated>2026-05-17T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux記憶體不足又不想買更多RAM，該怎麼辦呢，大家都會想到使用SWAP吧！
-
-「SWAP」又稱置換空間、虛擬記憶體，這個技術非常古老，幾乎所有的Linux發行版都有使用。它將硬碟的一部份作為RAM，在RAM不夠的時候讓程式利用，免得記憶體不足(OOM)導致程式被系統中止。
-Linux的SWAP功能在Windows等同於分頁檔功能。可以在硬碟建立一個虛擬記憶體檔案當作RAM使用。
-Linux系統的SWAP可以是一個分區(swap partition)，或者單一檔案(swapfile)。需要多少RAM就建立多大的SWAP，例如根據SWAP大小=2倍實體RAM的大拇指定律，在擁有16GB實體RAM的電腦建立32GB的SWAP，就有額外的32GB RAM可以用。
-但傳統SWAP檔案有個問題，因為在硬碟上跑，SWAP檔案速度是比實體RAM要慢的，把程式丟在裡面跑會拖慢速度。將程式切換到SWAP可能短暫導致桌面卡頓。還有就是長期寫入大量資料會傷害SSD。
-這個時候有兩個改進方案可以考慮，那就是「zSWAP」與「zRAM」，能夠增加SWAP的效能。他們都是Linux核心提供的功能，應當所有發行版都支援。
-我們還可以透過kernel parameters的方式，細微地調整什麼時候要使用SWAP檔案，提升系統回應速度。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
