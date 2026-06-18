@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T01:17:46.128Z</updated>
+    <updated>2026-06-18T01:16:30.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Siren Song of  ariaNotify()]]></title>
+        <id>https://css-tricks.com/?p=395567</id>
+        <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
+        <updated>2026-06-17T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
+The Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[postmarketOS安裝教學，使用pmbootstrap建立安裝檔]]></title>
+        <id>https://ivonblog.com/posts/postmarketos-general-installation/</id>
+        <link href="https://ivonblog.com/posts/postmarketos-general-installation/"/>
+        <updated>2026-06-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[什麼是postmarketOS？關於postmarketOS系統的介紹請看這篇。
+這篇文章是用pmbootstrap安裝postmarketOS的教學，只要你的機型有在官方支援列表，都能夠按照此步驟操作，將postmarketOS安裝至裝置上。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[postmarketOS刷機教學，使用Prebuilt image安裝系統]]></title>
         <id>https://ivonblog.com/posts/postmarketos-prebuilt-images/</id>
@@ -267,6 +289,16 @@ There’s no need to include ‘navigation’ in your navigation labels original
         <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？]]></title>
+        <id>https://www.chirue.com/?p=15908</id>
+        <link href="https://www.chirue.com/%e7%82%ba%e4%bb%80%e9%ba%bc-siem-%e9%81%b8%e5%9e%8b%e6%98%af-2026-%e5%b9%b4%e4%bc%81%e6%a5%ad%e8%b3%87%e5%ae%89%e7%9a%84%e9%97%9c%e9%8d%b5%e6%b1%ba%e7%ad%96%ef%bc%9f/"/>
+        <updated>2026-06-12T00:58:51.000Z</updated>
+        <summary type="html"><![CDATA[進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]]]></summary>
+        <author>
+            <name>Fany</name>
         </author>
     </entry>
     <entry>
@@ -2568,125 +2600,6 @@ Stack Overflow: When We Stop Asking originally handwritten and published with lo
 你可以在離你家電腦最近的伺服器用Unbound，建立DNS快取，加快造訪網站時的網路回應速度，減少延遲。並且查詢DNS位址的時候會啟用DNS over TLS和DNSSEC，防止網路業者(ISP)窺探你造訪的網站為何，保護隱私。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: View Transitions]]></title>
-        <id>https://blog.codepen.io/?p=21186</id>
-        <link href="https://blog.codepen.io/2026/05/18/chris-corner-view-transitions/"/>
-        <updated>2026-05-18T17:02:06.000Z</updated>
-        <summary type="html"><![CDATA[I’ve had View Transitions on the mind a little bit after experimenting with using them to move the focus ring around the page. I found that pretty satisfying, except the part where I was binding events to the tab key myself and keeping track of “focusable” elements. I know better, as that kind of thing […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: View Transitions]]></title>
-        <id>https://blog.codepen.io/?p=21186</id>
-        <link href="https://blog.codepen.io/2026/05/18/chris-corner-view-transitions/"/>
-        <updated>2026-05-18T17:02:06.000Z</updated>
-        <summary type="html"><![CDATA[I’ve had View Transitions on the mind a little bit after experimenting with using them to move the focus ring around the page. I found that pretty satisfying, except the part where I was binding events to the tab key myself and keeping track of “focusable” elements. I know better, as that kind of thing […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謝謝茄子：使用開源AI軟體「Lada」去掉AV影片馬賽克]]></title>
-        <id>https://ivonblog.com/posts/lada-app/</id>
-        <link href="https://ivonblog.com/posts/lada-app/"/>
-        <updated>2026-05-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.form-name-popup {
- color: white;
- text-align: center;
- position: fixed;
- z-index: 9;
- top: 0%;
- left: 0%;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.6);
- overflow: scroll;
- }
-
- .form-name-popup-inner {
- position: absolute;
- width: 100%;
- height: 100%;
- padding: 50px;
- overflow: scroll;
- }
-
- .form-name-popup-close {
- position: absolute;
- z-index: 999;
- top: 5px;
- right: 10px;
- color: #fff;
- }
-
- .r18button {
- width: 100px;
- height: auto;
- }
-
- .r18icon {
- display: block;
- margin-left: auto;
- margin-right: auto;
- }
-
-
-
-
- var formhtml = `
-
- 
-金、暴力、SEX！年齡驗證
- 
-Kane, Bouryoku, Sex! You must be 18+ years old to view this.
- 
-是 Yes
- 否 No
- 
-Lada是開源免費的去碼軟體，支援Linux與Windows系統。
-
- 
-快說：謝謝茄子！射爆了！
-Lada可以透過AI即時去掉影片馬賽克，免轉檔，使用開源的BasicVSR++與RealESRGAN修復模型，並參考DeepMosaics的方法訓練模型。
-它能夠去掉馬賽克像素，但不能去海苔。
-我測試下來，Lada的效果，接近JavPlayer呢。可作為JAVPlayer替代品。
-不論是田中瞳的片子
-
- 
-還是魔人的裏番
-
- 
-都可以去掉馬賽克，雖然還是糊成一團，但看上去比較沒那麼突兀了。
-Lada目前看來是針對真人片訓練的，動畫的效果不太自然。
-要更好效果得自己訓練模型了吧。
-1. 系統需求
- 
-
- 
- 
- #
- 
- 
-
-Lada可以即時在播放影片的時候去掉馬賽克，因此很吃GPU效能。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Document View Transitions: The Gotchas Nobody Mentions]]></title>
-        <id>https://css-tricks.com/?p=393399</id>
-        <link href="https://css-tricks.com/cross-document-view-transitions-part-1/"/>
-        <updated>2026-05-18T13:47:19.000Z</updated>
-        <summary type="html"><![CDATA[This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.
-Cross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
         </author>
     </entry>
 </feed>

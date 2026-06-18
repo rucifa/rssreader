@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395567",
+          "author": "Mat Marquis",
+          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
+          "publishedOn": "2026-06-17T15:32:30.000Z",
+          "wordCount": 5501,
+          "title": "The Siren Song of  ariaNotify()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395776",
           "author": "Geoff Graham",
           "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -210,16 +220,6 @@
           "wordCount": 4683,
           "title": "Stack Overflow: When We Stop Asking",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393399",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-          "publishedOn": "2026-05-18T13:47:19.000Z",
-          "wordCount": 6726,
-          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
         }
       ]
     },
@@ -370,6 +370,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/postmarketos-general-installation/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "什麼是postmarketOS？關於postmarketOS系統的介紹請看這篇。\n這篇文章是用pmbootstrap安裝postmarketOS的教學，只要你的機型有在官方支援列表，都能夠按照此步驟操作，將postmarketOS安裝至裝置上。",
+          "link": "https://ivonblog.com/posts/postmarketos-general-installation/",
+          "publishedOn": "2026-06-17T01:00:00.000Z",
+          "wordCount": 1338,
+          "title": "postmarketOS安裝教學，使用pmbootstrap建立安裝檔",
+          "imageUrl": "https://ivonblog.com/posts/postmarketos-general-installation/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/postmarketos-prebuilt-images/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -1159,16 +1169,6 @@
           "wordCount": 316,
           "title": "如何用Docker自架Unbound DNS伺服器",
           "imageUrl": "https://ivonblog.com/posts/unbound-dns-resolver/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/lada-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": ".form-name-popup {\n color: white;\n text-align: center;\n position: fixed;\n z-index: 9;\n top: 0%;\n left: 0%;\n width: 100%;\n height: 100%;\n background: rgba(0, 0, 0, 0.6);\n overflow: scroll;\n }\n\n .form-name-popup-inner {\n position: absolute;\n width: 100%;\n height: 100%;\n padding: 50px;\n overflow: scroll;\n }\n\n .form-name-popup-close {\n position: absolute;\n z-index: 999;\n top: 5px;\n right: 10px;\n color: #fff;\n }\n\n .r18button {\n width: 100px;\n height: auto;\n }\n\n .r18icon {\n display: block;\n margin-left: auto;\n margin-right: auto;\n }\n\n\n\n\n var formhtml = `\n\n \n金、暴力、SEX！年齡驗證\n \nKane, Bouryoku, Sex! You must be 18+ years old to view this.\n \n是 Yes\n 否 No\n \nLada是開源免費的去碼軟體，支援Linux與Windows系統。\n\n \n快說：謝謝茄子！射爆了！\nLada可以透過AI即時去掉影片馬賽克，免轉檔，使用開源的BasicVSR++與RealESRGAN修復模型，並參考DeepMosaics的方法訓練模型。\n它能夠去掉馬賽克像素，但不能去海苔。\n我測試下來，Lada的效果，接近JavPlayer呢。可作為JAVPlayer替代品。\n不論是田中瞳的片子\n\n \n還是魔人的裏番\n\n \n都可以去掉馬賽克，雖然還是糊成一團，但看上去比較沒那麼突兀了。\nLada目前看來是針對真人片訓練的，動畫的效果不太自然。\n要更好效果得自己訓練模型了吧。\n1. 系統需求\n \n\n \n \n #\n \n \n\nLada可以即時在播放影片的時候去掉馬賽克，因此很吃GPU效能。",
-          "link": "https://ivonblog.com/posts/lada-app/",
-          "publishedOn": "2026-05-18T15:00:00.000Z",
-          "wordCount": 270,
-          "title": "謝謝茄子：使用開源AI軟體「Lada」去掉AV影片馬賽克",
-          "imageUrl": "https://ivonblog.com/posts/lada-app/featured.webp"
         }
       ]
     },
@@ -1183,6 +1183,16 @@
       "feedUrl": "https://www.chirue.com/feed/",
       "siteUrl": "https://www.chirue.com",
       "articles": [
+        {
+          "id": "https://www.chirue.com/?p=15908",
+          "author": "Fany",
+          "description": "進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]",
+          "link": "https://www.chirue.com/%e7%82%ba%e4%bb%80%e9%ba%bc-siem-%e9%81%b8%e5%9e%8b%e6%98%af-2026-%e5%b9%b4%e4%bc%81%e6%a5%ad%e8%b3%87%e5%ae%89%e7%9a%84%e9%97%9c%e9%8d%b5%e6%b1%ba%e7%ad%96%ef%bc%9f/",
+          "publishedOn": "2026-06-12T00:58:51.000Z",
+          "wordCount": 2343,
+          "title": "為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/06/ChatGPT-Image-2026年6月5日-下午03_01_27.png"
+        },
         {
           "id": "https://www.chirue.com/?p=15908",
           "author": "Fany",
@@ -1279,16 +1289,6 @@
           "wordCount": 1188,
           "title": "Chris’ Corner: Finding Type",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/otbessivubeth7kkfefx.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21186",
-          "author": "Chris Coyier",
-          "description": "I’ve had View Transitions on the mind a little bit after experimenting with using them to move the focus ring around the page. I found that pretty satisfying, except the part where I was binding events to the tab key myself and keeping track of “focusable” elements. I know better, as that kind of thing […]",
-          "link": "https://blog.codepen.io/2026/05/18/chris-corner-view-transitions/",
-          "publishedOn": "2026-05-18T17:02:06.000Z",
-          "wordCount": 1456,
-          "title": "Chris’ Corner: View Transitions",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-8.55.57-AM.png"
         }
       ]
     },
@@ -1313,9 +1313,9 @@
           "description": "Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]",
           "link": "https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/",
           "publishedOn": "2026-06-16T21:37:01.000Z",
-          "wordCount": null,
+          "wordCount": 1687,
           "title": "Chris’ Corner: The Edge, Man",
-          "imageUrl": null
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/edge-to-edge.png"
         },
         {
           "id": "https://blog.codepen.io/?p=21252",
@@ -1376,16 +1376,6 @@
           "wordCount": 1188,
           "title": "Chris’ Corner: Finding Type",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/otbessivubeth7kkfefx.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21186",
-          "author": "Chris Coyier",
-          "description": "I’ve had View Transitions on the mind a little bit after experimenting with using them to move the focus ring around the page. I found that pretty satisfying, except the part where I was binding events to the tab key myself and keeping track of “focusable” elements. I know better, as that kind of thing […]",
-          "link": "https://blog.codepen.io/2026/05/18/chris-corner-view-transitions/",
-          "publishedOn": "2026-05-18T17:02:06.000Z",
-          "wordCount": 1456,
-          "title": "Chris’ Corner: View Transitions",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-8.55.57-AM.png"
         }
       ]
     }
