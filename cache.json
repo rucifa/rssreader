@@ -1159,16 +1159,6 @@
           "wordCount": 182,
           "title": "有露點的肉番福利動漫列表",
           "imageUrl": "https://ivonblog.com/posts/fanservice-anime/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/unbound-dns-resolver/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "我們知道有很多公共DNS伺服器可以用，那麼你有沒有想過自己架設一個呢？從今天起透過「Unbound」實施DNS自主吧！\n為什麼要自架一個DNS伺服器：我們可以把DNS想像成網際網路的門牌。當你輸入一個網址時，就像在找房子地址。但電腦其實不知道這個名字對應哪一個IP位址，就像只知道人名，卻不知道門牌號碼一樣。此時，DNS伺服器就像是一個幫你查門牌的查號台。當你第一次查詢網站時，它會幫你找到正確的IP位址，用DNS快取把結果記在附近，讓下一次查詢可以更快完成。不過呢，DNS伺服器如果是使用公共的，你等於是直接問現有查號台，而非自己去找地址。那麼，負責回答你問題的DNS伺服器就很關鍵了，它能夠干涉你所能看到的網站。要是…它回覆的內容不誠實呢？因為各種因素，過濾掉了你不該看到的東西，或者導向錯誤的地址。那麼這時，自己架設一個DNS伺服器便有必要了。\n「Unbound」是一種自架DNS伺服器的方案，由NLnet Labst開發。\n\n \n你可以在離你家電腦最近的伺服器用Unbound，建立DNS快取，加快造訪網站時的網路回應速度，減少延遲。並且查詢DNS位址的時候會啟用DNS over TLS和DNSSEC，防止網路業者(ISP)窺探你造訪的網站為何，保護隱私。",
-          "link": "https://ivonblog.com/posts/unbound-dns-resolver/",
-          "publishedOn": "2026-05-19T19:00:00.000Z",
-          "wordCount": 316,
-          "title": "如何用Docker自架Unbound DNS伺服器",
-          "imageUrl": "https://ivonblog.com/posts/unbound-dns-resolver/featured.webp"
         }
       ]
     },
