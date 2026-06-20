@@ -347,21 +347,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
-          "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-          "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4897,
-          "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg"
         }
       ]
     },
@@ -370,6 +355,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "並不是我不用社群媒體，而是不用APP版本。\n十年前，Apple公司曾經在iPhone 3G的廣告說過：“There’s an app for that”。意思是在手機上，人們很依賴APP做事。可是我們真的需要這麼多APP嗎？",
+          "link": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/",
+          "publishedOn": "2026-06-19T15:00:00.000Z",
+          "wordCount": 911,
+          "title": "爲何我手機不裝社群媒體APP，只用網頁版",
+          "imageUrl": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/postmarketos-general-installation/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",

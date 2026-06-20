@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T01:22:16.632Z</updated>
+    <updated>2026-06-20T01:11:30.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爲何我手機不裝社群媒體APP，只用網頁版]]></title>
+        <id>https://ivonblog.com/posts/social-media-web-version-instead-of-apps/</id>
+        <link href="https://ivonblog.com/posts/social-media-web-version-instead-of-apps/"/>
+        <updated>2026-06-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[並不是我不用社群媒體，而是不用APP版本。
+十年前，Apple公司曾經在iPhone 3G的廣告說過：“There’s an app for that”。意思是在手機上，人們很依賴APP做事。可是我們真的需要這麼多APP嗎？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Siren Song of  ariaNotify()]]></title>
         <id>https://css-tricks.com/?p=395567</id>
@@ -2564,16 +2575,6 @@ Kane, Bouryoku, Sex! You must be 18+ years old to view this.
 請點選：這裡]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`]]></title>
-        <id>https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/</id>
-        <link href="https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"/>
-        <updated>2026-05-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
         </author>
     </entry>
     <entry>
