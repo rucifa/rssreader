@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T01:11:30.265Z</updated>
+    <updated>2026-06-21T01:19:56.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -15,6 +15,17 @@
 十年前，Apple公司曾經在iPhone 3G的廣告說過：“There’s an app for that”。意思是在手機上，人們很依賴APP做事。可是我們真的需要這麼多APP嗎？]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
+        <id>https://css-tricks.com/?p=394364</id>
+        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
+        <updated>2026-06-19T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
+A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -2394,198 +2405,6 @@ The Lunduke Journal
 The State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Levels Of Customer Understanding]]></title>
-        <id>https://smashingmagazine.com/2026/05/four-levels-customer-understanding/</id>
-        <link href="https://smashingmagazine.com/2026/05/four-levels-customer-understanding/"/>
-        <updated>2026-05-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自架網頁RSS閱讀器FreshRSS，取回閱讀自主權，不被社群媒體演算法控制]]></title>
-        <id>https://ivonblog.com/posts/setup-freshrss-server/</id>
-        <link href="https://ivonblog.com/posts/setup-freshrss-server/"/>
-        <updated>2026-05-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[用Docker架設一個自動爬取網站RSS資訊的「FreshRSS」伺服器兼閱讀器，隨時隨地用電腦與手機瀏覽。
-
- 
-這是一個簡單的網頁RSS閱讀器，可以自定義主題。
-
- 
-
- 
-1. 使用RSS的動機
- 
-
- 
- 
- #
- 
- 
-
-為什麼要用RSS？如果你不想再依賴社群媒體演算法被動餵食訊息，決定你能看到什麼，推送垃圾rage-baiting內容，你必須開始學會用RSS訂閱網站更新！主動找你想看的內容，打造自己的資訊流，不被社群媒體平臺綁架。
-RSS是20年前就有的標準，網站作者只要發佈一個XML檔案就能向讀者廣播有新文章的訊息，而且也不用透過E-mail接收。讀者可以使用任意程式閱讀RSS。本文介紹的FreshRSS就是一個例子。
-即使在現在，演算法與AI當道的時代，RSS依然是社群媒體以外一個很好的資訊來源管道，協助你整合資訊，不被演算法控制，取得閱讀自主權。
-Ivon使用RSS的目的，除了打造自己的資訊流以外，就是將一些臭味相投的小眾部落格收集起來，他們可能轉瞬即逝，所以用RSS訂閱起來就不會錯過了。
-你可能會說現在很多網站壓根就沒考慮到RSS功能，或是根本就把該功能移除了。
-沒有RSS，那麼隨機看到超ㄅㄧㄤˋ的網頁該怎辦？你應該馬上將那個網頁送到Internet Archive拍快照，永久封存。
-
- 我還幫你挑了很酷的標本罐]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「有露點的肉番福利動漫列表」規格書 + 開放原始碼]]></title>
-        <id>https://ivonblog.com/posts/ecchi-fanservice-anime-list-specification/</id>
-        <link href="https://ivonblog.com/posts/ecchi-fanservice-anime-list-specification/"/>
-        <updated>2026-05-21T16:01:00.000Z</updated>
-        <summary type="html"><![CDATA[.form-name-popup {
- color: white;
- text-align: center;
- position: fixed;
- z-index: 9;
- top: 0%;
- left: 0%;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.6);
- overflow: scroll;
- }
-
- .form-name-popup-inner {
- position: absolute;
- width: 100%;
- height: 100%;
- padding: 50px;
- overflow: scroll;
- }
-
- .form-name-popup-close {
- position: absolute;
- z-index: 999;
- top: 5px;
- right: 10px;
- color: #fff;
- }
-
- .r18button {
- width: 100px;
- height: auto;
- }
-
- .r18icon {
- display: block;
- margin-left: auto;
- margin-right: auto;
- }
-
-
-
-
- var formhtml = `
-
- 
-金、暴力、SEX！年齡驗證
- 
-Kane, Bouryoku, Sex! You must be 18+ years old to view this.
- 
-是 Yes
- 否 No
- 
-為使專案「有露點的肉番福利動漫列表」未來能順利進行，特訂定此規格書 (Specification) 。
-
- 
-內容規範了製作表格的流程，動漫的收錄標準，還有遵循事項。
-
- 
-
- 
-這個列表專門收錄在巴哈動畫瘋會被列為年齡驗證的作品，收錄了自1960年代以來有好康內容的動畫，詳細列出了集數與角色名稱，並附上福利鏡頭圖片。
-這是我從2021年11月斷斷續續在個人網站上更新的專案，參考了多個來源彙整之後整理為一個容易查閱的表格。雖然我為了做這個大概看了200部以上的動漫，但還是有很多缺漏之處。然後我覺得自己不可能做的完，因此我將蒐集到的資料公開成開放格式供自由利用。
-這個專案包括.json資料列表，以及一個Hugo範本網站。確保你能夠利用這些資料架設自己的實例。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有露點的肉番福利動漫列表]]></title>
-        <id>https://ivonblog.com/posts/fanservice-anime/</id>
-        <link href="https://ivonblog.com/posts/fanservice-anime/"/>
-        <updated>2026-05-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.form-name-popup {
- color: white;
- text-align: center;
- position: fixed;
- z-index: 9;
- top: 0%;
- left: 0%;
- width: 100%;
- height: 100%;
- background: rgba(0, 0, 0, 0.6);
- overflow: scroll;
- }
-
- .form-name-popup-inner {
- position: absolute;
- width: 100%;
- height: 100%;
- padding: 50px;
- overflow: scroll;
- }
-
- .form-name-popup-close {
- position: absolute;
- z-index: 999;
- top: 5px;
- right: 10px;
- color: #fff;
- }
-
- .r18button {
- width: 100px;
- height: auto;
- }
-
- .r18icon {
- display: block;
- margin-left: auto;
- margin-right: auto;
- }
-
-
-
-
- var formhtml = `
-
- 
-金、暴力、SEX！年齡驗證
- 
-Kane, Bouryoku, Sex! You must be 18+ years old to view this.
- 
-是 Yes
- 否 No
- 
-譁譁，這個頁面已經搬家啦。
-請點選：這裡]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack Overflow: When We Stop Asking]]></title>
-        <id>https://css-tricks.com/?p=393076</id>
-        <link href="https://css-tricks.com/stack-overflow-when-we-stop-asking/"/>
-        <updated>2026-05-20T13:51:34.000Z</updated>
-        <summary type="html"><![CDATA[It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?
-Stack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>
