@@ -215,16 +215,6 @@
           "wordCount": 6521,
           "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/dots-loader.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394429",
-          "author": "Temani Afif",
-          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-          "publishedOn": "2026-05-22T13:44:40.000Z",
-          "wordCount": 5473,
-          "title": "The State of CSS Centering in 2026",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
         }
       ]
     },
@@ -345,6 +335,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/windows-exe-emulation-on-android/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "本文列出在Android手機轉譯玩Windows遊戲的解決方案。\n\n  \n\n是真正在手機上執行Windows遊戲喔，不是遠端桌面也不是串流遊戲，也不用刷機。\n要在任意Android手機跑Windows程式，當然不是模擬整個Windows系統啦！那只有少數手機支援。",
+          "link": "https://ivonblog.com/posts/windows-exe-emulation-on-android/",
+          "publishedOn": "2026-06-21T18:00:00.000Z",
+          "wordCount": 1264,
+          "title": "Android轉譯玩Windows exe遊戲的方法一覽",
+          "imageUrl": "https://ivonblog.com/posts/windows-exe-emulation-on-android/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/gamenative-android/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "「GameNative」是一款讓你在Android手機上玩Steam遊戲的模擬器APP。\n\n操作簡單易用，支援中文！\n\n\n這不是Steam Link遠端串流電腦畫面喔，而是讓PC遊戲真的在手機上執行。\n只要登入Steam帳號，就能下載自己收藏庫的遊戲。並且支援同步Steam雲端存檔，遊玩時數會計入Steam雲端。在你關掉電腦後能在手機上繼續玩！",
+          "link": "https://ivonblog.com/posts/gamenative-android/",
+          "publishedOn": "2026-06-21T17:00:00.000Z",
+          "wordCount": 1270,
+          "title": "GameNative：在Android手機直接玩Steam PC遊戲，免遠端串流",
+          "imageUrl": "https://ivonblog.com/posts/gamenative-android/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -1034,86 +1044,6 @@
           "wordCount": 193,
           "title": "Shoelace：免登入看Threads串文 + 影片下載",
           "imageUrl": "https://ivonblog.com/posts/shoelace-threads-frontend/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/rclone-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "想要同時使用多個雲端硬碟又不想裝一堆客戶端？\n你的雲端硬碟供應商沒有提供Linux版桌面客戶端嗎？\nRclone一個工具搞定！\n\n \nRclone是受Rsync所啟發的軟體，開發者Nick Craig-Wood稱其為\"rsync for cloud storage\"，或可理解為一把萬用的「瑞士軍刀」！\n提供強大的指令，還有直觀的面板，讓你存取大大小小的檔案。\n\n \nRclone特色功能如下：\n本體是Go語言寫成的單一執行檔，沒有其他依賴項目，安裝簡單\n比Rsync效能更好，加入多執行緒支援\n開源軟體，不會蒐集使用者資料\n跨平台支援Linux、Windows、macOS\n使用靈活，可以用純文字指令操作，也有網頁圖形介面\n支援許多雲端硬碟，例如Google Drive、OneDrive、iCloud、Dropbox、pCloud、MEGA、NextCloud、Amazon S3等等\n支援掛載遠端FTP、SSHFS、SMB、WebDAV伺服器、檔案系統，當作Rsync備份檔案之用。\n可透過rclone serve將自身變身為一個簡易HTTP檔案分享伺服器，後端抽象化，對客戶端來說看到的都是一樣的路徑\n因為能同時連線到多個雲端硬碟，所以能在不同雲端之間同步檔案\n支援本機加密後再上傳檔案\n透過rclone mount將雲端目錄掛載到本機瀏覽，直接在檔案管理員修改遠端檔案。\n本文Ivon示範 如何在Linux安裝Rclone，並以Google雲端硬碟為例子 示範Rclone的各種用法。",
-          "link": "https://ivonblog.com/posts/rclone-linux/",
-          "publishedOn": "2026-05-22T15:00:00.000Z",
-          "wordCount": 385,
-          "title": "Rclone + GUI教學，簡單搞定Linux電腦雲端同步，支援Google Drive、OneDrive、Dropbox、MEGA",
-          "imageUrl": "https://ivonblog.com/posts/rclone-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/search/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "使用DuckDuckGo搜尋\n\n使用Google搜尋",
-          "link": "https://ivonblog.com/search/",
-          "publishedOn": "2026-05-22T14:22:00.000Z",
-          "wordCount": 54,
-          "title": "站內文章搜尋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/steins-gate-choice/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "There is no end though there is a start in space. — Infinite. It has (its) own power, it ruins, and it goes though there is a start also in the star. — Finite. Only the person who (has) wisdom can read the most foolish one from the history. The fish that lives in the sea doesn’t know the world in the land. It also ruins and goes if they have wisdom. It is funnier that man exceeds the speed of light than fish start living in the land. It can be said that this is (a) final ultimatum from the god to the people who can fight.",
-          "link": "https://ivonblog.com/steins-gate-choice/",
-          "publishedOn": "2026-05-22T14:22:00.000Z",
-          "wordCount": 168,
-          "title": "這一切都是命運石之門的選擇——",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/random-post/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "點選以下按鈕，隨機跳轉到本站的一篇文章，可能會有意外的驚喜！內容可能是一個實用軟體的教學文，也可能是好康的圖片，也可能是我的深夜murmur。\n🎲 隨機閱讀 🎲\n警告：這裡會遍歷全站的文章，沒有進行過濾，可能會看到不堪入目的內容，請謹慎使用！\n為什麼做這個頁面：因為寫的文章的太多了，有的我已經不知道怎麼整理了。",
-          "link": "https://ivonblog.com/random-post/",
-          "publishedOn": "2026-05-22T14:22:00.000Z",
-          "wordCount": 56,
-          "title": "隨機頁面",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/privacy-policy/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "非常歡迎您光臨「Ivon的部落格」（以下簡稱本網站），為了讓您能夠安心使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策，以保障您的權益，請您詳閱下列內容：\n一、隱私權保護政策的適用範圍\n \n\n \n \n #\n \n \n\n隱私權保護政策內容，包括本網站如何處理在您使用網站服務時收集到的個人識別資料。隱私權保護政策不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。\n二、個人資料的蒐集、處理及利用方式\n \n\n \n \n #\n \n \n\n\n當您造訪本網站或使用本網站所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。\n本網站在您使用服務信箱、問卷調查等互動性功能時，會保留您所提供的姓名、電子郵件地址、聯絡方式及使用時間等。\n於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站服務的參考依據，此記錄為內部應用，決不對外公佈。\n為提供精確的服務，我們會將收集的問卷調查內容進行統計與分析，分析結果之統計數據或說明文字呈現，除供內部研究外，我們會視需要公佈統計數據及說明文字，但不涉及特定個人之資料。\n您可以隨時向我們提出請求，以更正或刪除您的帳戶或本網站所蒐集的個人資料等隱私資訊。聯繫方式請見最下方聯繫管道。\n三、資料之保護\n \n\n \n \n #\n \n \n\n\n本網站主機均設有防火牆、防毒系統等相關的各項資訊安全設備及必要的安全防護措施，加以保護網站及您的個人資料採用嚴格的保護措施，只由經過授權的人員才能接觸您的個人資料，相關處理人員皆簽有保密合約，如有違反保密義務者，將會受到相關的法律處分。\n如因業務需要有必要委託其他單位提供服務時，本網站亦會嚴格要求其遵守保密義務，並且採取必要檢查程序以確定其將確實遵守。\n四、網站對外的相關連結\n \n\n \n \n #\n \n \n\n本網站的網頁提供其他網站的網路連結，您也可經由本網站所提供的連結，點選進入其他網站。但該連結網站不適用本網站的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。",
-          "link": "https://ivonblog.com/privacy-policy/",
-          "publishedOn": "2026-05-22T14:22:00.000Z",
-          "wordCount": 53,
-          "title": "隱私權政策",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/category-icons/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": ".category-icons {\n width: 100% !important;\n max-width: 100% !important;\n}\n\n.category-icons table {\n width: 90% !important; \n max-width: 1000px !important;\n margin-left: auto !important;\n margin-right: auto !important;\n table-layout: fixed !important;\n text-align: center !important;\n margin-top: 2em !important;\n margin-bottom: 2em !important;\n font-size: 0.875em !important;\n line-height: 1.7142857 !important;\n border-collapse: collapse !important;\n border-spacing: 0 !important;\n border: 0px !important;\n}\n\n.category-icons img {\n pointer-events: none;\n user-select: none;\n max-width: 100%;\n height: auto;\n}\n\n.category-icons td,\n.category-icons th {\n border: hidden !important;\n text-align: center !important;\n padding: 5px !important;\n word-break: normal !important;\n}\n\n.category-icons th {\n font-weight: normal !important;\n}\n\n\nLinux系統\nLinux使用技巧\n Linux好用軟體\n Linux系統安裝\n \nSelf-host自架\n Linux玩遊戲\n 自由軟體議題\n \n智慧型手機\n手機APP分享\n Root與刷機\n iOS玩機與越獄\n \nTermux教學\n 真Linux手機\n \n人文藝術\n書影心潮\n 繪圖創作\n 音樂欣賞\n \n隨筆\n 歷史研究\n 政論\n \nNSFW\nNSFW\nNSFW雜談\n 同人誌心得\n 裏番心得\n \n飛機杯評價\n\n\n\n資訊科技\n資訊科技應用\n 電腦軟體分享\n 3C開箱評測\n \n作業系統安裝\n 虛擬機技術\n BSD系統\n \nHugo網站架設\n \n遊戲攻略\nFate系列\n Minecraft\n 艦隊Collection\n \nLuanti",
-          "link": "https://ivonblog.com/category-icons/",
-          "publishedOn": "2026-05-22T14:22:00.000Z",
-          "wordCount": 63,
-          "title": "分類",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/blogroll/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。\n之所以叫部落滾(blogroll)而非直接稱呼友站連結，乃因為這些連結大都是我私自放上來的，沒有全部都經過與對方的交換連結程序。如果用友站連結稱呼感覺在裝熟，很不好意思。\n如果你想讓你的有趣網站連結出現在這裡，或是覺得我對你的網站有什麼誤會，不要吝惜，立即用E-Mail跟我聯絡吧！\n名稱\n URL\n 第一印象\n \nDarkRanger’s Secret Area\n https://darkranger.no-ip.org\n Fedora用戶\n \n大丙的筆記 Dabinn’s Note\n https://blog.dabinn.net\n 玩車和VR\n \nDuckLL’s Blog\n https://blog.duckll.tw/\n \n \nFreedom Wolf\n https://www.freedomwolf.cc\n 分享自由軟體與Linux系統管理技巧。\n \nGea-Suan Lin’s BLOG – 幹壞事是進步最大的原動力\n https://blog.gslin.org\n 分享即時科技圈新聞與系統操作小撇步。\n \nHiroshi Y. - 個人雜記\n https://ghostsinthelab.org\n 新酷音作者。\n \nltlnx 的網誌\n https://ltlnx.tw\n Slackware用戶。\n \nLuke Smith\n https://lukesmith.xyz\n Artix Linux用戶，除了自由軟體議題外，還常常在自己Youtube頻道分享一些獨到的見解。整天幹譙監控資本主義的社會議題，教你怎麼守護線上隱私權，活生生像是4chan /g/ 鄉民的化身。\n \nThe Lunduke Journal\n ht…",
-          "link": "https://ivonblog.com/blogroll/",
-          "publishedOn": "2026-05-22T14:22:00.000Z",
-          "wordCount": 116,
-          "title": "部落滾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/icloud-on-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在Linux電腦存取Apple iCloud雲碟，同步來自iPhone、iPad、Mac的檔案。打破Apple壁壘！\n目的是要達到類似Windows版iCloud客戶端的效果，即在Linux電腦檢視iCloud檔案，還有將iCloud郵件與行事曆整合到Linux桌面，讓我們能跨裝置工作。\n\n 透過Linux檔案管理器瀏覽iCloud雲碟的檔案\n\n 用Linux版Thunderbird查看iCloud行事曆並接收通知\n你可能會說，iCloud網頁版就夠用了，為什麼要用同步的呢？確實啦，iCloud雲碟、照片、郵件、行事曆、備忘錄、iWork套件都有網頁版，實無將檔案同步到電腦的必要。\n\n \n但總有人喜歡這樣檔案隨手可得的感覺，檔案同步到本機之後，要用其他程式編輯比較方便嘛。\n還有，若有重要檔案放在iCloud的話，自行用程式備份到Linux伺服器也是一個保險措施。\n1. iCloud有Linux版客戶端嗎？\n \n\n \n \n #\n \n \n\n沒有。目前Apple沒有支援Linux的打算，畢竟他們連Linux版iTunes都不願意推出，逼人得用libimobiledevice才能在Linux查看iPhone的檔案。\n我在Ubuntu的Snap Store看到了Marcus Tomlinson開發的iCloud for Linux程式，不過這並沒有將檔案同步到Linux本機的作用，它只是封裝了iCloud網頁版而已！\n能不能跑Windows版的iCloud呢？根據Wine資料庫顯示，Windows版iCloud客戶端或許可以透過Wine執行。\n不過我不打算這樣做，而是透過第三方程式來存取iCloud。我主要會用到的程式是Rclone和Thunderbird。",
-          "link": "https://ivonblog.com/posts/icloud-on-linux/",
-          "publishedOn": "2026-05-22T14:00:00.000Z",
-          "wordCount": 329,
-          "title": "Linux電腦同步iCloud檔案、郵件、行事曆（Rclone + Thunderbird 教學）",
-          "imageUrl": "https://ivonblog.com/posts/icloud-on-linux/featured.webp"
         }
       ]
     },
