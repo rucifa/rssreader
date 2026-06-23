@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394890",
+          "author": "Silvestar Bistrović",
+          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+          "publishedOn": "2026-06-22T12:39:13.000Z",
+          "wordCount": 4577,
+          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
+            "length": "38364603",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=394364",
           "author": "Daniel Schwarz",
           "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -1086,6 +1101,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21291",
+          "author": "Chris Coyier",
+          "description": "The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]",
+          "link": "https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/",
+          "publishedOn": "2026-06-22T17:01:10.000Z",
+          "wordCount": 1189,
+          "title": "Chris’ Corner: Makin’ Stuff",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21298",
           "author": "Chris Coyier",
           "description": "We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]",
@@ -1172,6 +1197,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21291",
+          "author": "Chris Coyier",
+          "description": "The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]",
+          "link": "https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/",
+          "publishedOn": "2026-06-22T17:01:10.000Z",
+          "wordCount": 1189,
+          "title": "Chris’ Corner: Makin’ Stuff",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21298",
           "author": "Chris Coyier",

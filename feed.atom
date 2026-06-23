@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T01:20:39.065Z</updated>
+    <updated>2026-06-23T01:05:33.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Makin’ Stuff]]></title>
+        <id>https://blog.codepen.io/?p=21291</id>
+        <link href="https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/"/>
+        <updated>2026-06-22T17:01:10.000Z</updated>
+        <summary type="html"><![CDATA[The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Makin’ Stuff]]></title>
+        <id>https://blog.codepen.io/?p=21291</id>
+        <link href="https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/"/>
+        <updated>2026-06-22T17:01:10.000Z</updated>
+        <summary type="html"><![CDATA[The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
+        <id>https://css-tricks.com/?p=394890</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
+        <updated>2026-06-22T12:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
+CodePen Embed Fallback
+Note: This …
+Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android轉譯玩Windows exe遊戲的方法一覽]]></title>
         <id>https://ivonblog.com/posts/windows-exe-emulation-on-android/</id>
