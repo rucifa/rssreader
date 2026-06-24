@@ -327,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
-          "author": "hello@smashingmagazine.com (Eric Joseph L.)",
-          "description": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
-          "link": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
-          "publishedOn": "2026-05-25T12:00:00.000Z",
-          "wordCount": 3763,
-          "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg"
         }
       ]
     },
@@ -350,6 +335,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/lunatranslator-galgame-translator/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你是日文苦手嗎？玩Galgame生肉的時候總是看不懂劇情？得等漢化組製作中文翻譯？\n我想要一款即時翻譯電腦螢幕文字的軟體，最好不用修改遊戲程式就能翻譯，這樣的話可以讓我玩Galgame遊戲的時候方便一些。\n在瀏覽巴哈文章的時候找到了「LunaTranslator」，這是一款開源免費的螢幕翻譯軟體。支援多種線上商業翻譯服務，如Google翻譯和DeepL。也可以連接到語言模型跑AI翻譯，如線上的ChatGPT，還有離線執行的Ollama。",
+          "link": "https://ivonblog.com/posts/lunatranslator-galgame-translator/",
+          "publishedOn": "2026-06-23T09:00:00.000Z",
+          "wordCount": 1233,
+          "title": "電腦Galgame即時翻譯軟體「LunaTranslator」使用方式",
+          "imageUrl": "https://ivonblog.com/posts/lunatranslator-galgame-translator/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/windows-exe-emulation-on-android/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -999,66 +994,6 @@
           "wordCount": 159,
           "title": "把我Blog邪惡的思想散播到全世界！利用AI自動翻譯為多國語言",
           "imageUrl": "https://ivonblog.com/posts/machine-translated-blog-posts/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/install-docker-engine-on-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "本文參照Docker官方文件，簡介各大Linux發行版的Docker安裝方式，以及安裝後建議採取的措施，配合個人經驗做註解。指令未來可能有所變更，請以Docker公司的官方文件為準。\n1. 什麼是Docker？\n \n\n \n \n #\n \n \n\nDocker是適用於Linux系統的容器技術，可提升應用程式部署的效率，也能用來跑伺服器服務。\n\n \n容器 (container) 相較於虛擬機 (virtual machine) 是更輕量，速度更快，佔用硬體資源低的技術。容器並不會模擬完整硬體與作業系統，而是透過Linux核心的namespaces與 cgroups等機制隔離行程，並與宿主系統共用同一個Linux核心。Docker本身則是將這些Linux核心功能進一步封裝與標準化的容器平台。\n用Docker的好處是什麼呢？它對軟體開發人員和使用者都有好處。\n對軟體開發人員來說，你可以把一個程式所需要的依賴項目打包為一個Docker映像檔(image)，然後部署到多個機器上。一次打包多處執行。這樣每個Linux發行版只要裝了Docker，都能用一樣的指令跑一樣的服務，不用調整一堆有的沒的設定檔，省去解決依賴衝突的時間。例如，你在Ubuntu開發的軟體，打包為Docker映像檔之後，便能確保它在Debain、Arch Linux、Fedora、openSUSE的機器也能跑起來。不需要重新打包。",
-          "link": "https://ivonblog.com/posts/install-docker-engine-on-linux/",
-          "publishedOn": "2026-05-25T13:00:00.000Z",
-          "wordCount": 388,
-          "title": "Docker Engine在各大Linux發行版的安裝教學",
-          "imageUrl": "https://ivonblog.com/posts/install-docker-engine-on-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/libredirect-browser-extension/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這是幫助你淡出社群媒體的瀏覽器小工具。\n我把瀏覽器的搜尋結果全部重新導向了。\n透過「LibRedirect」的瀏覽器擴充功能，自動將社群媒體的網址重新導向到第三方前端 (alternative frontend) ，改變接受資訊的方式，修正被演算法控制的心態。\n\n \n例如，不用登入Twitter (X) 的帳號，也不用開啟x.com，就可以查看推文更新。這是透過名為Nitter的第三方前端做到的。\n\n \n1. 什麼是第三方前端？\n \n\n \n \n #\n \n \n\n要取得資訊，就會打開瀏覽器，使用搜尋引擎或AI找資料吧。即使是不想用社群媒體的用戶，也不免會到社群媒體網站接受資訊。\n提供資訊的一方多半是網頁形式，所以，你會接觸到別人寫的「前端」，也就是frontend。\n至於那些要求下載APP才能看的網站，罪該萬死。\n可是，現在很多網站會要求你登入才能看，否則就只對搜尋引擎機器人而非人類用戶提供完整資訊。你一往下滑，網頁就會跳出提示框禁止瀏覽！破壞瀏覽體驗。然後，你就會被社群媒體設計的機制越綁越深，無法脫離演算法給你的好處，忘記真正需要的資訊。\n並且網站會在網頁放一堆臃腫的JavaScript以投放廣告，追蹤使用者行為，還有用演算法向你推薦感興趣的內容，順便賣產品。",
-          "link": "https://ivonblog.com/posts/libredirect-browser-extension/",
-          "publishedOn": "2026-05-24T20:30:00.000Z",
-          "wordCount": 190,
-          "title": "LibRedirect擴充功能教學：免登入社群媒體又可以接收資訊，順便保護隱私",
-          "imageUrl": "https://ivonblog.com/posts/libredirect-browser-extension/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/nitter-x-privacy-frontend/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Nitter是X.com (Twitter) 的第三方前端。不需要登入就能查看推文，瀏覽NSFW內容，以及下載影片。\n\n \n1. Nitter特色功能\n \n\n \n \n #\n \n \n\nNitter是一個開源的第三方網頁前端，主打極簡設計，去掉了X.com首頁有的沒有的功能，刪除了廣告和追蹤器，保護隱私。不需要JavaScript就能用。界面類似10年前的Twitter。\n我知道這個名字聽起來很像nigger…才怪，之所以叫這個名字是因為Nitter用Nim語言編寫。Nit也有傻瓜的意思。\n有趣的是，自從Twitter被Elon Musk收購變成X.com之後，一些用戶受不了他的自大作風（例如每次X.com有新功能就會狂發文昭告天下，還有放任極右派言論擴散）紛紛離開。而且Hacker News有人會建議說，如果你要分享X.com的推文，可否改附上Nitter的代理網址呢？由此可見Elon Musk在一些人心中的厭惡程度！\nNitter可以搜尋X.com上面所有公開的推文。\n\n \n包括原本沒登入就不給看的NSFW內容。Nitter自動幫你處理掉了login wall的部分。\n\n \nX.com的圖片和影片會渲染為HTML5播放器，不過不能右鍵下載影片，還是得使用yt-dlp來抓。",
-          "link": "https://ivonblog.com/posts/nitter-x-privacy-frontend/",
-          "publishedOn": "2026-05-24T20:00:00.000Z",
-          "wordCount": 194,
-          "title": "用Nitter免登入X.com查看貼文 + RSS訂閱推文更新",
-          "imageUrl": "https://ivonblog.com/posts/nitter-x-privacy-frontend/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/mikuinvidious-bilibili-frontend/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "叔叔我啊，最討厭不登入帳號看視頻的孩子了。\nMikuinvidious是模仿 Invidious Youtube 的網頁前端，專為Bilibili設計。\n主打保護隱私的觀看體驗。\n1. Mikuinvidious功能\n \n\n \n \n #\n \n \n\nMikuinvidious是由趙喜娜 (Bing Chilling) 開發的開源專案，去掉了Bilibili主站的臃腫界面與追蹤器，只保留影片播放功能，不需要JavaScript就能用。\n用意在於讓用戶可以免登入觀看Bilibili影片，不會播放到一半被「登入享高清」的訊息干擾。還可以下載現正播放的影片。\n\n \nMikuinvidious也可以用來追番（需要輸入av號），只要不是大會員的公開番劇都能播放。依照Mikuinvidious伺服器部署的地理位置IP不同，能看的番劇也會不同。\n\n \n可以用RSS訂閱UP主更新。不過看不到動態和文字專欄，只有影片。\nBilibili對外開放的影片畫質有限制。而且搜尋影片很容易被限流。\n支援登入Bilibili帳號觀看更多內容。\n2. 打包Mikuinvidious專案\n \n\n \n \n #\n \n \n\n參考Gitlab，這個專案似乎已經一年以上沒更新了（悲）作者的README是空白的。我實測當下還是勉強可以用，一些頁面會報錯。彈幕無法顯示。\n沒有現成的Docker映像檔，需要自己打包。Mikuinvidious目前似乎沒有公共站臺，需要自架。",
-          "link": "https://ivonblog.com/posts/mikuinvidious-bilibili-frontend/",
-          "publishedOn": "2026-05-24T19:00:00.000Z",
-          "wordCount": 351,
-          "title": "Mikuinvidious：第三方Bilibili網頁端 + 下載影片，讓陳睿叔叔無法追蹤你的隱私",
-          "imageUrl": "https://ivonblog.com/posts/mikuinvidious-bilibili-frontend/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/phice-facebook-frontend/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "祖克伯知道了會氣死的東西。\n眾所周知，你不登入Facebook帳號，會一直有提示框跳出來阻擋瀏覽。\n但我就是不想給他們追蹤呀？那就用Phice網頁瀏覽吧。\n\n \n1. Phice特色\n \n\n \n \n #\n \n \n\nPhice為一款尊重隱私的第三方Facebook前端。這聽起來挺矛盾的，Facebook和隱私似乎沾不上邊，但就是被做出來了。\n架構簡單，網頁元素幾乎沒用到JavaScript。\n我們不用登入Facebook帳號，就能搜尋公開貼文，查看留言。排序由Facebook演算法決定\n\n \n\n \n也可以搜尋粉絲專頁的最新發文。不會看到任何廣告\n\n \nPhice會將網頁元素渲染為基本的HTML元素，因此可以右鍵下載影片，Facebook Reels也可以\n\n \n另外提供RSS訂閱功能，讓你能夠追蹤特定帳號的新貼文。\n不過，Phice只是一個簡單爬取Facebook公開資料的服務而已，無法瀏覽私密社團的內容，無法登入Facebook帳號，也不能使用Messenger。\n況且你要是真的用這個登入帳號的話，使用者也可能被ban。\nFacebook對爬蟲程式抓很兇的，第三方程式嘗試爬貼文IP就會被封鎖，我想這是目前Phice沒有公共站臺的原因。建議自架Phice。",
-          "link": "https://ivonblog.com/posts/phice-facebook-frontend/",
-          "publishedOn": "2026-05-24T19:00:00.000Z",
-          "wordCount": 162,
-          "title": "使用Phice下載Facebook影片，免登入，RSS訂閱更新",
-          "imageUrl": "https://ivonblog.com/posts/phice-facebook-frontend/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/shoelace-threads-frontend/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Shoelace，鞋帶，是脆的諧音，一個酷酷的諧音梗。不是蒸丸，蒸的丸子(臺語)。\n\n \n這是脆 (Threads) 的第三方前端。免登入看脆的串文，不被登入框干擾，。\n雖然我很討厭Threads，rage-baiting導向的演算法老是推送一堆智障貼文，但它現在是臺灣活網最熱門的地方，每天都有新梗，我還是得用它。\n瀏覽器不登入Threads帳號的話就會跳出登入框阻止往下滑，那麼我就用這個吧。\n1. Shoelace功能\n \n\n \n \n #\n \n \n\n這個前端主要是提供一個簡單的界面來查看Threads的文章，去掉廣告與追蹤器。\n要擺脫演算法的惡意，就是乾脆不要有演算法。\n目前可以爬取文字串文和圖片。\n\n \n要看串文回覆的話點一下帳號旁邊的日期。\n\n \n影片的話要點進串文才會播放。Shoelace會將影片渲染為標準HTML5播放器，Firefox應該可以直接右鍵下載。\n\n 89超商跳舞\nShoelace只能看特定帳號的發文和回覆，不能搜尋串文。而且似乎沒辦法看到更久以前的發文。\n折衷方法是透過搜尋引擎來找Threads貼文。Threads的SEO做的還不錯，因此Google應該都會收錄。\n另外可以透過RSS按鈕，訂閱Threads帳號的發文更新。",
-          "link": "https://ivonblog.com/posts/shoelace-threads-frontend/",
-          "publishedOn": "2026-05-24T18:00:00.000Z",
-          "wordCount": 193,
-          "title": "Shoelace：免登入看Threads串文 + 影片下載",
-          "imageUrl": "https://ivonblog.com/posts/shoelace-threads-frontend/featured.webp"
         }
       ]
     },
