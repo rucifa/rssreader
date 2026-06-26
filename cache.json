@@ -12,6 +12,46 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=394786",
+          "author": "Gabriel Shoyombo",
+          "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+          "publishedOn": "2026-06-25T13:18:56.000Z",
+          "wordCount": 4266,
+          "title": "translateZ()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393249",
+          "author": "Gabriel Shoyombo",
+          "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+          "publishedOn": "2026-06-25T13:17:56.000Z",
+          "wordCount": 4143,
+          "title": "translateY()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393255",
+          "author": "Gabriel Shoyombo",
+          "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+          "publishedOn": "2026-06-25T13:16:01.000Z",
+          "wordCount": 4359,
+          "title": "translateX()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393233",
+          "author": "Gabriel Shoyombo",
+          "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translate/",
+          "publishedOn": "2026-06-25T13:15:05.000Z",
+          "wordCount": 4231,
+          "title": "translate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=394890",
           "author": "Silvestar Bistrović",
           "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -200,26 +240,6 @@
           "wordCount": 3479,
           "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393536",
-          "author": "Preethi",
-          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
-          "publishedOn": "2026-05-27T12:37:33.000Z",
-          "wordCount": 3459,
-          "title": "Revealing Text With CSS letter-spacing",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395048",
-          "author": "Geoff Graham",
-          "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
-          "publishedOn": "2026-05-26T13:49:28.000Z",
-          "wordCount": 5429,
-          "title": "Technical Writing in the AI Age",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
         }
       ]
     },
@@ -326,6 +346,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/floccus-bookmarks-sync/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "想在Firefox與Chrome之間跨瀏覽器同步書籤，你需要「Floccus」這個擴充功能！\n\n  \n\n為什麼需要這個書籤同步服務呢？我在各大作業系統使用的瀏覽器都不一樣，不會一套通吃。就算是Brave，我也是在Android手機用比較多，Linux電腦是偏好用Firefox，iPad則只有Safari能選。過去總被同步這點綁住，被迫綁在同一套瀏覽器，每個瀏覽器都有不同的同步帳號。後來我了解到，我只要搞定最常用的「密碼」與「書籤」這兩個關鍵同步要素，用什麼瀏覽器就不是問題了。",
+          "link": "https://ivonblog.com/posts/floccus-bookmarks-sync/",
+          "publishedOn": "2026-06-25T09:00:00.000Z",
+          "wordCount": 1151,
+          "title": "Floccus：跨瀏覽器同步書籤，方便在Firefox與Chrome之間切換",
+          "imageUrl": "https://ivonblog.com/posts/floccus-bookmarks-sync/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/ios-sideloading/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "這篇文章Ivon整理各種iPhone/iPad安裝第三方APP的方法，供iOS用戶及開發者參考。\n這些方法到iOS 27都還有效。\n首先Ivon會講解什麼是側載，再講解側載方法，依序為最簡單到最困難的，大部分都不需要越獄。",
@@ -334,6 +364,26 @@
           "wordCount": 1263,
           "title": "iPhone如何安裝第三方APP？iOS側載IPA方法匯總",
           "imageUrl": "https://ivonblog.com/posts/ios-sideloading/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/setup-joplin/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "想要尋找開源跨平台的筆記軟體？\n兼具Microsoft OneNote的知識管理？\n又有Google備忘錄的功能？\n推薦您試試「Joplin」！\n\n  \n\nJoplin是來自法國的筆記軟體，由Laurent Cozic開發，2017年釋出，APP的名字來自他常聽的鋼琴家 史考特·喬普林 (Scott Joplin)。",
+          "link": "https://ivonblog.com/posts/setup-joplin/",
+          "publishedOn": "2026-06-24T03:00:00.000Z",
+          "wordCount": 1468,
+          "title": "Joplin：開源筆記軟體使用教學，支援電腦與手機同步",
+          "imageUrl": "https://ivonblog.com/posts/setup-joplin/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/setup-rustdesk/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請參考： Linux開源免費的遠端桌面列表\nRustDesk是一款開源免費的遠端桌面軟體，提供電腦遠端控制電腦、手機遠端控制電腦、電腦遠端控制手機、手機控制手機等多種連線方式。\n連線時可以全程自架，也可以用免費公共伺服器連線。資料傳輸經過點對點加密，安全性不用太擔心。",
+          "link": "https://ivonblog.com/posts/setup-rustdesk/",
+          "publishedOn": "2026-06-23T17:00:00.000Z",
+          "wordCount": 1372,
+          "title": "RustDesk使用教學：開源免費遠端桌面，支援Linux、Windows、macOS，可自架伺服器",
+          "imageUrl": "https://ivonblog.com/posts/setup-rustdesk/featured.webp"
         },
         {
           "id": "https://ivonblog.com/posts/lunatranslator-galgame-translator/",
@@ -954,26 +1004,6 @@
           "wordCount": 116,
           "title": "網站的追蹤器又回來了，而且這次是主委加碼，增加到3個",
           "imageUrl": "https://ivonblog.com/posts/trackers-are-back-again-2026/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/a-sentence-changing-you-2026/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這是我的「BlogBlog 同樂會 - 2026 年 5 月」的投稿文章。本月主題是「改變人生觀的一句話」，由 Eddie Lv 主持。如果你有自己的部落格，歡迎一起來參加！\n這次，高文決定，不會再逃避綠騎士砍頭。\n\n \n這不是一句話，而是電影的總結。\nHonor, that is what a knight does what he does.\n因著2023年修英國文學史課程教授的介紹，得知了《綠騎士》(Green Knight2021)這部電影，拖了好幾年說要看都沒看，結果今天一次看完…\n這部電影是改編自中世紀敘事詩《Sir Gawain and the Green Knight》的作品，屬於亞瑟王傳說中的一篇。大意是說聖誕節的時候，一名綠騎士來到了圓桌騎士面前，要人跟他玩砍頭遊戲。高文自告奮勇的跳了出來，綠騎士頭被砍掉之後掉頭就走，並要他一年後去找他砍頭。於是高文踏上了旅程，經歷了冒險。最終成長的故事。\n看官方預告，我以為這是一部史詩爽片，但沒人跟我說是一部吃A24工作室電波的片子！\n\n\n\n\n\n \n \n\n雖然特效很棒，畫面與台詞很藝術，但劇情表現上就精簡太多，跟中世紀原作《Sir Gawain and the Green Knight》有很大差距，沒有那麼強的寓言性。\n觀眾必須看過原作才能去猜測導演想表達的意圖，或者從另一個角度去呈現整個故事。\n嗯，雖然我在教授的要求下讀過中古英語的原本，不過電影呈現方式跟原作差很多。",
-          "link": "https://ivonblog.com/posts/a-sentence-changing-you-2026/",
-          "publishedOn": "2026-05-27T13:00:00.000Z",
-          "wordCount": 135,
-          "title": "改變人生觀的一句話：高文決定接受綠騎士砍頭",
-          "imageUrl": "https://ivonblog.com/posts/a-sentence-changing-you-2026/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/setup-anubis-web-firewall/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在造訪Linux相關網站的時候，你有看過這個獸耳娘嗎？她就是Anubis！\n\n \nAnubis是一款針對爬蟲機器人所設計的輕量Web防火牆，在伺服器加上bot challenge，能夠防止伺服器被AI爬蟲機器人爬到掛，也能防止，保護伺服器服務。\n原理是在伺服器的回應加入SHA-256數學計算，要求客戶端，通常是瀏覽器，進行工作量證明(Proof-of-Work)，自動驗證使用者是否為機器人再放行。因為一般爬蟲無法處理這種耗算力的請求，就會導致他們被Anubis攔截下來，達到保護伺服器的目的。\n\n \n你甚至可以用Anubis設置蜜罐節點(dataset poisoning)，讓爬蟲機器人陷入死循環無法爬到真正的資料。\n自從2022年LLM爆紅之後，許多公司為了取得程式碼訓練資料，開始大規模的爬取開源專案的伺服器，無視robots.txt亂爬，幾乎形成了DDoS攻擊的態勢。於是Anubis便在加拿大誕生了。\nAnubis的吉祥物是一隻獸耳蘿莉，她的形象來自於埃及神話中的阿努比斯神，秤量你靈魂的罪惡，決定是否能前進。\n現在很多FOSS專案都會使用Anubis這個服務擋爬蟲機器人，譬如託管在Gitlab的FreeDesktop專案。Debian和Arch Linux官網也有使用Anubis。因為Anubis是開源而且是可自架的，運作不依賴第三方伺服器。",
-          "link": "https://ivonblog.com/posts/setup-anubis-web-firewall/",
-          "publishedOn": "2026-05-27T06:00:00.000Z",
-          "wordCount": 250,
-          "title": "Linux伺服器部署Anubis擋AI爬蟲機器人，替代Cloudflare防火牆的輕量選擇",
-          "imageUrl": "https://ivonblog.com/posts/setup-anubis-web-firewall/featured.webp"
         }
       ]
     },
