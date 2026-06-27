@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T01:11:25.225Z</updated>
+    <updated>2026-06-27T01:06:47.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -1887,36 +1887,6 @@ What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, a
 現在我的網站重新有了3個追蹤器，分別是Microsoft Clarity、Google Analytics、Cloudflare Web Analytics。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`]]></title>
-        <id>https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"/>
-        <updated>2026-05-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[426: Browserslist in CodePen 2.0]]></title>
-        <id>https://blog.codepen.io/?p=21226</id>
-        <link href="https://blog.codepen.io/2026/05/27/426-browserslist-in-codepen-2-0/"/>
-        <updated>2026-05-27T21:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Stephen and Chris chat about how the 2.0 editor (well, the compiler really) understands and supports Browserslist, a config format that lives in your package.json file that multiple blocks can understand and make browser support decisions against. Jump Links]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[426: Browserslist in CodePen 2.0]]></title>
-        <id>https://blog.codepen.io/?p=21226</id>
-        <link href="https://blog.codepen.io/2026/05/27/426-browserslist-in-codepen-2-0/"/>
-        <updated>2026-05-27T21:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Stephen and Chris chat about how the 2.0 editor (well, the compiler really) understands and supports Browserslist, a config format that lives in your package.json file that multiple blocks can understand and make browser support decisions against. Jump Links]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
