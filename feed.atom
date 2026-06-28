@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-27T01:06:47.675Z</updated>
+    <updated>2026-06-28T01:12:50.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -1783,110 +1783,6 @@ pacman -Syu
 What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伺服器要走The Unix Way亦或是完全容器化？]]></title>
-        <id>https://ivonblog.com/posts/the-unix-way-or-the-containerization/</id>
-        <link href="https://ivonblog.com/posts/the-unix-way-or-the-containerization/"/>
-        <updated>2026-05-28T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我有多個Linux伺服器，不論是VPS還是樹莓派亦或是x86主機，我認為所有跑在Linux Server上的服務都應該要是container而非systemd service，除了SSH以外。
-
- ChatGPT生成
-從幾年前用Arch Linux的時候就養成了這個習慣吧。在資源有限的硬體環境，如樹莓派和1C1G VPS，我會使用container取代VM。
-覺得有點矛盾的一點是，不論是在我自己的樹莓派還是VPS，我都會用Docker部署服務，連DNS Server與Cloudflare Tunnel這些都是如此。
-因為這建基一個假設與恐懼：部署一個服務所需要的依賴會互相衝突，破壞系統穩定性，所以應該容器化。比如如果多個程式用到不同版本的PHP，系統就會發生衝突。
-此外，系統的容器服務應該是給Docker daemon統一管理，Systemd就在旁邊看就好了。我不是很喜歡Podman Quadlets的做法，很醜。
-要上K8S還是Cluster嗎？可是我家又不是資料中心！Container就夠管理了吧！這是減少系統維護與減少複雜度與之間取得的平衡。
-但是我的Server系統都是選取穩定的Debian來用，不太可能安裝軟體就炸，用The Unix Way，也就是安裝二進位檔去部署系統其實也是沒問題的才對。若是用Arch Linux，也根本不用擔心軟體版本太舊的問題。什麼都要Container的系統反而應該選用immutable distro才對。要是我用BSD系統當伺服器的話就不可避免的只能用The Unix Way了！但Linux用習慣了沒什麼動機換掉。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淡出社群媒體一週，最終目標是退出社群媒體，又失敗了]]></title>
-        <id>https://ivonblog.com/posts/fading-out-of-social-media/</id>
-        <link href="https://ivonblog.com/posts/fading-out-of-social-media/"/>
-        <updated>2026-05-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[延續今年一月的挑戰：退出社群媒體一週..3天，渾身不對勁，戒斷症狀都跑出來了
-沉迷滑社群媒體令人焦躁。我們要有意識地對抗這種行為，改變獲取多巴胺的方式。
-我快不行了。
-どんな気分だ？DIO 動けねぇのに 背後から近づかれる 気分ってのは たとえると…水の中に1分しか 潜ってられない男が…限界1分目に　やっと 水面で呼吸しようと した瞬間！ グイイッ
-感覺如何啊，DIO？動彈不得的時候，被人從後面靠近的感覺。那種感覺就好像憋氣一分鐘的人，到達極限正要浮上水面換氣時…突然…又被人猛地拖回水裡！
-我用很多主流社群媒體，看最多的依序是Facebook/Threads/Reddit/Youtube，我在上面發佈內容後會一直doom scrolling，在意留言與按讚數。有時候還會到處海巡，看別人在講些什麼，我有沒有被點名等等。
-社群媒體的通知紅點，還有演算法推送，就像賭博的拉霸機一樣，不斷刺激你的心靈。彷彿在說：你要多po文喔，就能獲得獎勵，反之若看到沒有通知，內心就會焦躁。點選按鈕，就能獲得多巴胺！
-我透過LibRedirect等自架服務的手段，幾乎阻絕了我與社群媒體平臺的交流，淡出。
-淡出是指，我不再積極瀏覽社群媒體的訊息了。就只是當作文章發佈場所而不會一直往下滑。非必要不登入帳號。
-為什麼不是退出呢？
-我不可能完全不發文，因為Facebook還有生意要顧。我有加入數位創作者計劃，目前追蹤者數量穩定成長中，發廢文就有被動收入誰不愛！你不覺得這很像在割韭菜嗎，演算法喜歡激烈的東西，我只要po個爭議性或者耍憨的文案，當賽博小丑，流量就手到擒來，Facebook獎勵你幫他們平臺曝光，然後帶著罪惡感領取金錢。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不知愛為何物所以只能被性慾牽著走，不想渴望女人又仇女]]></title>
-        <id>https://ivonblog.com/posts/2026052901/</id>
-        <link href="https://ivonblog.com/posts/2026052901/"/>
-        <updated>2026-05-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
- overflow: hidden;
- }
-
- html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
- overflow: hidden;
- }
-
- .content-warning-close-target {
- position: fixed;
- width: 1px;
- height: 1px;
- opacity: 0;
- pointer-events: none;
- }
-
- #content-warning-accepted:target + .content-warning-overlay {
- display: none;
- }
-
- .content-warning-overlay {
- position: fixed;
- inset: 0;
- z-index: 1000;
- display: grid;
- place-items: center;
- padding: 1.25rem;
- background: rgba(0, 0, 0, 0.68);
- color: #333333;
- overflow: auto;
- }
-
- .content-warning-dialog {
- width: min(92vw, 520px);
- padding: 1.35rem 1.25rem 1.25rem;
- text-align: center;
- background:
- linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
- border: 1px solid #9f9f9f;
- border-radius…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網站的追蹤器又回來了，而且這次是主委加碼，增加到3個]]></title>
-        <id>https://ivonblog.com/posts/trackers-are-back-again-2026/</id>
-        <link href="https://ivonblog.com/posts/trackers-are-back-again-2026/"/>
-        <updated>2026-05-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[你在看網頁的當下，我《Google Analytics正在監視著你。
-每次我看到Adblocker上面的數字都會觸目驚心。
-有的網站居然放了10個以上廣告和追蹤器。尤其是Youtube，如果不重新整理頁面，uBlock Origin攔截到的廣告會一直疊加到999。
-最近又反彈回去了。
-是的很抱歉，我的網站雖然在今年5月初移除了廣告，趁勢把用了3年的Google Analytics追蹤器移除。2022年的時候我就做過這種事情，當時只撐了15天就用回去了。
-最近degoogle慾望比較強烈因此想擺脫Google，把Google Analytics換成了Umami Analytics和GoatCounter等遵守GDPR的統計服務。但終究克服不了誘惑。
-我又把追蹤器加回去了，還是想知道誰在看我網站。Umami Analytics和GoatCounter蒐集的資料太無趣了，界面不好看，又會破費。到頭來我還是只能蹭比較大間的免費流量分析網站。這次撐了15天已經很棒了吧…？不對這不是又重蹈覆徹了嗎！？
-現在我的網站重新有了3個追蹤器，分別是Microsoft Clarity、Google Analytics、Cloudflare Web Analytics。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
