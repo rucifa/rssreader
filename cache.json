@@ -331,6 +331,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/dracu-riot-game-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/dracu-riot-game-review/",
+          "publishedOn": "2026-06-28T17:00:00.000Z",
+          "wordCount": 2164,
+          "title": "《DRACU-RIOT!》高畫質版遊玩心得，好隨便的吸血鬼美少女設定",
+          "imageUrl": "https://ivonblog.com/posts/dracu-riot-game-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-reynard-browser-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Reynard Browser是一個開源iOS瀏覽器，使用有別於主流WebKit的Gecko核心。支援安裝Firefox擴充套件。\n\n  \n\n可以安裝在無法更新系統的舊iPhone/iPad裝置，拯救其上網能力。最低需要iOS 13系統版本，也就是iPhone 6 & iPad Air 2以上。",
+          "link": "https://ivonblog.com/posts/ios-reynard-browser-app/",
+          "publishedOn": "2026-06-28T16:30:00.000Z",
+          "wordCount": 1225,
+          "title": "iOS安裝Reynard Browser，擺脫對Safari WebKit的依賴",
+          "imageUrl": "https://ivonblog.com/posts/ios-reynard-browser-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/magic-earth-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Magic Earth是荷蘭公司Magic Lane推出的手機地圖＆導航APP，圖資使用OpenStreetMap，支援Android和iOS系統。\n\nIvon之所以會發現這款APP，是因為想尋找開源的地圖導航APP。用過OSMAnd~一陣子，還是太難用了，中文搜尋很差勁。",
+          "link": "https://ivonblog.com/posts/magic-earth-app/",
+          "publishedOn": "2026-06-28T00:00:00.000Z",
+          "wordCount": 1191,
+          "title": "用Magic Earth替代Google地圖！中文支援度佳、保護隱私的導航APP",
+          "imageUrl": "https://ivonblog.com/posts/magic-earth-app/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/floccus-bookmarks-sync/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "想在Firefox與Chrome之間跨瀏覽器同步書籤，你需要「Floccus」這個擴充功能！\n\n  \n\n為什麼需要這個書籤同步服務呢？我在各大作業系統使用的瀏覽器都不一樣，不會一套通吃。就算是Brave，我也是在Android手機用比較多，Linux電腦是偏好用Firefox，iPad則只有Safari能選。過去總被同步這點綁住，被迫綁在同一套瀏覽器，每個瀏覽器都有不同的同步帳號。後來我了解到，我只要搞定最常用的「密碼」與「書籤」這兩個關鍵同步要素，用什麼瀏覽器就不是問題了。",

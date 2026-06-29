@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T01:12:50.597Z</updated>
+    <updated>2026-06-29T01:12:53.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《DRACU-RIOT!》高畫質版遊玩心得，好隨便的吸血鬼美少女設定]]></title>
+        <id>https://ivonblog.com/posts/dracu-riot-game-review/</id>
+        <link href="https://ivonblog.com/posts/dracu-riot-game-review/"/>
+        <updated>2026-06-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target+.content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.70);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS安裝Reynard Browser，擺脫對Safari WebKit的依賴]]></title>
+        <id>https://ivonblog.com/posts/ios-reynard-browser-app/</id>
+        <link href="https://ivonblog.com/posts/ios-reynard-browser-app/"/>
+        <updated>2026-06-28T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Reynard Browser是一個開源iOS瀏覽器，使用有別於主流WebKit的Gecko核心。支援安裝Firefox擴充套件。
+
+  
+
+可以安裝在無法更新系統的舊iPhone/iPad裝置，拯救其上網能力。最低需要iOS 13系統版本，也就是iPhone 6 & iPad Air 2以上。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Magic Earth替代Google地圖！中文支援度佳、保護隱私的導航APP]]></title>
+        <id>https://ivonblog.com/posts/magic-earth-app/</id>
+        <link href="https://ivonblog.com/posts/magic-earth-app/"/>
+        <updated>2026-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Magic Earth是荷蘭公司Magic Lane推出的手機地圖＆導航APP，圖資使用OpenStreetMap，支援Android和iOS系統。
+
+Ivon之所以會發現這款APP，是因為想尋找開源的地圖導航APP。用過OSMAnd~一陣子，還是太難用了，中文搜尋很差勁。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[translateZ()]]></title>
         <id>https://css-tricks.com/?page_id=394786</id>
