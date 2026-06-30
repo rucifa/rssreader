@@ -307,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-          "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5524,
-          "title": "June Is For Exploring (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png"
         }
       ]
     },
@@ -330,6 +315,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/best-vps-2026-rr/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "2026年台灣VPS雲端主機推薦：我用了一年後，最後只留下這一家。\n\n  \n\n如果你也想體驗，我把五折優惠的註冊連結放下面。\n既然大家一直問，我還是決定公開我真正每天都在用的VPS。\n我的需求：\nLinux發行版任選\n提供亞洲機房\n免費試用額度\n1TB以上流量\nDocker\nIPv4\n穩定\nSSD\n不會亂刪機器\n我測試過不少VPS供應商，包括：",
+          "link": "https://ivonblog.com/posts/best-vps-2026-rr/",
+          "publishedOn": "2026-06-28T17:00:00.000Z",
+          "wordCount": 881,
+          "title": "2026年VPS雲端主機推薦 + 五折註冊優惠連結",
+          "imageUrl": "https://ivonblog.com/posts/best-vps-2026-rr/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/dracu-riot-game-review/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -969,16 +964,6 @@
           "wordCount": 119,
           "title": "小學的音樂欣賞奠定今日的品味",
           "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/termux-proot-distro-archlinux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇文章說明如何在Android手機上，使用Termux的proot-distro套件，手動設定一個帶有桌面環境的Arch Linux ARM，並可以播放音樂影片和使用桌面Linux的程式。\n\n \nArch Linux是重視簡潔的Linux發行版，要求使用者按自己的需求安裝系統，所以安裝過程要手動打指令。這裡安裝的是Arch Linux ARM，是原版Arch Linux的分支。原始版本是專注於x86架構的系統，某些x86版的套件ARM這邊可能會找不到，但同樣有AUR可以用。\n本文介紹如何手動安裝Arch Linux系統，懶的手動設定的請改用一鍵安裝指令稿：安裝Termux Proot-distro\n1. 事前準備\n \n\n \n \n #\n \n \n\n要跑Arch Linux，手機需要至少4GB RAM，圖形界面至少6GB，免得系統崩潰。\n儲存空間需準備10GB。\n我的裝置：Sony Xperia 10 V (Android 16)\n請先閱讀：Termux基礎教學\n接著安裝Termux X11\n設定硬體加速。Termux以virglrenderer達成GPU 3D硬體加速\n2. 安裝Proot Arch Linux基本系統\n \n\n \n \n #\n \n \n\nTermux執行時通知欄下滑，按ACQUIRE WAKELOCK使其保持在背景執行。\n首先，安裝proot-distro、Pulse Audio、vim\n\npkg update\n\npkg install proot-distro pulseaudio vim\n\n安裝Arch Linux\n\nproot-distro install archlinux/archlinux:latest\n\n下載後使用以下指令登入Arch Linux，--user參數表示登入指定帳戶，目前是root。--shared-tmp則是將Termux的tmp目錄掛載至proot內部以共享X伺服器資源。\n\nproot-distro login archlinux --user root --shared-tmp\n\n更新系統套件，輸入y確認更新。\n\npacman -Syu\n\n要退出Proot系統，請輸入exit登出。\n3. 更換Arch Linux套件庫鏡像站\n \n\n \n \n #\n \n \n\n此為選擇性步驟。到Arch Linux ARM官網找一個鏡像站加快下載速度。",
-          "link": "https://ivonblog.com/posts/termux-proot-distro-archlinux/",
-          "publishedOn": "2026-05-31T09:00:00.000Z",
-          "wordCount": 431,
-          "title": "Termux：從0到1安裝Arch Linux ARM桌面系統＋一鍵啟動指令稿",
-          "imageUrl": "https://ivonblog.com/posts/termux-proot-distro-archlinux/featured.webp"
         }
       ]
     },
@@ -1020,6 +1005,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21311",
+          "author": "Chris Coyier",
+          "description": "There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]",
+          "link": "https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/",
+          "publishedOn": "2026-06-29T17:02:26.000Z",
+          "wordCount": 1597,
+          "title": "Chris’ Corner: Layers of Layers",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-9.38.55-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21302",
           "author": "Chris Coyier",
@@ -1112,6 +1107,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21311",
+          "author": "Chris Coyier",
+          "description": "There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]",
+          "link": "https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/",
+          "publishedOn": "2026-06-29T17:02:26.000Z",
+          "wordCount": 1597,
+          "title": "Chris’ Corner: Layers of Layers",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-9.38.55-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21302",
           "author": "Chris Coyier",

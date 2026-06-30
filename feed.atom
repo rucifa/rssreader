@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-29T01:12:53.069Z</updated>
+    <updated>2026-06-30T01:08:21.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Layers of Layers]]></title>
+        <id>https://blog.codepen.io/?p=21311</id>
+        <link href="https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/"/>
+        <updated>2026-06-29T17:02:26.000Z</updated>
+        <summary type="html"><![CDATA[There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Layers of Layers]]></title>
+        <id>https://blog.codepen.io/?p=21311</id>
+        <link href="https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/"/>
+        <updated>2026-06-29T17:02:26.000Z</updated>
+        <summary type="html"><![CDATA[There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年VPS雲端主機推薦 + 五折註冊優惠連結]]></title>
+        <id>https://ivonblog.com/posts/best-vps-2026-rr/</id>
+        <link href="https://ivonblog.com/posts/best-vps-2026-rr/"/>
+        <updated>2026-06-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年台灣VPS雲端主機推薦：我用了一年後，最後只留下這一家。
+
+  
+
+如果你也想體驗，我把五折優惠的註冊連結放下面。
+既然大家一直問，我還是決定公開我真正每天都在用的VPS。
+我的需求：
+Linux發行版任選
+提供亞洲機房
+免費試用額度
+1TB以上流量
+Docker
+IPv4
+穩定
+SSD
+不會亂刪機器
+我測試過不少VPS供應商，包括：]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《DRACU-RIOT!》高畫質版遊玩心得，好隨便的吸血鬼美少女設定]]></title>
         <id>https://ivonblog.com/posts/dracu-riot-game-review/</id>
@@ -1767,84 +1813,6 @@ chroot不是虛擬機也不是模擬器，因為chroot容器內部是與宿主�
 還遇過有音樂老師當面嗆我的童年偶像周杰倫長得很醜，結果播放大支作品宣揚自己饒舌品味的。但是大支在瘋狂舔民進黨之前的作品是真的很不錯的，例如與達賴喇嘛對談的〈人〉，拯救流浪動物的〈最後的早晨〉。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Termux：從0到1安裝Arch Linux ARM桌面系統＋一鍵啟動指令稿]]></title>
-        <id>https://ivonblog.com/posts/termux-proot-distro-archlinux/</id>
-        <link href="https://ivonblog.com/posts/termux-proot-distro-archlinux/"/>
-        <updated>2026-05-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇文章說明如何在Android手機上，使用Termux的proot-distro套件，手動設定一個帶有桌面環境的Arch Linux ARM，並可以播放音樂影片和使用桌面Linux的程式。
-
- 
-Arch Linux是重視簡潔的Linux發行版，要求使用者按自己的需求安裝系統，所以安裝過程要手動打指令。這裡安裝的是Arch Linux ARM，是原版Arch Linux的分支。原始版本是專注於x86架構的系統，某些x86版的套件ARM這邊可能會找不到，但同樣有AUR可以用。
-本文介紹如何手動安裝Arch Linux系統，懶的手動設定的請改用一鍵安裝指令稿：安裝Termux Proot-distro
-1. 事前準備
- 
-
- 
- 
- #
- 
- 
-
-要跑Arch Linux，手機需要至少4GB RAM，圖形界面至少6GB，免得系統崩潰。
-儲存空間需準備10GB。
-我的裝置：Sony Xperia 10 V (Android 16)
-請先閱讀：Termux基礎教學
-接著安裝Termux X11
-設定硬體加速。Termux以virglrenderer達成GPU 3D硬體加速
-2. 安裝Proot Arch Linux基本系統
- 
-
- 
- 
- #
- 
- 
-
-Termux執行時通知欄下滑，按ACQUIRE WAKELOCK使其保持在背景執行。
-首先，安裝proot-distro、Pulse Audio、vim
-
-pkg update
-
-pkg install proot-distro pulseaudio vim
-
-安裝Arch Linux
-
-proot-distro install archlinux/archlinux:latest
-
-下載後使用以下指令登入Arch Linux，--user參數表示登入指定帳戶，目前是root。--shared-tmp則是將Termux的tmp目錄掛載至proot內部以共享X伺服器資源。
-
-proot-distro login archlinux --user root --shared-tmp
-
-更新系統套件，輸入y確認更新。
-
-pacman -Syu
-
-要退出Proot系統，請輸入exit登出。
-3. 更換Arch Linux套件庫鏡像站
- 
-
- 
- 
- #
- 
- 
-
-此為選擇性步驟。到Arch Linux ARM官網找一個鏡像站加快下載速度。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June Is For Exploring (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/</id>
-        <link href="https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/"/>
-        <updated>2026-05-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
