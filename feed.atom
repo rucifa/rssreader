@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-30T01:08:21.346Z</updated>
+    <updated>2026-07-01T01:13:31.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[431: Versions are Deeply Integrated into CodePen]]></title>
+        <id>https://blog.codepen.io/?p=21322</id>
+        <link href="https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/"/>
+        <updated>2026-06-30T21:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[431: Versions are Deeply Integrated into CodePen]]></title>
+        <id>https://blog.codepen.io/?p=21322</id>
+        <link href="https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/"/>
+        <updated>2026-06-30T21:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[透過iLoader在iPhone安裝第三方APP，側載自簽IPA]]></title>
+        <id>https://ivonblog.com/posts/ios-iloader-sideload/</id>
+        <link href="https://ivonblog.com/posts/ios-iloader-sideload/"/>
+        <updated>2026-06-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請參閱：iOS安裝第三方APP的方法
+iLoader是一款在iPhone & iPad安裝第三方APP的開源工具。
+
+  
+
+功能類似Sideloadly，但是跨平臺，支援Linux、Windows、macOS系統，是不錯的替代品。
+原理是使用Apple個人帳號的開發者憑證給IPA簽名，從而在iOS安裝第三方APP。不需要越獄。原本這種IPA簽名操作只能在macOS用Xcode達成，iLoader則是讓Linux與Windows用戶也能做到，進而側載IPA。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field sizing, and More]]></title>
+        <id>https://css-tricks.com/?p=395894</id>
+        <link href="https://css-tricks.com/whats-important-14/"/>
+        <updated>2026-06-30T13:54:14.000Z</updated>
+        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
+What’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
+        <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
+        <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
+        <updated>2026-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapshots Of Summer (July 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/</id>
+        <link href="https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/"/>
+        <updated>2026-06-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux利用iDescriptor管理iPhone的檔案，開源免費]]></title>
+        <id>https://ivonblog.com/posts/ios-idescriptor/</id>
+        <link href="https://ivonblog.com/posts/ios-idescriptor/"/>
+        <updated>2026-06-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「iDescriptor」是類似3uTools的一個開源軟體。支援Linux、Windows、macOS系統。
+
+  
+
+它算是一個「工具箱」的軟體，能夠讓我們檢視iPhone與iPad裝置上的檔案，不需要越獄。主要功能有：]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: Layers of Layers]]></title>
         <id>https://blog.codepen.io/?p=21311</id>
@@ -24,6 +105,17 @@
         <summary type="html"><![CDATA[There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
+        <id>https://css-tricks.com/?p=395223</id>
+        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
+        <updated>2026-06-29T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
+The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -1422,408 +1514,6 @@ Here, we’re going to expand on that and help you use Markdown everywhere — r
 Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在網頁嵌入Markdown簡報：使用Marp + Hugo page bundle HTML iframe]]></title>
-        <id>https://ivonblog.com/posts/embed-marp-slides-in-hugo/</id>
-        <link href="https://ivonblog.com/posts/embed-marp-slides-in-hugo/"/>
-        <updated>2026-06-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Marp是一款讓你用Markdown做簡報的VS Code插件。可以將簡報輸出為PDF或HTML格式。
-我想要在自己的Hugo網頁展示簡報，但又不把它上傳到第三方平台託管，該怎麼辦呢？
-這有幾種做法：一種是在網頁引入Marp的Javascript函式庫，即時將Markdown程式碼渲染成簡報。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux桌面使用Codex CLI / Codex Desktop進行自動化操作]]></title>
-        <id>https://ivonblog.com/posts/install-codex-on-linux/</id>
-        <link href="https://ivonblog.com/posts/install-codex-on-linux/"/>
-        <updated>2026-06-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[分享在Ubuntu Linux使用Codex的方法。
-Codex是OpenAI推出的AI Agent程式，可以讓ChatGPT直接在電腦上執行指令操控電腦，內建多種Skills。
-它能讀取你Linux系統環境變數，根據你的發行版提供適合你環境的解答。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Docker部署qBittorrent，搭配容器VPN做種]]></title>
-        <id>https://ivonblog.com/posts/qbittorrent-docker/</id>
-        <link href="https://ivonblog.com/posts/qbittorrent-docker/"/>
-        <updated>2026-06-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[qBittorrent是一款開源跨平台的下載軟體，支援Linux、Windows、macOS系統，能夠下載BT種子 (.torrent) 和 磁力連結 (.magnet) 協定的檔案。
-
- 
-在之前的文章介紹了Linux版qBittorrent用法。本文介紹Docker版的qBittorrent裝法，界面大同小異。可以透過瀏覽器遠端存取qBittorrent的下載任務。
-
- 
-1. 用Docker部署qBittorrent
- 
-
- 
- 
- #
- 
- 
-
-雖說qBittorrent官方有提供qbittorrentofficial/qbittorrent-nox映像檔專門用於遠端的用途，不過我認為linuxserver打包的linuxserver/qbittorrent比較完整，它包含了完整桌面客戶端並啟用WebUI做遠端存取。且這個映像檔提供x86與ARM的多架構支援。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[調整Hugo的PermaLink，讓不同section的頁面產生同一個URL]]></title>
-        <id>https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/</id>
-        <link href="https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/"/>
-        <updated>2026-05-31T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generating same URL for pages from different sections under content directory of Hugo website.
-讓Hugo生成的網址保持一致，不會因為放的目錄不同而產出不同的路徑。
-1. Hugo內容與網址管理問題
- 
-
- 
- 
- #
- 
- 
-
-
-長久以來我都是把所有文章放在同一個/posts目錄下
-
-content
-├── posts/
-│ ├── article1/
-├─── ├─index.md
-│ ├── article2/
-├─── ├─index.md
-│ ├── article3/
-├─── ├─index.md
-│ ├── article4/
-├─── ├─index.md
-
-這樣所有文章都會產生/posts/為前綴的網址，等同是永久連結：
-
-https://example.com/posts/article1/
-https://example.com/posts/article2/
-
-問題來了，久而久之，文章越來越多，現在已經超過500個資料夾了，難以管理呀。我想要把文章依照類別放目錄，例如這樣：
-
-content
-├── posts/
-│ ├── article1/
-├─── ├─index.md
-├── linux/
-│ ├── article2/
-├─── ├─index.md
-├── mobilephone/
-│ ├── article3/
-├─── ├─index.md
-├── technology/
-│ ├── article4/
-├─── ├─index.md
-
-但是，如果直接這樣放，生成的文章網址就會變成下面這樣，每個網址由Hugo自動帶入section，造成困擾。
-
-https://example.com/posts/article1/
-https://example.com/linux/article2/
-https://example.com/mobilephone/article3/
-https://example.com/technology/article4/
-
-為什麼？因為我常常用categories的front matter來調整文章分類，文章的網址最好是固定的日後才能方便移動：
-
-https://example.com/posts/article1/
-https://example.com/posts/article2/
-https://example.com/posts/article3/
-https://example.com/posts/article4/
-
-要解決這個問題，得調整Hugo生成網址的設定。我想要讓不同目錄section下的文章最終都擁有一樣的/posts/網址，即永久連結。
-2. 解決方案：修改PermaLink
- 
-
- 
- 
- #
- 
- 
-
-
-
-讓我們再看一次Hugo的渲染機制。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Termux proot-distro使用教學：Android手機安裝Linux發行版容器]]></title>
-        <id>https://ivonblog.com/posts/termux-proot-distro/</id>
-        <link href="https://ivonblog.com/posts/termux-proot-distro/"/>
-        <updated>2026-05-31T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇文章討論proot-distro安裝Linux發行版的用法。
-Termux作為終端模擬器，能在手機上以proot-distro工具安裝Linux發行版，不需要Root權限。
-例如可以裝Ubuntu、Arch Linux、Alpine Linux、Fedora、Debian、openSUSE等。
-圖例：在Sony Xperia 10 V手機執行Debian系統
-proot-distro安裝的Linux發行版僅有純文字界面，圖形介面要自行設定。
-如果你覺得很麻煩，可以參閱文末提供的自動化指令稿。
-1. 什麼是proot & proot-distro？
- 
-
- 
- 
- #
- 
- 
-
-在電腦GNU/Linux系統上，我們可以利用chroot指令，建立一個隔離的Linux環境。這就是在cgroups之前出現的，最早的容器概念。透過chroot指令切換進去後，就彷彿進到了另外一個系統。例如在Ubuntu用debootstrap建立Debian的環境，然後跑一個Debian的環境。
-chroot不是虛擬機也不是模擬器，因為chroot容器內部是與宿主機共用Linux核心的，共享許多系統資源。
-相關文章：手機Termux建立chroot Ubuntu環境
-但是chroot一定得用到root權限，Android的Termux終端機收錄了proot套件作為替代品。
-根據PRoot官網說明，proot是chroot的usersapce實作，用ptrace來模擬系統呼叫，包含bind mount、binfmt_misc等功能。
-
- 
-因為用ptrace的因素，proot的程式執行速度必然比chroot慢，但好處是不用root權限也能跑Linux環境。
-跟chroot一樣，proot只要搭配一個Linux rootfs(根檔案系統)，再利用Termux載入一個假的Linux核心，就能讓程式以為自己跑在一個真的Linux環境。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[/dev/null]]></title>
-        <id>https://ivonblog.com/posts/timeline-2026/</id>
-        <link href="https://ivonblog.com/posts/timeline-2026/"/>
-        <updated>2026-05-31T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
- overflow: hidden;
- }
-
- html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
- overflow: hidden;
- }
-
- .content-warning-close-target {
- position: fixed;
- width: 1px;
- height: 1px;
- opacity: 0;
- pointer-events: none;
- }
-
- #content-warning-accepted:target + .content-warning-overlay {
- display: none;
- }
-
- .content-warning-overlay {
- position: fixed;
- inset: 0;
- z-index: 1000;
- display: grid;
- place-items: center;
- padding: 1.25rem;
- background: rgba(0, 0, 0, 0.68);
- color: #333333;
- overflow: auto;
- }
-
- .content-warning-dialog {
- width: min(92vw, 520px);
- padding: 1.35rem 1.25rem 1.25rem;
- text-align: center;
- background:
- linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
- border: 1px solid #9f9f9f;
- border-radius: 10px;
- box-shadow:
- inset 0 1px 0 #ffffff,
- inset 0 -1px 0 #c3c3c3,
- 0 12px 28px #050505;
- text-shadow: 0 1px 0 #ffffff;
- }
-
- .content-warning-icon {
- display: block;
- width: 170px;
- max-width: 56vw;
- height: auto;
- margin: 0 auto 1rem;
- }
-
- .content-warning-title {
- margin: 0 0 0.7rem;
- font-size: 1.35rem;
- line-height: 1.3;
- font-weight: 800;
- }
-
- .content-warning-description {
- margin: 0 auto 1.15rem;
- max-width: 32rem;
- line-height: 1.7;
- }
-
- .content-warning-actions {
- display: flex;
- flex-wrap: wrap;
- justify-content: center;
- gap: 0.75rem;
- }
-
- .content-warning-actions button,
- .content-warning-actions a,
- .content-warning-actions label {
- display: inline-block;
- min-width: 7rem;
- padding: 0.45rem 1rem;
- color: inherit;
- text-decoration: none;
- cursor: pointer;
- }
-
- html.dark .content-warning-overlay {
- color: #f2f2f2;
- }
-
- html.dark .content-warning-dialog {
- background:
- linear-gradient(180deg, #555555 0%, #373737 48%, #1f1f1f 49%, #343434 100%);
- border-color: #050505;
- box-shadow:
- inset 0 1px 0 #6a6a6a,
- inset 0 -1px 0 #000000,
- 0 12px 28px #000000;
- text-shadow: 0 -1px 0 #000000;
- }
-
-
-
-
-
- 
- 
- 
- 金、暴力、SEX！年齡驗證
- 
- 
- 本頁面含有成人、暴力、血腥內容，請問您是否已成年？若您尚未成年，請點選「否」離開本頁面。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何以見得逃亡美國的中國移民會為了反共而傾向極右派]]></title>
-        <id>https://ivonblog.com/posts/2026060101/</id>
-        <link href="https://ivonblog.com/posts/2026060101/"/>
-        <updated>2026-05-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在想一些逃出中國大陸的移民（非全部，只是部分）跑到美國會變成極右派，也就是黃右，迷信宗教支持法輪功或者基督徒，當川粉，聽信far-right influencer的話語，還不自知？
-或者說擴大到華人，包含臺灣裔，也會傾向極右派？
-這片文章只是我的臆想，非正經學術研究。
-我們當然要反獨裁，但一些人為了反共，什麼臭魚爛蝦都能接受。 他們沉溺於過時的冷戰二極對抗思維 無法理解多極世界的現況，認爲美國就是反共的正義戰士，不少人還會用基督徒的宗教視角看事情。要打倒惡魔，就只能成為惡魔嗎？
-最早是我在觀察變態辣椒（王立銘）的Twitter時候有了這些想法。他常常創作好笑的諷刺中共漫畫，近年來有點支黑化了，會直接罵支那豬。他說讓小孩去上教會學校。看起來是為了防止左逼教材讓他小孩去變性。
-篤信基督教的曹長青，常常投書媒體，稱任何偏左的政治人物是「左瘋」，相信美國有深層政府在阻撓川普獨裁。並主張臺灣獨立，大力支持民進黨的反共敘事。不知道他看到蔡英文和賴清德政府的LGBTQ包容政策作何感想，甚至學拜登政府找性少數人士來官邸跳舞了呢。接見魯保羅drag queen秀冠軍得主　賴清德總統盼帶給許多臺灣年輕人勇氣　無所畏懼、保留真心、做自己
-上面舉例的還只是冰山一角而已。Youtube上還有很多重量級的反共極右翼頻道，多半與法輪功有合作關係。我们整理了一份法轮功媒体的矩阵图，供翻墙不久的朋友辨识。 - 王局志安 雖然王志安有小機率是大外宣但看他拷打民運還是很爽的。
-嘗試推測這些人腦迴路：因為在共產中國，1950年代以來官方敘事走左派，右派是要挨打的，可是中國政府最近30年的秦制復甦早就把中國人調教成外左內右的縫合怪形態，因此跑到美國不過是血緣覺醒罷了。這些人其實不知道什麼是左派右派。崇拜強人領袖勝過法制，不拜毛澤東了就改拜川普。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顧經典的多P本：イモネイド寮長「チチとバストと乳房厨」笨蛋測驗召喚獸的最佳本子]]></title>
-        <id>https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/</id>
-        <link href="https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/"/>
-        <updated>2026-05-31T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
- overflow: hidden;
- }
-
- html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
- overflow: hidden;
- }
-
- .content-warning-close-target {
- position: fixed;
- width: 1px;
- height: 1px;
- opacity: 0;
- pointer-events: none;
- }
-
- #content-warning-accepted:target + .content-warning-overlay {
- display: none;
- }
-
- .content-warning-overlay {
- position: fixed;
- inset: 0;
- z-index: 1000;
- display: grid;
- place-items: center;
- padding: 1.25rem;
- background: rgba(0, 0, 0, 0.68);
- color: #333333;
- overflow: auto;
- }
-
- .content-warning-dialog {
- width: min(92vw, 520px);
- padding: 1.35rem 1.25rem 1.25rem;
- text-align: center;
- background:
- linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);
- border: 1px solid #9f9f9f;
- border-radius…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你線條畫那麼簡單我也會畫啊！]]></title>
-        <id>https://ivonblog.com/posts/simply-drawing-simple-things/</id>
-        <link href="https://ivonblog.com/posts/simply-drawing-simple-things/"/>
-        <updated>2026-05-31T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[總覺得，現在AI生圖那麼方便，如果你畫太好接近商業稿等級會被一般通過路人噴是AI，因此有人會覺得畫潦草一點比較真實。
-但是看你畫的太簡單，又會有人說：這個我也會畫啊！
-要畫的潦草又有個人風格，可不是說畫就畫了。
-我國中考美術班前，學畫畫的時候老師就拿畢卡索的公牛 (Le Taureau) 出來給我們看化繁為簡的概念。
-
- 
-雖然我是落榜美術生但也沒有參加第一次世界大戰。
-要有深厚的繪畫訓練功力，苦練打好素描基本功，才能發展個人風格。刻意畫簡單的線條，是經過自己分析人體後拆解出來的。我有很多次這種感受，畫簡單線條我像是三歲小孩在塗鴉，線條都不穩，但會繪圖的人就能隨手畫出可愛Q版。拆分出緊要。不然你畫出來的東西很容易變成一拳超人原作ONE的風格。
-所以要像什麼都畫的主廚那樣畫簡單的東方Project人物，反而是最難的。
-
- 
-除非你只是要當側翼圖卡畫家，目的在於當肉喇叭做政治宣傳，才用簡單的插圖遮掩自己的不思進取。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小學的音樂欣賞奠定今日的品味]]></title>
-        <id>https://ivonblog.com/posts/2025091501/</id>
-        <link href="https://ivonblog.com/posts/2025091501/"/>
-        <updated>2026-05-31T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[不要忽視藝術與人文的教育。
-之前寫過聆聽音樂的心路歷程(2013~2021)。現在則是要專門感謝以前老師佈下的養分。
-雖然過去很多年了，我依然記得小學時候音樂課聽過的許多經典名曲
-例如舒伯特的魔王（Erlkönig，有OxfordSong製作的恐怖動畫版，給小孩子看這個是不是有病==）
-聖桑的動物狂歡節(Le carnaval des animaux)
-普契尼的杜蘭朵公主徹夜未眠(Nessun dorma)
-中國民謠紫竹調等等。
-儘管小時候不知道那些音樂家偉大，要長大後學過歷史才能從更多元的欣賞方式切入，卻是潛移默化的讓人了解好作品。比起教S.H.E〈我愛雨夜花〉、嚴爵〈好的事情〉、自由發揮〈歡迎光臨〉這類當代的流行歌曲，這些雋永的經典作品欣賞才是讓人多年後體會到老師的用心，後勁更強的存在呀。
-所以不要用功利的角度看待，認為音樂課看影片欣賞音樂都是在浪費時間的…well，雖然我確實遇過國中音樂老師（可能是代理老師？）好幾個禮拜上來都直接放2012年的〈悲慘世界〉電影然後拖到下課的，超混的好不好！不過我確實蠻喜歡這部音樂劇的，現在仍常常複習。
-還遇過有音樂老師當面嗆我的童年偶像周杰倫長得很醜，結果播放大支作品宣揚自己饒舌品味的。但是大支在瘋狂舔民進黨之前的作品是真的很不錯的，例如與達賴喇嘛對談的〈人〉，拯救流浪動物的〈最後的早晨〉。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
-        <id>https://css-tricks.com/?p=395357</id>
-        <link href="https://css-tricks.com/whats-important-12/"/>
-        <updated>2026-05-29T13:25:38.000Z</updated>
-        <summary type="html"><![CDATA[The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.
-What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

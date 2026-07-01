@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395894",
+          "author": "Daniel Schwarz",
+          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-14/",
+          "publishedOn": "2026-06-30T13:54:14.000Z",
+          "wordCount": 3582,
+          "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
+            "length": "35551592",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395223",
+          "author": "Daniel Schwarz",
+          "description": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-states-and-javascript-events/",
+          "publishedOn": "2026-06-29T13:03:32.000Z",
+          "wordCount": 4622,
+          "title": "The Shifting Line Between CSS States and JavaScript Events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=394786",
           "author": "Gabriel Shoyombo",
           "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -230,16 +255,6 @@
           "wordCount": 3063,
           "title": "Astro Markdown Component Utility for Any Framework",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395357",
-          "author": "Daniel Schwarz",
-          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-12/",
-          "publishedOn": "2026-05-29T13:25:38.000Z",
-          "wordCount": 3479,
-          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
         }
       ]
     },
@@ -248,6 +263,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
+          "description": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
+          "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+          "publishedOn": "2026-06-30T12:00:00.000Z",
+          "wordCount": 4763,
+          "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "publishedOn": "2026-06-30T11:00:00.000Z",
+          "wordCount": 4817,
+          "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "author": "hello@smashingmagazine.com (Pratik Joglekar)",
@@ -315,6 +360,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/ios-iloader-sideload/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請參閱：iOS安裝第三方APP的方法\niLoader是一款在iPhone & iPad安裝第三方APP的開源工具。\n\n  \n\n功能類似Sideloadly，但是跨平臺，支援Linux、Windows、macOS系統，是不錯的替代品。\n原理是使用Apple個人帳號的開發者憑證給IPA簽名，從而在iOS安裝第三方APP。不需要越獄。原本這種IPA簽名操作只能在macOS用Xcode達成，iLoader則是讓Linux與Windows用戶也能做到，進而側載IPA。",
+          "link": "https://ivonblog.com/posts/ios-iloader-sideload/",
+          "publishedOn": "2026-06-30T14:00:00.000Z",
+          "wordCount": 1167,
+          "title": "透過iLoader在iPhone安裝第三方APP，側載自簽IPA",
+          "imageUrl": "https://ivonblog.com/posts/ios-iloader-sideload/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-idescriptor/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "「iDescriptor」是類似3uTools的一個開源軟體。支援Linux、Windows、macOS系統。\n\n  \n\n它算是一個「工具箱」的軟體，能夠讓我們檢視iPhone與iPad裝置上的檔案，不需要越獄。主要功能有：",
+          "link": "https://ivonblog.com/posts/ios-idescriptor/",
+          "publishedOn": "2026-06-30T08:00:00.000Z",
+          "wordCount": 1200,
+          "title": "在Linux利用iDescriptor管理iPhone的檔案，開源免費",
+          "imageUrl": "https://ivonblog.com/posts/ios-idescriptor/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/best-vps-2026-rr/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -864,106 +929,6 @@
           "wordCount": 197,
           "title": "Keep Android Open：反對Google強制驗證Android開發者身份，阻擋安裝第三方APK",
           "imageUrl": "https://ivonblog.com/posts/keep-android-open/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/embed-marp-slides-in-hugo/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Marp是一款讓你用Markdown做簡報的VS Code插件。可以將簡報輸出為PDF或HTML格式。\n我想要在自己的Hugo網頁展示簡報，但又不把它上傳到第三方平台託管，該怎麼辦呢？\n這有幾種做法：一種是在網頁引入Marp的Javascript函式庫，即時將Markdown程式碼渲染成簡報。",
-          "link": "https://ivonblog.com/posts/embed-marp-slides-in-hugo/",
-          "publishedOn": "2026-06-01T04:00:00.000Z",
-          "wordCount": 205,
-          "title": "在網頁嵌入Markdown簡報：使用Marp + Hugo page bundle HTML iframe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/install-codex-on-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "分享在Ubuntu Linux使用Codex的方法。\nCodex是OpenAI推出的AI Agent程式，可以讓ChatGPT直接在電腦上執行指令操控電腦，內建多種Skills。\n它能讀取你Linux系統環境變數，根據你的發行版提供適合你環境的解答。",
-          "link": "https://ivonblog.com/posts/install-codex-on-linux/",
-          "publishedOn": "2026-06-01T03:00:00.000Z",
-          "wordCount": 231,
-          "title": "在Linux桌面使用Codex CLI / Codex Desktop進行自動化操作",
-          "imageUrl": "https://ivonblog.com/posts/install-codex-on-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/qbittorrent-docker/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "qBittorrent是一款開源跨平台的下載軟體，支援Linux、Windows、macOS系統，能夠下載BT種子 (.torrent) 和 磁力連結 (.magnet) 協定的檔案。\n\n \n在之前的文章介紹了Linux版qBittorrent用法。本文介紹Docker版的qBittorrent裝法，界面大同小異。可以透過瀏覽器遠端存取qBittorrent的下載任務。\n\n \n1. 用Docker部署qBittorrent\n \n\n \n \n #\n \n \n\n雖說qBittorrent官方有提供qbittorrentofficial/qbittorrent-nox映像檔專門用於遠端的用途，不過我認為linuxserver打包的linuxserver/qbittorrent比較完整，它包含了完整桌面客戶端並啟用WebUI做遠端存取。且這個映像檔提供x86與ARM的多架構支援。",
-          "link": "https://ivonblog.com/posts/qbittorrent-docker/",
-          "publishedOn": "2026-06-01T03:00:00.000Z",
-          "wordCount": 231,
-          "title": "使用Docker部署qBittorrent，搭配容器VPN做種",
-          "imageUrl": "https://ivonblog.com/posts/qbittorrent-docker/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Generating same URL for pages from different sections under content directory of Hugo website.\n讓Hugo生成的網址保持一致，不會因為放的目錄不同而產出不同的路徑。\n1. Hugo內容與網址管理問題\n \n\n \n \n #\n \n \n\n\n長久以來我都是把所有文章放在同一個/posts目錄下\n\ncontent\n├── posts/\n│ ├── article1/\n├─── ├─index.md\n│ ├── article2/\n├─── ├─index.md\n│ ├── article3/\n├─── ├─index.md\n│ ├── article4/\n├─── ├─index.md\n\n這樣所有文章都會產生/posts/為前綴的網址，等同是永久連結：\n\nhttps://example.com/posts/article1/\nhttps://example.com/posts/article2/\n\n問題來了，久而久之，文章越來越多，現在已經超過500個資料夾了，難以管理呀。我想要把文章依照類別放目錄，例如這樣：\n\ncontent\n├── posts/\n│ ├── article1/\n├─── ├─index.md\n├── linux/\n│ ├── article2/\n├─── ├─index.md\n├── mobilephone/\n│ ├── article3/\n├─── ├─index.md\n├── technology/\n│ ├── article4/\n├─── ├─index.md\n\n但是，如果直接這樣放，生成的文章網址就會變成下面這樣，每個網址由Hugo自動帶入section，造成困擾。\n\nhttps://example.com/posts/article1/\nhttps://example.com/linux/article2/\nhttps://example.com/mobilephone/article3/\nhttps://example.com/technology/article4/\n\n為什麼？因為我常常用categories的front matter來調整文章分類，文章的網址最好是固定的日後才能方便移動：\n\nhttps://example.com/posts/article1/\nhttps://example.com/posts/article2/\nhttps://example.com/posts/article3/\nhttps://example.com/posts/article4/\n\n要解決這個問題，得調整Hugo生成網址的設定。我想要讓不同目錄section下的文章最終都擁有一樣的/posts/網址，即永久連結。\n2. 解決方案：修改PermaLink\n \n\n \n \n #\n \n \n\n\n\n讓我們再看一次Hugo的渲染機制。",
-          "link": "https://ivonblog.com/posts/same-url-for-hugo-pages-from-different-sections/",
-          "publishedOn": "2026-05-31T19:00:00.000Z",
-          "wordCount": 285,
-          "title": "調整Hugo的PermaLink，讓不同section的頁面產生同一個URL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/termux-proot-distro/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇文章討論proot-distro安裝Linux發行版的用法。\nTermux作為終端模擬器，能在手機上以proot-distro工具安裝Linux發行版，不需要Root權限。\n例如可以裝Ubuntu、Arch Linux、Alpine Linux、Fedora、Debian、openSUSE等。\n圖例：在Sony Xperia 10 V手機執行Debian系統\nproot-distro安裝的Linux發行版僅有純文字界面，圖形介面要自行設定。\n如果你覺得很麻煩，可以參閱文末提供的自動化指令稿。\n1. 什麼是proot & proot-distro？\n \n\n \n \n #\n \n \n\n在電腦GNU/Linux系統上，我們可以利用chroot指令，建立一個隔離的Linux環境。這就是在cgroups之前出現的，最早的容器概念。透過chroot指令切換進去後，就彷彿進到了另外一個系統。例如在Ubuntu用debootstrap建立Debian的環境，然後跑一個Debian的環境。\nchroot不是虛擬機也不是模擬器，因為chroot容器內部是與宿主機共用Linux核心的，共享許多系統資源。\n相關文章：手機Termux建立chroot Ubuntu環境\n但是chroot一定得用到root權限，Android的Termux終端機收錄了proot套件作為替代品。\n根據PRoot官網說明，proot是chroot的usersapce實作，用ptrace來模擬系統呼叫，包含bind mount、binfmt_misc等功能。\n\n \n因為用ptrace的因素，proot的程式執行速度必然比chroot慢，但好處是不用root權限也能跑Linux環境。\n跟chroot一樣，proot只要搭配一個Linux rootfs(根檔案系統)，再利用Termux載入一個假的Linux核心，就能讓程式以為自己跑在一個真的Linux環境。",
-          "link": "https://ivonblog.com/posts/termux-proot-distro/",
-          "publishedOn": "2026-05-31T18:00:00.000Z",
-          "wordCount": 244,
-          "title": "Termux proot-distro使用教學：Android手機安裝Linux發行版容器",
-          "imageUrl": "https://ivonblog.com/posts/termux-proot-distro/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/timeline-2026/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n overflow: hidden;\n }\n\n html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n overflow: hidden;\n }\n\n .content-warning-close-target {\n position: fixed;\n width: 1px;\n height: 1px;\n opacity: 0;\n pointer-events: none;\n }\n\n #content-warning-accepted:target + .content-warning-overlay {\n display: none;\n }\n\n .content-warning-overlay {\n position: fixed;\n inset: 0;\n z-index: 1000;\n display: grid;\n place-items: center;\n padding: 1.25rem;\n background: rgba(0, 0, 0, 0.68);\n color: #333333;\n overflow: auto;\n }\n\n .content-warning-dialog {\n width: min(92vw, 520px);\n padding: 1.35rem 1.25rem 1.25rem;\n text-align: center;\n background:\n linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);\n border: 1px solid #9f9f9f;\n border-radius: 10px;\n box-shadow:\n inset 0 1px 0 #ffffff,\n inset 0 -1px 0 #c3c3c3,\n 0 12px 28px #050505;\n text-shadow: 0 1px 0 #ffffff;\n }\n\n .content-warning-icon {\n display: block;\n width: 170px;\n max-width: 56vw;\n height: auto;\n margin: 0 auto 1rem;\n }\n\n .content-warning-title {\n margin: 0 0 0.7rem;\n font-size: 1.35rem;\n line-height: 1.3;\n font-weight: 800;\n }\n\n .content-warning-description {\n margin: 0 auto 1.15rem;\n max-width: 32rem;\n line-height: 1.7;\n }\n\n .content-warning-actions {\n display: flex;\n flex-wrap: wrap;\n justify-content: center;\n gap: 0.75rem;\n }\n\n .content-warning-actions button,\n .content-warning-actions a,\n .content-warning-actions label {\n display: inline-block;\n min-width: 7rem;\n padding: 0.45rem 1rem;\n color: inherit;\n text-decoration: none;\n cursor: pointer;\n }\n\n html.dark .content-warning-overlay {\n color: #f2f2f2;\n }\n\n html.dark .content-warning-dialog {\n background:\n linear-gradient(180deg, #555555 0%, #373737 48%, #1f1f1f 49%, #343434 100%);\n border-color: #050505;\n box-shadow:\n inset 0 1px 0 #6a6a6a,\n inset 0 -1px 0 #000000,\n 0 12px 28px #000000;\n text-shadow: 0 -1px 0 #000000;\n }\n\n\n\n\n\n \n \n \n 金、暴力、SEX！年齡驗證\n \n \n 本頁面含有成人、暴力、血腥內容，請問您是否已成年？若您尚未成年，請點選「否」離開本頁面。",
-          "link": "https://ivonblog.com/posts/timeline-2026/",
-          "publishedOn": "2026-05-31T17:01:00.000Z",
-          "wordCount": 5326,
-          "title": "/dev/null",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/2026060101/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在想一些逃出中國大陸的移民（非全部，只是部分）跑到美國會變成極右派，也就是黃右，迷信宗教支持法輪功或者基督徒，當川粉，聽信far-right influencer的話語，還不自知？\n或者說擴大到華人，包含臺灣裔，也會傾向極右派？\n這片文章只是我的臆想，非正經學術研究。\n我們當然要反獨裁，但一些人為了反共，什麼臭魚爛蝦都能接受。 他們沉溺於過時的冷戰二極對抗思維 無法理解多極世界的現況，認爲美國就是反共的正義戰士，不少人還會用基督徒的宗教視角看事情。要打倒惡魔，就只能成為惡魔嗎？\n最早是我在觀察變態辣椒（王立銘）的Twitter時候有了這些想法。他常常創作好笑的諷刺中共漫畫，近年來有點支黑化了，會直接罵支那豬。他說讓小孩去上教會學校。看起來是為了防止左逼教材讓他小孩去變性。\n篤信基督教的曹長青，常常投書媒體，稱任何偏左的政治人物是「左瘋」，相信美國有深層政府在阻撓川普獨裁。並主張臺灣獨立，大力支持民進黨的反共敘事。不知道他看到蔡英文和賴清德政府的LGBTQ包容政策作何感想，甚至學拜登政府找性少數人士來官邸跳舞了呢。接見魯保羅drag queen秀冠軍得主　賴清德總統盼帶給許多臺灣年輕人勇氣　無所畏懼、保留真心、做自己\n上面舉例的還只是冰山一角而已。Youtube上還有很多重量級的反共極右翼頻道，多半與法輪功有合作關係。我们整理了一份法轮功媒体的矩阵图，供翻墙不久的朋友辨识。 - 王局志安 雖然王志安有小機率是大外宣但看他拷打民運還是很爽的。\n嘗試推測這些人腦迴路：因為在共產中國，1950年代以來官方敘事走左派，右派是要挨打的，可是中國政府最近30年的秦制復甦早就把中國人調教成外左內右的縫合怪形態，因此跑到美國不過是血緣覺醒罷了。這些人其實不知道什麼是左派右派。崇拜強人領袖勝過法制，不拜毛澤東了就改拜川普。",
-          "link": "https://ivonblog.com/posts/2026060101/",
-          "publishedOn": "2026-05-31T17:00:00.000Z",
-          "wordCount": 150,
-          "title": "何以見得逃亡美國的中國移民會為了反共而傾向極右派",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n overflow: hidden;\n }\n\n html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n overflow: hidden;\n }\n\n .content-warning-close-target {\n position: fixed;\n width: 1px;\n height: 1px;\n opacity: 0;\n pointer-events: none;\n }\n\n #content-warning-accepted:target + .content-warning-overlay {\n display: none;\n }\n\n .content-warning-overlay {\n position: fixed;\n inset: 0;\n z-index: 1000;\n display: grid;\n place-items: center;\n padding: 1.25rem;\n background: rgba(0, 0, 0, 0.68);\n color: #333333;\n overflow: auto;\n }\n\n .content-warning-dialog {\n width: min(92vw, 520px);\n padding: 1.35rem 1.25rem 1.25rem;\n text-align: center;\n background:\n linear-gradient(180deg, #ffffff 0%, #eeeeee 48%, #d8d8d8 49%, #f3f3f3 100%);\n border: 1px solid #9f9f9f;\n border-radius…",
-          "link": "https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/",
-          "publishedOn": "2026-05-31T16:30:00.000Z",
-          "wordCount": 233,
-          "title": "回顧經典的多P本：イモネイド寮長「チチとバストと乳房厨」笨蛋測驗召喚獸的最佳本子",
-          "imageUrl": "https://ivonblog.com/posts/imonade-ryouchou-chichi-to-bust-to-oppaichuu-series-review/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/simply-drawing-simple-things/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "總覺得，現在AI生圖那麼方便，如果你畫太好接近商業稿等級會被一般通過路人噴是AI，因此有人會覺得畫潦草一點比較真實。\n但是看你畫的太簡單，又會有人說：這個我也會畫啊！\n要畫的潦草又有個人風格，可不是說畫就畫了。\n我國中考美術班前，學畫畫的時候老師就拿畢卡索的公牛 (Le Taureau) 出來給我們看化繁為簡的概念。\n\n \n雖然我是落榜美術生但也沒有參加第一次世界大戰。\n要有深厚的繪畫訓練功力，苦練打好素描基本功，才能發展個人風格。刻意畫簡單的線條，是經過自己分析人體後拆解出來的。我有很多次這種感受，畫簡單線條我像是三歲小孩在塗鴉，線條都不穩，但會繪圖的人就能隨手畫出可愛Q版。拆分出緊要。不然你畫出來的東西很容易變成一拳超人原作ONE的風格。\n所以要像什麼都畫的主廚那樣畫簡單的東方Project人物，反而是最難的。\n\n \n除非你只是要當側翼圖卡畫家，目的在於當肉喇叭做政治宣傳，才用簡單的插圖遮掩自己的不思進取。",
-          "link": "https://ivonblog.com/posts/simply-drawing-simple-things/",
-          "publishedOn": "2026-05-31T16:20:00.000Z",
-          "wordCount": 132,
-          "title": "你線條畫那麼簡單我也會畫啊！",
-          "imageUrl": "https://ivonblog.com/posts/simply-drawing-simple-things/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/2025091501/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "不要忽視藝術與人文的教育。\n之前寫過聆聽音樂的心路歷程(2013~2021)。現在則是要專門感謝以前老師佈下的養分。\n雖然過去很多年了，我依然記得小學時候音樂課聽過的許多經典名曲\n例如舒伯特的魔王（Erlkönig，有OxfordSong製作的恐怖動畫版，給小孩子看這個是不是有病==）\n聖桑的動物狂歡節(Le carnaval des animaux)\n普契尼的杜蘭朵公主徹夜未眠(Nessun dorma)\n中國民謠紫竹調等等。\n儘管小時候不知道那些音樂家偉大，要長大後學過歷史才能從更多元的欣賞方式切入，卻是潛移默化的讓人了解好作品。比起教S.H.E〈我愛雨夜花〉、嚴爵〈好的事情〉、自由發揮〈歡迎光臨〉這類當代的流行歌曲，這些雋永的經典作品欣賞才是讓人多年後體會到老師的用心，後勁更強的存在呀。\n所以不要用功利的角度看待，認為音樂課看影片欣賞音樂都是在浪費時間的…well，雖然我確實遇過國中音樂老師（可能是代理老師？）好幾個禮拜上來都直接放2012年的〈悲慘世界〉電影然後拖到下課的，超混的好不好！不過我確實蠻喜歡這部音樂劇的，現在仍常常複習。\n還遇過有音樂老師當面嗆我的童年偶像周杰倫長得很醜，結果播放大支作品宣揚自己饒舌品味的。但是大支在瘋狂舔民進黨之前的作品是真的很不錯的，例如與達賴喇嘛對談的〈人〉，拯救流浪動物的〈最後的早晨〉。",
-          "link": "https://ivonblog.com/posts/2025091501/",
-          "publishedOn": "2026-05-31T16:10:00.000Z",
-          "wordCount": 119,
-          "title": "小學的音樂欣賞奠定今日的品味",
-          "imageUrl": null
         }
       ]
     },
@@ -1005,6 +970,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21322",
+          "author": "Chris Coyier",
+          "description": "Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]",
+          "link": "https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/",
+          "publishedOn": "2026-06-30T21:36:23.000Z",
+          "wordCount": 843,
+          "title": "431: Versions are Deeply Integrated into CodePen",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-431.mp3",
+            "length": "22460517",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21311",
           "author": "Chris Coyier",
@@ -1107,6 +1087,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21322",
+          "author": "Chris Coyier",
+          "description": "Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]",
+          "link": "https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/",
+          "publishedOn": "2026-06-30T21:36:23.000Z",
+          "wordCount": 843,
+          "title": "431: Versions are Deeply Integrated into CodePen",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-431.mp3",
+            "length": "22460517",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21311",
           "author": "Chris Coyier",
