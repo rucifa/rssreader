@@ -235,26 +235,6 @@
           "wordCount": 4787,
           "title": "@function",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393544",
-          "author": "Sunkanmi Fafowora",
-          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
-          "publishedOn": "2026-06-02T12:59:21.000Z",
-          "wordCount": 4202,
-          "title": "::search-text",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392775",
-          "author": "Zell Liew",
-          "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
-          "publishedOn": "2026-06-01T13:25:00.000Z",
-          "wordCount": 3063,
-          "title": "Astro Markdown Component Utility for Any Framework",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
         }
       ]
     },
@@ -360,6 +340,36 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "如果JPG的圖片容量能縮小50%且畫質幾乎一樣的話，你會改用這種格式存圖嗎？\n以下是.jxl格式的圖片，如果你的瀏覽器支援，應該會看到我婆。\nFirefox最近版本(v.152)加入實驗性JPEG XL(.jxl)支援了，需要在系統設定開啓。",
+          "link": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/",
+          "publishedOn": "2026-07-01T15:00:00.000Z",
+          "wordCount": 1239,
+          "title": "將圖片轉檔爲JXL格式的測試，比較容量大小",
+          "imageUrl": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/from-adobe-photoshop-to-krita/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "電腦繪圖（影像處理）軟體，果然還是應該從自由開源的方案開始學吧。\nKrita & GIMP用太久已經忘了Photoshop怎麼用了，以前都用這個畫色圖的哪（菸）\n我果然還是不喜歡訂閱制軟體。\n最早的繪圖軟體我是在Windows用Paint.NET繪製Minecraft的作品，因爲什麼都不知道。到大學才用Photoshop，並上了一些基礎Photoshop通識課。然後透過Komica塗鴉廚知道了Paint Tool SAI但是我卻買了CLIP Studio Paint，主要是看中它的3D骨架功能。",
+          "link": "https://ivonblog.com/posts/from-adobe-photoshop-to-krita/",
+          "publishedOn": "2026-07-01T13:00:00.000Z",
+          "wordCount": 848,
+          "title": "從Photoshop改用Krita爲首的自由軟體來畫畫",
+          "imageUrl": "https://ivonblog.com/posts/from-adobe-photoshop-to-krita/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/use-zip-instead-of-rar/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你有多猛？我有買正版WinRAR.mp4。\n拜託各位不用再用.rar傳檔案了 == 用Windows系統內建支援的.zip就好了，免得苦了其他系統的用戶。\nRAR是封閉的！專有格式！不能將你重要的檔案寄託於這種格式。",
+          "link": "https://ivonblog.com/posts/use-zip-instead-of-rar/",
+          "publishedOn": "2026-07-01T12:00:00.000Z",
+          "wordCount": 841,
+          "title": "不要再用RAR壓縮檔案了，用ZIP！",
+          "imageUrl": null
+        },
         {
           "id": "https://ivonblog.com/posts/ios-iloader-sideload/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -919,16 +929,6 @@
           "wordCount": 267,
           "title": "Linux觸控螢幕使用虛擬鍵盤打字 (X11 & Wayland桌面)",
           "imageUrl": "https://ivonblog.com/posts/linux-on-screen-keyboard/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/keep-android-open/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "未來，Android手機將無法自由地安裝APK！\n從2026年9月開始，Google將實施Android Developer Verification政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。\n請支援：保持Android開放運動 (Keep Android Open)！",
-          "link": "https://ivonblog.com/posts/keep-android-open/",
-          "publishedOn": "2026-06-02T04:00:00.000Z",
-          "wordCount": 197,
-          "title": "Keep Android Open：反對Google強制驗證Android開發者身份，阻擋安裝第三方APK",
-          "imageUrl": "https://ivonblog.com/posts/keep-android-open/featured.webp"
         }
       ]
     },
