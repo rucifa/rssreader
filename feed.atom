@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T01:09:22.020Z</updated>
+    <updated>2026-07-03T03:51:26.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matching AI Modality To User Intent: Designing The Right Interface]]></title>
+        <id>https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/</id>
+        <link href="https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"/>
+        <updated>2026-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爲何要改用LibreOffice，使用ODF格式製作文件]]></title>
+        <id>https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/</id>
+        <link href="https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/"/>
+        <updated>2026-07-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請不要再使用Microsoft Offifce製作文件了，包括Word、Excel、PowerPoint，每次收到.docx、.xlsx、.pptx我就煩。更可怕的是還有在用.doc的，完全跟不上時代呀這個。如果我要把.doc存檔爲.odt常常就是需要重新排版表格。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將圖片轉檔爲JXL格式的測試，比較容量大小]]></title>
         <id>https://ivonblog.com/posts/jxl-and-jpeg-comparison/</id>
@@ -1419,103 +1439,6 @@ Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwri
 Discord是跨平臺軟體，官方客戶端是用Electron寫的專有軟體，因此不可避免的臃腫。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: A11Y]]></title>
-        <id>https://blog.codepen.io/?p=21231</id>
-        <link href="https://blog.codepen.io/2026/06/03/chris-corner-a11y/"/>
-        <updated>2026-06-03T15:24:32.000Z</updated>
-        <summary type="html"><![CDATA[I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: A11Y]]></title>
-        <id>https://blog.codepen.io/?p=21231</id>
-        <link href="https://blog.codepen.io/2026/06/03/chris-corner-a11y/"/>
-        <updated>2026-06-03T15:24:32.000Z</updated>
-        <summary type="html"><![CDATA[I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[offset-path]]></title>
-        <id>http://css-tricks.com/?page_id=243521</id>
-        <link href="https://css-tricks.com/almanac/properties/o/offset-path/"/>
-        <updated>2026-06-03T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[The offset-path property in CSS defines a movement path for an element to follow during animation.
-This property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …
-offset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@custom-media]]></title>
-        <id>https://css-tricks.com/?page_id=394739</id>
-        <link href="https://css-tricks.com/almanac/rules/c/custom-media/"/>
-        <updated>2026-06-03T13:03:21.000Z</updated>
-        <summary type="html"><![CDATA[The CSS @custom-media at-rule allows creating aliases for media queries.
-@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@function]]></title>
-        <id>https://css-tricks.com/?page_id=394732</id>
-        <link href="https://css-tricks.com/almanac/rules/f/function/"/>
-        <updated>2026-06-03T13:02:39.000Z</updated>
-        <summary type="html"><![CDATA[The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. 
-@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
-        <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
-        <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
-        <updated>2026-06-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux觸控螢幕使用虛擬鍵盤打字 (X11 & Wayland桌面)]]></title>
-        <id>https://ivonblog.com/posts/linux-on-screen-keyboard/</id>
-        <link href="https://ivonblog.com/posts/linux-on-screen-keyboard/"/>
-        <updated>2026-06-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Use virtual / on-screen keyboard on Linux devices with touch screen.
-
- 
-使用Microsoft Surface、Lenovo Yoga、Pine64 PineTab、Librem Tab這類Linux平板的用戶，就會遇到觸控螢幕輸入的問題吧。我們是否能用螢幕小鍵盤打中文呢？]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[427: Next.js and The Journey of SSR]]></title>
-        <id>https://blog.codepen.io/?p=21237</id>
-        <link href="https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/"/>
-        <updated>2026-06-02T14:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id="app">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[427: Next.js and The Journey of SSR]]></title>
-        <id>https://blog.codepen.io/?p=21237</id>
-        <link href="https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/"/>
-        <updated>2026-06-02T14:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id="app">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

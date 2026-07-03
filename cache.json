@@ -205,36 +205,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=243521",
-          "author": "Geoff Graham",
-          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-          "publishedOn": "2026-06-03T15:02:38.000Z",
-          "wordCount": 4295,
-          "title": "offset-path",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394739",
-          "author": "Declan Chidlow",
-          "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
-          "publishedOn": "2026-06-03T13:03:21.000Z",
-          "wordCount": 4179,
-          "title": "@custom-media",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394732",
-          "author": "Declan Chidlow",
-          "description": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/rules/f/function/",
-          "publishedOn": "2026-06-03T13:02:39.000Z",
-          "wordCount": 4787,
-          "title": "@function",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -243,6 +213,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
+          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+          "publishedOn": "2026-07-02T10:00:00.000Z",
+          "wordCount": 7072,
+          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
           "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
@@ -317,21 +302,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-          "publishedOn": "2026-06-03T13:00:00.000Z",
-          "wordCount": 3390,
-          "title": "How To Make Your Design System AI-Ready",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg"
         }
       ]
     },
@@ -340,6 +310,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請不要再使用Microsoft Offifce製作文件了，包括Word、Excel、PowerPoint，每次收到.docx、.xlsx、.pptx我就煩。更可怕的是還有在用.doc的，完全跟不上時代呀這個。如果我要把.doc存檔爲.odt常常就是需要重新排版表格。",
+          "link": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/",
+          "publishedOn": "2026-07-02T03:00:00.000Z",
+          "wordCount": 1181,
+          "title": "爲何要改用LibreOffice，使用ODF格式製作文件",
+          "imageUrl": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -919,16 +899,6 @@
           "wordCount": 252,
           "title": "在Linux使用Discord的經驗分享",
           "imageUrl": "https://ivonblog.com/posts/installl-discord-on-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-on-screen-keyboard/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Use virtual / on-screen keyboard on Linux devices with touch screen.\n\n \n使用Microsoft Surface、Lenovo Yoga、Pine64 PineTab、Librem Tab這類Linux平板的用戶，就會遇到觸控螢幕輸入的問題吧。我們是否能用螢幕小鍵盤打中文呢？",
-          "link": "https://ivonblog.com/posts/linux-on-screen-keyboard/",
-          "publishedOn": "2026-06-03T11:00:00.000Z",
-          "wordCount": 267,
-          "title": "Linux觸控螢幕使用虛擬鍵盤打字 (X11 & Wayland桌面)",
-          "imageUrl": "https://ivonblog.com/posts/linux-on-screen-keyboard/featured.webp"
         }
       ]
     },
@@ -1059,26 +1029,6 @@
           "wordCount": null,
           "title": "Chris’ Corner: Design",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21231",
-          "author": "Chris Coyier",
-          "description": "I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.",
-          "link": "https://blog.codepen.io/2026/06/03/chris-corner-a11y/",
-          "publishedOn": "2026-06-03T15:24:32.000Z",
-          "wordCount": 1237,
-          "title": "Chris’ Corner: A11Y",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21237",
-          "author": "Chris Coyier",
-          "description": "Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id=\"app\">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]",
-          "link": "https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/",
-          "publishedOn": "2026-06-02T14:01:50.000Z",
-          "wordCount": 906,
-          "title": "427: Next.js and The Journey of SSR",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1176,26 +1126,6 @@
           "wordCount": null,
           "title": "Chris’ Corner: Design",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21231",
-          "author": "Chris Coyier",
-          "description": "I’ve got a couple of accessibility related articles I thought I’d share this week. I’ve specifically picked them out as examples of well-done accessibility writing. For each, I’ve plucked out a bit I found particularly interesting. But you, you should read the whole thing.",
-          "link": "https://blog.codepen.io/2026/06/03/chris-corner-a11y/",
-          "publishedOn": "2026-06-03T15:24:32.000Z",
-          "wordCount": 1237,
-          "title": "Chris’ Corner: A11Y",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21237",
-          "author": "Chris Coyier",
-          "description": "Having that first response from the server to users browsers be, ya know, full of good, useful, renderable HTML is certainly better than an empty <div id=\"app\">. You can feel it and see it in the filmstrip view of the site loading. Not to mention you need it for at least things like <meta> tags […]",
-          "link": "https://blog.codepen.io/2026/06/02/427-next-js-and-the-journey-of-ssr/",
-          "publishedOn": "2026-06-02T14:01:50.000Z",
-          "wordCount": 906,
-          "title": "427: Next.js and The Journey of SSR",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     }
