@@ -190,21 +190,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393178",
-          "author": "Antoine Villepreux",
-          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-          "publishedOn": "2026-06-04T13:14:49.000Z",
-          "wordCount": 4924,
-          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
-            "length": "644313",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
         }
       ]
     },
@@ -213,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+          "publishedOn": "2026-07-03T13:00:00.000Z",
+          "wordCount": 3340,
+          "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
@@ -879,26 +879,6 @@
           "wordCount": 793,
           "title": "Android如何移除GMS服務，不刪除資料，改刷MicroG",
           "imageUrl": "https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "想要在Linux桌面安裝動態桌布嗎？試試Wallpaper Engine吧！這個軟體由Kristjan Skutta等人開發，在Steam上非常高人氣。有許多精美的動態桌布可以下載。\n咦，但是這個軟體不是只有Windows版本嗎？是的，Wallpaper Engine作者說過暫時無支援其他平臺的計劃。",
-          "link": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/",
-          "publishedOn": "2026-06-04T08:00:00.000Z",
-          "wordCount": 311,
-          "title": "Waywallen：在Linux系統享用Wallpaper Engine動態桌布",
-          "imageUrl": "https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/installl-discord-on-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Discord是美國Discord公司推出的跨平臺通訊軟體，提供遊戲玩家一個群聊的空間，並有低延遲的語音通話功能。\n在Linux使用Discord卡簡單，不過有一些眉角愛注意！\n\n \n\n\n1. 官方客戶端與第三方客戶端？\n \n\n \n \n #\n \n \n\nDiscord是跨平臺軟體，官方客戶端是用Electron寫的專有軟體，因此不可避免的臃腫。",
-          "link": "https://ivonblog.com/posts/installl-discord-on-linux/",
-          "publishedOn": "2026-06-04T07:00:00.000Z",
-          "wordCount": 252,
-          "title": "在Linux使用Discord的經驗分享",
-          "imageUrl": "https://ivonblog.com/posts/installl-discord-on-linux/featured.webp"
         }
       ]
     },
@@ -940,6 +920,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21339",
+          "author": "Chris Coyier",
+          "description": "Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]",
+          "link": "https://blog.codepen.io/2026/07/03/432-trends-of-2026-so-far/",
+          "publishedOn": "2026-07-03T22:57:35.000Z",
+          "wordCount": 873,
+          "title": "432: Trends of 2026 (So Far)",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-432.mp3",
+            "length": "30628244",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21322",
           "author": "Chris Coyier",
@@ -1037,6 +1032,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21339",
+          "author": "Chris Coyier",
+          "description": "Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]",
+          "link": "https://blog.codepen.io/2026/07/03/432-trends-of-2026-so-far/",
+          "publishedOn": "2026-07-03T22:57:35.000Z",
+          "wordCount": 873,
+          "title": "432: Trends of 2026 (So Far)",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-432.mp3",
+            "length": "30628244",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21322",
           "author": "Chris Coyier",

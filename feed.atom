@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T03:51:26.674Z</updated>
+    <updated>2026-07-04T03:42:43.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[432: Trends of 2026 (So Far)]]></title>
+        <id>https://blog.codepen.io/?p=21339</id>
+        <link href="https://blog.codepen.io/2026/07/03/432-trends-of-2026-so-far/"/>
+        <updated>2026-07-03T22:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[432: Trends of 2026 (So Far)]]></title>
+        <id>https://blog.codepen.io/?p=21339</id>
+        <link href="https://blog.codepen.io/2026/07/03/432-trends-of-2026-so-far/"/>
+        <updated>2026-07-03T22:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Users Don’t Need More Tools: They Need Seamless Integrations]]></title>
+        <id>https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/</id>
+        <link href="https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"/>
+        <updated>2026-07-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matching AI Modality To User Intent: Designing The Right Interface]]></title>
         <id>https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/</id>
@@ -1390,53 +1420,6 @@ Unlimited Source Works.
         <summary type="html"><![CDATA[Remove Google Play Services (MindTheGapps) from LineageOS without losing data.
 在不清除資料的情況下從Android手機解除安裝Google服務框架(GMS)。
 這篇文章是在LineageOS ROM測試的。非LineageOS用戶斟酌參考，雖然理論上可行但有機率卡開機。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!]]></title>
-        <id>https://css-tricks.com/?p=393178</id>
-        <link href="https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/"/>
-        <updated>2026-06-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.
-Another Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Antoine Villepreux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waywallen：在Linux系統享用Wallpaper Engine動態桌布]]></title>
-        <id>https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/</id>
-        <link href="https://ivonblog.com/posts/waywallen-wallpaper-manager-for-linux/"/>
-        <updated>2026-06-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[想要在Linux桌面安裝動態桌布嗎？試試Wallpaper Engine吧！這個軟體由Kristjan Skutta等人開發，在Steam上非常高人氣。有許多精美的動態桌布可以下載。
-咦，但是這個軟體不是只有Windows版本嗎？是的，Wallpaper Engine作者說過暫時無支援其他平臺的計劃。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux使用Discord的經驗分享]]></title>
-        <id>https://ivonblog.com/posts/installl-discord-on-linux/</id>
-        <link href="https://ivonblog.com/posts/installl-discord-on-linux/"/>
-        <updated>2026-06-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discord是美國Discord公司推出的跨平臺通訊軟體，提供遊戲玩家一個群聊的空間，並有低延遲的語音通話功能。
-在Linux使用Discord卡簡單，不過有一些眉角愛注意！
-
- 
-
-
-1. 官方客戶端與第三方客戶端？
- 
-
- 
- 
- #
- 
- 
-
-Discord是跨平臺軟體，官方客戶端是用Electron寫的專有軟體，因此不可避免的臃腫。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
