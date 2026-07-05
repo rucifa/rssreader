@@ -311,6 +311,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "俗話說，業配（軟廣）的廣告也是廣告。常常遇到這種情況吧：你在瀏覽器裝擋廣告擴充阻擋了Youtube塞的廣告後，還要被Youtuber接的VPN業配轟炸一次。\n在瀏覽器安裝這兩個擴充套件，讓Youtube變無趣！",
+          "link": "https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/",
+          "publishedOn": "2026-07-04T05:00:00.000Z",
+          "wordCount": 1187,
+          "title": "看Youtube用SponsorBlock跳過業配片段，搭配DeArrow打擊標題黨",
+          "imageUrl": "https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2026070201/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/2026070201/",
+          "publishedOn": "2026-07-02T04:00:00.000Z",
+          "wordCount": 1822,
+          "title": "搞民族主義只教你仇恨你從未見過的人，並為你毫無參與的成就感到自豪",
+          "imageUrl": null
+        },
+        {
           "id": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "請不要再使用Microsoft Offifce製作文件了，包括Word、Excel、PowerPoint，每次收到.docx、.xlsx、.pptx我就煩。更可怕的是還有在用.doc的，完全跟不上時代呀這個。如果我要把.doc存檔爲.odt常常就是需要重新排版表格。",
@@ -859,26 +879,6 @@
           "wordCount": 423,
           "title": "yt-dlp指令使用教學，萬能Youtube影片命令行下載工具",
           "imageUrl": "https://ivonblog.com/posts/yt-dlp-usage/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "詠唱：\nI am the bone of my source.\nShell is my body, and fork is my blood.\nI have compiled over a thousand builds.\nUnknown to root.\nNor known to closed.\nHave withstood bugs to create many forks.\nYet, these hands will never own the cloud.\nSo, as I pray——\nUnlimited Source Works.\n\n讓我告訴你吧：Android不是Linux系統，就跟《Fate/stay night》裡面魔術不是魔法一樣。",
-          "link": "https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/",
-          "publishedOn": "2026-06-05T15:00:00.000Z",
-          "wordCount": 233,
-          "title": "Android不是Linux系統，正如Fate裡面魔術不是魔法",
-          "imageUrl": "https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Remove Google Play Services (MindTheGapps) from LineageOS without losing data.\n在不清除資料的情況下從Android手機解除安裝Google服務框架(GMS)。\n這篇文章是在LineageOS ROM測試的。非LineageOS用戶斟酌參考，雖然理論上可行但有機率卡開機。",
-          "link": "https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/",
-          "publishedOn": "2026-06-05T13:00:00.000Z",
-          "wordCount": 793,
-          "title": "Android如何移除GMS服務，不刪除資料，改刷MicroG",
-          "imageUrl": "https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/featured.webp"
         }
       ]
     },

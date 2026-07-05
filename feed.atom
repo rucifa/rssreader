@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T03:42:43.279Z</updated>
+    <updated>2026-07-05T04:02:21.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[看Youtube用SponsorBlock跳過業配片段，搭配DeArrow打擊標題黨]]></title>
+        <id>https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/</id>
+        <link href="https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/"/>
+        <updated>2026-07-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[俗話說，業配（軟廣）的廣告也是廣告。常常遇到這種情況吧：你在瀏覽器裝擋廣告擴充阻擋了Youtube塞的廣告後，還要被Youtuber接的VPN業配轟炸一次。
+在瀏覽器安裝這兩個擴充套件，讓Youtube變無趣！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[432: Trends of 2026 (So Far)]]></title>
         <id>https://blog.codepen.io/?p=21339</id>
@@ -44,6 +55,53 @@
         <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搞民族主義只教你仇恨你從未見過的人，並為你毫無參與的成就感到自豪]]></title>
+        <id>https://ivonblog.com/posts/2026070201/</id>
+        <link href="https://ivonblog.com/posts/2026070201/"/>
+        <updated>2026-07-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target+.content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.70);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -1387,39 +1445,6 @@ Android手機廠商多半跟Google有合作關係，裝有Google行動服務（G
         <updated>2026-06-06T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[本文Ivon簡介如何使用yt-dlp工具，下載Youtube影片、音樂。
 如果你想要一個開源免費的Youtube下載軟體，那一定就得試試「yt-dlp」了。跨平台支援Linux/Windows/macOS/Android/iOS系統。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android不是Linux系統，正如Fate裡面魔術不是魔法]]></title>
-        <id>https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/</id>
-        <link href="https://ivonblog.com/posts/android-is-not-linux-so-does-magecraft-is-not-magic-in-fate/"/>
-        <updated>2026-06-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[詠唱：
-I am the bone of my source.
-Shell is my body, and fork is my blood.
-I have compiled over a thousand builds.
-Unknown to root.
-Nor known to closed.
-Have withstood bugs to create many forks.
-Yet, these hands will never own the cloud.
-So, as I pray——
-Unlimited Source Works.
-
-讓我告訴你吧：Android不是Linux系統，就跟《Fate/stay night》裡面魔術不是魔法一樣。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android如何移除GMS服務，不刪除資料，改刷MicroG]]></title>
-        <id>https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/</id>
-        <link href="https://ivonblog.com/posts/remove-mindthegapps-from-lineageos/"/>
-        <updated>2026-06-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Remove Google Play Services (MindTheGapps) from LineageOS without losing data.
-在不清除資料的情況下從Android手機解除安裝Google服務框架(GMS)。
-這篇文章是在LineageOS ROM測試的。非LineageOS用戶斟酌參考，雖然理論上可行但有機率卡開機。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
