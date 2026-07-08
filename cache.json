@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395508",
+          "author": "Temani Afif",
+          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "publishedOn": "2026-07-07T15:14:00.000Z",
+          "wordCount": 4682,
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395894",
           "author": "Daniel Schwarz",
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -175,21 +185,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393503",
-          "author": "Geoff Graham",
-          "description": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-          "publishedOn": "2026-06-08T13:00:34.000Z",
-          "wordCount": 3354,
-          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/Screen-Recording-2026-04-14-at-10.16.47-AM.mov",
-            "length": "3122373",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/scroll-animations-view-transitions.webp"
         }
       ]
     },
@@ -198,6 +193,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
+          "description": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
+          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+          "publishedOn": "2026-07-07T10:00:00.000Z",
+          "wordCount": 5194,
+          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -310,6 +320,56 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "第一隻Gift的東方Fumo…是鈴仙·優曇華院·因幡。\nI use Debian btw.\n\n  \n\n自從家人嫌髒把我的《天竺鼠車車》馬鈴薯16吋抱枕丟掉後，我就黑化了……我以前都抱著那隻橘色的它睡的說。",
+          "link": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/",
+          "publishedOn": "2026-07-07T17:00:00.000Z",
+          "wordCount": 846,
+          "title": "東方Project Fumo開箱：鈴仙·優曇華院·因幡",
+          "imageUrl": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/akutensoushin-doujin-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/akutensoushin-doujin-review/",
+          "publishedOn": "2026-07-07T15:00:00.000Z",
+          "wordCount": 2138,
+          "title": "出產與孕肚愛好者必看，專畫出產本子的「悪転奏進」黒糖ニッケ",
+          "imageUrl": "https://ivonblog.com/posts/akutensoushin-doujin-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-extra-dimmer/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "夜間暗處用手機，你會選擇開深色主題，使用去藍光濾鏡，還是將螢幕亮度調到最低呢。\n購買高頻PWM的OLED手機真的那麼重要嗎？\nOLED剛出來的時候，被LCD愛好者批評的點就是PWM頻率太低，看久了眼睛容易酸。通常是旗艦機才會處理這個問題，其餘機種就青菜。",
+          "link": "https://ivonblog.com/posts/android-extra-dimmer/",
+          "publishedOn": "2026-07-07T05:00:01.000Z",
+          "wordCount": 834,
+          "title": "用Android的超暗模式護眼，免裝DC調光模組",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/degoogle-is-nonsense/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "謎之音：Android越來越封閉，限制人們root與解鎖BL的權利，甚至還要禁止安裝APK，Google正在摧毀Android。我們應該要抵制Google。\n天之音：可是，Google對Android做了那麼多，你們怎敢說要Degoogle，抵制Google產品？",
+          "link": "https://ivonblog.com/posts/degoogle-is-nonsense/",
+          "publishedOn": "2026-07-07T04:00:01.000Z",
+          "wordCount": 840,
+          "title": "有谷才有家！Google對Android做了那麼多，你們怎敢說要Degoogle？",
+          "imageUrl": "https://ivonblog.com/posts/degoogle-is-nonsense/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/google-pixel-6a-camera-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Pixel相機拍照意外的樸素呢，這個顏色是否爲可信任的標準呢。呵呵去年花2000塊臺幣買到的這臺還挺好用的，都已經是2022年的中階機了。\n到貓空旅遊將Pixel 6a帶出去當作專職拍照機。是的我就是買不起DSLR所以會雙持拿強力旗艦機拍照的傳統。對比去年Xperia 1 III到猴硐拍貓咪的場合，似乎有所退步？",
+          "link": "https://ivonblog.com/posts/google-pixel-6a-camera-review/",
+          "publishedOn": "2026-07-07T03:00:00.000Z",
+          "wordCount": 859,
+          "title": "Google Pixel 6a的拍照顏色比Sony Xperia 1 III值得信任嗎",
+          "imageUrl": "https://ivonblog.com/posts/google-pixel-6a-camera-review/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -759,66 +819,6 @@
           "wordCount": 1371,
           "title": "Minecraft歌曲翻譯：2011年～2013年的經典101首歌曲列表",
           "imageUrl": "https://ivonblog.com/posts/minecraft-classic-parody-songs/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/the-bureaucratic-theory-of-max-weber/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "我們時代的命運以理性化與知識化為特徵，而最重要的是世界的除魅。 （馬克斯·韋伯）\n一個組織如何運作？一個組織或公司的層級應該有清楚的規則、職位與權力。與其透過內線關係雇用員工，一個人的能力更重要。他是古典組織理論中官僚學派的創始人。Weber的管理理論對政府等大型組織有益，因為他制定了組織的清楚規則，並詳細解釋它們應如何行為。",
-          "link": "https://ivonblog.com/posts/the-bureaucratic-theory-of-max-weber/",
-          "publishedOn": "2026-06-08T15:00:00.000Z",
-          "wordCount": 247,
-          "title": "馬克斯·韋伯(Max Weber)的官僚理論簡述與在管理學中的運用",
-          "imageUrl": "https://ivonblog.com/posts/the-bureaucratic-theory-of-max-weber/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/the-comparison-and-contrast-of-a6m-zero-and-ki-43-oscar/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "三菱A6M零式艦上戰鬥機 與 中島 Ki-43 一式戰鬥機「隼」 的比較。\n（原文我是用英文寫的，所以這篇文章翻譯腔很重）\n介紹\n \n\n \n \n #\n \n \n\n1937年，日本帝國陸軍與海軍入侵中國，並開始轟炸中國城市。在天上，中國仰賴來自蘇聯與美國的志願飛行員對抗日本飛機。然而，美國人被日本飛機震驚了，因為它們非常靈活，擅長纏鬥。最快的P-40在轉彎戰中也追不上它們，總是被日本的零式戰鬥機與一式戰擊落。盟軍給它們的代號是「Zeke」與「Oscar」。「零戰」與「一式戰」有一些相似的特徵，但也有顯著差異。",
-          "link": "https://ivonblog.com/posts/the-comparison-and-contrast-of-a6m-zero-and-ki-43-oscar/",
-          "publishedOn": "2026-06-08T14:00:00.000Z",
-          "wordCount": 220,
-          "title": "簡單比較日軍「零戰」與「一式戰」的性能",
-          "imageUrl": "https://ivonblog.com/posts/the-comparison-and-contrast-of-a6m-zero-and-ki-43-oscar/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/artwork-20210429/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "1937年至1945年，第二次世界大戰，日本派出許多架次轟炸機，殺死了許多中國平民。\n\n \n\nPixiv\nGoodbye Blue Sky，在九七式重爆黑影籠罩下，再會藍天，再會青天白日。\n旭日即將吃掉白日！\n這張圖我確實有仿造當時戰爭海報的風格繪製，例如日本常常配上軍事畫面，表面寫滿「日華親善」、「暴支膺懲」的文字，實則是宣揚帝國主義。",
-          "link": "https://ivonblog.com/posts/artwork-20210429/",
-          "publishedOn": "2026-06-08T13:00:00.000Z",
-          "wordCount": 246,
-          "title": "繪圖：日本轟炸中國，再會青天白日 Goodbye Blue Sky",
-          "imageUrl": "https://ivonblog.com/posts/artwork-20210429/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/3dartwork-20210810/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "宮崎駿電影《紅豬》(Proco Rosso)波魯克駕駛的戰鬥機，Savoia S.21飛行艇。使用Blockbench製作，2021年8月10日發表。\n渲染圖使用了翻譯學的localization技巧，因為波魯克把自己變成豬，Minecraft裡面的「豬人」代表當然就是豬布靈囉…",
-          "link": "https://ivonblog.com/posts/3dartwork-20210810/",
-          "publishedOn": "2026-06-08T12:00:00.000Z",
-          "wordCount": 220,
-          "title": "【3D繪圖】紅豬波魯克座機Savoia S.21，在那個人還活得像人的時代",
-          "imageUrl": "https://ivonblog.com/posts/3dartwork-20210810/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/vapoursynth-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "討論如何在Linux系統安裝VapourSynth。\n「VapourSynth」是一款開源跨平台的影片處理軟體，使用C++和Python寫成，支援Linux、Windows、macOS系統。\nVapourSynth開發靈感來自另一款古老的軟體Avisynth，功能很類似，它能給影片加上許多效果，再搭配其他轉檔軟體使用，組成完整的影片處理管線 (Video Pipeline)。",
-          "link": "https://ivonblog.com/posts/vapoursynth-linux/",
-          "publishedOn": "2026-06-08T05:00:00.000Z",
-          "wordCount": 328,
-          "title": "VapourSynth在Linux系統的安裝方法，影片濾鏡處理軟體",
-          "imageUrl": "https://ivonblog.com/posts/vapoursynth-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-tor-proxy/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "How to setup Tor proxy on Linux.\nTor，The Onion Router，又稱洋蔥網路，是一種匿名上網的開源技術，連上網路的時候會經過多次跳轉，可以有效隱藏使用者的IP，保護上網隱私。\n此外，連上Tor網路，使用者便能存取以.onion網址結尾的網站（俗稱暗網，儘管這個定義並不準確）。",
-          "link": "https://ivonblog.com/posts/linux-tor-proxy/",
-          "publishedOn": "2026-06-08T04:00:00.000Z",
-          "wordCount": 293,
-          "title": "Linux電腦如何設定Tor代理連線 ＆ 安裝Tor瀏覽器",
-          "imageUrl": "https://ivonblog.com/posts/linux-tor-proxy/featured.webp"
         }
       ]
     },
