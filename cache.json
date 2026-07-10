@@ -170,21 +170,6 @@
           "wordCount": 2784,
           "title": "There’s no need to include ‘navigation’ in your navigation labels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393676",
-          "author": "Mariana Beldi",
-          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-          "publishedOn": "2026-06-10T13:02:10.000Z",
-          "wordCount": 5126,
-          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
-            "length": "8810169",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
         }
       ]
     },
@@ -193,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+          "author": "hello@smashingmagazine.com (Kat Homan)",
+          "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+          "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+          "publishedOn": "2026-07-09T15:00:00.000Z",
+          "wordCount": 6770,
+          "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
           "author": "hello@smashingmagazine.com (Zareen Tasnim)",
@@ -297,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
-          "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
-          "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-          "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5750,
-          "title": "The Benefits Of Cognitive Inclusion In UX Research",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg"
         }
       ]
     },
@@ -320,6 +305,66 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/create-blogroll/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "幾個月前，我主動發Email給許多網站，請求交換友情鏈接，得到了許多友善的回應。\n友情連結是？\n    \n\n    \n    \n        #\n    \n    \n\n20年前的人在寫部落格的時候，沒SNS能用，Google搜尋不夠智慧，所以會透過交換友情連結的方式，來認識更多網站。現在可能很少人這樣做了吧。在Neocities還有這個傳統。",
+          "link": "https://ivonblog.com/posts/create-blogroll/",
+          "publishedOn": "2026-07-10T02:00:00.000Z",
+          "wordCount": 1158,
+          "title": "製作友情連結(Blogroll)真的是獲得真實互動的好方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-desktop-is-unfinised/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "總覺得Linux是一個永遠不會「完成」的系統，我主要講的是Linux Desktop，什麼都還在開發中，Fedora和Ubuntu都是這樣。\nLinux桌面系統是將Linux Kernel + Systemd + GUI toolkit + 一些鬆散的Unix標準組合起來的拼裝車。擁有無限的(unfinished)可能性。",
+          "link": "https://ivonblog.com/posts/linux-desktop-is-unfinised/",
+          "publishedOn": "2026-07-09T12:00:00.000Z",
+          "wordCount": 905,
+          "title": "Linux桌面系統開發永無「完成」之日，It's →unfinished→",
+          "imageUrl": "https://ivonblog.com/posts/linux-desktop-is-unfinised/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/play-minecraft-bedrock-edition-on-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "討論如何在Linux系統遊玩Minecrat基岩版(Minecraft Bedrock Edition)\n\n  Minecraft Bedrock 1.20 on Linux. Shader: YSS. Seed: 4354585255707245098. Coords: 359, 82, -387\n\n此處的Linux系統包含：Ubuntu、Debian、Fedora、Arch Linux、Manjaro、openSUSE、Gentoo，不包含ChromeOS。",
+          "link": "https://ivonblog.com/posts/play-minecraft-bedrock-edition-on-linux/",
+          "publishedOn": "2026-07-09T08:00:00.000Z",
+          "wordCount": 1260,
+          "title": "Linux系統玩Minecraft基岩版的方法",
+          "imageUrl": "https://ivonblog.com/posts/play-minecraft-bedrock-edition-on-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/play-minecraft-java-edition-on-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "＊ 本文介紹的是如何在Linux系統玩《Minecraft Java版》，若要玩《Minecraft基岩版》請參照這篇的解決方案。\n＊ 如果您要安裝的是Minecraft Java伺服器，請跳至「多人連線」一節。",
+          "link": "https://ivonblog.com/posts/play-minecraft-java-edition-on-linux/",
+          "publishedOn": "2026-07-09T07:00:00.000Z",
+          "wordCount": 1289,
+          "title": "如何在Linux玩Minecraft Java版（官方啟動器＋第三方啟動器＋模組）",
+          "imageUrl": "https://ivonblog.com/posts/play-minecraft-java-edition-on-linux/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/minecraft-bedrock-unofficial-tex-d2-port/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "TEX-D2是日本Minecraft玩家daigoman製作的32x資源包(マイクラ リソースパック)，約於2013年發佈。\n\n  \n\n因為很喜歡這個資源包，石頭的紋理看了很舒服，從手機版還叫做MCPE的0.7.0時代就開始用了，所以我自行將TEX-D2資源包移植到最新版本Minecraft。不可做營利用途。",
+          "link": "https://ivonblog.com/posts/minecraft-bedrock-unofficial-tex-d2-port/",
+          "publishedOn": "2026-07-09T06:00:00.000Z",
+          "wordCount": 850,
+          "title": "[26.1+] Minecraft新版TEX-D2資源包，非官方移植版本",
+          "imageUrl": "https://ivonblog.com/posts/minecraft-bedrock-unofficial-tex-d2-port/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/waylandcraft-wayland-compositor-in-minecraft/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在麥塊裡面直接玩Steam遊戲？\n太好了，玩Minecraft掛機閒著沒事幹的時候，我們能在遊戲裡面打開Steam玩其他遊戲和寫code。這樣別人進你房間的時候只要轉頭去挖礦就能隱藏Galgame視窗。",
+          "link": "https://ivonblog.com/posts/waylandcraft-wayland-compositor-in-minecraft/",
+          "publishedOn": "2026-07-09T05:00:00.000Z",
+          "wordCount": 1177,
+          "title": "Waylandcraft：在Minecraft裡面跑Wayland合成器玩Steam遊戲",
+          "imageUrl": "https://ivonblog.com/posts/waylandcraft-wayland-compositor-in-minecraft/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/stop-hating-chinese-slangs/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -729,56 +774,6 @@
           "wordCount": 832,
           "title": "離開貴森森的走爸爸，將網域轉移到雲端霹靂火",
           "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/ubuntu-waydroid/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "「Waydroid」是一個讓您在Linux系統跑Android APP的軟體。\n\n \n\nWaydroid可以登入Google Play商店下載APP，安裝許多常用APP。而且Waydroid支援GPU硬體加速，所以可以玩許多款Android手機遊戲。\n\n 使用Waydroid下載Play商店的通訊軟體Line\n\n\n 透過Waydroid在Linux玩手機遊戲FGO",
-          "link": "https://ivonblog.com/posts/ubuntu-waydroid/",
-          "publishedOn": "2026-06-10T15:00:00.000Z",
-          "wordCount": 290,
-          "title": "Linux跑Android APP，Ubuntu安裝Waydroid教學",
-          "imageUrl": "https://ivonblog.com/posts/ubuntu-waydroid/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/waydroid-on-wsl/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這是一款無廣告的Android「模擬器」，或許可以作爲WSA替代品。\n現在，Waydroid可以透過WSL在 Windows 11上執行。你甚至可以玩一些輕量級的Androiod遊戲。\n\n \n\n在Windows跑Android模擬器有很多種做法，曾經Microsoft也有官方的「WSA」方案出現。",
-          "link": "https://ivonblog.com/posts/waydroid-on-wsl/",
-          "publishedOn": "2026-06-10T14:00:00.000Z",
-          "wordCount": 293,
-          "title": "Windows 11用WSL跑「Waydroid」的Android容器",
-          "imageUrl": "https://ivonblog.com/posts/waydroid-on-wsl/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/setup-redroid-on-wsl/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "ReDroid是一個開源雲手機的解決方案。不同於一般的Android模擬器。ReDroid是用Docker跑Android系統，可以headless的執行，再透過Scrcpy連線到桌面，支援GPU加速。",
-          "link": "https://ivonblog.com/posts/setup-redroid-on-wsl/",
-          "publishedOn": "2026-06-10T13:00:00.000Z",
-          "wordCount": 291,
-          "title": "ReDroid，在Windows電腦用Docker跑Android系統",
-          "imageUrl": "https://ivonblog.com/posts/setup-redroid-on-wsl/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/compile-custom-wsl-kernel-on-wsl/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "WSL可以自己編譯新的Linux核心給自己用！\n從官方文件來看，WSL2的Linux核心不能透過Linux裡面的套件管理器替換，而是要由WSL.exe載入。因此Linux核心更新時程是由WSL決定的，apt install無效。",
-          "link": "https://ivonblog.com/posts/compile-custom-wsl-kernel-on-wsl/",
-          "publishedOn": "2026-06-10T05:00:00.000Z",
-          "wordCount": 273,
-          "title": "如何編譯與更換WSL核心 (custom WSL kernel)",
-          "imageUrl": "https://ivonblog.com/posts/compile-custom-wsl-kernel-on-wsl/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/vscode-front-matter-cms/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "覺得靜態網站的文章難以管理嗎？\n希望有個漂亮的前端編輯器輔助寫作嗎？\n使用「Front Matter」就對了。這是一款Headless CMS right in your code editor.\n記錄設定vscode-front-matter的過程，最後分享設定好之後的發文流程，展示操作簡化後的威力。",
-          "link": "https://ivonblog.com/posts/vscode-front-matter-cms/",
-          "publishedOn": "2026-06-09T17:00:00.000Z",
-          "wordCount": 462,
-          "title": "VS Code ＋ Front Matter CMS，打造Hugo靜態網站管理後台",
-          "imageUrl": "https://ivonblog.com/posts/vscode-front-matter-cms/featured.webp"
         }
       ]
     },
