@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T03:53:44.747Z</updated>
+    <updated>2026-07-11T03:20:21.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
+        <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
+        <link href="https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"/>
+        <updated>2026-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[製作友情連結(Blogroll)真的是獲得真實互動的好方式]]></title>
         <id>https://ivonblog.com/posts/create-blogroll/</id>
@@ -1183,49 +1193,6 @@ There’s no need to include ‘navigation’ in your navigation labels original
 
 Linux各大桌面遵循Xcursor的標準來更換滑鼠圖示。
 不過電腦要更換滑鼠游標(cursor)圖示似乎沒那麼簡單了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本站加入數學題用於驗證訪客年齡是否已成年]]></title>
-        <id>https://ivonblog.com/posts/hugo-age-verification-with-math-questions/</id>
-        <link href="https://ivonblog.com/posts/hugo-age-verification-with-math-questions/"/>
-        <updated>2026-06-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[喔呀？
-你因爲
-數學不好
-被傳送到了
-這個頁面？
-沒事沒事。
-看看這些圖
-消消氣wwwwww
-放心，所有答案都在這裡了。
-
-  
-
-
-  
-
-
-  
-
-
-在網頁加入數學題用於驗證訪客年齡是否成年。
-答對了有獎勵，答錯了有懲罰（畏怖）
-今天開始，我將在我的網站做個實驗，在色色的頁面插入數學題驗證訪客年齡，看看會過濾掉多少人。例如這個頁面：個人推薦10部實用的裏番]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[離開貴森森的走爸爸，將網域轉移到雲端霹靂火]]></title>
-        <id>https://ivonblog.com/posts/ivonblog-com-domain-transfer/</id>
-        <link href="https://ivonblog.com/posts/ivonblog-com-domain-transfer/"/>
-        <updated>2026-06-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[終於跳船了。
-其實網域買了是可以轉移到其他家註冊商的，這叫做Domain Transfer。如果覺得目前的網域註冊商太黑，就要即時跳船。
-如果沒有需要一條龍的架站服務，在走爸爸買網域好像非常不划算呢。他們只是在臺灣很會打廣告。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
