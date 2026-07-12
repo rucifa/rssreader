@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-11T03:20:21.182Z</updated>
+    <updated>2026-07-12T03:31:47.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[玩手遊不如玩PC單機，我爲何從抽卡遊戲轉向Galgame]]></title>
+        <id>https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/</id>
+        <link href="https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/"/>
+        <updated>2026-07-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在這個充滿快餐二次元手遊，很多人看手遊劇情都按skip只想抽卡看大奶角色的時代，爲什麼我有辦法回去玩單機呢……。
+因爲你只要玩過某個糞game，日後什麼遊戲你都玩的下去。
+與其玩手遊被氪金陷阱操控，不如來玩單機，享受真正屬於你的愛戀。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Adblocker擋廣告是小偷行爲嗎？]]></title>
+        <id>https://ivonblog.com/posts/are-adblockers-immoral/</id>
+        <link href="https://ivonblog.com/posts/are-adblockers-immoral/"/>
+        <updated>2026-07-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上網的時候使用擋廣告軟體算不算是小偷行爲？這跟看盜版有何不同？
+譬如使用uBlock Origin，你害Youtubers和部落格失去了主要的收入來源！安裝Adblocker，又不買Premium，也不抖內，是不道德的行爲，是在貪小便宜。如果人人都用Adblocker，創作者就難以維持免費內容了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本站使用數學題用於驗證訪客年齡是否已成年]]></title>
+        <id>https://ivonblog.com/posts/hugo-age-verification-with-math-questions/</id>
+        <link href="https://ivonblog.com/posts/hugo-age-verification-with-math-questions/"/>
+        <updated>2026-07-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基於義務教育階段數學的網頁年齡驗證機制。This is a JavaScript age verification system that requires visitors to solve a math problem from the K–12 curriculum before accessing contents.
+
+  
+
+喔呀？
+你因爲
+數學不好
+被傳送到了
+這個頁面？
+沒事沒事。
+放心，所有答案都在這裡了。
+2026年6月，在網頁加入數學題用於驗證訪客年齡是否成年。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新眼鏡就是要民國風]]></title>
+        <id>https://ivonblog.com/posts/new-glasses-2026/</id>
+        <link href="https://ivonblog.com/posts/new-glasses-2026/"/>
+        <updated>2026-07-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[用了兩年的眼鏡上面已經滿是刮痕，戴久了變形了。該換了
+不瞞你說，其實我的眼鏡框上面有兩隻金屬Hello Kitty，但是離我不夠近是看不出來的。
+
+  
+
+別離我太遠，我的雙手不太大，剛好只能握住妳給的吻。
+原來我以前找的店家那麼雷，加錢配抗藍光鏡片卻會偏黃，害我的視野這幾年變成溫暖的。現在的新技術綠光膜已經不會了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教英文也要尊重DEI性別多元，講actor有無必要提actress？]]></title>
+        <id>https://ivonblog.com/posts/gender-pronouns-in-english-teaching/</id>
+        <link href="https://ivonblog.com/posts/gender-pronouns-in-english-teaching/"/>
+        <updated>2026-07-11T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[教英文覺得自己被DEI影響了。其實DEI不是壞事啊啊。
+因爲男女平等時代，我現在教人英文的時候都會自動內建性平意識，幾乎不跟人說陰性名詞的存在了。
+不像其他歐洲語言，grammatical gender在現代英文幾乎不存在。幾百年前的古英文有陰陽性名詞但你八成看不懂在寫啥。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從PlayStation停產實體光碟看DRM如何蠶食人們的自由]]></title>
+        <id>https://ivonblog.com/posts/sony-playstation-disc-and-drm/</id>
+        <link href="https://ivonblog.com/posts/sony-playstation-disc-and-drm/"/>
+        <updated>2026-07-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop Killing Games！
+藉著2026年Sony宣佈取消生產PlayStation實體光碟的事件，我來便乘一下DRM的爭議。
+首先，我們來看Sony在2013年拍的廣告：如何借遊戲給你的朋友
+Official PlayStation Used Game Instructional Video
+然後，看看2026年他們怎麼說的。Sony認爲現在PlayStation數位版遊戲銷量已經大幅超越實體版了，所以以後就沒有實體版了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有錢就不要想這些事情：論意識型態的道德優越感]]></title>
+        <id>https://ivonblog.com/posts/2026071101/</id>
+        <link href="https://ivonblog.com/posts/2026071101/"/>
+        <updated>2026-07-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target+.content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.70);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
         <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
@@ -14,6 +147,35 @@
         <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子報是會員制餐廳，可是不是每個人都能享受到你的精華]]></title>
+        <id>https://ivonblog.com/posts/blackhole-newsletter/</id>
+        <link href="https://ivonblog.com/posts/blackhole-newsletter/"/>
+        <updated>2026-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電子報是必要之舉？
+我有想過要不要弄一個會員制餐廳…不對，是會員制電子報，來向感興趣的讀者發送專門的週報。
+初华の会员制餐厅，吃不完就有奖励（
+
+  
+
+除了直接向讀者寄送Email以外，Substack這類方案看起來滿成熟的。
+從商業經營的角度來看，寫親筆信，這有助於你獲得忠實顧客。有人甚至會付費訂閱電子報。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用後設心態看待社群媒體：我發文難道是爲了賺流量而已？]]></title>
+        <id>https://ivonblog.com/posts/meta-mindset-on-social-media/</id>
+        <link href="https://ivonblog.com/posts/meta-mindset-on-social-media/"/>
+        <updated>2026-07-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[汪峰 -《河流》- 為什麼不再快樂點
+为什么不再快乐点。不是只有革命才能得到拯救。再微笑一些再渺小一些。再去他妈一些就会很满足。
+你知道嗎，真的不是我故意想當標題黨的，可是如果我不把文章寫的諂媚或者帶有引戰色彩，就不容易飄出去。所以我總是會用「你知道嗎」這種hook語句開頭……。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -1102,97 +1264,6 @@ What’s !important #13: @function, alpha(), CSS Wordle, and More originally han
   
 
 改編自真人真事，最近我又參加了一次國家級別的考試，在作文題目的時候靈機一動，不如寫個愛情故事並把《サノバウィッチ》的元素包裝進去吧。寫作的時候在腦海中回想了保科柊史與因幡巡的經歷才比較好寫。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
-        <id>https://css-tricks.com/?p=395594</id>
-        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
-        <updated>2026-06-12T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
-Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
-        <id>https://css-tricks.com/?p=395744</id>
-        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
-        <updated>2026-06-12T15:08:38.000Z</updated>
-        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
-There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux與Android玩《東方紅魔鄉》，原生執行]]></title>
-        <id>https://ivonblog.com/posts/touhou-project-decompilation-ports/</id>
-        <link href="https://ivonblog.com/posts/touhou-project-decompilation-ports/"/>
-        <updated>2026-06-12T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在Linux與Android手機玩東方Project原版遊戲《東方紅魔鄉》！
-東方Project遊戲多半在Windows平臺發表，沒有Linux版。不過在一些開發者的逆向工程努力之下能在Linux跑起來了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
-        <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
-        <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
-        <updated>2026-06-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？]]></title>
-        <id>https://www.chirue.com/?p=15908</id>
-        <link href="https://www.chirue.com/%e7%82%ba%e4%bb%80%e9%ba%bc-siem-%e9%81%b8%e5%9e%8b%e6%98%af-2026-%e5%b9%b4%e4%bc%81%e6%a5%ad%e8%b3%87%e5%ae%89%e7%9a%84%e9%97%9c%e9%8d%b5%e6%b1%ba%e7%ad%96%ef%bc%9f/"/>
-        <updated>2026-06-12T00:58:51.000Z</updated>
-        <summary type="html"><![CDATA[進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]]]></summary>
-        <author>
-            <name>Fany</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？]]></title>
-        <id>https://www.chirue.com/?p=15908</id>
-        <link href="https://www.chirue.com/2026-06-12/"/>
-        <updated>2026-06-12T00:58:51.000Z</updated>
-        <summary type="html"><![CDATA[進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]]]></summary>
-        <author>
-            <name>Fany</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux桌面自訂滑鼠游標這檔事]]></title>
-        <id>https://ivonblog.com/posts/linux-custom-cursor-themes/</id>
-        <link href="https://ivonblog.com/posts/linux-custom-cursor-themes/"/>
-        <updated>2026-06-11T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[講解如何更換Linux的滑鼠游標 / 鼠標 / 指針 / 光標。
-
-  
-
-
-  
-
-
-1. Xcursor概述
-    
-
-    
-    
-        #
-    
-    
-
-Linux各大桌面遵循Xcursor的標準來更換滑鼠圖示。
-不過電腦要更換滑鼠游標(cursor)圖示似乎沒那麼簡單了。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

@@ -145,31 +145,6 @@
           "wordCount": 3500,
           "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395594",
-          "author": "Sunkanmi Fafowora",
-          "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-          "publishedOn": "2026-06-12T15:09:00.000Z",
-          "wordCount": 3901,
-          "title": "Why Isn’t My 3D View Transition Working?",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
-            "length": "2984445",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/cover.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395744",
-          "author": "Geoff Graham",
-          "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-          "publishedOn": "2026-06-12T15:08:38.000Z",
-          "wordCount": 2784,
-          "title": "There’s no need to include ‘navigation’ in your navigation labels",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
         }
       ]
     },
@@ -297,21 +272,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
-          "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-          "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4819,
-          "title": "The Impact Of Humanoid Robots On Humanity",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg"
         }
       ]
     },
@@ -320,6 +280,96 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在這個充滿快餐二次元手遊，很多人看手遊劇情都按skip只想抽卡看大奶角色的時代，爲什麼我有辦法回去玩單機呢……。\n因爲你只要玩過某個糞game，日後什麼遊戲你都玩的下去。\n與其玩手遊被氪金陷阱操控，不如來玩單機，享受真正屬於你的愛戀。",
+          "link": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/",
+          "publishedOn": "2026-07-11T18:00:00.000Z",
+          "wordCount": 1199,
+          "title": "玩手遊不如玩PC單機，我爲何從抽卡遊戲轉向Galgame",
+          "imageUrl": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/are-adblockers-immoral/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "上網的時候使用擋廣告軟體算不算是小偷行爲？這跟看盜版有何不同？\n譬如使用uBlock Origin，你害Youtubers和部落格失去了主要的收入來源！安裝Adblocker，又不買Premium，也不抖內，是不道德的行爲，是在貪小便宜。如果人人都用Adblocker，創作者就難以維持免費內容了。",
+          "link": "https://ivonblog.com/posts/are-adblockers-immoral/",
+          "publishedOn": "2026-07-11T17:00:00.000Z",
+          "wordCount": 828,
+          "title": "使用Adblocker擋廣告是小偷行爲嗎？",
+          "imageUrl": "https://ivonblog.com/posts/are-adblockers-immoral/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/hugo-age-verification-with-math-questions/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "基於義務教育階段數學的網頁年齡驗證機制。This is a JavaScript age verification system that requires visitors to solve a math problem from the K–12 curriculum before accessing contents.\n\n  \n\n喔呀？\n你因爲\n數學不好\n被傳送到了\n這個頁面？\n沒事沒事。\n放心，所有答案都在這裡了。\n2026年6月，在網頁加入數學題用於驗證訪客年齡是否成年。",
+          "link": "https://ivonblog.com/posts/hugo-age-verification-with-math-questions/",
+          "publishedOn": "2026-07-11T14:00:00.000Z",
+          "wordCount": 845,
+          "title": "本站使用數學題用於驗證訪客年齡是否已成年",
+          "imageUrl": "https://ivonblog.com/posts/hugo-age-verification-with-math-questions/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/new-glasses-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "用了兩年的眼鏡上面已經滿是刮痕，戴久了變形了。該換了\n不瞞你說，其實我的眼鏡框上面有兩隻金屬Hello Kitty，但是離我不夠近是看不出來的。\n\n  \n\n別離我太遠，我的雙手不太大，剛好只能握住妳給的吻。\n原來我以前找的店家那麼雷，加錢配抗藍光鏡片卻會偏黃，害我的視野這幾年變成溫暖的。現在的新技術綠光膜已經不會了。",
+          "link": "https://ivonblog.com/posts/new-glasses-2026/",
+          "publishedOn": "2026-07-11T09:00:00.000Z",
+          "wordCount": 815,
+          "title": "新眼鏡就是要民國風",
+          "imageUrl": "https://ivonblog.com/posts/new-glasses-2026/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/gender-pronouns-in-english-teaching/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "教英文覺得自己被DEI影響了。其實DEI不是壞事啊啊。\n因爲男女平等時代，我現在教人英文的時候都會自動內建性平意識，幾乎不跟人說陰性名詞的存在了。\n不像其他歐洲語言，grammatical gender在現代英文幾乎不存在。幾百年前的古英文有陰陽性名詞但你八成看不懂在寫啥。",
+          "link": "https://ivonblog.com/posts/gender-pronouns-in-english-teaching/",
+          "publishedOn": "2026-07-11T01:00:00.000Z",
+          "wordCount": 827,
+          "title": "教英文也要尊重DEI性別多元，講actor有無必要提actress？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-playstation-disc-and-drm/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Stop Killing Games！\n藉著2026年Sony宣佈取消生產PlayStation實體光碟的事件，我來便乘一下DRM的爭議。\n首先，我們來看Sony在2013年拍的廣告：如何借遊戲給你的朋友\nOfficial PlayStation Used Game Instructional Video\n然後，看看2026年他們怎麼說的。Sony認爲現在PlayStation數位版遊戲銷量已經大幅超越實體版了，所以以後就沒有實體版了。",
+          "link": "https://ivonblog.com/posts/sony-playstation-disc-and-drm/",
+          "publishedOn": "2026-07-10T18:00:00.000Z",
+          "wordCount": 908,
+          "title": "從PlayStation停產實體光碟看DRM如何蠶食人們的自由",
+          "imageUrl": "https://ivonblog.com/posts/sony-playstation-disc-and-drm/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2026071101/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/2026071101/",
+          "publishedOn": "2026-07-10T17:00:00.000Z",
+          "wordCount": 1876,
+          "title": "沒有錢就不要想這些事情：論意識型態的道德優越感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/blackhole-newsletter/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "電子報是必要之舉？\n我有想過要不要弄一個會員制餐廳…不對，是會員制電子報，來向感興趣的讀者發送專門的週報。\n初华の会员制餐厅，吃不完就有奖励（\n\n  \n\n除了直接向讀者寄送Email以外，Substack這類方案看起來滿成熟的。\n從商業經營的角度來看，寫親筆信，這有助於你獲得忠實顧客。有人甚至會付費訂閱電子報。",
+          "link": "https://ivonblog.com/posts/blackhole-newsletter/",
+          "publishedOn": "2026-07-10T13:00:00.000Z",
+          "wordCount": 813,
+          "title": "電子報是會員制餐廳，可是不是每個人都能享受到你的精華",
+          "imageUrl": "https://ivonblog.com/posts/blackhole-newsletter/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/meta-mindset-on-social-media/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "汪峰 -《河流》- 為什麼不再快樂點\n为什么不再快乐点。不是只有革命才能得到拯救。再微笑一些再渺小一些。再去他妈一些就会很满足。\n你知道嗎，真的不是我故意想當標題黨的，可是如果我不把文章寫的諂媚或者帶有引戰色彩，就不容易飄出去。所以我總是會用「你知道嗎」這種hook語句開頭……。",
+          "link": "https://ivonblog.com/posts/meta-mindset-on-social-media/",
+          "publishedOn": "2026-07-10T09:00:00.000Z",
+          "wordCount": 820,
+          "title": "用後設心態看待社群媒體：我發文難道是爲了賺流量而已？",
+          "imageUrl": null
+        },
         {
           "id": "https://ivonblog.com/posts/create-blogroll/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -749,26 +799,6 @@
           "wordCount": 809,
           "title": "在國考國文作文寫Ciallo跟閱卷老師說早安",
           "imageUrl": "https://ivonblog.com/posts/2026061401/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/touhou-project-decompilation-ports/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在Linux與Android手機玩東方Project原版遊戲《東方紅魔鄉》！\n東方Project遊戲多半在Windows平臺發表，沒有Linux版。不過在一些開發者的逆向工程努力之下能在Linux跑起來了。",
-          "link": "https://ivonblog.com/posts/touhou-project-decompilation-ports/",
-          "publishedOn": "2026-06-12T09:00:00.000Z",
-          "wordCount": 1223,
-          "title": "在Linux與Android玩《東方紅魔鄉》，原生執行",
-          "imageUrl": "https://ivonblog.com/posts/touhou-project-decompilation-ports/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-custom-cursor-themes/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "講解如何更換Linux的滑鼠游標 / 鼠標 / 指針 / 光標。\n\n  \n\n\n  \n\n\n1. Xcursor概述\n    \n\n    \n    \n        #\n    \n    \n\nLinux各大桌面遵循Xcursor的標準來更換滑鼠圖示。\n不過電腦要更換滑鼠游標(cursor)圖示似乎沒那麼簡單了。",
-          "link": "https://ivonblog.com/posts/linux-custom-cursor-themes/",
-          "publishedOn": "2026-06-11T23:00:00.000Z",
-          "wordCount": 1219,
-          "title": "Linux桌面自訂滑鼠游標這檔事",
-          "imageUrl": "https://ivonblog.com/posts/linux-custom-cursor-themes/featured.webp"
         }
       ]
     },
@@ -782,28 +812,7 @@
       "title": "齊瑞科技",
       "feedUrl": "https://www.chirue.com/feed/",
       "siteUrl": "https://www.chirue.com",
-      "articles": [
-        {
-          "id": "https://www.chirue.com/?p=15908",
-          "author": "Fany",
-          "description": "進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]",
-          "link": "https://www.chirue.com/%e7%82%ba%e4%bb%80%e9%ba%bc-siem-%e9%81%b8%e5%9e%8b%e6%98%af-2026-%e5%b9%b4%e4%bc%81%e6%a5%ad%e8%b3%87%e5%ae%89%e7%9a%84%e9%97%9c%e9%8d%b5%e6%b1%ba%e7%ad%96%ef%bc%9f/",
-          "publishedOn": "2026-06-12T00:58:51.000Z",
-          "wordCount": 2343,
-          "title": "為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？",
-          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/06/ChatGPT-Image-2026年6月5日-下午03_01_27.png"
-        },
-        {
-          "id": "https://www.chirue.com/?p=15908",
-          "author": "Fany",
-          "description": "進入 2026 年，勒索軟體、供應鏈攻擊、API 濫用等資安威脅持續升級，企業對 SIEM（資安事件管理）與  […]",
-          "link": "https://www.chirue.com/2026-06-12/",
-          "publishedOn": "2026-06-12T00:58:51.000Z",
-          "wordCount": 2343,
-          "title": "為什麼 SIEM 選型是 2026 年企業資安的關鍵決策？",
-          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/06/siem-2026-cover.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CodePen",
