@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T03:31:47.165Z</updated>
+    <updated>2026-07-13T03:34:55.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用別人的東西不付錢，你活該被企業當商品]]></title>
+        <id>https://ivonblog.com/posts/if-it-is-free-you-are-the-product/</id>
+        <link href="https://ivonblog.com/posts/if-it-is-free-you-are-the-product/"/>
+        <updated>2026-07-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[用別人的東西不付錢，你活該被企業當商品……嗎？
+看過有人反對自己架設照片備份伺服器，理由竟然是：「我覺得付錢買Google One比較有保障，至少 Google 不會倒。而且還有免費方案能用，多方便。」但問題是，你把照片交給Google的同時，也把資料管理權交給了一家公司。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的發文好像不夠尊重女性，男凝色圖放太多了]]></title>
+        <id>https://ivonblog.com/posts/2026061201/</id>
+        <link href="https://ivonblog.com/posts/2026061201/"/>
+        <updated>2026-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[嗯，樺達奶茶喝多了，開始煩惱這種不著邊際的問題。
+如果這篇文章冒犯到你/妳，敬請見諒。
+我在SNS發文的配圖，有時候會選擇色色的waifu圖片，搭配meme吸引注意力。這樣比起放枯燥乏味的工程圖，會有更多人（被騙）點進來。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玩手遊不如玩PC單機，我爲何從抽卡遊戲轉向Galgame]]></title>
         <id>https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/</id>

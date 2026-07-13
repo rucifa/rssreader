@@ -281,6 +281,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "用別人的東西不付錢，你活該被企業當商品……嗎？\n看過有人反對自己架設照片備份伺服器，理由竟然是：「我覺得付錢買Google One比較有保障，至少 Google 不會倒。而且還有免費方案能用，多方便。」但問題是，你把照片交給Google的同時，也把資料管理權交給了一家公司。",
+          "link": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/",
+          "publishedOn": "2026-07-12T15:00:00.000Z",
+          "wordCount": 841,
+          "title": "用別人的東西不付錢，你活該被企業當商品",
+          "imageUrl": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2026061201/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "嗯，樺達奶茶喝多了，開始煩惱這種不著邊際的問題。\n如果這篇文章冒犯到你/妳，敬請見諒。\n我在SNS發文的配圖，有時候會選擇色色的waifu圖片，搭配meme吸引注意力。這樣比起放枯燥乏味的工程圖，會有更多人（被騙）點進來。",
+          "link": "https://ivonblog.com/posts/2026061201/",
+          "publishedOn": "2026-07-12T10:00:00.000Z",
+          "wordCount": 855,
+          "title": "我的發文好像不夠尊重女性，男凝色圖放太多了",
+          "imageUrl": "https://ivonblog.com/posts/2026061201/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "在這個充滿快餐二次元手遊，很多人看手遊劇情都按skip只想抽卡看大奶角色的時代，爲什麼我有辦法回去玩單機呢……。\n因爲你只要玩過某個糞game，日後什麼遊戲你都玩的下去。\n與其玩手遊被氪金陷阱操控，不如來玩單機，享受真正屬於你的愛戀。",
