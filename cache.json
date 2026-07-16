@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=18170",
+          "author": "Mojtaba Seyedi",
+          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+          "publishedOn": "2026-07-15T19:57:51.000Z",
+          "wordCount": 5118,
+          "title": "pointer-events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396027",
+          "author": "Daniel Schwarz",
+          "description": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new web platform features, and more.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-15/",
+          "publishedOn": "2026-07-15T14:36:18.000Z",
+          "wordCount": 2461,
+          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
+            "length": "163854",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395508",
           "author": "Temani Afif",
           "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -144,6 +169,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": 3959,
+          "title": "No, People Don’t Want More AI In Their Life",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "author": "hello@smashingmagazine.com (Anastasia Sycheva)",
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
@@ -247,21 +287,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
-          "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-          "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6496,
-          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg"
         }
       ]
     },
@@ -270,6 +295,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/touhou-evil-maid-attack/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "資安領域有「邪惡女僕攻擊」這個概念，指的是：隨意進入紅魔館會被時間暫停的邪惡女僕攻擊。\n\n  https://x.com/Green_Kohgen/status/2076959043126796289\n\n根據《東方求聞史紀》外傳，有天，射命丸文使用沒有Secure Boot的舊型Windows XP筆電，合法的進入紅魔館留宿，然後將筆電留在了客房內，接著偷拍蕾米莉亞的入浴照。十六夜咲夜會以打掃之名進入房間，暫停時間，插入USB，篡改開機程式。這樣的話射命丸文回來輸入密碼的時候，密碼就會回傳到十六夜咲夜的手上。",
+          "link": "https://ivonblog.com/posts/touhou-evil-maid-attack/",
+          "publishedOn": "2026-07-15T14:00:00.000Z",
+          "wordCount": 844,
+          "title": "【資安】Evil maid attack指的是進入紅魔館會被邪惡女僕攻擊",
+          "imageUrl": "https://ivonblog.com/posts/touhou-evil-maid-attack/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我真的不太敢在手機買單機遊戲，限免又怎樣？\n最近發現，欸Imangi怎麼那麼奸詐啊，Temple Run元祖版現在在 iOS只能透過 Apple Arcade取得，而Android版仍可在Google Play 免費下載。他們真的是鐵了心誘拐玩家去玩充滿銅臭味的Temple Run 2。難道這就是手遊市場的現實，課金內購(microtransaction)比買斷制更有賺頭。399的遊戲你嫌貴，但爲了限定角色課一單1999就捨得花？應該要反過來吧？",
+          "link": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/",
+          "publishedOn": "2026-07-15T13:00:00.000Z",
+          "wordCount": 836,
+          "title": "不想買手機上的單機遊戲",
+          "imageUrl": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/2026070401/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -769,36 +814,6 @@
           "wordCount": 1554,
           "title": "postmarketOS使用技巧：安裝APP、中文化、執行Android APP、跑Docker",
           "imageUrl": "https://ivonblog.com/posts/postmarketos-tips/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/host-a-onion-website-docker/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "本文討論如何用Tor + Nginx + Docker架設洋蔥網站(Onion Website)。\n\n  \n\n不是經營Tor realy節點，而是架設.onion網址的網站，專門給Tor網路的用戶訪問。\n1. Tor網路連線架構簡介\n    \n\n    \n    \n        #\n    \n    \n\n什麼是Tor？The Onion Router，又稱洋蔥網路，是一種匿名上網的開源技術，連上網路的時候會經過多次伺服器跳轉，令人難以追蹤使用者，可以有效隱藏使用者的IP，保護上網隱私。",
-          "link": "https://ivonblog.com/posts/host-a-onion-website-docker/",
-          "publishedOn": "2026-06-16T09:00:00.000Z",
-          "wordCount": 1353,
-          "title": "使用Tor + Nginx + Docker架設Onion暗網網站 (Onion Service)",
-          "imageUrl": "https://ivonblog.com/posts/host-a-onion-website-docker/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-appimage-introduction/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇文章將講解Linux上以.AppImage檔名結尾的應用程式安裝方法，並介紹輔助工具「AppImageD」。\nAppImage是Linux的一種軟體打包格式，用於解決不同Linux發行版安裝應用程式依賴的問題而生。由probonopd (Simon Peter) 等人在2013年發起。",
-          "link": "https://ivonblog.com/posts/linux-appimage-introduction/",
-          "publishedOn": "2026-06-16T08:00:00.000Z",
-          "wordCount": 1267,
-          "title": "Linux AppImage格式安裝方法，新增桌面捷徑",
-          "imageUrl": "https://ivonblog.com/posts/linux-appimage-introduction/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "我常常在電腦上使用Firefox，那麼爲什麼我在手機上卻不用？\n為什麼我不用Android版Firefox？有什麼開源的手機瀏覽器APP呢？\n我幾乎不在手機安裝社群媒體APP，只用網頁版，99%時間都在瀏覽器裡面，故一款瀏覽器很重要。\nAndroid的瀏覽器引擎九成以上是Chromium，少部分才是拿Gecko改的。Chromium專案雖是開源的，但受到Google主導。",
-          "link": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/",
-          "publishedOn": "2026-06-15T15:00:00.000Z",
-          "wordCount": 1182,
-          "title": "為什麼我不用Android版Firefox瀏覽器？",
-          "imageUrl": "https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/featured.webp"
         }
       ]
     },
@@ -819,6 +834,31 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21378",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]",
+          "link": "https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/",
+          "publishedOn": "2026-07-15T14:42:53.000Z",
+          "wordCount": 887,
+          "title": "434: Still Proudly on WordPress for our Blog, Podcast, and Documentation",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-434.mp3",
+            "length": "19128097",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21353",
+          "author": "Chris Coyier",
+          "description": "I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]",
+          "link": "https://blog.codepen.io/2026/07/13/chris-corner-designers/",
+          "publishedOn": "2026-07-13T15:19:10.000Z",
+          "wordCount": 1433,
+          "title": "Chris’ Corner: Designers",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21363",
           "author": "Chris Coyier",
@@ -926,6 +966,31 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21378",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]",
+          "link": "https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/",
+          "publishedOn": "2026-07-15T14:42:53.000Z",
+          "wordCount": 887,
+          "title": "434: Still Proudly on WordPress for our Blog, Podcast, and Documentation",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-434.mp3",
+            "length": "19128097",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21353",
+          "author": "Chris Coyier",
+          "description": "I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]",
+          "link": "https://blog.codepen.io/2026/07/13/chris-corner-designers/",
+          "publishedOn": "2026-07-13T15:19:10.000Z",
+          "wordCount": 1433,
+          "title": "Chris’ Corner: Designers",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21363",
           "author": "Chris Coyier",

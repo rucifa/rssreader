@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T02:54:38.257Z</updated>
+    <updated>2026-07-16T03:15:49.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[pointer-events]]></title>
+        <id>http://css-tricks.com/?page_id=18170</id>
+        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
+        <updated>2026-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
+pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[434: Still Proudly on WordPress for our Blog, Podcast, and Documentation]]></title>
+        <id>https://blog.codepen.io/?p=21378</id>
+        <link href="https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/"/>
+        <updated>2026-07-15T14:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[434: Still Proudly on WordPress for our Blog, Podcast, and Documentation]]></title>
+        <id>https://blog.codepen.io/?p=21378</id>
+        <link href="https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/"/>
+        <updated>2026-07-15T14:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
+        <id>https://css-tricks.com/?p=396027</id>
+        <link href="https://css-tricks.com/whats-important-15/"/>
+        <updated>2026-07-15T14:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new web platform features, and more.
+What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【資安】Evil maid attack指的是進入紅魔館會被邪惡女僕攻擊]]></title>
+        <id>https://ivonblog.com/posts/touhou-evil-maid-attack/</id>
+        <link href="https://ivonblog.com/posts/touhou-evil-maid-attack/"/>
+        <updated>2026-07-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[資安領域有「邪惡女僕攻擊」這個概念，指的是：隨意進入紅魔館會被時間暫停的邪惡女僕攻擊。
+
+  https://x.com/Green_Kohgen/status/2076959043126796289
+
+根據《東方求聞史紀》外傳，有天，射命丸文使用沒有Secure Boot的舊型Windows XP筆電，合法的進入紅魔館留宿，然後將筆電留在了客房內，接著偷拍蕾米莉亞的入浴照。十六夜咲夜會以打掃之名進入房間，暫停時間，插入USB，篡改開機程式。這樣的話射命丸文回來輸入密碼的時候，密碼就會回傳到十六夜咲夜的手上。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不想買手機上的單機遊戲]]></title>
+        <id>https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/</id>
+        <link href="https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/"/>
+        <updated>2026-07-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我真的不太敢在手機買單機遊戲，限免又怎樣？
+最近發現，欸Imangi怎麼那麼奸詐啊，Temple Run元祖版現在在 iOS只能透過 Apple Arcade取得，而Android版仍可在Google Play 免費下載。他們真的是鐵了心誘拐玩家去玩充滿銅臭味的Temple Run 2。難道這就是手遊市場的現實，課金內購(microtransaction)比買斷制更有賺頭。399的遊戲你嫌貴，但爲了限定角色課一單1999就捨得花？應該要反過來吧？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
+        <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
+        <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
+        <updated>2026-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突然想當左撇子，寫字吃飯打電腦都要]]></title>
         <id>https://ivonblog.com/posts/2026070401/</id>
@@ -27,6 +104,26 @@
 LineageOS有內建系統備份功能「SeedVault」，可以將系統的APP資料與照片檔案備份爲加密資料，方便日後一鍵還原，或是將舊資料遷移到新手機。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Designers]]></title>
+        <id>https://blog.codepen.io/?p=21353</id>
+        <link href="https://blog.codepen.io/2026/07/13/chris-corner-designers/"/>
+        <updated>2026-07-13T15:19:10.000Z</updated>
+        <summary type="html"><![CDATA[I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Designers]]></title>
+        <id>https://blog.codepen.io/?p=21353</id>
+        <link href="https://blog.codepen.io/2026/07/13/chris-corner-designers/"/>
+        <updated>2026-07-13T15:19:10.000Z</updated>
+        <summary type="html"><![CDATA[I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1202,64 +1299,6 @@ postmarketOS雖然有圖形化界面，但有時候還是需要指令。因此�
 Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing With Uncertainty: How AI Supercharges Probabilistic Thinking]]></title>
-        <id>https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/</id>
-        <link href="https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"/>
-        <updated>2026-06-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Tor + Nginx + Docker架設Onion暗網網站 (Onion Service)]]></title>
-        <id>https://ivonblog.com/posts/host-a-onion-website-docker/</id>
-        <link href="https://ivonblog.com/posts/host-a-onion-website-docker/"/>
-        <updated>2026-06-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文討論如何用Tor + Nginx + Docker架設洋蔥網站(Onion Website)。
-
-  
-
-不是經營Tor realy節點，而是架設.onion網址的網站，專門給Tor網路的用戶訪問。
-1. Tor網路連線架構簡介
-    
-
-    
-    
-        #
-    
-    
-
-什麼是Tor？The Onion Router，又稱洋蔥網路，是一種匿名上網的開源技術，連上網路的時候會經過多次伺服器跳轉，令人難以追蹤使用者，可以有效隱藏使用者的IP，保護上網隱私。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux AppImage格式安裝方法，新增桌面捷徑]]></title>
-        <id>https://ivonblog.com/posts/linux-appimage-introduction/</id>
-        <link href="https://ivonblog.com/posts/linux-appimage-introduction/"/>
-        <updated>2026-06-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇文章將講解Linux上以.AppImage檔名結尾的應用程式安裝方法，並介紹輔助工具「AppImageD」。
-AppImage是Linux的一種軟體打包格式，用於解決不同Linux發行版安裝應用程式依賴的問題而生。由probonopd (Simon Peter) 等人在2013年發起。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我不用Android版Firefox瀏覽器？]]></title>
-        <id>https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/</id>
-        <link href="https://ivonblog.com/posts/why-i-dont-use-firefox-for-android/"/>
-        <updated>2026-06-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我常常在電腦上使用Firefox，那麼爲什麼我在手機上卻不用？
-為什麼我不用Android版Firefox？有什麼開源的手機瀏覽器APP呢？
-我幾乎不在手機安裝社群媒體APP，只用網頁版，99%時間都在瀏覽器裡面，故一款瀏覽器很重要。
-Android的瀏覽器引擎九成以上是Chromium，少部分才是拿Gecko改的。Chromium專案雖是開源的，但受到Google主導。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
