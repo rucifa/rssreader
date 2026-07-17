@@ -22,6 +22,185 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-07-16 datetime="2026-07-16T19:00:00.000Z">2026-07-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-07-16 datetime="2026-07-16T19:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ivon的部落格</button>
+                  <a class="source-heading__link" href="https://ivonblog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/android-play-integrity-fix/"
+                        open
+                      >
+                        <summary class="article-expander__title">Android手機Root後如何通過Play Integrity</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/android-play-integrity-fix/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/android-play-integrity-fix/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Fix Play Integrity on rooted Android phones.
+本文Ivon教學如何在Root裝置通過Play Integrity。
+測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。
+
+1. Play Integrity原理
+    
+
+    
+    
+        #
+    
+    
+
+（如果你對原理沒興趣請直接跳下一段）</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/android-hide-root/"
+                        open
+                      >
+                        <summary class="article-expander__title">Android手機防Root偵測的方法總覽</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/android-hide-root/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>本文Ivon解說防止APP檢測到Android Root環境的最新手段，並附上通過Play Integrity的方法。不定時更新。
+測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/librespot-clients/"
+                        open
+                      >
+                        <summary class="article-expander__title">輕量第三方Spotify客戶端：librespot介紹</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/librespot-clients/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/librespot-clients/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>比較各大音樂串流平台，Spotify的跨平台能力算是非常好的了，官方提供Linux版客戶端，屬於閉源軟體。但其實它是用CEF框架包起來的瀏覽器，有時候會越用越慢，吃光系統資源。Arch Wiki說的Spotify客戶端放著不管會越用越卡是真的，播放音樂會lag，清除GPU快取，重開就能處理…這個瀏覽器到底有什麼問題，有辦法拖累整臺Linux的效能。啊啊，不是每個人都有32GB RAM的電腦。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/fapping-recap/"
+                        open
+                      >
+                        <summary class="article-expander__title">本地優先的擼管計數器？self-hosted場合適用的可能性微存？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/fapping-recap/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/fapping-recap/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/2026071601/"
+                        open
+                      >
+                        <summary class="article-expander__title">Epic Games讓Google開放第三方商店，但F-Droid仍存在危機</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/2026071601/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>以後第三方商店可以直接在Play商店下載，不用去找APK了。
+Google and Epic give up fighting — third-party Android app stores are coming next week - The Verge
+幾年前Epic Games控告Google Play壟斷Android應用商店的市場，今年Google在輸掉官司之後，決定允許第三方應用商店上架Play商店，本月生效。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-07-15 datetime="2026-07-15T19:57:51.000Z">2026-07-15</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-07-15 datetime="2026-07-15T19:57:51.000Z"></time>
           </button>
@@ -3054,289 +3233,12 @@ The Siren Song of  ariaNotify() originally handwritten and published with love 
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Ivon的部落格</button>
-                  <a class="source-heading__link" href="https://ivonblog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://ivonblog.com/posts/postmarketos-general-installation/"
-                        open
-                      >
-                        <summary class="article-expander__title">postmarketOS安裝教學，使用pmbootstrap建立安裝檔</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/postmarketos-general-installation/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://ivonblog.com/posts/postmarketos-general-installation/featured.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>什麼是postmarketOS？關於postmarketOS系統的介紹請看這篇。
-這篇文章是用pmbootstrap安裝postmarketOS的教學，只要你的機型有在官方支援列表，都能夠按照此步驟操作，將postmarketOS安裝至裝置上。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://ivonblog.com/posts/postmarketos-prebuilt-images/"
-                        open
-                      >
-                        <summary class="article-expander__title">postmarketOS刷機教學，使用Prebuilt image安裝系統</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/postmarketos-prebuilt-images/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://ivonblog.com/posts/postmarketos-prebuilt-images/featured.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>關於postmarketOS系統的介紹請看這篇。
-postmarketOS官方提供的pmbootstrap能夠製作刷機檔案，將系統刷入Android手機。
-不過，除了使用pmbootstrap建立刷機檔之外，手機有在官方Main和Community支援列表的，也可以從postmarketOS官網下載預先建構好的映像檔(prebuilt image)。
-
-  
-
-postmarketOS開發組會定期給官方支援的裝置提供穩定的系統更新，讓你可以把它當作日常系統使用。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-06-16 datetime="2026-06-16T23:00:00.000Z">2026-06-16</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-06-16 datetime="2026-06-16T23:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Ivon的部落格</button>
-                  <a class="source-heading__link" href="https://ivonblog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://ivonblog.com/posts/postmarketos-introduction/"
-                        open
-                      >
-                        <summary class="article-expander__title">postmarketOS介紹，專為手機打造的Linux發行版</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/postmarketos-introduction/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://ivonblog.com/posts/postmarketos-introduction/featured.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>1. 什麼是postmarketOS？
-    
-
-    
-    
-        #
-    
-    
-
-Android基於Linux的核心研發而來，但跟一般的GNU/Linux仍有所差異。postmarketOS是基於Alpine Linux的作業系統，跟Ubuntu Touch一樣，旨在為行動作業系統提供另一種選擇，將真正的GNU/Linux發行版安裝到手機。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://ivonblog.com/posts/postmarketos-tips/"
-                        open
-                      >
-                        <summary class="article-expander__title">postmarketOS使用技巧：安裝APP、中文化、執行Android APP、跑Docker</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/postmarketos-tips/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://ivonblog.com/posts/postmarketos-tips/featured.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>postmarektOS是一款基於Alpine Linux研發的手機Linux作業系統，目前已移植到多款Android手機上。
-相關文章：postmarketOS是什麼？
-postmarketOS雖然有圖形化界面，但有時候還是需要指令。因此有需要的話建議用SSH遠端輸入指令，postmarketOS也有提供手機終端機APP。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CodePen</button>
-                  <a class="source-heading__link" href="https://blog.codepen.io">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codepen.io/?p&#x3D;21298"
-                        open
-                      >
-                        <summary class="article-expander__title">429: Why CodePen Rebuilt Its Realtime Service</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codepen.io/?p&#x3D;21265"
-                        open
-                      >
-                        <summary class="article-expander__title">Chris’ Corner: The Edge, Man</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blog.codepen.io/wp-content/uploads/2026/06/edge-to-edge.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CodePen</button>
-                  <a class="source-heading__link" href="https://blog.codepen.io">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codepen.io/?p&#x3D;21298"
-                        open
-                      >
-                        <summary class="article-expander__title">429: Why CodePen Rebuilt Its Realtime Service</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codepen.io/?p&#x3D;21265"
-                        open
-                      >
-                        <summary class="article-expander__title">Chris’ Corner: The Edge, Man</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blog.codepen.io/wp-content/uploads/2026/06/edge-to-edge.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CSS-Tricks</button>
-                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://css-tricks.com/?p&#x3D;395776"
-                        open
-                      >
-                        <summary class="article-expander__title">Prop For That</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/prop-for-that/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Props for That creates live props based things CSS can&#x27;t normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
-Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/rucifa/rssreader/actions/runs/29468555715">
-        <time id="build-timestamp" datetime="2026-07-16T03:15:49.139Z">2026-07-16T03:15:49.139Z</time>
+      <a class="footer-link" href="https://github.com/rucifa/rssreader/actions/runs/29552076686">
+        <time id="build-timestamp" datetime="2026-07-17T03:19:36.526Z">2026-07-17T03:19:36.526Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

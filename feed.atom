@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T03:15:49.160Z</updated>
+    <updated>2026-07-17T03:19:36.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android手機Root後如何通過Play Integrity]]></title>
+        <id>https://ivonblog.com/posts/android-play-integrity-fix/</id>
+        <link href="https://ivonblog.com/posts/android-play-integrity-fix/"/>
+        <updated>2026-07-16T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fix Play Integrity on rooted Android phones.
+本文Ivon教學如何在Root裝置通過Play Integrity。
+測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。
+
+1. Play Integrity原理
+    
+
+    
+    
+        #
+    
+    
+
+（如果你對原理沒興趣請直接跳下一段）]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android手機防Root偵測的方法總覽]]></title>
+        <id>https://ivonblog.com/posts/android-hide-root/</id>
+        <link href="https://ivonblog.com/posts/android-hide-root/"/>
+        <updated>2026-07-16T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文Ivon解說防止APP檢測到Android Root環境的最新手段，並附上通過Play Integrity的方法。不定時更新。
+測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輕量第三方Spotify客戶端：librespot介紹]]></title>
+        <id>https://ivonblog.com/posts/librespot-clients/</id>
+        <link href="https://ivonblog.com/posts/librespot-clients/"/>
+        <updated>2026-07-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[比較各大音樂串流平台，Spotify的跨平台能力算是非常好的了，官方提供Linux版客戶端，屬於閉源軟體。但其實它是用CEF框架包起來的瀏覽器，有時候會越用越慢，吃光系統資源。Arch Wiki說的Spotify客戶端放著不管會越用越卡是真的，播放音樂會lag，清除GPU快取，重開就能處理…這個瀏覽器到底有什麼問題，有辦法拖累整臺Linux的效能。啊啊，不是每個人都有32GB RAM的電腦。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本地優先的擼管計數器？self-hosted場合適用的可能性微存？]]></title>
+        <id>https://ivonblog.com/posts/fapping-recap/</id>
+        <link href="https://ivonblog.com/posts/fapping-recap/"/>
+        <updated>2026-07-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games讓Google開放第三方商店，但F-Droid仍存在危機]]></title>
+        <id>https://ivonblog.com/posts/2026071601/</id>
+        <link href="https://ivonblog.com/posts/2026071601/"/>
+        <updated>2026-07-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[以後第三方商店可以直接在Play商店下載，不用去找APK了。
+Google and Epic give up fighting — third-party Android app stores are coming next week - The Verge
+幾年前Epic Games控告Google Play壟斷Android應用商店的市場，今年Google在輸掉官司之後，決定允許第三方應用商店上架Play商店，本月生效。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pointer-events]]></title>
         <id>http://css-tricks.com/?page_id=18170</id>
@@ -1190,115 +1293,6 @@ A First Look at Scroll-Triggered Animations originally handwritten and published
 The Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postmarketOS安裝教學，使用pmbootstrap建立安裝檔]]></title>
-        <id>https://ivonblog.com/posts/postmarketos-general-installation/</id>
-        <link href="https://ivonblog.com/posts/postmarketos-general-installation/"/>
-        <updated>2026-06-17T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[什麼是postmarketOS？關於postmarketOS系統的介紹請看這篇。
-這篇文章是用pmbootstrap安裝postmarketOS的教學，只要你的機型有在官方支援列表，都能夠按照此步驟操作，將postmarketOS安裝至裝置上。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postmarketOS刷機教學，使用Prebuilt image安裝系統]]></title>
-        <id>https://ivonblog.com/posts/postmarketos-prebuilt-images/</id>
-        <link href="https://ivonblog.com/posts/postmarketos-prebuilt-images/"/>
-        <updated>2026-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[關於postmarketOS系統的介紹請看這篇。
-postmarketOS官方提供的pmbootstrap能夠製作刷機檔案，將系統刷入Android手機。
-不過，除了使用pmbootstrap建立刷機檔之外，手機有在官方Main和Community支援列表的，也可以從postmarketOS官網下載預先建構好的映像檔(prebuilt image)。
-
-  
-
-postmarketOS開發組會定期給官方支援的裝置提供穩定的系統更新，讓你可以把它當作日常系統使用。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postmarketOS介紹，專為手機打造的Linux發行版]]></title>
-        <id>https://ivonblog.com/posts/postmarketos-introduction/</id>
-        <link href="https://ivonblog.com/posts/postmarketos-introduction/"/>
-        <updated>2026-06-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. 什麼是postmarketOS？
-    
-
-    
-    
-        #
-    
-    
-
-Android基於Linux的核心研發而來，但跟一般的GNU/Linux仍有所差異。postmarketOS是基於Alpine Linux的作業系統，跟Ubuntu Touch一樣，旨在為行動作業系統提供另一種選擇，將真正的GNU/Linux發行版安裝到手機。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[429: Why CodePen Rebuilt Its Realtime Service]]></title>
-        <id>https://blog.codepen.io/?p=21298</id>
-        <link href="https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/"/>
-        <updated>2026-06-16T22:00:53.000Z</updated>
-        <summary type="html"><![CDATA[We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[429: Why CodePen Rebuilt Its Realtime Service]]></title>
-        <id>https://blog.codepen.io/?p=21298</id>
-        <link href="https://blog.codepen.io/2026/06/16/429-why-codepen-rebuilt-its-realtime-service/"/>
-        <updated>2026-06-16T22:00:53.000Z</updated>
-        <summary type="html"><![CDATA[We’ve had realtime features on CodePen for ages. Back when it was pretty damn hard. Our Collab Mode is an obvious one, where users can code together. (This “just works” in the 2.0 editor, it’s not called anything special.) That and Professor Mode used to have realtime chat (until we pulled it because very few […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postmarketOS使用技巧：安裝APP、中文化、執行Android APP、跑Docker]]></title>
-        <id>https://ivonblog.com/posts/postmarketos-tips/</id>
-        <link href="https://ivonblog.com/posts/postmarketos-tips/"/>
-        <updated>2026-06-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[postmarektOS是一款基於Alpine Linux研發的手機Linux作業系統，目前已移植到多款Android手機上。
-相關文章：postmarketOS是什麼？
-postmarketOS雖然有圖形化界面，但有時候還是需要指令。因此有需要的話建議用SSH遠端輸入指令，postmarketOS也有提供手機終端機APP。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: The Edge, Man]]></title>
-        <id>https://blog.codepen.io/?p=21265</id>
-        <link href="https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/"/>
-        <updated>2026-06-16T21:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: The Edge, Man]]></title>
-        <id>https://blog.codepen.io/?p=21265</id>
-        <link href="https://blog.codepen.io/2026/06/16/chris-corner-the-edge-man/"/>
-        <updated>2026-06-16T21:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Ryan Mulligan’s article Transition to the Other Wide with Container Query Units is some solid CSS catnip for me. Just this base thought is fun to think about: how do you move an element from flush-left to flush-right when the size of the container and element are both unknown (which is typical). It’s like you […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prop For That]]></title>
-        <id>https://css-tricks.com/?p=395776</id>
-        <link href="https://css-tricks.com/prop-for-that/"/>
-        <updated>2026-06-16T18:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
-Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
