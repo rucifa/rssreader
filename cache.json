@@ -140,16 +140,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395567",
-          "author": "Mat Marquis",
-          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-          "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 5501,
-          "title": "The Siren Song of  ariaNotify()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
+          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "publishedOn": "2026-07-17T08:00:00.000Z",
+          "wordCount": 5084,
+          "title": "When It Makes Sense To “Block” The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -286,6 +291,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/minecraft-hentai-materials/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/minecraft-hentai-materials/",
+          "publishedOn": "2026-07-17T11:00:00.000Z",
+          "wordCount": 1507,
+          "title": "在Minecraft裡面色色：怪物萌娘圖、R18模組、二創小黃遊的資源有哪些？",
+          "imageUrl": "https://ivonblog.com/posts/minecraft-hentai-materials/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/create-breasts-physics-images/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/create-breasts-physics-images/",
+          "publishedOn": "2026-07-17T04:00:00.000Z",
+          "wordCount": 1511,
+          "title": "用景深效果製作乳搖圖片，讓色圖動起來！強化視覺效果",
+          "imageUrl": "https://ivonblog.com/posts/create-breasts-physics-images/featured.gif"
+        },
+        {
+          "id": "https://ivonblog.com/posts/smartphone-breasts-physics-images/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/smartphone-breasts-physics-images/",
+          "publishedOn": "2026-07-17T03:00:00.000Z",
+          "wordCount": 1188,
+          "title": "使用黑白錯覺圖層製作乳搖圖片",
+          "imageUrl": "https://ivonblog.com/posts/smartphone-breasts-physics-images/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/android-play-integrity-fix/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "Fix Play Integrity on rooted Android phones.\n本文Ivon教學如何在Root裝置通過Play Integrity。\n測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。\n\n1. Play Integrity原理\n    \n\n    \n    \n        #\n    \n    \n\n（如果你對原理沒興趣請直接跳下一段）",
@@ -333,6 +368,16 @@
           "publishedOn": "2026-07-16T07:00:00.000Z",
           "wordCount": 865,
           "title": "Epic Games讓Google開放第三方商店，但F-Droid仍存在危機",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/learning-hanyupinyin-input-method/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "ㄑㄧˇ\n    \n\n    \n    \n        #\n    \n    \n\n四月十六日\n在Linux要獲得良好的中打體驗大概只能學漢語拼音了。\n抱歉了各位，我要拋棄注音去學中國大陸流行的漢語拼音輸入法了，Linux上Fcitx5拼音的選字比新酷音要聰明多了，後者詞庫感覺從20年前就沒更新過了，「癌症」竟然要打「ㄧㄢˊㄓㄥˋ」才會出現（雖然字典發音是這樣沒錯）。",
+          "link": "https://ivonblog.com/posts/learning-hanyupinyin-input-method/",
+          "publishedOn": "2026-07-15T15:00:00.000Z",
+          "wordCount": 1157,
+          "title": "在臺灣學漢語拼音輸入像是在學外星語，好像沒比注音好",
           "imageUrl": null
         },
         {
