@@ -125,21 +125,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394364",
-          "author": "Daniel Schwarz",
-          "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-          "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 4664,
-          "title": "A First Look at Scroll-Triggered Animations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
-            "length": "515618",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
         }
       ]
     },
@@ -290,6 +275,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/install-steam-snap-arm64/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我是Arch Linux “ARM” 用戶，我在ARM架構的Linux平板成功安裝Steam了。\n\n  \n\nSteam for ARM64現在能用Snap一鍵安裝了，官方說在Nvidia GDX Spark和高通處理器的筆電測試過。\n對於執行Ubuntu ARM的裝置來說，譬如樹莓派，安裝Steam就是一行snap install指令的事情。",
+          "link": "https://ivonblog.com/posts/install-steam-snap-arm64/",
+          "publishedOn": "2026-07-18T15:00:00.000Z",
+          "wordCount": 1199,
+          "title": "用Snap在ARM Linux系統安裝Steam + FEX-Emu",
+          "imageUrl": "https://ivonblog.com/posts/install-steam-snap-arm64/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-snap-introduction/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Snap是什麼呢？這是Linux系統的一種軟體打包格式兼套件管理系統，由Ubuntu背後的公司Canonical推動。\n\n  \n\nSnap管理系統是為了解決在不同Linux發行版安裝軟體的問題，將軟體需要的依賴套件都包在一起，即可保證每個發行版都到安裝一致的軟體版本。",
+          "link": "https://ivonblog.com/posts/linux-snap-introduction/",
+          "publishedOn": "2026-07-17T17:00:00.000Z",
+          "wordCount": 1407,
+          "title": "Linux系統的Snap是什麼？跨發行版套件管理員使用方法",
+          "imageUrl": "https://ivonblog.com/posts/linux-snap-introduction/featured.png"
+        },
         {
           "id": "https://ivonblog.com/posts/minecraft-hentai-materials/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -849,16 +854,6 @@
           "wordCount": 1270,
           "title": "GameNative：在Android手機直接玩Steam PC遊戲，免遠端串流",
           "imageUrl": "https://ivonblog.com/posts/gamenative-android/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "並不是我不用社群媒體，而是不用APP版本。\n十年前，Apple公司曾經在iPhone 3G的廣告說過：“There’s an app for that”。意思是在手機上，人們很依賴APP做事。可是我們真的需要這麼多APP嗎？",
-          "link": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/",
-          "publishedOn": "2026-06-19T15:00:00.000Z",
-          "wordCount": 911,
-          "title": "爲何我手機不裝社群媒體APP，只用網頁版",
-          "imageUrl": "https://ivonblog.com/posts/social-media-web-version-instead-of-apps/featured.webp"
         }
       ]
     },
