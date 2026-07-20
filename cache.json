@@ -276,6 +276,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/kernelsu-android-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "討論如何用KernelSU取得Root權限。\nKernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。\n\n  \n\nKernelSU是自由軟體，原始碼位於Github\n它讓擁有Root權限的su執行於kernel space，使得Root權限更難被偵測到。並且允許只有特定的APP才可以使用Root權限。",
+          "link": "https://ivonblog.com/posts/kernelsu-android-root/",
+          "publishedOn": "2026-07-19T07:00:00.000Z",
+          "wordCount": 1343,
+          "title": "KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強",
+          "imageUrl": "https://ivonblog.com/posts/kernelsu-android-root/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "各位鄉親各位夥伴大家好，Brave瀏覽器是最好的Google Chrome替代品，是市場挑戰者，不要不信。你已經不能指望Mozilla Firefox能對抗Google了。走實用主義的Brave才是贏家。\nBrave正在崛起，成爲Google Chrome和Microsoft Edge以外的第三大瀏覽器。根據2025年統計，Brave的每月用戶活躍人數已經超過一億了！",
+          "link": "https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/",
+          "publishedOn": "2026-07-19T05:00:00.000Z",
+          "wordCount": 885,
+          "title": "Brave是最好的Chrome替代品，縱使爭議很多。不能指望Firefox了",
+          "imageUrl": "https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/install-steam-snap-arm64/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "我是Arch Linux “ARM” 用戶，我在ARM架構的Linux平板成功安裝Steam了。\n\n  \n\nSteam for ARM64現在能用Snap一鍵安裝了，官方說在Nvidia GDX Spark和高通處理器的筆電測試過。\n對於執行Ubuntu ARM的裝置來說，譬如樹莓派，安裝Steam就是一行snap install指令的事情。",

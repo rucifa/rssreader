@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T03:28:10.223Z</updated>
+    <updated>2026-07-20T03:47:04.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強]]></title>
+        <id>https://ivonblog.com/posts/kernelsu-android-root/</id>
+        <link href="https://ivonblog.com/posts/kernelsu-android-root/"/>
+        <updated>2026-07-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[討論如何用KernelSU取得Root權限。
+KernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。
+
+  
+
+KernelSU是自由軟體，原始碼位於Github
+它讓擁有Root權限的su執行於kernel space，使得Root權限更難被偵測到。並且允許只有特定的APP才可以使用Root權限。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave是最好的Chrome替代品，縱使爭議很多。不能指望Firefox了]]></title>
+        <id>https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/</id>
+        <link href="https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/"/>
+        <updated>2026-07-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[各位鄉親各位夥伴大家好，Brave瀏覽器是最好的Google Chrome替代品，是市場挑戰者，不要不信。你已經不能指望Mozilla Firefox能對抗Google了。走實用主義的Brave才是贏家。
+Brave正在崛起，成爲Google Chrome和Microsoft Edge以外的第三大瀏覽器。根據2025年統計，Brave的每月用戶活躍人數已經超過一億了！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Snap在ARM Linux系統安裝Steam + FEX-Emu]]></title>
         <id>https://ivonblog.com/posts/install-steam-snap-arm64/</id>
