@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T03:47:04.647Z</updated>
+    <updated>2026-07-21T03:21:52.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[同是中階機，小米和Sony卻有天與地的差別，讓我快變索黑了]]></title>
+        <id>https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/</id>
+        <link href="https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/"/>
+        <updated>2026-07-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我快變索黑了！🤬 本來覺得Sony手機還不錯的，再次接觸Pixel和小米之後信仰逐漸崩塌。
+今天接觸到了2022年的Redmi Note 11 Pro 5G（規格同POCO X4 Pro 5G），跟我2023年買的主力機Xperia 10 V比較，發現：哇同樣是萬元出頭的SD695處理器中階機，小米的規格爲什麼能給到這麼好，Sony卻做的像垃圾一樣，還賣比較貴。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Unusual Ideas]]></title>
+        <id>https://blog.codepen.io/?p=21376</id>
+        <link href="https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/"/>
+        <updated>2026-07-20T11:11:38.000Z</updated>
+        <summary type="html"><![CDATA[I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Unusual Ideas]]></title>
+        <id>https://blog.codepen.io/?p=21376</id>
+        <link href="https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/"/>
+        <updated>2026-07-20T11:11:38.000Z</updated>
+        <summary type="html"><![CDATA[I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強]]></title>
         <id>https://ivonblog.com/posts/kernelsu-android-root/</id>

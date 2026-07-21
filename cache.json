@@ -276,6 +276,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我快變索黑了！🤬 本來覺得Sony手機還不錯的，再次接觸Pixel和小米之後信仰逐漸崩塌。\n今天接觸到了2022年的Redmi Note 11 Pro 5G（規格同POCO X4 Pro 5G），跟我2023年買的主力機Xperia 10 V比較，發現：哇同樣是萬元出頭的SD695處理器中階機，小米的規格爲什麼能給到這麼好，Sony卻做的像垃圾一樣，還賣比較貴。",
+          "link": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/",
+          "publishedOn": "2026-07-20T15:00:00.000Z",
+          "wordCount": 868,
+          "title": "同是中階機，小米和Sony卻有天與地的差別，讓我快變索黑了",
+          "imageUrl": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/kernelsu-android-root/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "討論如何用KernelSU取得Root權限。\nKernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。\n\n  \n\nKernelSU是自由軟體，原始碼位於Github\n它讓擁有Root權限的su執行於kernel space，使得Root權限更難被偵測到。並且允許只有特定的APP才可以使用Root權限。",
@@ -895,6 +905,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21376",
+          "author": "Chris Coyier",
+          "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
+          "link": "https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/",
+          "publishedOn": "2026-07-20T11:11:38.000Z",
+          "wordCount": 1174,
+          "title": "Chris’ Corner: Unusual Ideas",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-7.57.10-AM.png"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21378",
           "author": "Chris Coyier",
           "description": "Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]",
@@ -1006,6 +1026,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21376",
+          "author": "Chris Coyier",
+          "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
+          "link": "https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/",
+          "publishedOn": "2026-07-20T11:11:38.000Z",
+          "wordCount": 1174,
+          "title": "Chris’ Corner: Unusual Ideas",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-7.57.10-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21378",
           "author": "Chris Coyier",
