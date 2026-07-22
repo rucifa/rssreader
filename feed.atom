@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T03:21:52.632Z</updated>
+    <updated>2026-07-22T03:20:08.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「三小AI醜死了」但以後人們只會越來越不在意是否使用AI創作]]></title>
+        <id>https://ivonblog.com/posts/ugly-ai-slops-so-what/</id>
+        <link href="https://ivonblog.com/posts/ugly-ai-slops-so-what/"/>
+        <updated>2026-07-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有些人很討厭AI
+不論多好的作品，一看到AI兩字就會直接說：
+「三小AI醜死了」
+
+  
+
+現在你還可以貼多米多羅的「三小AI醜死了」，但以後人們只會越來越不在意。
+有時我看到AI就躁，甚至會生理上反感AI。覺得可以加入反AI教了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
+        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
+        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
+        <updated>2026-07-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[適合刷機的Android手機 / 無法解鎖Bootloader手機的恥辱柱]]></title>
+        <id>https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/</id>
+        <link href="https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/"/>
+        <updated>2026-07-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[哪家手機牌子值得買？我會看「是否能刷機」這個指標，也就是開放root。
+有哪些手機好刷機呢？
+如果手機能解鎖，即使是貴的要命的Sony、Pixel、Nothing我都會考慮。
+但若不能解鎖，CP值再高的realme、小米、三星我都不會買。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android手機如何取得Root權限＋刷機流程介紹]]></title>
+        <id>https://ivonblog.com/posts/android-general-flashing-rom/</id>
+        <link href="https://ivonblog.com/posts/android-general-flashing-rom/"/>
+        <updated>2026-07-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這篇不是某部手機的刷機教學，是Ivon刷過幾個大廠牌的手機歸納出來的刷機通用步驟。
+本文討論的是較正規的刷機方法：解鎖Bootloader，刷Root權限管理員取得Root權限，再刷入第三方ROM。不使用刷機助手或漏洞破解的作法。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同是中階機，小米和Sony卻有天與地的差別，讓我快變索黑了]]></title>
         <id>https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/</id>
@@ -75,6 +126,16 @@ Brave正在崛起，成爲Google Chrome和Microsoft Edge以外的第三大瀏覽
 
 Steam for ARM64現在能用Snap一鍵安裝了，官方說在Nvidia GDX Spark和高通處理器的筆電測試過。
 對於執行Ubuntu ARM的裝置來說，譬如樹莓派，安裝Steam就是一行snap install指令的事情。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三方Android ROM有可能商業化嗎？看看GrapheneOS與LineageOS的例子]]></title>
+        <id>https://ivonblog.com/posts/commercialize-custom-android-roms/</id>
+        <link href="https://ivonblog.com/posts/commercialize-custom-android-roms/"/>
+        <updated>2026-07-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[目前最多人用的Android ROM當屬LineageOS和GrapheneOS了，他們都是「Degoogle」的Android系統，不依賴Google生態系，也不依賴任何可疑中國公司的服務。注重開源價值與隱私保護的系統。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
@@ -1488,37 +1549,6 @@ Note: This …
 Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android轉譯玩Windows exe遊戲的方法一覽]]></title>
-        <id>https://ivonblog.com/posts/windows-exe-emulation-on-android/</id>
-        <link href="https://ivonblog.com/posts/windows-exe-emulation-on-android/"/>
-        <updated>2026-06-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文列出在Android手機轉譯玩Windows遊戲的解決方案。
-
-  
-
-是真正在手機上執行Windows遊戲喔，不是遠端桌面也不是串流遊戲，也不用刷機。
-要在任意Android手機跑Windows程式，當然不是模擬整個Windows系統啦！那只有少數手機支援。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameNative：在Android手機直接玩Steam PC遊戲，免遠端串流]]></title>
-        <id>https://ivonblog.com/posts/gamenative-android/</id>
-        <link href="https://ivonblog.com/posts/gamenative-android/"/>
-        <updated>2026-06-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「GameNative」是一款讓你在Android手機上玩Steam遊戲的模擬器APP。
-
-操作簡單易用，支援中文！
-
-
-這不是Steam Link遠端串流電腦畫面喔，而是讓PC遊戲真的在手機上執行。
-只要登入Steam帳號，就能下載自己收藏庫的遊戲。並且支援同步Steam雲端存檔，遊玩時數會計入Steam雲端。在你關掉電腦後能在手機上繼續玩！]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

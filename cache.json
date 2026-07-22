@@ -134,6 +134,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
+          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "publishedOn": "2026-07-21T10:00:00.000Z",
+          "wordCount": 8090,
+          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
@@ -276,6 +291,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/ugly-ai-slops-so-what/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "有些人很討厭AI\n不論多好的作品，一看到AI兩字就會直接說：\n「三小AI醜死了」\n\n  \n\n現在你還可以貼多米多羅的「三小AI醜死了」，但以後人們只會越來越不在意。\n有時我看到AI就躁，甚至會生理上反感AI。覺得可以加入反AI教了。",
+          "link": "https://ivonblog.com/posts/ugly-ai-slops-so-what/",
+          "publishedOn": "2026-07-21T11:00:00.000Z",
+          "wordCount": 846,
+          "title": "「三小AI醜死了」但以後人們只會越來越不在意是否使用AI創作",
+          "imageUrl": "https://ivonblog.com/posts/ugly-ai-slops-so-what/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "哪家手機牌子值得買？我會看「是否能刷機」這個指標，也就是開放root。\n有哪些手機好刷機呢？\n如果手機能解鎖，即使是貴的要命的Sony、Pixel、Nothing我都會考慮。\n但若不能解鎖，CP值再高的realme、小米、三星我都不會買。",
+          "link": "https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/",
+          "publishedOn": "2026-07-21T03:00:00.000Z",
+          "wordCount": 1178,
+          "title": "適合刷機的Android手機 / 無法解鎖Bootloader手機的恥辱柱",
+          "imageUrl": "https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-general-flashing-rom/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這篇不是某部手機的刷機教學，是Ivon刷過幾個大廠牌的手機歸納出來的刷機通用步驟。\n本文討論的是較正規的刷機方法：解鎖Bootloader，刷Root權限管理員取得Root權限，再刷入第三方ROM。不使用刷機助手或漏洞破解的作法。",
+          "link": "https://ivonblog.com/posts/android-general-flashing-rom/",
+          "publishedOn": "2026-07-21T02:00:00.000Z",
+          "wordCount": 1296,
+          "title": "Android手機如何取得Root權限＋刷機流程介紹",
+          "imageUrl": "https://ivonblog.com/posts/android-general-flashing-rom/featured.png"
+        },
+        {
           "id": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "我快變索黑了！🤬 本來覺得Sony手機還不錯的，再次接觸Pixel和小米之後信仰逐漸崩塌。\n今天接觸到了2022年的Redmi Note 11 Pro 5G（規格同POCO X4 Pro 5G），跟我2023年買的主力機Xperia 10 V比較，發現：哇同樣是萬元出頭的SD695處理器中階機，小米的規格爲什麼能給到這麼好，Sony卻做的像垃圾一樣，還賣比較貴。",
@@ -314,6 +359,16 @@
           "wordCount": 1199,
           "title": "用Snap在ARM Linux系統安裝Steam + FEX-Emu",
           "imageUrl": "https://ivonblog.com/posts/install-steam-snap-arm64/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/commercialize-custom-android-roms/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "目前最多人用的Android ROM當屬LineageOS和GrapheneOS了，他們都是「Degoogle」的Android系統，不依賴Google生態系，也不依賴任何可疑中國公司的服務。注重開源價值與隱私保護的系統。",
+          "link": "https://ivonblog.com/posts/commercialize-custom-android-roms/",
+          "publishedOn": "2026-07-18T02:00:00.000Z",
+          "wordCount": 836,
+          "title": "第三方Android ROM有可能商業化嗎？看看GrapheneOS與LineageOS的例子",
+          "imageUrl": "https://ivonblog.com/posts/commercialize-custom-android-roms/featured.webp"
         },
         {
           "id": "https://ivonblog.com/posts/linux-snap-introduction/",
@@ -864,26 +919,6 @@
           "wordCount": 1233,
           "title": "電腦Galgame即時翻譯軟體「LunaTranslator」使用方式",
           "imageUrl": "https://ivonblog.com/posts/lunatranslator-galgame-translator/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/windows-exe-emulation-on-android/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "本文列出在Android手機轉譯玩Windows遊戲的解決方案。\n\n  \n\n是真正在手機上執行Windows遊戲喔，不是遠端桌面也不是串流遊戲，也不用刷機。\n要在任意Android手機跑Windows程式，當然不是模擬整個Windows系統啦！那只有少數手機支援。",
-          "link": "https://ivonblog.com/posts/windows-exe-emulation-on-android/",
-          "publishedOn": "2026-06-21T18:00:00.000Z",
-          "wordCount": 1264,
-          "title": "Android轉譯玩Windows exe遊戲的方法一覽",
-          "imageUrl": "https://ivonblog.com/posts/windows-exe-emulation-on-android/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gamenative-android/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "「GameNative」是一款讓你在Android手機上玩Steam遊戲的模擬器APP。\n\n操作簡單易用，支援中文！\n\n\n這不是Steam Link遠端串流電腦畫面喔，而是讓PC遊戲真的在手機上執行。\n只要登入Steam帳號，就能下載自己收藏庫的遊戲。並且支援同步Steam雲端存檔，遊玩時數會計入Steam雲端。在你關掉電腦後能在手機上繼續玩！",
-          "link": "https://ivonblog.com/posts/gamenative-android/",
-          "publishedOn": "2026-06-21T17:00:00.000Z",
-          "wordCount": 1270,
-          "title": "GameNative：在Android手機直接玩Steam PC遊戲，免遠端串流",
-          "imageUrl": "https://ivonblog.com/posts/gamenative-android/featured.webp"
         }
       ]
     },
