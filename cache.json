@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=244261",
+          "author": "Mojtaba Seyedi",
+          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+          "publishedOn": "2026-07-21T09:39:10.000Z",
+          "wordCount": 3045,
+          "title": "writing-mode",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=18170",
           "author": "Mojtaba Seyedi",
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -110,21 +120,6 @@
           "wordCount": 4231,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394890",
-          "author": "Silvestar Bistrović",
-          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-          "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 4577,
-          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
-            "length": "38364603",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
         }
       ]
     },
@@ -290,6 +285,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/gelbooru-introduction/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/gelbooru-introduction/",
+          "publishedOn": "2026-07-22T15:00:00.000Z",
+          "wordCount": 1529,
+          "title": "Gelbooru搜尋用法：專門收集成人動漫圖片的圖站，類似Danbooru",
+          "imageUrl": "https://ivonblog.com/posts/gelbooru-introduction/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/ugly-ai-slops-so-what/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -909,16 +914,6 @@
           "wordCount": 1372,
           "title": "RustDesk使用教學：開源免費遠端桌面，支援Linux、Windows、macOS，可自架伺服器",
           "imageUrl": "https://ivonblog.com/posts/setup-rustdesk/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/lunatranslator-galgame-translator/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "你是日文苦手嗎？玩Galgame生肉的時候總是看不懂劇情？得等漢化組製作中文翻譯？\n我想要一款即時翻譯電腦螢幕文字的軟體，最好不用修改遊戲程式就能翻譯，這樣的話可以讓我玩Galgame遊戲的時候方便一些。\n在瀏覽巴哈文章的時候找到了「LunaTranslator」，這是一款開源免費的螢幕翻譯軟體。支援多種線上商業翻譯服務，如Google翻譯和DeepL。也可以連接到語言模型跑AI翻譯，如線上的ChatGPT，還有離線執行的Ollama。",
-          "link": "https://ivonblog.com/posts/lunatranslator-galgame-translator/",
-          "publishedOn": "2026-06-23T09:00:00.000Z",
-          "wordCount": 1233,
-          "title": "電腦Galgame即時翻譯軟體「LunaTranslator」使用方式",
-          "imageUrl": "https://ivonblog.com/posts/lunatranslator-galgame-translator/featured.webp"
         }
       ]
     },
@@ -1043,16 +1038,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21291",
-          "author": "Chris Coyier",
-          "description": "The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]",
-          "link": "https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/",
-          "publishedOn": "2026-06-22T17:01:10.000Z",
-          "wordCount": 1189,
-          "title": "Chris’ Corner: Makin’ Stuff",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1164,16 +1149,6 @@
             "length": "18598132",
             "type": "audio/mpeg"
           },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21291",
-          "author": "Chris Coyier",
-          "description": "The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]",
-          "link": "https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/",
-          "publishedOn": "2026-06-22T17:01:10.000Z",
-          "wordCount": 1189,
-          "title": "Chris’ Corner: Makin’ Stuff",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]

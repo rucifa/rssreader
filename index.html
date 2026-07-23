@@ -22,6 +22,91 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-07-22 datetime="2026-07-22T15:00:00.000Z">2026-07-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-07-22 datetime="2026-07-22T15:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ivon的部落格</button>
+                  <a class="source-heading__link" href="https://ivonblog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://ivonblog.com/posts/gelbooru-introduction/"
+                        open
+                      >
+                        <summary class="article-expander__title">Gelbooru搜尋用法：專門收集成人動漫圖片的圖站，類似Danbooru</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/gelbooru-introduction/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ivonblog.com/posts/gelbooru-introduction/featured.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-07-21 datetime="2026-07-21T11:00:00.000Z">2026-07-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-07-21 datetime="2026-07-21T11:00:00.000Z"></time>
           </button>
@@ -137,6 +222,45 @@
                             <span class="media-object__text">
                               <span>While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://css-tricks.com/?page_id&#x3D;244261"
+                        open
+                      >
+                        <summary class="article-expander__title">writing-mode</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/almanac/properties/w/writing-mode/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3562,147 +3686,6 @@ RustDesk是一款開源免費的遠端桌面軟體，提供電腦遠端控制電
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://ivonblog.com/posts/lunatranslator-galgame-translator/"
-                        open
-                      >
-                        <summary class="article-expander__title">電腦Galgame即時翻譯軟體「LunaTranslator」使用方式</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ivonblog.com/posts/lunatranslator-galgame-translator/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://ivonblog.com/posts/lunatranslator-galgame-translator/featured.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>你是日文苦手嗎？玩Galgame生肉的時候總是看不懂劇情？得等漢化組製作中文翻譯？
-我想要一款即時翻譯電腦螢幕文字的軟體，最好不用修改遊戲程式就能翻譯，這樣的話可以讓我玩Galgame遊戲的時候方便一些。
-在瀏覽巴哈文章的時候找到了「LunaTranslator」，這是一款開源免費的螢幕翻譯軟體。支援多種線上商業翻譯服務，如Google翻譯和DeepL。也可以連接到語言模型跑AI翻譯，如線上的ChatGPT，還有離線執行的Ollama。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-06-22 datetime="2026-06-22T17:01:10.000Z">2026-06-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-06-22 datetime="2026-06-22T17:01:10.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CodePen</button>
-                  <a class="source-heading__link" href="https://blog.codepen.io">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codepen.io/?p&#x3D;21291"
-                        open
-                      >
-                        <summary class="article-expander__title">Chris’ Corner: Makin’ Stuff</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://s0.wp.com/i/blank.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CodePen</button>
-                  <a class="source-heading__link" href="https://blog.codepen.io">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.codepen.io/?p&#x3D;21291"
-                        open
-                      >
-                        <summary class="article-expander__title">Chris’ Corner: Makin’ Stuff</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://s0.wp.com/i/blank.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CSS-Tricks</button>
-                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://css-tricks.com/?p&#x3D;394890"
-                        open
-                      >
-                        <summary class="article-expander__title">Using Scroll-Driven Animations for Opposing Scroll Directions</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
-CodePen Embed Fallback
-Note: This …
-Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -3710,8 +3693,8 @@ Using Scroll-Driven Animations for Opposing Scroll Directions originally handwri
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/rucifa/rssreader/actions/runs/29888163268">
-        <time id="build-timestamp" datetime="2026-07-22T03:20:08.301Z">2026-07-22T03:20:08.301Z</time>
+      <a class="footer-link" href="https://github.com/rucifa/rssreader/actions/runs/29977012726">
+        <time id="build-timestamp" datetime="2026-07-23T03:27:26.036Z">2026-07-23T03:27:26.036Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

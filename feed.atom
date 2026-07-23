@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-22T03:20:08.322Z</updated>
+    <updated>2026-07-23T03:27:26.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gelbooru搜尋用法：專門收集成人動漫圖片的圖站，類似Danbooru]]></title>
+        <id>https://ivonblog.com/posts/gelbooru-introduction/</id>
+        <link href="https://ivonblog.com/posts/gelbooru-introduction/"/>
+        <updated>2026-07-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「三小AI醜死了」但以後人們只會越來越不在意是否使用AI創作]]></title>
         <id>https://ivonblog.com/posts/ugly-ai-slops-so-what/</id>
@@ -31,6 +78,21 @@
         <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
         </author>
     </entry>
     <entry>
@@ -1504,51 +1566,6 @@ RustDesk是一款開源免費的遠端桌面軟體，提供電腦遠端控制電
 連線時可以全程自架，也可以用免費公共伺服器連線。資料傳輸經過點對點加密，安全性不用太擔心。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電腦Galgame即時翻譯軟體「LunaTranslator」使用方式]]></title>
-        <id>https://ivonblog.com/posts/lunatranslator-galgame-translator/</id>
-        <link href="https://ivonblog.com/posts/lunatranslator-galgame-translator/"/>
-        <updated>2026-06-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[你是日文苦手嗎？玩Galgame生肉的時候總是看不懂劇情？得等漢化組製作中文翻譯？
-我想要一款即時翻譯電腦螢幕文字的軟體，最好不用修改遊戲程式就能翻譯，這樣的話可以讓我玩Galgame遊戲的時候方便一些。
-在瀏覽巴哈文章的時候找到了「LunaTranslator」，這是一款開源免費的螢幕翻譯軟體。支援多種線上商業翻譯服務，如Google翻譯和DeepL。也可以連接到語言模型跑AI翻譯，如線上的ChatGPT，還有離線執行的Ollama。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Makin’ Stuff]]></title>
-        <id>https://blog.codepen.io/?p=21291</id>
-        <link href="https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/"/>
-        <updated>2026-06-22T17:01:10.000Z</updated>
-        <summary type="html"><![CDATA[The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Makin’ Stuff]]></title>
-        <id>https://blog.codepen.io/?p=21291</id>
-        <link href="https://blog.codepen.io/2026/06/22/chris-corner-makin-stuff/"/>
-        <updated>2026-06-22T17:01:10.000Z</updated>
-        <summary type="html"><![CDATA[The most fun websites to build are websites that interact with outside sources. A user is an outside source! I’m obviously a bit partial to a website that asks a user to build stuff. That’s fun. But any outside source can be fun. Accepting uploads and doing something weird or useful with the data. Or […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
-        <id>https://css-tricks.com/?p=394890</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
-        <updated>2026-06-22T12:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
-CodePen Embed Fallback
-Note: This …
-Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
         </author>
     </entry>
 </feed>
