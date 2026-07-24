@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T03:27:26.059Z</updated>
+    <updated>2026-07-24T03:21:22.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[435: The 2.0 Launch & Team CodePen’s Favorite Features]]></title>
+        <id>https://blog.codepen.io/?p=21383</id>
+        <link href="https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/"/>
+        <updated>2026-07-23T17:05:56.000Z</updated>
+        <summary type="html"><![CDATA[The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[435: The 2.0 Launch & Team CodePen’s Favorite Features]]></title>
+        <id>https://blog.codepen.io/?p=21383</id>
+        <link href="https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/"/>
+        <updated>2026-07-23T17:05:56.000Z</updated>
+        <summary type="html"><![CDATA[The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Launch of CodePen 2.0]]></title>
+        <id>https://blog.codepen.io/?p=21351</id>
+        <link href="https://blog.codepen.io/2026/07/23/two-point-oh/"/>
+        <updated>2026-07-23T16:02:07.000Z</updated>
+        <summary type="html"><![CDATA[If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Launch of CodePen 2.0]]></title>
+        <id>https://blog.codepen.io/?p=21351</id>
+        <link href="https://blog.codepen.io/2026/07/23/two-point-oh/"/>
+        <updated>2026-07-23T16:02:07.000Z</updated>
+        <summary type="html"><![CDATA[If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone與iPad好用的開源APP分享]]></title>
+        <id>https://ivonblog.com/posts/awesome-foss-ios-apps/</id>
+        <link href="https://ivonblog.com/posts/awesome-foss-ios-apps/"/>
+        <updated>2026-07-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在Github檢視這篇文章。
+介紹一些我覺得好用的自由及開放原始碼 (Free and Open Source) 的iOS APP，適用iPhone與iPad。
+
+  
+
+收錄標準： 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。這些都是我用過並參考網友經驗，覺得不錯才放進列表的，有些用途太狹隘、單純只是reference implementation、沒在維護的、設計不良的APP並不會包含進去。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F-Droid與開源Android APP推薦列表]]></title>
+        <id>https://ivonblog.com/posts/awesome-foss-android-apps/</id>
+        <link href="https://ivonblog.com/posts/awesome-foss-android-apps/"/>
+        <updated>2026-07-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在Github檢視此列表
+本文基於Ivon個人經驗、網友評價，列出一些自由開源（FOSS, Free and Open source）的好用Android APP。主要來自F-Droid與Github。
+
+  
+
+收錄標準： 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gelbooru搜尋用法：專門收集成人動漫圖片的圖站，類似Danbooru]]></title>
         <id>https://ivonblog.com/posts/gelbooru-introduction/</id>
@@ -1515,55 +1585,6 @@ translate() originally handwritten and published with love on CSS-Tricks. You sh
         <summary type="html"><![CDATA[這篇文章Ivon整理各種iPhone/iPad安裝第三方APP的方法，供iOS用戶及開發者參考。
 這些方法到iOS 27都還有效。
 首先Ivon會講解什麼是側載，再講解側載方法，依序為最簡單到最困難的，大部分都不需要越獄。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[430: The Wild World of Keyboard Shortcuts in Web Apps]]></title>
-        <id>https://blog.codepen.io/?p=21302</id>
-        <link href="https://blog.codepen.io/2026/06/24/430-the-wild-world-of-keyboard-shortcuts-in-web-apps/"/>
-        <updated>2026-06-24T14:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Shaw and Chris talk about how the keyboard shortcut situation is challenging, but in the best shape it’s ever been in for our 2.0 editor. Between the operating system, browser, CodeMirror, and Emmet, the space is fairly crowded, but we’ve got enough room to offer lots of useful stuff. The commands are more findable than […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[430: The Wild World of Keyboard Shortcuts in Web Apps]]></title>
-        <id>https://blog.codepen.io/?p=21302</id>
-        <link href="https://blog.codepen.io/2026/06/24/430-the-wild-world-of-keyboard-shortcuts-in-web-apps/"/>
-        <updated>2026-06-24T14:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Shaw and Chris talk about how the keyboard shortcut situation is challenging, but in the best shape it’s ever been in for our 2.0 editor. Between the operating system, browser, CodeMirror, and Emmet, the space is fairly crowded, but we’ve got enough room to offer lots of useful stuff. The commands are more findable than […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joplin：開源筆記軟體使用教學，支援電腦與手機同步]]></title>
-        <id>https://ivonblog.com/posts/setup-joplin/</id>
-        <link href="https://ivonblog.com/posts/setup-joplin/"/>
-        <updated>2026-06-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[想要尋找開源跨平台的筆記軟體？
-兼具Microsoft OneNote的知識管理？
-又有Google備忘錄的功能？
-推薦您試試「Joplin」！
-
-  
-
-Joplin是來自法國的筆記軟體，由Laurent Cozic開發，2017年釋出，APP的名字來自他常聽的鋼琴家 史考特·喬普林 (Scott Joplin)。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustDesk使用教學：開源免費遠端桌面，支援Linux、Windows、macOS，可自架伺服器]]></title>
-        <id>https://ivonblog.com/posts/setup-rustdesk/</id>
-        <link href="https://ivonblog.com/posts/setup-rustdesk/"/>
-        <updated>2026-06-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請參考： Linux開源免費的遠端桌面列表
-RustDesk是一款開源免費的遠端桌面軟體，提供電腦遠端控制電腦、手機遠端控制電腦、電腦遠端控制手機、手機控制手機等多種連線方式。
-連線時可以全程自架，也可以用免費公共伺服器連線。資料傳輸經過點對點加密，安全性不用太擔心。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

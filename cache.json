@@ -286,6 +286,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/awesome-foss-ios-apps/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在Github檢視這篇文章。\n介紹一些我覺得好用的自由及開放原始碼 (Free and Open Source) 的iOS APP，適用iPhone與iPad。\n\n  \n\n收錄標準： 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。這些都是我用過並參考網友經驗，覺得不錯才放進列表的，有些用途太狹隘、單純只是reference implementation、沒在維護的、設計不良的APP並不會包含進去。",
+          "link": "https://ivonblog.com/posts/awesome-foss-ios-apps/",
+          "publishedOn": "2026-07-23T08:00:00.000Z",
+          "wordCount": 1471,
+          "title": "iPhone與iPad好用的開源APP分享",
+          "imageUrl": "https://ivonblog.com/posts/awesome-foss-ios-apps/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/awesome-foss-android-apps/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在Github檢視此列表\n本文基於Ivon個人經驗、網友評價，列出一些自由開源（FOSS, Free and Open source）的好用Android APP。主要來自F-Droid與Github。\n\n  \n\n收錄標準： 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。",
+          "link": "https://ivonblog.com/posts/awesome-foss-android-apps/",
+          "publishedOn": "2026-07-23T07:00:00.000Z",
+          "wordCount": 1980,
+          "title": "F-Droid與開源Android APP推薦列表",
+          "imageUrl": "https://ivonblog.com/posts/awesome-foss-android-apps/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/gelbooru-introduction/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
@@ -894,26 +914,6 @@
           "wordCount": 1263,
           "title": "iPhone如何安裝第三方APP？iOS側載IPA方法匯總",
           "imageUrl": "https://ivonblog.com/posts/ios-sideloading/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/setup-joplin/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "想要尋找開源跨平台的筆記軟體？\n兼具Microsoft OneNote的知識管理？\n又有Google備忘錄的功能？\n推薦您試試「Joplin」！\n\n  \n\nJoplin是來自法國的筆記軟體，由Laurent Cozic開發，2017年釋出，APP的名字來自他常聽的鋼琴家 史考特·喬普林 (Scott Joplin)。",
-          "link": "https://ivonblog.com/posts/setup-joplin/",
-          "publishedOn": "2026-06-24T03:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Joplin：開源筆記軟體使用教學，支援電腦與手機同步",
-          "imageUrl": "https://ivonblog.com/posts/setup-joplin/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/setup-rustdesk/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "請參考： Linux開源免費的遠端桌面列表\nRustDesk是一款開源免費的遠端桌面軟體，提供電腦遠端控制電腦、手機遠端控制電腦、電腦遠端控制手機、手機控制手機等多種連線方式。\n連線時可以全程自架，也可以用免費公共伺服器連線。資料傳輸經過點對點加密，安全性不用太擔心。",
-          "link": "https://ivonblog.com/posts/setup-rustdesk/",
-          "publishedOn": "2026-06-23T17:00:00.000Z",
-          "wordCount": 1372,
-          "title": "RustDesk使用教學：開源免費遠端桌面，支援Linux、Windows、macOS，可自架伺服器",
-          "imageUrl": "https://ivonblog.com/posts/setup-rustdesk/featured.webp"
         }
       ]
     },
@@ -935,6 +935,31 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21383",
+          "author": "Chris Coyier",
+          "description": "The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.",
+          "link": "https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/",
+          "publishedOn": "2026-07-23T17:05:56.000Z",
+          "wordCount": 1047,
+          "title": "435: The 2.0 Launch & Team CodePen’s Favorite Features",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-435.mp3",
+            "length": "23272451",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/versioning.png"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21351",
+          "author": "Chris Coyier",
+          "description": "If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]",
+          "link": "https://blog.codepen.io/2026/07/23/two-point-oh/",
+          "publishedOn": "2026-07-23T16:02:07.000Z",
+          "wordCount": 2195,
+          "title": "The Launch of CodePen 2.0",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21376",
           "author": "Chris Coyier",
           "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
@@ -1023,21 +1048,6 @@
           "wordCount": 1597,
           "title": "Chris’ Corner: Layers of Layers",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-9.38.55-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21302",
-          "author": "Chris Coyier",
-          "description": "Shaw and Chris talk about how the keyboard shortcut situation is challenging, but in the best shape it’s ever been in for our 2.0 editor. Between the operating system, browser, CodeMirror, and Emmet, the space is fairly crowded, but we’ve got enough room to offer lots of useful stuff. The commands are more findable than […]",
-          "link": "https://blog.codepen.io/2026/06/24/430-the-wild-world-of-keyboard-shortcuts-in-web-apps/",
-          "publishedOn": "2026-06-24T14:12:34.000Z",
-          "wordCount": 822,
-          "title": "430: The Wild World of Keyboard Shortcuts in Web Apps",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-430.mp3",
-            "length": "18598132",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1047,6 +1057,31 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21383",
+          "author": "Chris Coyier",
+          "description": "The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.",
+          "link": "https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/",
+          "publishedOn": "2026-07-23T17:05:56.000Z",
+          "wordCount": 1047,
+          "title": "435: The 2.0 Launch & Team CodePen’s Favorite Features",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-435.mp3",
+            "length": "23272451",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/versioning.png"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21351",
+          "author": "Chris Coyier",
+          "description": "If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]",
+          "link": "https://blog.codepen.io/2026/07/23/two-point-oh/",
+          "publishedOn": "2026-07-23T16:02:07.000Z",
+          "wordCount": 2195,
+          "title": "The Launch of CodePen 2.0",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21376",
           "author": "Chris Coyier",
           "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
@@ -1135,21 +1170,6 @@
           "wordCount": 1597,
           "title": "Chris’ Corner: Layers of Layers",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-9.38.55-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21302",
-          "author": "Chris Coyier",
-          "description": "Shaw and Chris talk about how the keyboard shortcut situation is challenging, but in the best shape it’s ever been in for our 2.0 editor. Between the operating system, browser, CodeMirror, and Emmet, the space is fairly crowded, but we’ve got enough room to offer lots of useful stuff. The commands are more findable than […]",
-          "link": "https://blog.codepen.io/2026/06/24/430-the-wild-world-of-keyboard-shortcuts-in-web-apps/",
-          "publishedOn": "2026-06-24T14:12:34.000Z",
-          "wordCount": 822,
-          "title": "430: The Wild World of Keyboard Shortcuts in Web Apps",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-430.mp3",
-            "length": "18598132",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     }
