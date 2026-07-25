@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T03:21:22.308Z</updated>
+    <updated>2026-07-25T03:19:18.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[替代Gboard的開源Android中文輸入法？]]></title>
+        <id>https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/</id>
+        <link href="https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/"/>
+        <updated>2026-07-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What are the FOSS Chinese IME alternatives to Gboard?
+在degoogle的Android手機，有什麼好用的開源中文輸入法呢？打字不會蒐集使用者資料的？
+我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，包括注音和拼音輸入法，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[435: The 2.0 Launch & Team CodePen’s Favorite Features]]></title>
         <id>https://blog.codepen.io/?p=21383</id>
@@ -1515,76 +1527,6 @@ SSD
         <summary type="html"><![CDATA[Magic Earth是荷蘭公司Magic Lane推出的手機地圖＆導航APP，圖資使用OpenStreetMap，支援Android和iOS系統。
 
 Ivon之所以會發現這款APP，是因為想尋找開源的地圖導航APP。用過OSMAnd~一陣子，還是太難用了，中文搜尋很差勁。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateZ()]]></title>
-        <id>https://css-tricks.com/?page_id=394786</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
-        <updated>2026-06-25T13:18:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
-translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateY()]]></title>
-        <id>https://css-tricks.com/?page_id=393249</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
-        <updated>2026-06-25T13:17:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
-translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateX()]]></title>
-        <id>https://css-tricks.com/?page_id=393255</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
-        <updated>2026-06-25T13:16:01.000Z</updated>
-        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
-translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translate()]]></title>
-        <id>https://css-tricks.com/?page_id=393233</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
-        <updated>2026-06-25T13:15:05.000Z</updated>
-        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
-translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Floccus：跨瀏覽器同步書籤，方便在Firefox與Chrome之間切換]]></title>
-        <id>https://ivonblog.com/posts/floccus-bookmarks-sync/</id>
-        <link href="https://ivonblog.com/posts/floccus-bookmarks-sync/"/>
-        <updated>2026-06-25T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[想在Firefox與Chrome之間跨瀏覽器同步書籤，你需要「Floccus」這個擴充功能！
-
-  
-
-為什麼需要這個書籤同步服務呢？我在各大作業系統使用的瀏覽器都不一樣，不會一套通吃。就算是Brave，我也是在Android手機用比較多，Linux電腦是偏好用Firefox，iPad則只有Safari能選。過去總被同步這點綁住，被迫綁在同一套瀏覽器，每個瀏覽器都有不同的同步帳號。後來我了解到，我只要搞定最常用的「密碼」與「書籤」這兩個關鍵同步要素，用什麼瀏覽器就不是問題了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone如何安裝第三方APP？iOS側載IPA方法匯總]]></title>
-        <id>https://ivonblog.com/posts/ios-sideloading/</id>
-        <link href="https://ivonblog.com/posts/ios-sideloading/"/>
-        <updated>2026-06-24T16:01:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇文章Ivon整理各種iPhone/iPad安裝第三方APP的方法，供iOS用戶及開發者參考。
-這些方法到iOS 27都還有效。
-首先Ivon會講解什麼是側載，再講解側載方法，依序為最簡單到最困難的，大部分都不需要越獄。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

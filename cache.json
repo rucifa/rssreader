@@ -80,46 +80,6 @@
           "wordCount": 4622,
           "title": "The Shifting Line Between CSS States and JavaScript Events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394786",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-          "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 4266,
-          "title": "translateZ()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393249",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-          "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 4143,
-          "title": "translateY()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393255",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-          "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 4359,
-          "title": "translateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393233",
-          "author": "Gabriel Shoyombo",
-          "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translate/",
-          "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 4231,
-          "title": "translate()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -285,6 +245,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "What are the FOSS Chinese IME alternatives to Gboard?\n在degoogle的Android手機，有什麼好用的開源中文輸入法呢？打字不會蒐集使用者資料的？\n我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，包括注音和拼音輸入法，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。",
+          "link": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
+          "publishedOn": "2026-07-24T03:00:00.000Z",
+          "wordCount": 1201,
+          "title": "替代Gboard的開源Android中文輸入法？",
+          "imageUrl": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/awesome-foss-ios-apps/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -894,26 +864,6 @@
           "wordCount": 1191,
           "title": "用Magic Earth替代Google地圖！中文支援度佳、保護隱私的導航APP",
           "imageUrl": "https://ivonblog.com/posts/magic-earth-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/floccus-bookmarks-sync/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "想在Firefox與Chrome之間跨瀏覽器同步書籤，你需要「Floccus」這個擴充功能！\n\n  \n\n為什麼需要這個書籤同步服務呢？我在各大作業系統使用的瀏覽器都不一樣，不會一套通吃。就算是Brave，我也是在Android手機用比較多，Linux電腦是偏好用Firefox，iPad則只有Safari能選。過去總被同步這點綁住，被迫綁在同一套瀏覽器，每個瀏覽器都有不同的同步帳號。後來我了解到，我只要搞定最常用的「密碼」與「書籤」這兩個關鍵同步要素，用什麼瀏覽器就不是問題了。",
-          "link": "https://ivonblog.com/posts/floccus-bookmarks-sync/",
-          "publishedOn": "2026-06-25T09:00:00.000Z",
-          "wordCount": 1151,
-          "title": "Floccus：跨瀏覽器同步書籤，方便在Firefox與Chrome之間切換",
-          "imageUrl": "https://ivonblog.com/posts/floccus-bookmarks-sync/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-sideloading/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇文章Ivon整理各種iPhone/iPad安裝第三方APP的方法，供iOS用戶及開發者參考。\n這些方法到iOS 27都還有效。\n首先Ivon會講解什麼是側載，再講解側載方法，依序為最簡單到最困難的，大部分都不需要越獄。",
-          "link": "https://ivonblog.com/posts/ios-sideloading/",
-          "publishedOn": "2026-06-24T16:01:00.000Z",
-          "wordCount": 1263,
-          "title": "iPhone如何安裝第三方APP？iOS側載IPA方法匯總",
-          "imageUrl": "https://ivonblog.com/posts/ios-sideloading/featured.webp"
         }
       ]
     },
