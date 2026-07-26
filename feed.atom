@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T03:19:18.339Z</updated>
+    <updated>2026-07-26T03:33:43.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我教學文章的「截圖加手機外框」示意圖堅持不挖孔原則]]></title>
+        <id>https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/</id>
+        <link href="https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/"/>
+        <updated>2026-07-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有時候在寫教學文章的時候爲了讓APP看起來比較炫，我會在截圖加上手機邊框。
+Android我大部分用Sony Xperia 10 V或Xperia 1 III截圖。
+
+  
+
+iOS的話過去用iPhone SE 2016，現在用iPhone 12 Mini。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feather，直接在iPhone簽名IPA的開源APP，免電腦]]></title>
+        <id>https://ivonblog.com/posts/ios-feather-signing-app/</id>
+        <link href="https://ivonblog.com/posts/ios-feather-signing-app/"/>
+        <updated>2026-07-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果我有一雙翅膀，我要離開這個地方。如果妳要和我飛翔，不要離開我的肩膀，一不小心就會失去了影像（指掉簽）。
+Feather為一款讓你在iPhone/iPad簽名IPA的開源APP，免越獄。
+
+  
+
+Feather由khcrysalis開發，它能夠在iOS裝置直接簽名IPA並安裝IPA（背後使用ZSign），不用透過電腦，也不用傳送給第三方伺服器處理，簽名全都是在本機進行的。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiveContainer教學，iOS安裝第三方APP數量無上限，免越獄]]></title>
+        <id>https://ivonblog.com/posts/livecontainer-ios-app-launcher/</id>
+        <link href="https://ivonblog.com/posts/livecontainer-ios-app-launcher/"/>
+        <updated>2026-07-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請參閱：iOS所有安裝第三方APP、側載IPA的方法
+想要在iPhone/iPad安裝第三方APP，卻苦於免費Apple開發者帳號只有3個APP的簽名限制嗎？
+Duy Tran開發的「LiveContainer」用一種曲折的方式解決這個問題。
+
+  
+
+它有點類似虛擬機，或說是容器，但其實是APP啟動器，讓你不用真的安裝APP也可以使用APP。雖然APP是暫時執行的，但是資料會保存在同一個資料夾，日後可以持續使用。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS使用UDID Registrations付費簽名IPA，無限制安裝第三方APP]]></title>
+        <id>https://ivonblog.com/posts/ios-sideloading-udid-registrations/</id>
+        <link href="https://ivonblog.com/posts/ios-sideloading-udid-registrations/"/>
+        <updated>2026-07-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請參考：iOS側載IPA方式匯總
+本文Ivon分享透過UDID Registration購買開發者憑證，用於給IPA簽名，再側載到iOS裝置的操作過程。
+測試系統版本：iOS 27
+什麼是側載IPA？簡單來說就是安裝App Store以外的APP，比如，這裡有很多開源免費的第三方iOS APP。有些開源軟體的開發者沒有上架App Store，而是在Github發表，得手動側載IPA。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideStore在iPhone安裝第三方APP，免電腦重簽安裝IPA教學]]></title>
+        <id>https://ivonblog.com/posts/ios-sidestore/</id>
+        <link href="https://ivonblog.com/posts/ios-sidestore/"/>
+        <updated>2026-07-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請參閱：iOS所有安裝第三方APP、側載IPA的方法
+如果想在iOS安裝第三方APP又不想連著電腦，可嘗試SideStore。
+
+值得安裝的第三方IPA列表，請參考我的：iPhone好用的開源APP分享
+SideStore是AltStore的分支版本，主打「免電腦安裝與重簽IPA」，也就是說您可以安裝任意第三方APP到iPhone/iPad，免越獄、免電腦。此外，您還能透過SidesStore給APP啟用JIT加速。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在iOS安裝第三方APP：AltStore使用教學]]></title>
+        <id>https://ivonblog.com/posts/ios-altstore/</id>
+        <link href="https://ivonblog.com/posts/ios-altstore/"/>
+        <updated>2026-07-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請參閱：iOS所有安裝第三方APP、側載IPA的方法
+AltStore是一款開源的應用程式商店，可以繞過App Store，在iOS/iPadOS裝置安裝未經Apple審核的第三方APP。
+
+這樣有什麼好處呢？AltStore可以免越獄安裝IPA（iOS APP的應用安裝包），例如：]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代Gboard的開源Android中文輸入法？]]></title>
         <id>https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/</id>

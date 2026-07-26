@@ -246,6 +246,66 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "有時候在寫教學文章的時候爲了讓APP看起來比較炫，我會在截圖加上手機邊框。\nAndroid我大部分用Sony Xperia 10 V或Xperia 1 III截圖。\n\n  \n\niOS的話過去用iPhone SE 2016，現在用iPhone 12 Mini。",
+          "link": "https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/",
+          "publishedOn": "2026-07-25T06:00:00.000Z",
+          "wordCount": 860,
+          "title": "我教學文章的「截圖加手機外框」示意圖堅持不挖孔原則",
+          "imageUrl": "https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-feather-signing-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "如果我有一雙翅膀，我要離開這個地方。如果妳要和我飛翔，不要離開我的肩膀，一不小心就會失去了影像（指掉簽）。\nFeather為一款讓你在iPhone/iPad簽名IPA的開源APP，免越獄。\n\n  \n\nFeather由khcrysalis開發，它能夠在iOS裝置直接簽名IPA並安裝IPA（背後使用ZSign），不用透過電腦，也不用傳送給第三方伺服器處理，簽名全都是在本機進行的。",
+          "link": "https://ivonblog.com/posts/ios-feather-signing-app/",
+          "publishedOn": "2026-07-24T17:00:00.000Z",
+          "wordCount": 1158,
+          "title": "Feather，直接在iPhone簽名IPA的開源APP，免電腦",
+          "imageUrl": "https://ivonblog.com/posts/ios-feather-signing-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/livecontainer-ios-app-launcher/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請參閱：iOS所有安裝第三方APP、側載IPA的方法\n想要在iPhone/iPad安裝第三方APP，卻苦於免費Apple開發者帳號只有3個APP的簽名限制嗎？\nDuy Tran開發的「LiveContainer」用一種曲折的方式解決這個問題。\n\n  \n\n它有點類似虛擬機，或說是容器，但其實是APP啟動器，讓你不用真的安裝APP也可以使用APP。雖然APP是暫時執行的，但是資料會保存在同一個資料夾，日後可以持續使用。",
+          "link": "https://ivonblog.com/posts/livecontainer-ios-app-launcher/",
+          "publishedOn": "2026-07-24T17:00:00.000Z",
+          "wordCount": 1300,
+          "title": "LiveContainer教學，iOS安裝第三方APP數量無上限，免越獄",
+          "imageUrl": "https://ivonblog.com/posts/livecontainer-ios-app-launcher/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-sideloading-udid-registrations/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請參考：iOS側載IPA方式匯總\n本文Ivon分享透過UDID Registration購買開發者憑證，用於給IPA簽名，再側載到iOS裝置的操作過程。\n測試系統版本：iOS 27\n什麼是側載IPA？簡單來說就是安裝App Store以外的APP，比如，這裡有很多開源免費的第三方iOS APP。有些開源軟體的開發者沒有上架App Store，而是在Github發表，得手動側載IPA。",
+          "link": "https://ivonblog.com/posts/ios-sideloading-udid-registrations/",
+          "publishedOn": "2026-07-24T15:00:00.000Z",
+          "wordCount": 1318,
+          "title": "iOS使用UDID Registrations付費簽名IPA，無限制安裝第三方APP",
+          "imageUrl": "https://ivonblog.com/posts/ios-sideloading-udid-registrations/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-sidestore/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請參閱：iOS所有安裝第三方APP、側載IPA的方法\n如果想在iOS安裝第三方APP又不想連著電腦，可嘗試SideStore。\n\n值得安裝的第三方IPA列表，請參考我的：iPhone好用的開源APP分享\nSideStore是AltStore的分支版本，主打「免電腦安裝與重簽IPA」，也就是說您可以安裝任意第三方APP到iPhone/iPad，免越獄、免電腦。此外，您還能透過SidesStore給APP啟用JIT加速。",
+          "link": "https://ivonblog.com/posts/ios-sidestore/",
+          "publishedOn": "2026-07-24T15:00:00.000Z",
+          "wordCount": 1225,
+          "title": "SideStore在iPhone安裝第三方APP，免電腦重簽安裝IPA教學",
+          "imageUrl": "https://ivonblog.com/posts/ios-sidestore/featured.jpeg"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-altstore/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "請參閱：iOS所有安裝第三方APP、側載IPA的方法\nAltStore是一款開源的應用程式商店，可以繞過App Store，在iOS/iPadOS裝置安裝未經Apple審核的第三方APP。\n\n這樣有什麼好處呢？AltStore可以免越獄安裝IPA（iOS APP的應用安裝包），例如：",
+          "link": "https://ivonblog.com/posts/ios-altstore/",
+          "publishedOn": "2026-07-24T14:00:00.000Z",
+          "wordCount": 1465,
+          "title": "在iOS安裝第三方APP：AltStore使用教學",
+          "imageUrl": "https://ivonblog.com/posts/ios-altstore/featured.png"
+        },
+        {
           "id": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "What are the FOSS Chinese IME alternatives to Gboard?\n在degoogle的Android手機，有什麼好用的開源中文輸入法呢？打字不會蒐集使用者資料的？\n我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，包括注音和拼音輸入法，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。",
