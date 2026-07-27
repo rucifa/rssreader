@@ -246,6 +246,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/apple-iphone-12-mini-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "終於升級換新iPhone了，最近把我用了4年的iPhone SE換掉，升級到了最新的iPhone 12 Mini。這樣我就能在更大的螢幕上看黑人抬棺材了。",
+          "link": "https://ivonblog.com/posts/apple-iphone-12-mini-review/",
+          "publishedOn": "2026-07-26T09:00:00.000Z",
+          "wordCount": 1283,
+          "title": "終於升級換新iPhone 12 Mini了",
+          "imageUrl": "https://ivonblog.com/posts/apple-iphone-12-mini-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-ehviewer/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/android-ehviewer/",
+          "publishedOn": "2026-07-26T02:00:00.000Z",
+          "wordCount": 1616,
+          "title": "Android手機看E-hentai：EhViewer下載使用教學（綠色版/彩色版/茶色版）",
+          "imageUrl": "https://ivonblog.com/posts/android-ehviewer/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/want-to-replace-sony-xperia-10-v/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我想買台新手機來取代用了3年的中階小手機Sony Xperia 10 V。我從2025年夏天就一直在研究取代Xperia 10 V的可能性，但到今年夏天，還是無法得出結論。\n參考：\nXperia 10 V二年使用心得：胃口被Sony養壞了 \n 讓死者回歸死亡，切斷Xperia 5 II的執念之終結 \n它是沒有壞掉啦，我有Root加上刷LineageOS取得最新版Android 16更新，8GB RAM多工方便。加上有開充電保養所以續航力幾乎沒衰退，一天能撐8小時以上。使用幾乎不會發熱。",
+          "link": "https://ivonblog.com/posts/want-to-replace-sony-xperia-10-v/",
+          "publishedOn": "2026-07-25T15:00:00.000Z",
+          "wordCount": 928,
+          "title": "替代Sony Xperia 10 V的新手機人選，還、不存在",
+          "imageUrl": "https://ivonblog.com/posts/want-to-replace-sony-xperia-10-v/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "有時候在寫教學文章的時候爲了讓APP看起來比較炫，我會在截圖加上手機邊框。\nAndroid我大部分用Sony Xperia 10 V或Xperia 1 III截圖。\n\n  \n\niOS的話過去用iPhone SE 2016，現在用iPhone 12 Mini。",
