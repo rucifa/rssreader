@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-27T03:41:19.823Z</updated>
+    <updated>2026-07-28T03:13:11.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Click Something Do Something]]></title>
+        <id>https://blog.codepen.io/?p=21434</id>
+        <link href="https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/"/>
+        <updated>2026-07-27T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Click Something Do Something]]></title>
+        <id>https://blog.codepen.io/?p=21434</id>
+        <link href="https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/"/>
+        <updated>2026-07-27T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[終於升級換新iPhone 12 Mini了]]></title>
         <id>https://ivonblog.com/posts/apple-iphone-12-mini-review/</id>
@@ -1672,18 +1692,6 @@ SSD
   
 
 可以安裝在無法更新系統的舊iPhone/iPad裝置，拯救其上網能力。最低需要iOS 13系統版本，也就是iPhone 6 & iPad Air 2以上。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Magic Earth替代Google地圖！中文支援度佳、保護隱私的導航APP]]></title>
-        <id>https://ivonblog.com/posts/magic-earth-app/</id>
-        <link href="https://ivonblog.com/posts/magic-earth-app/"/>
-        <updated>2026-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Magic Earth是荷蘭公司Magic Lane推出的手機地圖＆導航APP，圖資使用OpenStreetMap，支援Android和iOS系統。
-
-Ivon之所以會發現這款APP，是因為想尋找開源的地圖導航APP。用過OSMAnd~一陣子，還是太難用了，中文搜尋很差勁。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

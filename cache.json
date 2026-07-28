@@ -944,16 +944,6 @@
           "wordCount": 1225,
           "title": "iOS安裝Reynard Browser，擺脫對Safari WebKit的依賴",
           "imageUrl": "https://ivonblog.com/posts/ios-reynard-browser-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/magic-earth-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Magic Earth是荷蘭公司Magic Lane推出的手機地圖＆導航APP，圖資使用OpenStreetMap，支援Android和iOS系統。\n\nIvon之所以會發現這款APP，是因為想尋找開源的地圖導航APP。用過OSMAnd~一陣子，還是太難用了，中文搜尋很差勁。",
-          "link": "https://ivonblog.com/posts/magic-earth-app/",
-          "publishedOn": "2026-06-28T00:00:00.000Z",
-          "wordCount": 1191,
-          "title": "用Magic Earth替代Google地圖！中文支援度佳、保護隱私的導航APP",
-          "imageUrl": "https://ivonblog.com/posts/magic-earth-app/featured.webp"
         }
       ]
     },
@@ -974,6 +964,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21434",
+          "author": "Chris Coyier",
+          "description": "Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]",
+          "link": "https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/",
+          "publishedOn": "2026-07-27T15:13:00.000Z",
+          "wordCount": 1197,
+          "title": "Chris’ Corner: Click Something Do Something",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21383",
           "author": "Chris Coyier",
@@ -1096,6 +1096,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21434",
+          "author": "Chris Coyier",
+          "description": "Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]",
+          "link": "https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/",
+          "publishedOn": "2026-07-27T15:13:00.000Z",
+          "wordCount": 1197,
+          "title": "Chris’ Corner: Click Something Do Something",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21383",
           "author": "Chris Coyier",
