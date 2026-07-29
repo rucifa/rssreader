@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T03:13:11.808Z</updated>
+    <updated>2026-07-29T03:16:13.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[436: The Design & Message of Launch Emails (with MJML)]]></title>
+        <id>https://blog.codepen.io/?p=21454</id>
+        <link href="https://blog.codepen.io/2026/07/28/436-the-design-message-of-launch-emails-with-mjml/"/>
+        <updated>2026-07-28T20:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Just one week off our big 2.0 launch, Shaw and Chris hop on to talk about how email is actually a big part of the launch. Social media ain’t what it used to be, and not everybody is on your app every single day waiting for a notification. Sponsor: Notion With the recent launch of […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[436: The Design & Message of Launch Emails (with MJML)]]></title>
+        <id>https://blog.codepen.io/?p=21454</id>
+        <link href="https://blog.codepen.io/2026/07/28/436-the-design-message-of-launch-emails-with-mjml/"/>
+        <updated>2026-07-28T20:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Just one week off our big 2.0 launch, Shaw and Chris hop on to talk about how email is actually a big part of the launch. Social media ain’t what it used to be, and not everybody is on your app every single day waiting for a notification. Sponsor: Notion With the recent launch of […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘇格拉底看：iPhone與Android哪個比較好？何謂自由？]]></title>
+        <id>https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone-socrates/</id>
+        <link href="https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone-socrates/"/>
+        <updated>2026-07-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《伊翁後篇：或論蘋果與自由》
+Ἴων δεύτερος ἢ περὶ Μήλου καὶ Ἐλευθερίας
+伊翁後篇是《伊翁篇》失傳的後半段，此段文字據信由古希臘哲學家柏拉圖等人記載。
+
+  
+
+出場人物
+蘇格拉底(Socrates)：仍然什麼都不知道，卻總能使知道一切的人開始懷疑自己。
+伊翁(Ion)：同時使用Android與iPhone，自稱已從果粉的洞穴中走出。
+格勞孔(Glaucon)：一位只想把iPhone手機買來用的一般通過爺。
+尚-保羅·沙特(Jean-Paul Charles Aymard Sartre)：從高盧來的黑衣客人，似乎走錯了時代。
+蘋果的神教
+    
+
+    
+    
+        #
+    
+    
+
+昨日黃昏，我與蘇格拉底經過市中心一座四面透明、燈火明亮的神殿。殿內沒有神像，只有一排排閃耀的手機、耳機、手錶和轉接頭。人們安靜地撫摸它們，彷彿正在接受某種入教儀式。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「如果我要花好幾萬塊買Android手機，幹嘛不買iPhone就好？」的優劣心態]]></title>
+        <id>https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone/</id>
+        <link href="https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone/"/>
+        <updated>2026-07-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[爲什麼會有「如果我要花好幾萬塊買Android手機，幹嘛不買iPhone就好」的心態？
+難不成，你一想到要買Apple產品就會很興奮，就算只是買耳機或一個轉接頭，從購物到下單的過程都會有一種充滿儀式的高級感，收到iPhone就好像拿到黃金一樣需要小心保護？iPhone真的是最偉大的發明！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Iconify自訂Android系統圖示 & 鎖定畫面，適用Pixel與LineageOS等原生系統]]></title>
+        <id>https://ivonblog.com/posts/android-iconify-app/</id>
+        <link href="https://ivonblog.com/posts/android-iconify-app/"/>
+        <updated>2026-07-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.special-table table {
+  border-collapse: collapse !important;
+  border-spacing: 0 !important;
+  border: 0px !important;
+}
+
+.special-table td,
+.special-table th {
+  border: hidden !important;
+  word-break: normal !important;
+}
+
+Iconify這個APP能讓你自訂原生Android的狀態欄、系統圖示、鎖定畫面。
+
+想要自訂Android手機外觀嗎？Samsung有Good Lock，小米也有自家的主題系統，那麼Pixel這類的原生Android系統能不能做到呢？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涼宮春日2.0 ～ GSC黏土人第3000號 ～  開箱]]></title>
+        <id>https://ivonblog.com/posts/gsc-nendoroid-suzumiya-haruhi-2-0/</id>
+        <link href="https://ivonblog.com/posts/gsc-nendoroid-suzumiya-haruhi-2-0/"/>
+        <updated>2026-07-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「我是雄中畢業的涼宮春日。我對普通的人類電腦使用者沒有興趣。假如你們當中有使用Plan 9、FreeBSD、Gentoo Linux的話，儘管來找我。完畢！」
+
+God knows…涼宮春日的內心
+今年是動畫《涼宮春日的憂鬱》播映20週年，動畫第一季在2006年播出。永無止境的8月什麼的…我才不知道呢！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
+        <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
+        <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
+        <updated>2026-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[國中小資訊課應該教Scratch不要教C語言]]></title>
+        <id>https://ivonblog.com/posts/teach-scratch-instead-of-c-language-at-school/</id>
+        <link href="https://ivonblog.com/posts/teach-scratch-instead-of-c-language-at-school/"/>
+        <updated>2026-07-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[國中小階段，針對初學者應該教哪種程式語言呢？以前我看Scratch覺得這什麼智障玩意，本來程式碼會寫的東西變成貓與積木我就看不懂了，後來發現這其實是不差的入門教材。重點是培養運算思維，屬於108課綱強調的重點。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pale Moon & Basilik瀏覽器：舊版Firefox支援XUL的fork]]></title>
+        <id>https://ivonblog.com/posts/pale-moon-browser/</id>
+        <link href="https://ivonblog.com/posts/pale-moon-browser/"/>
+        <updated>2026-07-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pale Moon是想給體驗舊版Firefox的選擇。
+實在不能理解說2017年Firefox v57改版，淘汰掉舊版XUL擴充就導致用戶大量流失的說法，這是Firefox邁向現代化的基礎，瀏覽器擴充的權限不能開太大否則是危險的。看當時的PTT browsers板一堆人在哀嚎XUL的消失。感覺這個嚴重程度不亞於2026年Chrome拋棄Manifest V2。但科技總歸要進步的，人們要適應新東西需要時間。Firefox市佔率流失還有其他因素。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: Click Something Do Something]]></title>
         <id>https://blog.codepen.io/?p=21434</id>
@@ -1596,104 +1725,6 @@ What’s !important #14: Gap Decorations, random(), <select> field sizing, and M
         <summary type="html"><![CDATA[There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
-        <id>https://css-tricks.com/?p=395223</id>
-        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
-        <updated>2026-06-29T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
-The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年VPS雲端主機推薦 + 五折註冊優惠連結]]></title>
-        <id>https://ivonblog.com/posts/best-vps-2026-rr/</id>
-        <link href="https://ivonblog.com/posts/best-vps-2026-rr/"/>
-        <updated>2026-06-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年台灣VPS雲端主機推薦：我用了一年後，最後只留下這一家。
-
-  
-
-如果你也想體驗，我把五折優惠的註冊連結放下面。
-既然大家一直問，我還是決定公開我真正每天都在用的VPS。
-我的需求：
-Linux發行版任選
-提供亞洲機房
-免費試用額度
-1TB以上流量
-Docker
-IPv4
-穩定
-SSD
-不會亂刪機器
-我測試過不少VPS供應商，包括：]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《DRACU-RIOT!》高畫質版遊玩心得，好隨便的吸血鬼美少女設定]]></title>
-        <id>https://ivonblog.com/posts/dracu-riot-game-review/</id>
-        <link href="https://ivonblog.com/posts/dracu-riot-game-review/"/>
-        <updated>2026-06-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target+.content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.70);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS安裝Reynard Browser，擺脫對Safari WebKit的依賴]]></title>
-        <id>https://ivonblog.com/posts/ios-reynard-browser-app/</id>
-        <link href="https://ivonblog.com/posts/ios-reynard-browser-app/"/>
-        <updated>2026-06-28T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Reynard Browser是一個開源iOS瀏覽器，使用有別於主流WebKit的Gecko核心。支援安裝Firefox擴充套件。
-
-  
-
-可以安裝在無法更新系統的舊iPhone/iPad裝置，拯救其上網能力。最低需要iOS 13系統版本，也就是iPhone 6 & iPad Air 2以上。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
