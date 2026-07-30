@@ -55,21 +55,6 @@
           "wordCount": 4682,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395894",
-          "author": "Daniel Schwarz",
-          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-14/",
-          "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 3582,
-          "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
-            "length": "35551592",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
         }
       ]
     },
@@ -78,6 +63,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
+          "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+          "publishedOn": "2026-07-29T13:00:00.000Z",
+          "wordCount": 4784,
+          "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
           "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)",
@@ -212,36 +212,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
-          "description": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
-          "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-          "publishedOn": "2026-06-30T12:00:00.000Z",
-          "wordCount": 4763,
-          "title": "Why Accessibility Is An Operational Capability, Not A Feature",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
-          "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4817,
-          "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png"
         }
       ]
     },
@@ -250,6 +220,36 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/ios-yattee-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "教學如何使用Yattee APP。\n想要在iOS系統無廣告看Youtube影片嗎？試試「Yattee」APP吧。\n\n這個APP名字有點難唸，它是一款無廣告的Youtube APP，支援背景播放、懸浮窗播放、純音樂模式、顯示倒讚、SponsorBlock跳過業配片段、DeArrow消除標題黨縮圖。",
+          "link": "https://ivonblog.com/posts/ios-yattee-app/",
+          "publishedOn": "2026-07-30T00:00:00.000Z",
+          "wordCount": 1192,
+          "title": "用Yattee在iPhone與Apple TV無廣告看Youtube影片",
+          "imageUrl": "https://ivonblog.com/posts/ios-yattee-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ladybird-browser/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Ladybird Browser (瓢蟲瀏覽器) 是一款從頭寫起的瀏覽器。\n\n  \n\n\n1. 簡介\n    \n\n    \n    \n        #\n    \n    \n\n這可是用Rust + C++從頭寫起的瀏覽器呢，不基於Chromium也不使用Gecko更不是WebKit，與現有的瀏覽器擴充都不相容。",
+          "link": "https://ivonblog.com/posts/ladybird-browser/",
+          "publishedOn": "2026-07-29T22:00:00.000Z",
+          "wordCount": 1171,
+          "title": "在Linux安裝最新的Ladybird，體驗獨立開發的全新瀏覽器",
+          "imageUrl": "https://ivonblog.com/posts/ladybird-browser/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-titanium-browser/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "鈦瀏覽器 (Titanium Browser) 可說是Android版Helium Browser。\n氦瀏覽器 Helium Browser 是2025年新出現的Chromium fork，輕量保護隱私擋廣告。在現代瀏覽器不斷加入各種臃腫功能的當下，Helium開發者反而做減法。預設狀態下跟Chromium一樣幾乎什麼都沒有，十分輕量。內建uBlock Origin將所有廣告全擋掉。Helium沒有Brave的各種品牌置入。且瀏覽器不蒐集使用者資訊。目前Helium由位於美國的兩人團隊imput.net維護，提供Linux、Windows、macOS版本。",
+          "link": "https://ivonblog.com/posts/android-titanium-browser/",
+          "publishedOn": "2026-07-29T18:00:00.000Z",
+          "wordCount": 1197,
+          "title": "Titanium Browser：支援安裝Chrome擴充套件的輕量Android瀏覽器",
+          "imageUrl": "https://ivonblog.com/posts/android-titanium-browser/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone-socrates/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -959,26 +959,6 @@
           "wordCount": 841,
           "title": "不要再用RAR壓縮檔案了，用ZIP！",
           "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-iloader-sideload/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "請參閱：iOS安裝第三方APP的方法\niLoader是一款在iPhone & iPad安裝第三方APP的開源工具。\n\n  \n\n功能類似Sideloadly，但是跨平臺，支援Linux、Windows、macOS系統，是不錯的替代品。\n原理是使用Apple個人帳號的開發者憑證給IPA簽名，從而在iOS安裝第三方APP。不需要越獄。原本這種IPA簽名操作只能在macOS用Xcode達成，iLoader則是讓Linux與Windows用戶也能做到，進而側載IPA。",
-          "link": "https://ivonblog.com/posts/ios-iloader-sideload/",
-          "publishedOn": "2026-06-30T14:00:00.000Z",
-          "wordCount": 1167,
-          "title": "透過iLoader在iPhone安裝第三方APP，側載自簽IPA",
-          "imageUrl": "https://ivonblog.com/posts/ios-iloader-sideload/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-idescriptor/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "「iDescriptor」是類似3uTools的一個開源軟體。支援Linux、Windows、macOS系統。\n\n  \n\n它算是一個「工具箱」的軟體，能夠讓我們檢視iPhone與iPad裝置上的檔案，不需要越獄。主要功能有：",
-          "link": "https://ivonblog.com/posts/ios-idescriptor/",
-          "publishedOn": "2026-06-30T08:00:00.000Z",
-          "wordCount": 1200,
-          "title": "在Linux利用iDescriptor管理iPhone的檔案，開源免費",
-          "imageUrl": "https://ivonblog.com/posts/ios-idescriptor/featured.webp"
         }
       ]
     },
@@ -1128,16 +1108,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21311",
-          "author": "Chris Coyier",
-          "description": "There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]",
-          "link": "https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/",
-          "publishedOn": "2026-06-29T17:02:26.000Z",
-          "wordCount": 1597,
-          "title": "Chris’ Corner: Layers of Layers",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-9.38.55-AM.png"
         }
       ]
     },
@@ -1275,16 +1245,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21311",
-          "author": "Chris Coyier",
-          "description": "There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]",
-          "link": "https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/",
-          "publishedOn": "2026-06-29T17:02:26.000Z",
-          "wordCount": 1597,
-          "title": "Chris’ Corner: Layers of Layers",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-9.38.55-AM.png"
         }
       ]
     }

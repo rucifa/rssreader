@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-29T03:16:13.299Z</updated>
+    <updated>2026-07-30T02:49:11.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用Yattee在iPhone與Apple TV無廣告看Youtube影片]]></title>
+        <id>https://ivonblog.com/posts/ios-yattee-app/</id>
+        <link href="https://ivonblog.com/posts/ios-yattee-app/"/>
+        <updated>2026-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[教學如何使用Yattee APP。
+想要在iOS系統無廣告看Youtube影片嗎？試試「Yattee」APP吧。
+
+這個APP名字有點難唸，它是一款無廣告的Youtube APP，支援背景播放、懸浮窗播放、純音樂模式、顯示倒讚、SponsorBlock跳過業配片段、DeArrow消除標題黨縮圖。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux安裝最新的Ladybird，體驗獨立開發的全新瀏覽器]]></title>
+        <id>https://ivonblog.com/posts/ladybird-browser/</id>
+        <link href="https://ivonblog.com/posts/ladybird-browser/"/>
+        <updated>2026-07-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ladybird Browser (瓢蟲瀏覽器) 是一款從頭寫起的瀏覽器。
+
+  
+
+
+1. 簡介
+    
+
+    
+    
+        #
+    
+    
+
+這可是用Rust + C++從頭寫起的瀏覽器呢，不基於Chromium也不使用Gecko更不是WebKit，與現有的瀏覽器擴充都不相容。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titanium Browser：支援安裝Chrome擴充套件的輕量Android瀏覽器]]></title>
+        <id>https://ivonblog.com/posts/android-titanium-browser/</id>
+        <link href="https://ivonblog.com/posts/android-titanium-browser/"/>
+        <updated>2026-07-29T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鈦瀏覽器 (Titanium Browser) 可說是Android版Helium Browser。
+氦瀏覽器 Helium Browser 是2025年新出現的Chromium fork，輕量保護隱私擋廣告。在現代瀏覽器不斷加入各種臃腫功能的當下，Helium開發者反而做減法。預設狀態下跟Chromium一樣幾乎什麼都沒有，十分輕量。內建uBlock Origin將所有廣告全擋掉。Helium沒有Brave的各種品牌置入。且瀏覽器不蒐集使用者資訊。目前Helium由位於美國的兩人團隊imput.net維護，提供Linux、Windows、macOS版本。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bull And Bear Case For Digital Design In The Age Of AI]]></title>
+        <id>https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/</id>
+        <link href="https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"/>
+        <updated>2026-07-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Budd)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[436: The Design & Message of Launch Emails (with MJML)]]></title>
         <id>https://blog.codepen.io/?p=21454</id>
@@ -1642,87 +1700,6 @@ RAR是封閉的！專有格式！不能將你重要的檔案寄託於這種格�
         <link href="https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/"/>
         <updated>2026-06-30T21:36:23.000Z</updated>
         <summary type="html"><![CDATA[Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[透過iLoader在iPhone安裝第三方APP，側載自簽IPA]]></title>
-        <id>https://ivonblog.com/posts/ios-iloader-sideload/</id>
-        <link href="https://ivonblog.com/posts/ios-iloader-sideload/"/>
-        <updated>2026-06-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請參閱：iOS安裝第三方APP的方法
-iLoader是一款在iPhone & iPad安裝第三方APP的開源工具。
-
-  
-
-功能類似Sideloadly，但是跨平臺，支援Linux、Windows、macOS系統，是不錯的替代品。
-原理是使用Apple個人帳號的開發者憑證給IPA簽名，從而在iOS安裝第三方APP。不需要越獄。原本這種IPA簽名操作只能在macOS用Xcode達成，iLoader則是讓Linux與Windows用戶也能做到，進而側載IPA。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field sizing, and More]]></title>
-        <id>https://css-tricks.com/?p=395894</id>
-        <link href="https://css-tricks.com/whats-important-14/"/>
-        <updated>2026-06-30T13:54:14.000Z</updated>
-        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
-What’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
-        <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
-        <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
-        <updated>2026-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapshots Of Summer (July 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/</id>
-        <link href="https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/"/>
-        <updated>2026-06-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux利用iDescriptor管理iPhone的檔案，開源免費]]></title>
-        <id>https://ivonblog.com/posts/ios-idescriptor/</id>
-        <link href="https://ivonblog.com/posts/ios-idescriptor/"/>
-        <updated>2026-06-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「iDescriptor」是類似3uTools的一個開源軟體。支援Linux、Windows、macOS系統。
-
-  
-
-它算是一個「工具箱」的軟體，能夠讓我們檢視iPhone與iPad裝置上的檔案，不需要越獄。主要功能有：]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Layers of Layers]]></title>
-        <id>https://blog.codepen.io/?p=21311</id>
-        <link href="https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/"/>
-        <updated>2026-06-29T17:02:26.000Z</updated>
-        <summary type="html"><![CDATA[There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Layers of Layers]]></title>
-        <id>https://blog.codepen.io/?p=21311</id>
-        <link href="https://blog.codepen.io/2026/06/29/chris-corner-layers-of-layers/"/>
-        <updated>2026-06-29T17:02:26.000Z</updated>
-        <summary type="html"><![CDATA[There’s this thing that you need to know about when dealing with z-index and trying to get some elements to be on top of other elements: stacking contexts. If you’ve got an element within a stacking context that is itself lower than another element that you’re trying to get on top of, well, you’re hosed. […]]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
