@@ -221,6 +221,46 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/ios-ehpanda-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/ios-ehpanda-app/",
+          "publishedOn": "2026-07-30T17:00:00.000Z",
+          "wordCount": 1481,
+          "title": "iOS看E-hentai的APP：EhPanda",
+          "imageUrl": "https://ivonblog.com/posts/ios-ehpanda-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/blogroll/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。這個頁面每次載入的時候都是隨機排序的喔！",
+          "link": "https://ivonblog.com/blogroll/",
+          "publishedOn": "2026-07-30T14:22:02.000Z",
+          "wordCount": 879,
+          "title": "部落滾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/jhentai-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/jhentai-app/",
+          "publishedOn": "2026-07-30T14:00:00.000Z",
+          "wordCount": 1600,
+          "title": "JHenTai：跨平台的E-hentai APP，電腦版EhViewer替代品，手機電腦皆可用",
+          "imageUrl": "https://ivonblog.com/posts/jhentai-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/a-list-of-e-hentai-apps/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/a-list-of-e-hentai-apps/",
+          "publishedOn": "2026-07-30T10:00:00.000Z",
+          "wordCount": 1516,
+          "title": "除了EhViewer外，你還有這幾款替代APP可以看E-hentai",
+          "imageUrl": "https://ivonblog.com/posts/a-list-of-e-hentai-apps/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/ios-yattee-app/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "教學如何使用Yattee APP。\n想要在iOS系統無廣告看Youtube影片嗎？試試「Yattee」APP吧。\n\n這個APP名字有點難唸，它是一款無廣告的Youtube APP，支援背景播放、懸浮窗播放、純音樂模式、顯示倒讚、SponsorBlock跳過業配片段、DeArrow消除標題黨縮圖。",
@@ -929,36 +969,6 @@
           "wordCount": 1181,
           "title": "爲何要改用LibreOffice，使用ODF格式製作文件",
           "imageUrl": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "如果JPG的圖片容量能縮小50%且畫質幾乎一樣的話，你會改用這種格式存圖嗎？\n以下是.jxl格式的圖片，如果你的瀏覽器支援，應該會看到我婆。\nFirefox最近版本(v.152)加入實驗性JPEG XL(.jxl)支援了，需要在系統設定開啓。",
-          "link": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/",
-          "publishedOn": "2026-07-01T15:00:00.000Z",
-          "wordCount": 1239,
-          "title": "將圖片轉檔爲JXL格式的測試，比較容量大小",
-          "imageUrl": "https://ivonblog.com/posts/jxl-and-jpeg-comparison/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/from-adobe-photoshop-to-krita/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "電腦繪圖（影像處理）軟體，果然還是應該從自由開源的方案開始學吧。\nKrita & GIMP用太久已經忘了Photoshop怎麼用了，以前都用這個畫色圖的哪（菸）\n我果然還是不喜歡訂閱制軟體。\n最早的繪圖軟體我是在Windows用Paint.NET繪製Minecraft的作品，因爲什麼都不知道。到大學才用Photoshop，並上了一些基礎Photoshop通識課。然後透過Komica塗鴉廚知道了Paint Tool SAI但是我卻買了CLIP Studio Paint，主要是看中它的3D骨架功能。",
-          "link": "https://ivonblog.com/posts/from-adobe-photoshop-to-krita/",
-          "publishedOn": "2026-07-01T13:00:00.000Z",
-          "wordCount": 848,
-          "title": "從Photoshop改用Krita爲首的自由軟體來畫畫",
-          "imageUrl": "https://ivonblog.com/posts/from-adobe-photoshop-to-krita/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/use-zip-instead-of-rar/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "你有多猛？我有買正版WinRAR.mp4。\n拜託各位不用再用.rar傳檔案了 == 用Windows系統內建支援的.zip就好了，免得苦了其他系統的用戶。\nRAR是封閉的！專有格式！不能將你重要的檔案寄託於這種格式。",
-          "link": "https://ivonblog.com/posts/use-zip-instead-of-rar/",
-          "publishedOn": "2026-07-01T12:00:00.000Z",
-          "wordCount": 841,
-          "title": "不要再用RAR壓縮檔案了，用ZIP！",
-          "imageUrl": null
         }
       ]
     },
@@ -1093,21 +1103,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21322",
-          "author": "Chris Coyier",
-          "description": "Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]",
-          "link": "https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/",
-          "publishedOn": "2026-06-30T21:36:23.000Z",
-          "wordCount": 843,
-          "title": "431: Versions are Deeply Integrated into CodePen",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-431.mp3",
-            "length": "22460517",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1227,21 +1222,6 @@
           "enclosure": {
             "url": "https://radio.codepenassets.com/cpr-432.mp3",
             "length": "30628244",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21322",
-          "author": "Chris Coyier",
-          "description": "Rachel and Chris on the podcast this week discussion the (ahem, rather large news) that every CodePen 2.0 Pen is versioned. That’s right, you can jump back in time to previous versions at any time in case mistakes were made. You can take a look at the preview and code of past versions in case […]",
-          "link": "https://blog.codepen.io/2026/06/30/431-versions-are-deeply-integrated-into-codepen/",
-          "publishedOn": "2026-06-30T21:36:23.000Z",
-          "wordCount": 843,
-          "title": "431: Versions are Deeply Integrated into CodePen",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-431.mp3",
-            "length": "22460517",
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
