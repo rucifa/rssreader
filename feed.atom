@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T03:32:16.932Z</updated>
+    <updated>2026-08-01T03:31:45.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=396295</id>
+        <link href="https://css-tricks.com/whats-important-16/"/>
+        <updated>2026-07-31T14:06:21.000Z</updated>
+        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
+What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
+        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
+        <updated>2026-07-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiveContainer + SideStore教學：iPhone無限制安裝第三方APP，免電腦重簽IPA]]></title>
+        <id>https://ivonblog.com/posts/livecontainer-plus-sidestore/</id>
+        <link href="https://ivonblog.com/posts/livecontainer-plus-sidestore/"/>
+        <updated>2026-07-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文討論透過融合LiveContainer和SideStore來簽名IPA的方法。簡稱 LC + SS。
+
+  
+
+
+1. 問題點
+    
+
+    
+    
+        #
+    
+    
+
+Duy Tran開發的LiveContainer能在iOS載入IPA卻不用真的安裝，藉此打破iOS側載只能安裝3個APP的限制。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StikDebug，免電腦啟用JIT加速！讓iPhone APP執行速度更快，支援iOS 26以上裝置]]></title>
+        <id>https://ivonblog.com/posts/stikdebug-app/</id>
+        <link href="https://ivonblog.com/posts/stikdebug-app/"/>
+        <updated>2026-07-31T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[StikDebug (舊名StikJIT) 是免電腦的JIT啟用方案，屬於on-device JIT enabler，適用iOS 26以上的iPhone或iPad裝置，不需要越獄。
+這有什麼用呢？許多APP可以因此受益，舉凡UTM、PojavLauncher、PPSSPP、RetroArch模擬器都能夠透過JIT加速，大幅加速執行效能。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS看E-hentai的APP：EhPanda]]></title>
         <id>https://ivonblog.com/posts/ios-ehpanda-app/</id>
@@ -1729,73 +1785,6 @@ OLED剛出來的時候，被LCD愛好者批評的點就是PWM頻率太低，看�
         <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matching AI Modality To User Intent: Designing The Right Interface]]></title>
-        <id>https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/</id>
-        <link href="https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"/>
-        <updated>2026-07-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搞民族主義只教你仇恨你從未見過的人，並為你毫無參與的成就感到自豪]]></title>
-        <id>https://ivonblog.com/posts/2026070201/</id>
-        <link href="https://ivonblog.com/posts/2026070201/"/>
-        <updated>2026-07-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target+.content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.70);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爲何要改用LibreOffice，使用ODF格式製作文件]]></title>
-        <id>https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/</id>
-        <link href="https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/"/>
-        <updated>2026-07-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請不要再使用Microsoft Offifce製作文件了，包括Word、Excel、PowerPoint，每次收到.docx、.xlsx、.pptx我就煩。更可怕的是還有在用.doc的，完全跟不上時代呀這個。如果我要把.doc存檔爲.odt常常就是需要重新排版表格。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396295",
+          "author": "Daniel Schwarz",
+          "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-16/",
+          "publishedOn": "2026-07-31T14:06:21.000Z",
+          "wordCount": 2265,
+          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
+            "length": "219450",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=244261",
           "author": "Mojtaba Seyedi",
           "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -63,6 +78,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+          "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+          "publishedOn": "2026-07-31T08:00:00.000Z",
+          "wordCount": 4431,
+          "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "author": "hello@smashingmagazine.com (Andy Budd)",
@@ -197,21 +227,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
-          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7072,
-          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg"
         }
       ]
     },
@@ -220,6 +235,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/livecontainer-plus-sidestore/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "本文討論透過融合LiveContainer和SideStore來簽名IPA的方法。簡稱 LC + SS。\n\n  \n\n\n1. 問題點\n    \n\n    \n    \n        #\n    \n    \n\nDuy Tran開發的LiveContainer能在iOS載入IPA卻不用真的安裝，藉此打破iOS側載只能安裝3個APP的限制。",
+          "link": "https://ivonblog.com/posts/livecontainer-plus-sidestore/",
+          "publishedOn": "2026-07-31T05:00:00.000Z",
+          "wordCount": 1169,
+          "title": "LiveContainer + SideStore教學：iPhone無限制安裝第三方APP，免電腦重簽IPA",
+          "imageUrl": "https://ivonblog.com/posts/livecontainer-plus-sidestore/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/stikdebug-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "StikDebug (舊名StikJIT) 是免電腦的JIT啟用方案，屬於on-device JIT enabler，適用iOS 26以上的iPhone或iPad裝置，不需要越獄。\n這有什麼用呢？許多APP可以因此受益，舉凡UTM、PojavLauncher、PPSSPP、RetroArch模擬器都能夠透過JIT加速，大幅加速執行效能。",
+          "link": "https://ivonblog.com/posts/stikdebug-app/",
+          "publishedOn": "2026-07-31T02:00:00.000Z",
+          "wordCount": 1195,
+          "title": "StikDebug，免電腦啟用JIT加速！讓iPhone APP執行速度更快，支援iOS 26以上裝置",
+          "imageUrl": "https://ivonblog.com/posts/stikdebug-app/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/ios-ehpanda-app/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -949,26 +984,6 @@
           "wordCount": 1187,
           "title": "看Youtube用SponsorBlock跳過業配片段，搭配DeArrow打擊標題黨",
           "imageUrl": "https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/2026070201/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/2026070201/",
-          "publishedOn": "2026-07-02T04:00:00.000Z",
-          "wordCount": 1822,
-          "title": "搞民族主義只教你仇恨你從未見過的人，並為你毫無參與的成就感到自豪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "請不要再使用Microsoft Offifce製作文件了，包括Word、Excel、PowerPoint，每次收到.docx、.xlsx、.pptx我就煩。更可怕的是還有在用.doc的，完全跟不上時代呀這個。如果我要把.doc存檔爲.odt常常就是需要重新排版表格。",
-          "link": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/",
-          "publishedOn": "2026-07-02T03:00:00.000Z",
-          "wordCount": 1181,
-          "title": "爲何要改用LibreOffice，使用ODF格式製作文件",
-          "imageUrl": "https://ivonblog.com/posts/replace-microsoft-office-with-libreoffice/featured.webp"
         }
       ]
     },
