@@ -212,21 +212,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-          "publishedOn": "2026-07-03T13:00:00.000Z",
-          "wordCount": 3340,
-          "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg"
         }
       ]
     },
@@ -235,6 +220,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/waydroid-only-session/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Configuring Waydroid only session with Sway on Linux. Turning a Linux tablet into a semi-Android tablet.\n我將Surface Go 2變成Android平板了，我可以在開機後選擇要進入Linux電腦版桌面，亦或是Android。這樣能大幅節省系統資源消耗。\n\n  \n\n嚴格來說，我並沒有裝真正的Android-x86 (BlissOS)，這也不是ChromeOS。而是跑在Arch Linux上的Waydroid容器，透過極小的Wayland合成器讓它全螢幕執行。Linux host除了必要的SSH daemon之外，將整台主機的資源留給Android container。這就變成了Linux + Android混合平板。",
+          "link": "https://ivonblog.com/posts/waydroid-only-session/",
+          "publishedOn": "2026-08-01T06:00:00.000Z",
+          "wordCount": 1468,
+          "title": "將Linux Surface平板變成Android平板 (Waydroid only session)",
+          "imageUrl": "https://ivonblog.com/posts/waydroid-only-session/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/livecontainer-plus-sidestore/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",

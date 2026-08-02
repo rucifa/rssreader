@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T03:31:45.914Z</updated>
+    <updated>2026-08-02T03:31:21.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[將Linux Surface平板變成Android平板 (Waydroid only session)]]></title>
+        <id>https://ivonblog.com/posts/waydroid-only-session/</id>
+        <link href="https://ivonblog.com/posts/waydroid-only-session/"/>
+        <updated>2026-08-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Configuring Waydroid only session with Sway on Linux. Turning a Linux tablet into a semi-Android tablet.
+我將Surface Go 2變成Android平板了，我可以在開機後選擇要進入Linux電腦版桌面，亦或是Android。這樣能大幅節省系統資源消耗。
+
+  
+
+嚴格來說，我並沒有裝真正的Android-x86 (BlissOS)，這也不是ChromeOS。而是跑在Arch Linux上的Waydroid容器，透過極小的Wayland合成器讓它全螢幕執行。Linux host除了必要的SSH daemon之外，將整台主機的資源留給Android container。這就變成了Linux + Android混合平板。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
         <id>https://css-tricks.com/?p=396295</id>
@@ -1775,16 +1790,6 @@ OLED剛出來的時候，被LCD愛好者批評的點就是PWM頻率太低，看�
         <summary type="html"><![CDATA[Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Users Don’t Need More Tools: They Need Seamless Integrations]]></title>
-        <id>https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/</id>
-        <link href="https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/"/>
-        <updated>2026-07-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
