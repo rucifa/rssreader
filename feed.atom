@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T03:31:21.076Z</updated>
+    <updated>2026-08-03T03:33:34.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -1759,37 +1759,6 @@ OLED剛出來的時候，被LCD愛好者批評的點就是PWM頻率太低，看�
 到貓空旅遊將Pixel 6a帶出去當作專職拍照機。是的我就是買不起DSLR所以會雙持拿強力旗艦機拍照的傳統。對比去年Xperia 1 III到猴硐拍貓咪的場合，似乎有所退步？]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看Youtube用SponsorBlock跳過業配片段，搭配DeArrow打擊標題黨]]></title>
-        <id>https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/</id>
-        <link href="https://ivonblog.com/posts/sponsorblock-and-dearrow-extensions-for-youtube/"/>
-        <updated>2026-07-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[俗話說，業配（軟廣）的廣告也是廣告。常常遇到這種情況吧：你在瀏覽器裝擋廣告擴充阻擋了Youtube塞的廣告後，還要被Youtuber接的VPN業配轟炸一次。
-在瀏覽器安裝這兩個擴充套件，讓Youtube變無趣！]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[432: Trends of 2026 (So Far)]]></title>
-        <id>https://blog.codepen.io/?p=21339</id>
-        <link href="https://blog.codepen.io/2026/07/03/432-trends-of-2026-so-far/"/>
-        <updated>2026-07-03T22:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[432: Trends of 2026 (So Far)]]></title>
-        <id>https://blog.codepen.io/?p=21339</id>
-        <link href="https://blog.codepen.io/2026/07/03/432-trends-of-2026-so-far/"/>
-        <updated>2026-07-03T22:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Marie has her eye on what seems to be super popular with CodePen users so far this year. Galleries (in different directions) Custom Select shape(), border-shape, corner-shape scroll-timeline, animation-timeline CSS Functions Sponsor: Notion With the recent launch of Custom Agents, Notion became the collaborative AI workspace where teams and agents work side by side. And […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
