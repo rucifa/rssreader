@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-03T03:33:34.360Z</updated>
+    <updated>2026-08-04T03:16:30.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026年Magisk推薦安裝的模組，提升手機效能、擋廣告、自定義主題]]></title>
+        <id>https://ivonblog.com/posts/magisk-recommended-modules/</id>
+        <link href="https://ivonblog.com/posts/magisk-recommended-modules/"/>
+        <updated>2026-08-03T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[推薦一些Ivon覺得不錯的Magisk模組（模塊，modules），以跨裝置、實用性、開源、常常有在更新的為主，包含一些Root權限APP。
+圖例：使用「Iconify」模組，自訂Android的Material You外觀與鎖定畫面。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Linux代表你是Larper，你只是想曬桌布耍酷而已]]></title>
+        <id>https://ivonblog.com/posts/linux-users-are-larpers/</id>
+        <link href="https://ivonblog.com/posts/linux-users-are-larpers/"/>
+        <updated>2026-08-03T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[什麼樣的人會刻意去用Linux？
+你看，同年齡的別人都在用Windows臭打遊戲，而我則是Linux hacking高手，就很……
+
+  海綿寶寶TikTok嘉豪
+
+Larper，名詞，本來是指真人角色扮演遊戲(Live Action Role Playing)的玩家，他們爲了玩劇本殺會全力投入演戲力求還原設定，但後來網路上逐漸衍生出負面含義，也就是poser。意思類似臺語說的：假會(ké-gâu)]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
+        <id>https://css-tricks.com/?p=396204</id>
+        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
+        <updated>2026-08-03T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
+Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sam Davis Omekarajr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decimen：透過QR Code掃碼傳檔案，不用網路]]></title>
+        <id>https://ivonblog.com/posts/decimen-optical-transfer/</id>
+        <link href="https://ivonblog.com/posts/decimen-optical-transfer/"/>
+        <updated>2026-08-03T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[請用手機開啓這個網頁：https://decimen.app/receive/
+然後播放以下影片，掃描裡面出現的閃爍QR Code。
+你就會得到一張小禮物。
+現在我可以透過影片跟各位直接分享檔案了，就是說，檔案直接編碼後儲存在影片裡面！
+透過：Decimen Optical Transfer 這個vibe-coded的專案我才知道QR Code無線傳檔是有可能的，將檔案用噴泉碼編碼之後，用手機鏡頭解碼得到原始檔案，不用透過網路或藍牙，它也沒有將檔案上傳到第三方伺服器再下載，全都是透過QR Code光學傳輸。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑]]></title>
+        <id>https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/</id>
+        <link href="https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/"/>
+        <updated>2026-08-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑。
+Minecraft runs on a potato PC, while Luanti runs on a toaster. When running on the low-end PC, the performance of Luanti is better than Minecraft.
+我測試了，在極端低劣硬體（Intel Pentium 4425y + UHD 615內顯 + 4GB RAM）的情況下，方塊遊戲Luanti能提供比Minecraft更好的視覺效果。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不以星星數來判斷Github專案是否值得推薦]]></title>
+        <id>https://ivonblog.com/posts/github-is-not-a-social-media/</id>
+        <link href="https://ivonblog.com/posts/github-is-not-a-social-media/"/>
+        <updated>2026-08-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[媒體報導的時候用「超強開源！這個項目Github破幾萬顆星」當作推薦的指標是不是在騙不懂的人啊，你要不要看看GNU Savannah上面的Git儲存庫原始碼幾顆星啊？零顆！但GNU Coreutils仍在全球被數百萬人使用。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將Linux Surface平板變成Android平板 (Waydroid only session)]]></title>
         <id>https://ivonblog.com/posts/waydroid-only-session/</id>
