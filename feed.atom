@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T02:57:17.606Z</updated>
+    <updated>2026-08-06T03:14:43.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -1728,108 +1728,6 @@ I use Debian btw.
   
 
 自從家人嫌髒把我的《天竺鼠車車》馬鈴薯16吋抱枕丟掉後，我就黑化了……我以前都抱著那隻橘色的它睡的說。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-07T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出產與孕肚愛好者必看，專畫出產本子的「悪転奏進」黒糖ニッケ]]></title>
-        <id>https://ivonblog.com/posts/akutensoushin-doujin-review/</id>
-        <link href="https://ivonblog.com/posts/akutensoushin-doujin-review/"/>
-        <updated>2026-07-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target+.content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.70);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
-        <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
-        <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
-        <updated>2026-07-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Android的超暗模式護眼，免裝DC調光模組]]></title>
-        <id>https://ivonblog.com/posts/android-extra-dimmer/</id>
-        <link href="https://ivonblog.com/posts/android-extra-dimmer/"/>
-        <updated>2026-07-07T05:00:01.000Z</updated>
-        <summary type="html"><![CDATA[夜間暗處用手機，你會選擇開深色主題，使用去藍光濾鏡，還是將螢幕亮度調到最低呢。
-購買高頻PWM的OLED手機真的那麼重要嗎？
-OLED剛出來的時候，被LCD愛好者批評的點就是PWM頻率太低，看久了眼睛容易酸。通常是旗艦機才會處理這個問題，其餘機種就青菜。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谷才有家！Google對Android做了那麼多，你們怎敢說要Degoogle？]]></title>
-        <id>https://ivonblog.com/posts/degoogle-is-nonsense/</id>
-        <link href="https://ivonblog.com/posts/degoogle-is-nonsense/"/>
-        <updated>2026-07-07T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[謎之音：Android越來越封閉，限制人們root與解鎖BL的權利，甚至還要禁止安裝APK，Google正在摧毀Android。我們應該要抵制Google。
-天之音：可是，Google對Android做了那麼多，你們怎敢說要Degoogle，抵制Google產品？]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 6a的拍照顏色比Sony Xperia 1 III值得信任嗎]]></title>
-        <id>https://ivonblog.com/posts/google-pixel-6a-camera-review/</id>
-        <link href="https://ivonblog.com/posts/google-pixel-6a-camera-review/"/>
-        <updated>2026-07-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pixel相機拍照意外的樸素呢，這個顏色是否爲可信任的標準呢。呵呵去年花2000塊臺幣買到的這臺還挺好用的，都已經是2022年的中階機了。
-到貓空旅遊將Pixel 6a帶出去當作專職拍照機。是的我就是買不起DSLR所以會雙持拿強力旗艦機拍照的傳統。對比去年Xperia 1 III到猴硐拍貓咪的場合，似乎有所退步？]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

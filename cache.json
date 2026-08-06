@@ -70,16 +70,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395508",
-          "author": "Temani Afif",
-          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 4682,
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         }
       ]
     },
@@ -207,21 +197,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
-          "description": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-          "publishedOn": "2026-07-07T10:00:00.000Z",
-          "wordCount": 5194,
-          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
         }
       ]
     },
@@ -989,46 +964,6 @@
           "wordCount": 846,
           "title": "東方Project Fumo開箱：鈴仙·優曇華院·因幡",
           "imageUrl": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/akutensoushin-doujin-review/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/akutensoushin-doujin-review/",
-          "publishedOn": "2026-07-07T15:00:00.000Z",
-          "wordCount": 2138,
-          "title": "出產與孕肚愛好者必看，專畫出產本子的「悪転奏進」黒糖ニッケ",
-          "imageUrl": "https://ivonblog.com/posts/akutensoushin-doujin-review/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-extra-dimmer/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "夜間暗處用手機，你會選擇開深色主題，使用去藍光濾鏡，還是將螢幕亮度調到最低呢。\n購買高頻PWM的OLED手機真的那麼重要嗎？\nOLED剛出來的時候，被LCD愛好者批評的點就是PWM頻率太低，看久了眼睛容易酸。通常是旗艦機才會處理這個問題，其餘機種就青菜。",
-          "link": "https://ivonblog.com/posts/android-extra-dimmer/",
-          "publishedOn": "2026-07-07T05:00:01.000Z",
-          "wordCount": 834,
-          "title": "用Android的超暗模式護眼，免裝DC調光模組",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/degoogle-is-nonsense/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "謎之音：Android越來越封閉，限制人們root與解鎖BL的權利，甚至還要禁止安裝APK，Google正在摧毀Android。我們應該要抵制Google。\n天之音：可是，Google對Android做了那麼多，你們怎敢說要Degoogle，抵制Google產品？",
-          "link": "https://ivonblog.com/posts/degoogle-is-nonsense/",
-          "publishedOn": "2026-07-07T04:00:01.000Z",
-          "wordCount": 840,
-          "title": "有谷才有家！Google對Android做了那麼多，你們怎敢說要Degoogle？",
-          "imageUrl": "https://ivonblog.com/posts/degoogle-is-nonsense/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/google-pixel-6a-camera-review/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Pixel相機拍照意外的樸素呢，這個顏色是否爲可信任的標準呢。呵呵去年花2000塊臺幣買到的這臺還挺好用的，都已經是2022年的中階機了。\n到貓空旅遊將Pixel 6a帶出去當作專職拍照機。是的我就是買不起DSLR所以會雙持拿強力旗艦機拍照的傳統。對比去年Xperia 1 III到猴硐拍貓咪的場合，似乎有所退步？",
-          "link": "https://ivonblog.com/posts/google-pixel-6a-camera-review/",
-          "publishedOn": "2026-07-07T03:00:00.000Z",
-          "wordCount": 859,
-          "title": "Google Pixel 6a的拍照顏色比Sony Xperia 1 III值得信任嗎",
-          "imageUrl": "https://ivonblog.com/posts/google-pixel-6a-camera-review/featured.webp"
         }
       ]
     },
