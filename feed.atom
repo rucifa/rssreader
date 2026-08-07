@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T03:14:43.466Z</updated>
+    <updated>2026-08-07T02:55:12.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xperia XZ1/XZ2使用Xperable漏洞強制解鎖Bootloader + 取得Root權限]]></title>
+        <id>https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/</id>
+        <link href="https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/"/>
+        <updated>2026-08-06T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在無法Root也不能刷機的舊型Sony Xperia XZ系列手機，可以透過Xperable工具強制解鎖Bootloader。
+解鎖Bootloader並刷入LineageOS的日版Sony Xperia XZ1 Compact
+
+這是一套組合拳。2019年，XDA開發者j4nn基於CVE-2019-2215漏洞，製作了名爲BinderShell工具，能夠在不解鎖Bootloader的情況下取得Root權限。並且能進一步搭配另一個CVE-2021-1931緩衝區溢位漏洞，修改Sony手機的開機過程，向Fastboot寫入自訂數值，從而強制解鎖Sony手機的Bootloader。後者需要用到2021年發表的Xperable工具。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
+        <id>https://css-tricks.com/?p=396471</id>
+        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
+        <updated>2026-08-06T15:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
+2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APatch Root方案安裝教學，相容KernelSU與Magisk模組]]></title>
+        <id>https://ivonblog.com/posts/apatch-android-root/</id>
+        <link href="https://ivonblog.com/posts/apatch-android-root/"/>
+        <updated>2026-08-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[覺得Magisk太容易被Root偵測針對？想用KernelSU卻發現手機廠商太黑心不支援GKI核心？這時可以使用APatch作為替代。
+
+  
+
+APatch是介於KernelSU以及Magisk的折衷方案，同時相容兩邊的模組，並且可以達到不錯的Root隱蔽性。
+
+本文Ivon分享開源Root方案「APatch」的安裝方式。
+撰文當下測試的手機：Sony Xperia 10 V，系統版本LineageOS 23 (Android 16)，APatch版本11219]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年Magisk推薦安裝的模組，提升手機效能、擋廣告、自定義主題]]></title>
         <id>https://ivonblog.com/posts/magisk-recommended-modules/</id>
@@ -92,6 +133,17 @@ Minecraft runs on a potato PC, while Luanti runs on a toaster. When running on t
 嚴格來說，我並沒有裝真正的Android-x86 (BlissOS)，這也不是ChromeOS。而是跑在Arch Linux上的Waydroid容器，透過極小的Wayland合成器讓它全螢幕執行。Linux host除了必要的SSH daemon之外，將整台主機的資源留給Android container。這就變成了Linux + Android混合平板。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-31T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -1646,88 +1698,6 @@ Linux桌面系統是將Linux Kernel + Systemd + GUI toolkit + 一些鬆散的Uni
         <updated>2026-07-09T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[在麥塊裡面直接玩Steam遊戲？
 太好了，玩Minecraft掛機閒著沒事幹的時候，我們能在遊戲裡面打開Steam玩其他遊戲和寫code。這樣別人進你房間的時候只要轉頭去挖礦就能隱藏Galgame視窗。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爲什麼我不再當支語警察：世界不是只有臺灣啦]]></title>
-        <id>https://ivonblog.com/posts/stop-hating-chinese-slangs/</id>
-        <link href="https://ivonblog.com/posts/stop-hating-chinese-slangs/"/>
-        <updated>2026-07-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target+.content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.70);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[433: CodePen 2.0 is Backward Compatible with Any Classic Pen or Project]]></title>
-        <id>https://blog.codepen.io/?p=21363</id>
-        <link href="https://blog.codepen.io/2026/07/07/433-codepen-2-0-is-backward-compatible-with-any-classic-pen-or-project/"/>
-        <updated>2026-07-07T18:52:48.000Z</updated>
-        <summary type="html"><![CDATA[When we set out to build the 2.0 editor, another editor in the CodePen cannon, the goal was actually to reduce the number of editors we have and support. Ideally, reduce it to one. The trick is that anything an existing Pen or Project can do, this new editor needs to be able to do […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[433: CodePen 2.0 is Backward Compatible with Any Classic Pen or Project]]></title>
-        <id>https://blog.codepen.io/?p=21363</id>
-        <link href="https://blog.codepen.io/2026/07/07/433-codepen-2-0-is-backward-compatible-with-any-classic-pen-or-project/"/>
-        <updated>2026-07-07T18:52:48.000Z</updated>
-        <summary type="html"><![CDATA[When we set out to build the 2.0 editor, another editor in the CodePen cannon, the goal was actually to reduce the number of editors we have and support. Ideally, reduce it to one. The trick is that anything an existing Pen or Project can do, this new editor needs to be able to do […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東方Project Fumo開箱：鈴仙·優曇華院·因幡]]></title>
-        <id>https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/</id>
-        <link href="https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/"/>
-        <updated>2026-07-07T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第一隻Gift的東方Fumo…是鈴仙·優曇華院·因幡。
-I use Debian btw.
-
-  
-
-自從家人嫌髒把我的《天竺鼠車車》馬鈴薯16吋抱枕丟掉後，我就黑化了……我以前都抱著那隻橘色的它睡的說。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

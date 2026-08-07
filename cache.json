@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396471",
+          "author": "Geoff Graham",
+          "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+          "publishedOn": "2026-08-06T15:54:52.000Z",
+          "wordCount": 3259,
+          "title": "2026 State of CSS, Devs Surveys",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396204",
           "author": "Sam Davis Omekarajr",
           "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -20,6 +30,16 @@
           "wordCount": 3525,
           "title": "Gap Decorations Are Now Available, Here’s What’s New",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395508",
+          "author": "Temani Afif",
+          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "publishedOn": "2026-07-31T15:14:00.000Z",
+          "wordCount": 3924,
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
         {
           "id": "https://css-tricks.com/?p=396295",
@@ -205,6 +225,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在無法Root也不能刷機的舊型Sony Xperia XZ系列手機，可以透過Xperable工具強制解鎖Bootloader。\n解鎖Bootloader並刷入LineageOS的日版Sony Xperia XZ1 Compact\n\n這是一套組合拳。2019年，XDA開發者j4nn基於CVE-2019-2215漏洞，製作了名爲BinderShell工具，能夠在不解鎖Bootloader的情況下取得Root權限。並且能進一步搭配另一個CVE-2021-1931緩衝區溢位漏洞，修改Sony手機的開機過程，向Fastboot寫入自訂數值，從而強制解鎖Sony手機的Bootloader。後者需要用到2021年發表的Xperable工具。",
+          "link": "https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/",
+          "publishedOn": "2026-08-06T18:00:00.000Z",
+          "wordCount": 1360,
+          "title": "Xperia XZ1/XZ2使用Xperable漏洞強制解鎖Bootloader + 取得Root權限",
+          "imageUrl": "https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/apatch-android-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "覺得Magisk太容易被Root偵測針對？想用KernelSU卻發現手機廠商太黑心不支援GKI核心？這時可以使用APatch作為替代。\n\n  \n\nAPatch是介於KernelSU以及Magisk的折衷方案，同時相容兩邊的模組，並且可以達到不錯的Root隱蔽性。\n\n本文Ivon分享開源Root方案「APatch」的安裝方式。\n撰文當下測試的手機：Sony Xperia 10 V，系統版本LineageOS 23 (Android 16)，APatch版本11219",
+          "link": "https://ivonblog.com/posts/apatch-android-root/",
+          "publishedOn": "2026-08-06T08:00:00.000Z",
+          "wordCount": 1205,
+          "title": "APatch Root方案安裝教學，相容KernelSU與Magisk模組",
+          "imageUrl": "https://ivonblog.com/posts/apatch-android-root/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/magisk-recommended-modules/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -944,26 +984,6 @@
           "wordCount": 1177,
           "title": "Waylandcraft：在Minecraft裡面跑Wayland合成器玩Steam遊戲",
           "imageUrl": "https://ivonblog.com/posts/waylandcraft-wayland-compositor-in-minecraft/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/stop-hating-chinese-slangs/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/stop-hating-chinese-slangs/",
-          "publishedOn": "2026-07-08T05:00:00.000Z",
-          "wordCount": 1870,
-          "title": "爲什麼我不再當支語警察：世界不是只有臺灣啦",
-          "imageUrl": "https://ivonblog.com/posts/stop-hating-chinese-slangs/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "第一隻Gift的東方Fumo…是鈴仙·優曇華院·因幡。\nI use Debian btw.\n\n  \n\n自從家人嫌髒把我的《天竺鼠車車》馬鈴薯16吋抱枕丟掉後，我就黑化了……我以前都抱著那隻橘色的它睡的說。",
-          "link": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/",
-          "publishedOn": "2026-07-07T17:00:00.000Z",
-          "wordCount": 846,
-          "title": "東方Project Fumo開箱：鈴仙·優曇華院·因幡",
-          "imageUrl": "https://ivonblog.com/posts/gift-touhou-fumo-reisen-udongein-inaba/featured.webp"
         }
       ]
     },
@@ -1068,21 +1088,6 @@
           "wordCount": 1433,
           "title": "Chris’ Corner: Designers",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21363",
-          "author": "Chris Coyier",
-          "description": "When we set out to build the 2.0 editor, another editor in the CodePen cannon, the goal was actually to reduce the number of editors we have and support. Ideally, reduce it to one. The trick is that anything an existing Pen or Project can do, this new editor needs to be able to do […]",
-          "link": "https://blog.codepen.io/2026/07/07/433-codepen-2-0-is-backward-compatible-with-any-classic-pen-or-project/",
-          "publishedOn": "2026-07-07T18:52:48.000Z",
-          "wordCount": 971,
-          "title": "433: CodePen 2.0 is Backward Compatible with Any Classic Pen or Project",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-433.mp3",
-            "length": "28803752",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1174,21 +1179,6 @@
           "publishedOn": "2026-07-13T15:19:10.000Z",
           "wordCount": 1433,
           "title": "Chris’ Corner: Designers",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21363",
-          "author": "Chris Coyier",
-          "description": "When we set out to build the 2.0 editor, another editor in the CodePen cannon, the goal was actually to reduce the number of editors we have and support. Ideally, reduce it to one. The trick is that anything an existing Pen or Project can do, this new editor needs to be able to do […]",
-          "link": "https://blog.codepen.io/2026/07/07/433-codepen-2-0-is-backward-compatible-with-any-classic-pen-or-project/",
-          "publishedOn": "2026-07-07T18:52:48.000Z",
-          "wordCount": 971,
-          "title": "433: CodePen 2.0 is Backward Compatible with Any Classic Pen or Project",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-433.mp3",
-            "length": "28803752",
-            "type": "audio/mpeg"
-          },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
