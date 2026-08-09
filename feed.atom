@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T02:00:36.050Z</updated>
+    <updated>2026-08-09T02:08:52.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Dopamine」iOS 15 ~ iOS 26免電腦越獄APP使用教學]]></title>
+        <id>https://ivonblog.com/posts/ios-dopamine-jailbreak/</id>
+        <link href="https://ivonblog.com/posts/ios-dopamine-jailbreak/"/>
+        <updated>2026-08-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dopamine (多巴胺) 為一款iOS越獄APP，能夠讓你的iPhone/iPad擁有類似永久越獄的環境。支援iOS 15/iOS 16/iOS 17/iOS 18/iOS 26系統。
+
+為什麼這麼說呢？因為Dopamine屬於半完美越獄(semi-untethered jailbreak)，每次重開機後要重新啟用越獄環境。但是不需要電腦，靠APP啟用就行。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
         <id>https://css-tricks.com/?p=394753</id>
@@ -1591,75 +1603,6 @@ Official PlayStation Used Game Instructional Video
       linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
-        <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
-        <link href="https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"/>
-        <updated>2026-07-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子報是會員制餐廳，可是不是每個人都能享受到你的精華]]></title>
-        <id>https://ivonblog.com/posts/blackhole-newsletter/</id>
-        <link href="https://ivonblog.com/posts/blackhole-newsletter/"/>
-        <updated>2026-07-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電子報是必要之舉？
-我有想過要不要弄一個會員制餐廳…不對，是會員制電子報，來向感興趣的讀者發送專門的週報。
-初华の会员制餐厅，吃不完就有奖励（
-
-  
-
-除了直接向讀者寄送Email以外，Substack這類方案看起來滿成熟的。
-從商業經營的角度來看，寫親筆信，這有助於你獲得忠實顧客。有人甚至會付費訂閱電子報。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用後設心態看待社群媒體：我發文難道是爲了賺流量而已？]]></title>
-        <id>https://ivonblog.com/posts/meta-mindset-on-social-media/</id>
-        <link href="https://ivonblog.com/posts/meta-mindset-on-social-media/"/>
-        <updated>2026-07-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[汪峰 -《河流》- 為什麼不再快樂點
-为什么不再快乐点。不是只有革命才能得到拯救。再微笑一些再渺小一些。再去他妈一些就会很满足。
-你知道嗎，真的不是我故意想當標題黨的，可是如果我不把文章寫的諂媚或者帶有引戰色彩，就不容易飄出去。所以我總是會用「你知道嗎」這種hook語句開頭……。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[製作友情連結(Blogroll)真的是獲得真實互動的好方式]]></title>
-        <id>https://ivonblog.com/posts/create-blogroll/</id>
-        <link href="https://ivonblog.com/posts/create-blogroll/"/>
-        <updated>2026-07-10T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[幾個月前，我主動發Email給許多網站，請求交換友情鏈接，得到了許多友善的回應。
-友情連結是？
-    
-
-    
-    
-        #
-    
-    
-
-20年前的人在寫部落格的時候，沒SNS能用，Google搜尋不夠智慧，所以會透過交換友情連結的方式，來認識更多網站。現在可能很少人這樣做了吧。在Neocities還有這個傳統。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion]]></title>
-        <id>https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/</id>
-        <link href="https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"/>
-        <updated>2026-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kat Homan)</name>
         </author>
     </entry>
 </feed>

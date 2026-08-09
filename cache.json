@@ -212,36 +212,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "author": "hello@smashingmagazine.com (Anastasia Sycheva)",
-          "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
-          "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5510,
-          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-          "author": "hello@smashingmagazine.com (Kat Homan)",
-          "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
-          "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-          "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6770,
-          "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
         }
       ]
     },
@@ -250,6 +220,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/ios-dopamine-jailbreak/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Dopamine (多巴胺) 為一款iOS越獄APP，能夠讓你的iPhone/iPad擁有類似永久越獄的環境。支援iOS 15/iOS 16/iOS 17/iOS 18/iOS 26系統。\n\n為什麼這麼說呢？因為Dopamine屬於半完美越獄(semi-untethered jailbreak)，每次重開機後要重新啟用越獄環境。但是不需要電腦，靠APP啟用就行。",
+          "link": "https://ivonblog.com/posts/ios-dopamine-jailbreak/",
+          "publishedOn": "2026-08-08T02:00:00.000Z",
+          "wordCount": 1300,
+          "title": "「Dopamine」iOS 15 ~ iOS 26免電腦越獄APP使用教學",
+          "imageUrl": "https://ivonblog.com/posts/ios-dopamine-jailbreak/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -928,36 +908,6 @@
           "publishedOn": "2026-07-10T17:00:00.000Z",
           "wordCount": 1876,
           "title": "沒有錢就不要想這些事情：論意識型態的道德優越感",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/blackhole-newsletter/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "電子報是必要之舉？\n我有想過要不要弄一個會員制餐廳…不對，是會員制電子報，來向感興趣的讀者發送專門的週報。\n初华の会员制餐厅，吃不完就有奖励（\n\n  \n\n除了直接向讀者寄送Email以外，Substack這類方案看起來滿成熟的。\n從商業經營的角度來看，寫親筆信，這有助於你獲得忠實顧客。有人甚至會付費訂閱電子報。",
-          "link": "https://ivonblog.com/posts/blackhole-newsletter/",
-          "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 813,
-          "title": "電子報是會員制餐廳，可是不是每個人都能享受到你的精華",
-          "imageUrl": "https://ivonblog.com/posts/blackhole-newsletter/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/meta-mindset-on-social-media/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "汪峰 -《河流》- 為什麼不再快樂點\n为什么不再快乐点。不是只有革命才能得到拯救。再微笑一些再渺小一些。再去他妈一些就会很满足。\n你知道嗎，真的不是我故意想當標題黨的，可是如果我不把文章寫的諂媚或者帶有引戰色彩，就不容易飄出去。所以我總是會用「你知道嗎」這種hook語句開頭……。",
-          "link": "https://ivonblog.com/posts/meta-mindset-on-social-media/",
-          "publishedOn": "2026-07-10T09:00:00.000Z",
-          "wordCount": 820,
-          "title": "用後設心態看待社群媒體：我發文難道是爲了賺流量而已？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/create-blogroll/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "幾個月前，我主動發Email給許多網站，請求交換友情鏈接，得到了許多友善的回應。\n友情連結是？\n    \n\n    \n    \n        #\n    \n    \n\n20年前的人在寫部落格的時候，沒SNS能用，Google搜尋不夠智慧，所以會透過交換友情連結的方式，來認識更多網站。現在可能很少人這樣做了吧。在Neocities還有這個傳統。",
-          "link": "https://ivonblog.com/posts/create-blogroll/",
-          "publishedOn": "2026-07-10T02:00:00.000Z",
-          "wordCount": 1158,
-          "title": "製作友情連結(Blogroll)真的是獲得真實互動的好方式",
           "imageUrl": null
         }
       ]
