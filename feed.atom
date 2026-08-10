@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T02:08:52.079Z</updated>
+    <updated>2026-08-10T02:13:46.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xperia XZ1 Compact刷LineageOS + 取得Root權限]]></title>
+        <id>https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/</id>
+        <link href="https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/"/>
+        <updated>2026-08-09T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android最後的美型方塊小手機。
+
+  
+
+現在，重生了。
+
+  
+
+Sony Xperia XZ1 Compact，代號lilac，可以透過刷機更新 Android版本。
+這臺給我的感覺，正如我在2017年看《少女終末旅行》一樣，有一種走向末日的安詳感。然後現在繼續延伸生命。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Dopamine」iOS 15 ~ iOS 26免電腦越獄APP使用教學]]></title>
         <id>https://ivonblog.com/posts/ios-dopamine-jailbreak/</id>
@@ -1491,116 +1510,6 @@ LineageOS簡介
         <updated>2026-07-11T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[上網的時候使用擋廣告軟體算不算是小偷行爲？這跟看盜版有何不同？
 譬如使用uBlock Origin，你害Youtubers和部落格失去了主要的收入來源！安裝Adblocker，又不買Premium，也不抖內，是不道德的行爲，是在貪小便宜。如果人人都用Adblocker，創作者就難以維持免費內容了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本站使用數學題用於驗證訪客年齡是否已成年]]></title>
-        <id>https://ivonblog.com/posts/hugo-age-verification-with-math-questions/</id>
-        <link href="https://ivonblog.com/posts/hugo-age-verification-with-math-questions/"/>
-        <updated>2026-07-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[基於義務教育階段數學的網頁年齡驗證機制。This is a JavaScript age verification system that requires visitors to solve a math problem from the K–12 curriculum before accessing contents.
-
-  
-
-喔呀？
-你因爲
-數學不好
-被傳送到了
-這個頁面？
-沒事沒事。
-放心，所有答案都在這裡了。
-2026年6月，在網頁加入數學題用於驗證訪客年齡是否成年。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新眼鏡就是要民國風]]></title>
-        <id>https://ivonblog.com/posts/new-glasses-2026/</id>
-        <link href="https://ivonblog.com/posts/new-glasses-2026/"/>
-        <updated>2026-07-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[用了兩年的眼鏡上面已經滿是刮痕，戴久了變形了。該換了
-不瞞你說，其實我的眼鏡框上面有兩隻金屬Hello Kitty，但是離我不夠近是看不出來的。
-
-  
-
-別離我太遠，我的雙手不太大，剛好只能握住妳給的吻。
-原來我以前找的店家那麼雷，加錢配抗藍光鏡片卻會偏黃，害我的視野這幾年變成溫暖的。現在的新技術綠光膜已經不會了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教英文也要尊重DEI性別多元，講actor有無必要提actress？]]></title>
-        <id>https://ivonblog.com/posts/gender-pronouns-in-english-teaching/</id>
-        <link href="https://ivonblog.com/posts/gender-pronouns-in-english-teaching/"/>
-        <updated>2026-07-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[教英文覺得自己被DEI影響了。其實DEI不是壞事啊啊。
-因爲男女平等時代，我現在教人英文的時候都會自動內建性平意識，幾乎不跟人說陰性名詞的存在了。
-不像其他歐洲語言，grammatical gender在現代英文幾乎不存在。幾百年前的古英文有陰陽性名詞但你八成看不懂在寫啥。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從PlayStation停產實體光碟看DRM如何蠶食人們的自由]]></title>
-        <id>https://ivonblog.com/posts/sony-playstation-disc-and-drm/</id>
-        <link href="https://ivonblog.com/posts/sony-playstation-disc-and-drm/"/>
-        <updated>2026-07-10T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stop Killing Games！
-藉著2026年Sony宣佈取消生產PlayStation實體光碟的事件，我來便乘一下DRM的爭議。
-首先，我們來看Sony在2013年拍的廣告：如何借遊戲給你的朋友
-Official PlayStation Used Game Instructional Video
-然後，看看2026年他們怎麼說的。Sony認爲現在PlayStation數位版遊戲銷量已經大幅超越實體版了，所以以後就沒有實體版了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有錢就不要想這些事情：論意識型態的道德優越感]]></title>
-        <id>https://ivonblog.com/posts/2026071101/</id>
-        <link href="https://ivonblog.com/posts/2026071101/"/>
-        <updated>2026-07-10T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target+.content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.70);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-      linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

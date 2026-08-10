@@ -221,6 +221,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Android最後的美型方塊小手機。\n\n  \n\n現在，重生了。\n\n  \n\nSony Xperia XZ1 Compact，代號lilac，可以透過刷機更新 Android版本。\n這臺給我的感覺，正如我在2017年看《少女終末旅行》一樣，有一種走向末日的安詳感。然後現在繼續延伸生命。",
+          "link": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/",
+          "publishedOn": "2026-08-09T17:00:00.000Z",
+          "wordCount": 1392,
+          "title": "Xperia XZ1 Compact刷LineageOS + 取得Root權限",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/ios-dopamine-jailbreak/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "Dopamine (多巴胺) 為一款iOS越獄APP，能夠讓你的iPhone/iPad擁有類似永久越獄的環境。支援iOS 15/iOS 16/iOS 17/iOS 18/iOS 26系統。\n\n為什麼這麼說呢？因為Dopamine屬於半完美越獄(semi-untethered jailbreak)，每次重開機後要重新啟用越獄環境。但是不需要電腦，靠APP啟用就行。",
@@ -859,56 +869,6 @@
           "wordCount": 828,
           "title": "使用Adblocker擋廣告是小偷行爲嗎？",
           "imageUrl": "https://ivonblog.com/posts/are-adblockers-immoral/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/hugo-age-verification-with-math-questions/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "基於義務教育階段數學的網頁年齡驗證機制。This is a JavaScript age verification system that requires visitors to solve a math problem from the K–12 curriculum before accessing contents.\n\n  \n\n喔呀？\n你因爲\n數學不好\n被傳送到了\n這個頁面？\n沒事沒事。\n放心，所有答案都在這裡了。\n2026年6月，在網頁加入數學題用於驗證訪客年齡是否成年。",
-          "link": "https://ivonblog.com/posts/hugo-age-verification-with-math-questions/",
-          "publishedOn": "2026-07-11T14:00:00.000Z",
-          "wordCount": 845,
-          "title": "本站使用數學題用於驗證訪客年齡是否已成年",
-          "imageUrl": "https://ivonblog.com/posts/hugo-age-verification-with-math-questions/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/new-glasses-2026/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "用了兩年的眼鏡上面已經滿是刮痕，戴久了變形了。該換了\n不瞞你說，其實我的眼鏡框上面有兩隻金屬Hello Kitty，但是離我不夠近是看不出來的。\n\n  \n\n別離我太遠，我的雙手不太大，剛好只能握住妳給的吻。\n原來我以前找的店家那麼雷，加錢配抗藍光鏡片卻會偏黃，害我的視野這幾年變成溫暖的。現在的新技術綠光膜已經不會了。",
-          "link": "https://ivonblog.com/posts/new-glasses-2026/",
-          "publishedOn": "2026-07-11T09:00:00.000Z",
-          "wordCount": 815,
-          "title": "新眼鏡就是要民國風",
-          "imageUrl": "https://ivonblog.com/posts/new-glasses-2026/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gender-pronouns-in-english-teaching/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "教英文覺得自己被DEI影響了。其實DEI不是壞事啊啊。\n因爲男女平等時代，我現在教人英文的時候都會自動內建性平意識，幾乎不跟人說陰性名詞的存在了。\n不像其他歐洲語言，grammatical gender在現代英文幾乎不存在。幾百年前的古英文有陰陽性名詞但你八成看不懂在寫啥。",
-          "link": "https://ivonblog.com/posts/gender-pronouns-in-english-teaching/",
-          "publishedOn": "2026-07-11T01:00:00.000Z",
-          "wordCount": 827,
-          "title": "教英文也要尊重DEI性別多元，講actor有無必要提actress？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-playstation-disc-and-drm/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Stop Killing Games！\n藉著2026年Sony宣佈取消生產PlayStation實體光碟的事件，我來便乘一下DRM的爭議。\n首先，我們來看Sony在2013年拍的廣告：如何借遊戲給你的朋友\nOfficial PlayStation Used Game Instructional Video\n然後，看看2026年他們怎麼說的。Sony認爲現在PlayStation數位版遊戲銷量已經大幅超越實體版了，所以以後就沒有實體版了。",
-          "link": "https://ivonblog.com/posts/sony-playstation-disc-and-drm/",
-          "publishedOn": "2026-07-10T18:00:00.000Z",
-          "wordCount": 908,
-          "title": "從PlayStation停產實體光碟看DRM如何蠶食人們的自由",
-          "imageUrl": "https://ivonblog.com/posts/sony-playstation-disc-and-drm/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/2026071101/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target+.content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.70);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n      linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/2026071101/",
-          "publishedOn": "2026-07-10T17:00:00.000Z",
-          "wordCount": 1876,
-          "title": "沒有錢就不要想這些事情：論意識型態的道德優越感",
-          "imageUrl": null
         }
       ]
     },
