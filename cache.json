@@ -221,6 +221,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在2026年繼續使用十年前的Sony Xperia XZ1 Compact的體驗？\n刷機續命的可能性存在嗎？\n\n  \n\n先聽首歌吧：\n初音ミクオリジナル曲「Little Traveler」 (2008)\n這就是你需要的正常手機的樣子。",
+          "link": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/",
+          "publishedOn": "2026-08-10T15:00:00.000Z",
+          "wordCount": 1311,
+          "title": "漂漂方形小手機開箱：Xperia XZ1 Compact，十年後繼續使用5吋小手機～",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/why-gacha-players-dont-just-watch-hentai/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/why-gacha-players-dont-just-watch-hentai/",
+          "publishedOn": "2026-08-10T12:00:00.000Z",
+          "wordCount": 1215,
+          "title": "你是本子玩家，玩電子妓女手遊究竟是要看角色還是玩遊戲，何不直接玩成人遊戲？",
+          "imageUrl": "https://ivonblog.com/posts/why-gacha-players-dont-just-watch-hentai/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "Android最後的美型方塊小手機。\n\n  \n\n現在，重生了。\n\n  \n\nSony Xperia XZ1 Compact，代號lilac，可以透過刷機更新 Android版本。\n這臺給我的感覺，正如我在2017年看《少女終末旅行》一樣，有一種走向末日的安詳感。然後現在繼續延伸生命。",
@@ -239,6 +259,16 @@
           "wordCount": 1300,
           "title": "「Dopamine」iOS 15 ~ iOS 26免電腦越獄APP使用教學",
           "imageUrl": "https://ivonblog.com/posts/ios-dopamine-jailbreak/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-xperia-camera-color-science-from-xz1-to-1-iii/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "去年大約這個時間我也去了澄清湖呢，這地方的氛圍給一種黨國時期老人會很喜歡的感覺。跟高雄其他景點比起來，感覺連路牌都是經費不足的樣子。\n在這裡測試Xperia XZ1c (2017) V.S. Xperia 1 III (2021) 拍出來的照片，使用自動模式。儘管新機解析度提升，他們的色調看起來就都Sony拍的，色彩風格(color science)傳承了下來。",
+          "link": "https://ivonblog.com/posts/sony-xperia-camera-color-science-from-xz1-to-1-iii/",
+          "publishedOn": "2026-08-06T18:00:00.000Z",
+          "wordCount": 838,
+          "title": "Sony手機相機從XZ1傳承到Xperia 1的調色風格",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-camera-color-science-from-xz1-to-1-iii/featured.webp"
         },
         {
           "id": "https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/",
@@ -839,36 +869,6 @@
           "wordCount": 841,
           "title": "用別人的東西不付錢，你活該被企業當商品",
           "imageUrl": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/2026061201/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "嗯，樺達奶茶喝多了，開始煩惱這種不著邊際的問題。\n如果這篇文章冒犯到你/妳，敬請見諒。\n我在SNS發文的配圖，有時候會選擇色色的waifu圖片，搭配meme吸引注意力。這樣比起放枯燥乏味的工程圖，會有更多人（被騙）點進來。",
-          "link": "https://ivonblog.com/posts/2026061201/",
-          "publishedOn": "2026-07-12T10:00:00.000Z",
-          "wordCount": 855,
-          "title": "我的發文好像不夠尊重女性，男凝色圖放太多了",
-          "imageUrl": "https://ivonblog.com/posts/2026061201/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在這個充滿快餐二次元手遊，很多人看手遊劇情都按skip只想抽卡看大奶角色的時代，爲什麼我有辦法回去玩單機呢……。\n因爲你只要玩過某個糞game，日後什麼遊戲你都玩的下去。\n與其玩手遊被氪金陷阱操控，不如來玩單機，享受真正屬於你的愛戀。",
-          "link": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/",
-          "publishedOn": "2026-07-11T18:00:00.000Z",
-          "wordCount": 1199,
-          "title": "玩手遊不如玩PC單機，我爲何從抽卡遊戲轉向Galgame",
-          "imageUrl": "https://ivonblog.com/posts/replace-mobile-gacha-games-with-pc-offline-games/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/are-adblockers-immoral/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "上網的時候使用擋廣告軟體算不算是小偷行爲？這跟看盜版有何不同？\n譬如使用uBlock Origin，你害Youtubers和部落格失去了主要的收入來源！安裝Adblocker，又不買Premium，也不抖內，是不道德的行爲，是在貪小便宜。如果人人都用Adblocker，創作者就難以維持免費內容了。",
-          "link": "https://ivonblog.com/posts/are-adblockers-immoral/",
-          "publishedOn": "2026-07-11T17:00:00.000Z",
-          "wordCount": 828,
-          "title": "使用Adblocker擋廣告是小偷行爲嗎？",
-          "imageUrl": "https://ivonblog.com/posts/are-adblockers-immoral/featured.webp"
         }
       ]
     },
