@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T02:07:23.804Z</updated>
+    <updated>2026-08-12T02:25:20.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
+        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
+        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
+        <updated>2026-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animating CSS border-image]]></title>
+        <id>https://css-tricks.com/?p=394978</id>
+        <link href="https://css-tricks.com/animating-css-border-image/"/>
+        <updated>2026-08-10T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
+Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
+        <id>https://css-tricks.com/?p=396506</id>
+        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
+        <updated>2026-08-10T15:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
+SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漂漂方形小手機開箱：Xperia XZ1 Compact，十年後繼續使用5吋小手機～]]></title>
         <id>https://ivonblog.com/posts/sony-xperia-xz1-compact-review/</id>
@@ -1529,29 +1561,6 @@ LineageOS有內建系統備份功能「SeedVault」，可以將系統的APP資�
         <summary type="html"><![CDATA[I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用網頁工具Flash Tools刷機LineageOS，減少打指令次數]]></title>
-        <id>https://ivonblog.com/posts/lineageos-flash-tools/</id>
-        <link href="https://ivonblog.com/posts/lineageos-flash-tools/"/>
-        <updated>2026-07-13T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年的夏日更新，LineageOS官方提供一鍵刷機工具「Flash Tools」了，可以少打一點ADB指令了。
-LineageOS簡介
-過去LineageOS官方只提供刷機檔案，使用者需要手動下載，然後用ADB指令或TWRP的方式刷入。現在有了比較簡單通用的Flash Tools能用了，提供網頁版的GUI。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用別人的東西不付錢，你活該被企業當商品]]></title>
-        <id>https://ivonblog.com/posts/if-it-is-free-you-are-the-product/</id>
-        <link href="https://ivonblog.com/posts/if-it-is-free-you-are-the-product/"/>
-        <updated>2026-07-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[用別人的東西不付錢，你活該被企業當商品……嗎？
-看過有人反對自己架設照片備份伺服器，理由竟然是：「我覺得付錢買Google One比較有保障，至少 Google 不會倒。而且還有免費方案能用，多方便。」但問題是，你把照片交給Google的同時，也把資料管理權交給了一家公司。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

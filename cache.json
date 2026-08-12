@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394978",
+          "author": "Preethi",
+          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/animating-css-border-image/",
+          "publishedOn": "2026-08-10T15:58:47.000Z",
+          "wordCount": 3803,
+          "title": "Animating CSS border-image",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396506",
+          "author": "Geoff Graham",
+          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+          "publishedOn": "2026-08-10T15:57:39.000Z",
+          "wordCount": 2667,
+          "title": "SmashingConf Freiburg 2026, September 7-10",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=394753",
           "author": "Geoff Graham",
           "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -108,6 +128,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "author": "hello@smashingmagazine.com (Alexey Kopytin)",
+          "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
+          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "publishedOn": "2026-08-11T10:00:00.000Z",
+          "wordCount": 4329,
+          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "author": "hello@smashingmagazine.com (Jad Joubran)",
@@ -849,26 +884,6 @@
           "wordCount": 1163,
           "title": "透過SeedVault備份LineageOS的APP資料與手機照片",
           "imageUrl": "https://ivonblog.com/posts/lineageos-seedvault-backup/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/lineageos-flash-tools/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "今年的夏日更新，LineageOS官方提供一鍵刷機工具「Flash Tools」了，可以少打一點ADB指令了。\nLineageOS簡介\n過去LineageOS官方只提供刷機檔案，使用者需要手動下載，然後用ADB指令或TWRP的方式刷入。現在有了比較簡單通用的Flash Tools能用了，提供網頁版的GUI。",
-          "link": "https://ivonblog.com/posts/lineageos-flash-tools/",
-          "publishedOn": "2026-07-13T09:00:00.000Z",
-          "wordCount": 1191,
-          "title": "用網頁工具Flash Tools刷機LineageOS，減少打指令次數",
-          "imageUrl": "https://ivonblog.com/posts/lineageos-flash-tools/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "用別人的東西不付錢，你活該被企業當商品……嗎？\n看過有人反對自己架設照片備份伺服器，理由竟然是：「我覺得付錢買Google One比較有保障，至少 Google 不會倒。而且還有免費方案能用，多方便。」但問題是，你把照片交給Google的同時，也把資料管理權交給了一家公司。",
-          "link": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/",
-          "publishedOn": "2026-07-12T15:00:00.000Z",
-          "wordCount": 841,
-          "title": "用別人的東西不付錢，你活該被企業當商品",
-          "imageUrl": "https://ivonblog.com/posts/if-it-is-free-you-are-the-product/featured.webp"
         }
       ]
     },
