@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T02:25:20.386Z</updated>
+    <updated>2026-08-13T02:26:45.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
+        <id>https://css-tricks.com/?p=396255</id>
+        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
+        <updated>2026-08-12T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
+Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[導入GitHub Copilot前，CIO該確認的5件事：合規、成本與模型選擇全指南]]></title>
+        <id>https://www.chirue.com/?p=15997</id>
+        <link href="https://www.chirue.com/%e5%b0%8e%e5%85%a5github-copilot%e5%89%8d%ef%bc%8ccio%e8%a9%b2%e7%a2%ba%e8%aa%8d%e7%9a%845%e4%bb%b6%e4%ba%8b%ef%bc%9a%e5%90%88%e8%a6%8f%e3%80%81%e6%88%90%e6%9c%ac%e8%88%87%e6%a8%a1%e5%9e%8b%e9%81%b8/"/>
+        <updated>2026-08-12T05:35:46.000Z</updated>
+        <summary type="html"><![CDATA[在 AI 驅動軟體開發的浪潮下，從程式撰寫、測試到部署的每個環節都正被重新定義。自 2024 年 Gartne […]]]></summary>
+        <author>
+            <name>Fany</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三方ROM如果依賴Google釋出的AOSP原始碼遲早像RHEL一樣玩死開源]]></title>
+        <id>https://ivonblog.com/posts/2026081201/</id>
+        <link href="https://ivonblog.com/posts/2026081201/"/>
+        <updated>2026-08-12T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android會不會走向閉源呢，仰賴AOSP的第三方ROM又該怎麼辦？
+目前，第三方ROM功能比較完整的屬GrapheneOS，比LineageOS穩定。可是，GrapheneOS開發仰賴Google佛心釋出的完整Pixel原始碼還有各種底層驅動，在穩定的系統基礎上強化安全性。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
         <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
@@ -1518,49 +1550,6 @@ What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突然想當左撇子，寫字吃飯打電腦都要]]></title>
-        <id>https://ivonblog.com/posts/2026070401/</id>
-        <link href="https://ivonblog.com/posts/2026070401/"/>
-        <updated>2026-07-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[因爲左肩膀被頸椎壓迫痛的要命，7/4，上課突然想到kuso一下嘗試交換雙手，用左撇子在白板寫字，改右手拿iPad，我居然能寫出完整的句子了。
-我以前很偶爾的時候嘗試過左撇子可一個字都寫不出來。
-不過字體因爲不熟悉導致寫的歪歪的工整，對比用了20年右撇子的寫法5秒鐘寫完，我左撇子模式需要寫30秒而且筆順往往是反過來的，看起來像另一個人的字，英文單字和中文都變的很陌生。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[透過SeedVault備份LineageOS的APP資料與手機照片]]></title>
-        <id>https://ivonblog.com/posts/lineageos-seedvault-backup/</id>
-        <link href="https://ivonblog.com/posts/lineageos-seedvault-backup/"/>
-        <updated>2026-07-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如何不依賴Google服務換機？LineageOS有自己的一套備份系統。
-LineageOS有內建系統備份功能「SeedVault」，可以將系統的APP資料與照片檔案備份爲加密資料，方便日後一鍵還原，或是將舊資料遷移到新手機。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Designers]]></title>
-        <id>https://blog.codepen.io/?p=21353</id>
-        <link href="https://blog.codepen.io/2026/07/13/chris-corner-designers/"/>
-        <updated>2026-07-13T15:19:10.000Z</updated>
-        <summary type="html"><![CDATA[I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Designers]]></title>
-        <id>https://blog.codepen.io/?p=21353</id>
-        <link href="https://blog.codepen.io/2026/07/13/chris-corner-designers/"/>
-        <updated>2026-07-13T15:19:10.000Z</updated>
-        <summary type="html"><![CDATA[I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

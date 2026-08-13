@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396255",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+          "publishedOn": "2026-08-12T13:43:56.000Z",
+          "wordCount": 11022,
+          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=394978",
           "author": "Preethi",
           "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -255,6 +265,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/2026081201/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Android會不會走向閉源呢，仰賴AOSP的第三方ROM又該怎麼辦？\n目前，第三方ROM功能比較完整的屬GrapheneOS，比LineageOS穩定。可是，GrapheneOS開發仰賴Google佛心釋出的完整Pixel原始碼還有各種底層驅動，在穩定的系統基礎上強化安全性。",
+          "link": "https://ivonblog.com/posts/2026081201/",
+          "publishedOn": "2026-08-12T01:00:00.000Z",
+          "wordCount": 853,
+          "title": "第三方ROM如果依賴Google釋出的AOSP原始碼遲早像RHEL一樣玩死開源",
+          "imageUrl": "https://ivonblog.com/posts/2026081201/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -864,26 +884,6 @@
           "wordCount": 836,
           "title": "不想買手機上的單機遊戲",
           "imageUrl": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/2026070401/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "因爲左肩膀被頸椎壓迫痛的要命，7/4，上課突然想到kuso一下嘗試交換雙手，用左撇子在白板寫字，改右手拿iPad，我居然能寫出完整的句子了。\n我以前很偶爾的時候嘗試過左撇子可一個字都寫不出來。\n不過字體因爲不熟悉導致寫的歪歪的工整，對比用了20年右撇子的寫法5秒鐘寫完，我左撇子模式需要寫30秒而且筆順往往是反過來的，看起來像另一個人的字，英文單字和中文都變的很陌生。",
-          "link": "https://ivonblog.com/posts/2026070401/",
-          "publishedOn": "2026-07-14T13:00:00.000Z",
-          "wordCount": 830,
-          "title": "突然想當左撇子，寫字吃飯打電腦都要",
-          "imageUrl": "https://ivonblog.com/posts/2026070401/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/lineageos-seedvault-backup/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "如何不依賴Google服務換機？LineageOS有自己的一套備份系統。\nLineageOS有內建系統備份功能「SeedVault」，可以將系統的APP資料與照片檔案備份爲加密資料，方便日後一鍵還原，或是將舊資料遷移到新手機。",
-          "link": "https://ivonblog.com/posts/lineageos-seedvault-backup/",
-          "publishedOn": "2026-07-14T00:00:00.000Z",
-          "wordCount": 1163,
-          "title": "透過SeedVault備份LineageOS的APP資料與手機照片",
-          "imageUrl": "https://ivonblog.com/posts/lineageos-seedvault-backup/featured.webp"
         }
       ]
     },
@@ -897,97 +897,16 @@
       "title": "齊瑞科技",
       "feedUrl": "https://www.chirue.com/feed/",
       "siteUrl": "https://www.chirue.com",
-      "articles": []
-    },
-    {
-      "title": "CodePen",
-      "feedUrl": "https://blog.codepen.io/feed/",
-      "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
-          "id": "https://blog.codepen.io/?p=21454",
-          "author": "Chris Coyier",
-          "description": "Just one week off our big 2.0 launch, Shaw and Chris hop on to talk about how email is actually a big part of the launch. Social media ain’t what it used to be, and not everybody is on your app every single day waiting for a notification. Sponsor: Notion With the recent launch of […]",
-          "link": "https://blog.codepen.io/2026/07/28/436-the-design-message-of-launch-emails-with-mjml/",
-          "publishedOn": "2026-07-28T20:29:28.000Z",
-          "wordCount": 906,
-          "title": "436: The Design & Message of Launch Emails (with MJML)",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-436.mp3",
-            "length": "19739884",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21434",
-          "author": "Chris Coyier",
-          "description": "Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]",
-          "link": "https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/",
-          "publishedOn": "2026-07-27T15:13:00.000Z",
-          "wordCount": 1197,
-          "title": "Chris’ Corner: Click Something Do Something",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21383",
-          "author": "Chris Coyier",
-          "description": "The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.",
-          "link": "https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/",
-          "publishedOn": "2026-07-23T17:05:56.000Z",
-          "wordCount": 1047,
-          "title": "435: The 2.0 Launch & Team CodePen’s Favorite Features",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-435.mp3",
-            "length": "23272451",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/versioning.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21351",
-          "author": "Chris Coyier",
-          "description": "If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]",
-          "link": "https://blog.codepen.io/2026/07/23/two-point-oh/",
-          "publishedOn": "2026-07-23T16:02:07.000Z",
-          "wordCount": 2195,
-          "title": "The Launch of CodePen 2.0",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21376",
-          "author": "Chris Coyier",
-          "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
-          "link": "https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/",
-          "publishedOn": "2026-07-20T11:11:38.000Z",
-          "wordCount": 1174,
-          "title": "Chris’ Corner: Unusual Ideas",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-7.57.10-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21378",
-          "author": "Chris Coyier",
-          "description": "Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]",
-          "link": "https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/",
-          "publishedOn": "2026-07-15T14:42:53.000Z",
-          "wordCount": 887,
-          "title": "434: Still Proudly on WordPress for our Blog, Podcast, and Documentation",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-434.mp3",
-            "length": "19128097",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21353",
-          "author": "Chris Coyier",
-          "description": "I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]",
-          "link": "https://blog.codepen.io/2026/07/13/chris-corner-designers/",
-          "publishedOn": "2026-07-13T15:19:10.000Z",
-          "wordCount": 1433,
-          "title": "Chris’ Corner: Designers",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+          "id": "https://www.chirue.com/?p=15997",
+          "author": "Fany",
+          "description": "在 AI 驅動軟體開發的浪潮下，從程式撰寫、測試到部署的每個環節都正被重新定義。自 2024 年 Gartne […]",
+          "link": "https://www.chirue.com/%e5%b0%8e%e5%85%a5github-copilot%e5%89%8d%ef%bc%8ccio%e8%a9%b2%e7%a2%ba%e8%aa%8d%e7%9a%845%e4%bb%b6%e4%ba%8b%ef%bc%9a%e5%90%88%e8%a6%8f%e3%80%81%e6%88%90%e6%9c%ac%e8%88%87%e6%a8%a1%e5%9e%8b%e9%81%b8/",
+          "publishedOn": "2026-08-12T05:35:46.000Z",
+          "wordCount": 2299,
+          "title": "導入GitHub Copilot前，CIO該確認的5件事：合規、成本與模型選擇全指南",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/08/未命名設計-1.png"
         }
       ]
     },
@@ -1070,15 +989,87 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        }
+      ]
+    },
+    {
+      "title": "CodePen",
+      "feedUrl": "https://blog.codepen.io/feed/",
+      "siteUrl": "https://blog.codepen.io",
+      "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21454",
+          "author": "Chris Coyier",
+          "description": "Just one week off our big 2.0 launch, Shaw and Chris hop on to talk about how email is actually a big part of the launch. Social media ain’t what it used to be, and not everybody is on your app every single day waiting for a notification. Sponsor: Notion With the recent launch of […]",
+          "link": "https://blog.codepen.io/2026/07/28/436-the-design-message-of-launch-emails-with-mjml/",
+          "publishedOn": "2026-07-28T20:29:28.000Z",
+          "wordCount": 906,
+          "title": "436: The Design & Message of Launch Emails (with MJML)",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-436.mp3",
+            "length": "19739884",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
-          "id": "https://blog.codepen.io/?p=21353",
+          "id": "https://blog.codepen.io/?p=21434",
           "author": "Chris Coyier",
-          "description": "I still think about the juicy condemnation of the design industry in Edwin Heathcote’s Why designers abandoned their dreams of changing the world. In the heroic era of design, from the early to mid-20th century, it became a kind of cliché to put a claim on everything. Every single thing on Earth not produced by nature […]",
-          "link": "https://blog.codepen.io/2026/07/13/chris-corner-designers/",
-          "publishedOn": "2026-07-13T15:19:10.000Z",
-          "wordCount": 1433,
-          "title": "Chris’ Corner: Designers",
+          "description": "Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]",
+          "link": "https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/",
+          "publishedOn": "2026-07-27T15:13:00.000Z",
+          "wordCount": 1197,
+          "title": "Chris’ Corner: Click Something Do Something",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21383",
+          "author": "Chris Coyier",
+          "description": "The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.",
+          "link": "https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/",
+          "publishedOn": "2026-07-23T17:05:56.000Z",
+          "wordCount": 1047,
+          "title": "435: The 2.0 Launch & Team CodePen’s Favorite Features",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-435.mp3",
+            "length": "23272451",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/versioning.png"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21351",
+          "author": "Chris Coyier",
+          "description": "If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]",
+          "link": "https://blog.codepen.io/2026/07/23/two-point-oh/",
+          "publishedOn": "2026-07-23T16:02:07.000Z",
+          "wordCount": 2195,
+          "title": "The Launch of CodePen 2.0",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21376",
+          "author": "Chris Coyier",
+          "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
+          "link": "https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/",
+          "publishedOn": "2026-07-20T11:11:38.000Z",
+          "wordCount": 1174,
+          "title": "Chris’ Corner: Unusual Ideas",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-7.57.10-AM.png"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21378",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]",
+          "link": "https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/",
+          "publishedOn": "2026-07-15T14:42:53.000Z",
+          "wordCount": 887,
+          "title": "434: Still Proudly on WordPress for our Blog, Podcast, and Documentation",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-434.mp3",
+            "length": "19128097",
+            "type": "audio/mpeg"
+          },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
