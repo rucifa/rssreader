@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T02:26:45.478Z</updated>
+    <updated>2026-08-14T02:24:55.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
+        <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
+        <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
+        <updated>2026-08-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
         <id>https://css-tricks.com/?p=396255</id>
@@ -1515,41 +1525,6 @@ pointer-events originally handwritten and published with love on CSS-Tricks. You
 What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【資安】Evil maid attack指的是進入紅魔館會被邪惡女僕攻擊]]></title>
-        <id>https://ivonblog.com/posts/touhou-evil-maid-attack/</id>
-        <link href="https://ivonblog.com/posts/touhou-evil-maid-attack/"/>
-        <updated>2026-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[資安領域有「邪惡女僕攻擊」這個概念，指的是：隨意進入紅魔館會被時間暫停的邪惡女僕攻擊。
-
-  https://x.com/Green_Kohgen/status/2076959043126796289
-
-根據《東方求聞史紀》外傳，有天，射命丸文使用沒有Secure Boot的舊型Windows XP筆電，合法的進入紅魔館留宿，然後將筆電留在了客房內，接著偷拍蕾米莉亞的入浴照。十六夜咲夜會以打掃之名進入房間，暫停時間，插入USB，篡改開機程式。這樣的話射命丸文回來輸入密碼的時候，密碼就會回傳到十六夜咲夜的手上。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不想買手機上的單機遊戲]]></title>
-        <id>https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/</id>
-        <link href="https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/"/>
-        <updated>2026-07-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我真的不太敢在手機買單機遊戲，限免又怎樣？
-最近發現，欸Imangi怎麼那麼奸詐啊，Temple Run元祖版現在在 iOS只能透過 Apple Arcade取得，而Android版仍可在Google Play 免費下載。他們真的是鐵了心誘拐玩家去玩充滿銅臭味的Temple Run 2。難道這就是手遊市場的現實，課金內購(microtransaction)比買斷制更有賺頭。399的遊戲你嫌貴，但爲了限定角色課一單1999就捨得花？應該要反過來吧？]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
-        <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
-        <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
-        <updated>2026-07-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

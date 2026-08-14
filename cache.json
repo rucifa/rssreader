@@ -139,6 +139,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
+          "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": 3968,
+          "title": "New EU Guidelines For AI Labelling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
           "author": "hello@smashingmagazine.com (Alexey Kopytin)",
           "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
@@ -242,21 +257,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-          "publishedOn": "2026-07-15T10:00:00.000Z",
-          "wordCount": 3959,
-          "title": "No, People Don’t Want More AI In Their Life",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
         }
       ]
     },
@@ -864,26 +864,6 @@
           "wordCount": 1157,
           "title": "在臺灣學漢語拼音輸入像是在學外星語，好像沒比注音好",
           "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/touhou-evil-maid-attack/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "資安領域有「邪惡女僕攻擊」這個概念，指的是：隨意進入紅魔館會被時間暫停的邪惡女僕攻擊。\n\n  https://x.com/Green_Kohgen/status/2076959043126796289\n\n根據《東方求聞史紀》外傳，有天，射命丸文使用沒有Secure Boot的舊型Windows XP筆電，合法的進入紅魔館留宿，然後將筆電留在了客房內，接著偷拍蕾米莉亞的入浴照。十六夜咲夜會以打掃之名進入房間，暫停時間，插入USB，篡改開機程式。這樣的話射命丸文回來輸入密碼的時候，密碼就會回傳到十六夜咲夜的手上。",
-          "link": "https://ivonblog.com/posts/touhou-evil-maid-attack/",
-          "publishedOn": "2026-07-15T14:00:00.000Z",
-          "wordCount": 844,
-          "title": "【資安】Evil maid attack指的是進入紅魔館會被邪惡女僕攻擊",
-          "imageUrl": "https://ivonblog.com/posts/touhou-evil-maid-attack/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "我真的不太敢在手機買單機遊戲，限免又怎樣？\n最近發現，欸Imangi怎麼那麼奸詐啊，Temple Run元祖版現在在 iOS只能透過 Apple Arcade取得，而Android版仍可在Google Play 免費下載。他們真的是鐵了心誘拐玩家去玩充滿銅臭味的Temple Run 2。難道這就是手遊市場的現實，課金內購(microtransaction)比買斷制更有賺頭。399的遊戲你嫌貴，但爲了限定角色課一單1999就捨得花？應該要反過來吧？",
-          "link": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/",
-          "publishedOn": "2026-07-15T13:00:00.000Z",
-          "wordCount": 836,
-          "title": "不想買手機上的單機遊戲",
-          "imageUrl": "https://ivonblog.com/posts/mobile-single-player-games-not-worth-buying/featured.webp"
         }
       ]
     },
