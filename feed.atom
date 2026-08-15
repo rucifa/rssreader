@@ -2,10 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T02:24:55.031Z</updated>
+    <updated>2026-08-15T01:36:28.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[touchHLE：老iPhone模擬器，在Android手機遊玩遠古iOS手遊]]></title>
+        <id>https://ivonblog.com/posts/touchhle-ios-emulator/</id>
+        <link href="https://ivonblog.com/posts/touchhle-ios-emulator/"/>
+        <updated>2026-08-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[老iPhone模擬器耶，好好玩。
+讓iOS APP執行於Android手機。
+
+1. touchHLE簡介
+    
+
+    
+    
+        #
+    
+    
+
+這可能是最接近實用化的首款開源iOS模擬器吧？Apple釋出的iPhone模擬器僅限於開發者存取。其他用QEMU模擬XNU，試圖跑iPhone的問題也多多呢。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad Air 6兩年使用心得，外出文書工作用的良好軍馬]]></title>
+        <id>https://ivonblog.com/posts/my-apple-ipad-air-6/</id>
+        <link href="https://ivonblog.com/posts/my-apple-ipad-air-6/"/>
+        <updated>2026-08-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPad Air系列真的很盤嗎？這是我的兩年下來使用心得。
+
+  
+
+首先要講我的需求，我的工作跟《蔚藍檔案》的狼師主角類似，不是別人X我，就是我X別人，所以我需要一款方便攜帶且長續航的電腦。在那之前我是拿RK3566處理器的Arch Linux ARM平板，老實說體驗不是很好呢。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
+        <id>https://css-tricks.com/?p=396557</id>
+        <link href="https://css-tricks.com/whats-important-17/"/>
+        <updated>2026-08-14T14:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
+What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用SaverTuner微調LineageOS的省電模式]]></title>
+        <id>https://ivonblog.com/posts/android-savertuner-app/</id>
+        <link href="https://ivonblog.com/posts/android-savertuner-app/"/>
+        <updated>2026-08-14T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[微調LineageOS與原生Android的省電模式，不要強制使用深色模式。
+現在手機電量那麼大，有人會一出門就開著省電模式一整天嗎……？
+對於高功耗的手機要延長續航力，就會有人做出從100%就開著省電模式的愚蠢舉動。然後手機就會降頻，螢幕變暗，導致體驗變差。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在LineageOS使用旁路充電 (Bypass Charging)，繞過電池供電]]></title>
+        <id>https://ivonblog.com/posts/lineageos-bypass-charging/</id>
+        <link href="https://ivonblog.com/posts/lineageos-bypass-charging/"/>
+        <updated>2026-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[和栗薰子教教我…如何在第三方ROM使用旁路充電呢……
+首先要確認：旁路充電（Bypass Charging）是什麼? 旁路充電VS全局旁路充電 2.0 - 小丰子
+注意我講的是旁路充電(Bypass charging)————直接對電路板供電，而非限制充電到80%，這能減少充電發熱問題，並防止手機高負載情況下突然沒電。除了在遊戲的時候持續供電之外，也能讓手機長時間插著電源而不怕電池過充。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uperf + Scene使用評價，提昇Android手機遊戲效能、續航省電、紀錄FPS變化]]></title>
+        <id>https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/</id>
+        <link href="https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/"/>
+        <updated>2026-08-13T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uperf + Scene是調整Android手機效能的工具，被中國酷安玩家稱作為搞機必備軟體。
+
+  
+
+最近在善心人士的推薦下認識了這款APP。這邊附上Ivon實際測試使用這個工具的效果。
+
+Uperf簡介
+    
+
+    
+    
+        #
+    
+    
+
+這篇文章討論的皆是針對Uperf這款工具所設計的前端。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手機在中國生產就有資安風險嗎？]]></title>
+        <id>https://ivonblog.com/posts/are-mic-phones-dangerous/</id>
+        <link href="https://ivonblog.com/posts/are-mic-phones-dangerous/"/>
+        <updated>2026-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[即使手機不是中國品牌，若在中國生產，也有資安風險嗎？
+若是全美國製造的手機，你會買嗎？
+我最近才知道Samsung很久以前就避開中國生產旗艦了，2019年後就跑去越南和印度了。
+Sony曾經也是這樣，有自家工廠。我那買不到兩年就綠線發作的Xperia 5 II還是寫泰國製造呢，Sony自家工廠製造的品質真的非常好。但Sony在2025年後全都丟中國OEM了。不知道爲什麼Sony中階的10系列一直在中國代工沒什麼問題，但是旗艦1VII一發包就死機，然後就有人大作文章是中共陰謀。但Sony也有責任吧，就像綠線問題不能全怪三星面板，你手機設計也有問題。然後才是OEM代工的責任。Sony在2025年的自我調查顯示，1VII會死機真的是他們的電路板製程設計有疏失。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的私心推薦歌單（2026年版）]]></title>
+        <id>https://ivonblog.com/posts/my-best-hit-music-playlist/</id>
+        <link href="https://ivonblog.com/posts/my-best-hit-music-playlist/"/>
+        <updated>2026-08-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這篇文章不定時更新。
+
+  
+
+這是代表我的人格與人生經驗的歌單：我公開的精選Spotify播放清單
+話說因爲Spotify界面太醜，轉過來一年多了我一直沒什麼做播放清單的慾望。感覺以前在Apple Music比較有儀式感，但Apple Music太封閉了我不可能再回去。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
         <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
@@ -1393,138 +1517,6 @@ Snap管理系統是為了解決在不同Linux發行版安裝軟體的問題，�
 測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輕量第三方Spotify客戶端：librespot介紹]]></title>
-        <id>https://ivonblog.com/posts/librespot-clients/</id>
-        <link href="https://ivonblog.com/posts/librespot-clients/"/>
-        <updated>2026-07-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[比較各大音樂串流平台，Spotify的跨平台能力算是非常好的了，官方提供Linux版客戶端，屬於閉源軟體。但其實它是用CEF框架包起來的瀏覽器，有時候會越用越慢，吃光系統資源。Arch Wiki說的Spotify客戶端放著不管會越用越卡是真的，播放音樂會lag，清除GPU快取，重開就能處理…這個瀏覽器到底有什麼問題，有辦法拖累整臺Linux的效能。啊啊，不是每個人都有32GB RAM的電腦。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本地優先的擼管計數器？self-hosted場合適用的可能性微存？]]></title>
-        <id>https://ivonblog.com/posts/fapping-recap/</id>
-        <link href="https://ivonblog.com/posts/fapping-recap/"/>
-        <updated>2026-07-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target + .content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.68);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games讓Google開放第三方商店，但F-Droid仍存在危機]]></title>
-        <id>https://ivonblog.com/posts/2026071601/</id>
-        <link href="https://ivonblog.com/posts/2026071601/"/>
-        <updated>2026-07-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[以後第三方商店可以直接在Play商店下載，不用去找APK了。
-Google and Epic give up fighting — third-party Android app stores are coming next week - The Verge
-幾年前Epic Games控告Google Play壟斷Android應用商店的市場，今年Google在輸掉官司之後，決定允許第三方應用商店上架Play商店，本月生效。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在臺灣學漢語拼音輸入像是在學外星語，好像沒比注音好]]></title>
-        <id>https://ivonblog.com/posts/learning-hanyupinyin-input-method/</id>
-        <link href="https://ivonblog.com/posts/learning-hanyupinyin-input-method/"/>
-        <updated>2026-07-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ㄑㄧˇ
-    
-
-    
-    
-        #
-    
-    
-
-四月十六日
-在Linux要獲得良好的中打體驗大概只能學漢語拼音了。
-抱歉了各位，我要拋棄注音去學中國大陸流行的漢語拼音輸入法了，Linux上Fcitx5拼音的選字比新酷音要聰明多了，後者詞庫感覺從20年前就沒更新過了，「癌症」竟然要打「ㄧㄢˊㄓㄥˋ」才會出現（雖然字典發音是這樣沒錯）。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[434: Still Proudly on WordPress for our Blog, Podcast, and Documentation]]></title>
-        <id>https://blog.codepen.io/?p=21378</id>
-        <link href="https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/"/>
-        <updated>2026-07-15T14:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[434: Still Proudly on WordPress for our Blog, Podcast, and Documentation]]></title>
-        <id>https://blog.codepen.io/?p=21378</id>
-        <link href="https://blog.codepen.io/2026/07/15/434-still-proudly-on-wordpress-for-our-blog-podcast-and-documentation/"/>
-        <updated>2026-07-15T14:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Marie and Chris hop on CodePen Radio for a little chat on how we’re still happily using WordPress for a variety of things here on CodePen. We’ve got it hosted on a subdomain and on a different (WordPress-specific) hosting plan than our main monorepo, so it has its own deployment process and such. We use […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-15T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new web platform features, and more.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
