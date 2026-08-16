@@ -227,21 +227,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
-          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-          "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5084,
-          "title": "When It Makes Sense To “Block” The Main Thread",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
         }
       ]
     },
@@ -250,6 +235,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/successor-of-richard-stallman/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "如果Linus Torvalds死了，誰來帶領Linux專案向前進呢，他都56歲了。是否Linux會逐漸變的不自由？\n另一方面，我更擔心Richard Stallman死後怎麼辦，去哪裡找第二個像他對自由開源軟體這麼瘋的人。大海航行靠舵手啊。他73歲了耶。",
+          "link": "https://ivonblog.com/posts/successor-of-richard-stallman/",
+          "publishedOn": "2026-08-15T15:00:00.000Z",
+          "wordCount": 863,
+          "title": "誰來接班Linus和Stallman的自由軟體事業？",
+          "imageUrl": "https://ivonblog.com/posts/successor-of-richard-stallman/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-distros-6324/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你是Linux紅老嗨？\n\n  \n\n此時一名儒雅隨和的吧友路過：「你什么浪人？引流土狗，发不出资历你妈今晚就得死。」\n剛學會裝Arch Linux的script kiddie：「I use Arch Linux btw。」\n擁有紅老嗨資歷（RedHat在證交所上市的時候人就在現場）的boomer：「誰家小孩。」",
+          "link": "https://ivonblog.com/posts/linux-distros-6324/",
+          "publishedOn": "2026-08-15T14:00:00.000Z",
+          "wordCount": 840,
+          "title": "抽象紅老嗨使用什麼Linux發行版？",
+          "imageUrl": "https://ivonblog.com/posts/linux-distros-6324/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/touchhle-ios-emulator/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -829,56 +834,6 @@
           "wordCount": 1407,
           "title": "Linux系統的Snap是什麼？跨發行版套件管理員使用方法",
           "imageUrl": "https://ivonblog.com/posts/linux-snap-introduction/featured.png"
-        },
-        {
-          "id": "https://ivonblog.com/posts/minecraft-hentai-materials/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/minecraft-hentai-materials/",
-          "publishedOn": "2026-07-17T11:00:00.000Z",
-          "wordCount": 1507,
-          "title": "在Minecraft裡面色色：怪物萌娘圖、R18模組、二創小黃遊的資源有哪些？",
-          "imageUrl": "https://ivonblog.com/posts/minecraft-hentai-materials/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/create-breasts-physics-images/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/create-breasts-physics-images/",
-          "publishedOn": "2026-07-17T04:00:00.000Z",
-          "wordCount": 1511,
-          "title": "用景深效果製作乳搖圖片，讓色圖動起來！強化視覺效果",
-          "imageUrl": "https://ivonblog.com/posts/create-breasts-physics-images/featured.gif"
-        },
-        {
-          "id": "https://ivonblog.com/posts/smartphone-breasts-physics-images/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/smartphone-breasts-physics-images/",
-          "publishedOn": "2026-07-17T03:00:00.000Z",
-          "wordCount": 1188,
-          "title": "使用黑白錯覺圖層製作乳搖圖片",
-          "imageUrl": "https://ivonblog.com/posts/smartphone-breasts-physics-images/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-play-integrity-fix/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Fix Play Integrity on rooted Android phones.\n本文Ivon教學如何在Root裝置通過Play Integrity。\n測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。\n\n1. Play Integrity原理\n    \n\n    \n    \n        #\n    \n    \n\n（如果你對原理沒興趣請直接跳下一段）",
-          "link": "https://ivonblog.com/posts/android-play-integrity-fix/",
-          "publishedOn": "2026-07-16T19:00:00.000Z",
-          "wordCount": 1313,
-          "title": "Android手機Root後如何通過Play Integrity",
-          "imageUrl": "https://ivonblog.com/posts/android-play-integrity-fix/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-hide-root/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "本文Ivon解說防止APP檢測到Android Root環境的最新手段，並附上通過Play Integrity的方法。不定時更新。\n測試環境：Sony Xperia 10 V，LineageOS 23 (Android 16)，已解鎖Bootloader。",
-          "link": "https://ivonblog.com/posts/android-hide-root/",
-          "publishedOn": "2026-07-16T18:00:00.000Z",
-          "wordCount": 1236,
-          "title": "Android手機防Root偵測的方法總覽",
-          "imageUrl": null
         }
       ]
     },
