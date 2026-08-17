@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T01:42:56.627Z</updated>
+    <updated>2026-08-17T01:41:24.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -1333,30 +1333,6 @@ Brave正在崛起，成爲Google Chrome和Microsoft Edge以外的第三大瀏覽
 
 Steam for ARM64現在能用Snap一鍵安裝了，官方說在Nvidia GDX Spark和高通處理器的筆電測試過。
 對於執行Ubuntu ARM的裝置來說，譬如樹莓派，安裝Steam就是一行snap install指令的事情。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第三方Android ROM有可能商業化嗎？看看GrapheneOS與LineageOS的例子]]></title>
-        <id>https://ivonblog.com/posts/commercialize-custom-android-roms/</id>
-        <link href="https://ivonblog.com/posts/commercialize-custom-android-roms/"/>
-        <updated>2026-07-18T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[目前最多人用的Android ROM當屬LineageOS和GrapheneOS了，他們都是「Degoogle」的Android系統，不依賴Google生態系，也不依賴任何可疑中國公司的服務。注重開源價值與隱私保護的系統。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux系統的Snap是什麼？跨發行版套件管理員使用方法]]></title>
-        <id>https://ivonblog.com/posts/linux-snap-introduction/</id>
-        <link href="https://ivonblog.com/posts/linux-snap-introduction/"/>
-        <updated>2026-07-17T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Snap是什麼呢？這是Linux系統的一種軟體打包格式兼套件管理系統，由Ubuntu背後的公司Canonical推動。
-
-  
-
-Snap管理系統是為了解決在不同Linux發行版安裝軟體的問題，將軟體需要的依賴套件都包在一起，即可保證每個發行版都到安裝一致的軟體版本。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

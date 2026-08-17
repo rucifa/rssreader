@@ -814,26 +814,6 @@
           "wordCount": 1199,
           "title": "用Snap在ARM Linux系統安裝Steam + FEX-Emu",
           "imageUrl": "https://ivonblog.com/posts/install-steam-snap-arm64/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/commercialize-custom-android-roms/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "目前最多人用的Android ROM當屬LineageOS和GrapheneOS了，他們都是「Degoogle」的Android系統，不依賴Google生態系，也不依賴任何可疑中國公司的服務。注重開源價值與隱私保護的系統。",
-          "link": "https://ivonblog.com/posts/commercialize-custom-android-roms/",
-          "publishedOn": "2026-07-18T02:00:00.000Z",
-          "wordCount": 836,
-          "title": "第三方Android ROM有可能商業化嗎？看看GrapheneOS與LineageOS的例子",
-          "imageUrl": "https://ivonblog.com/posts/commercialize-custom-android-roms/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-snap-introduction/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Snap是什麼呢？這是Linux系統的一種軟體打包格式兼套件管理系統，由Ubuntu背後的公司Canonical推動。\n\n  \n\nSnap管理系統是為了解決在不同Linux發行版安裝軟體的問題，將軟體需要的依賴套件都包在一起，即可保證每個發行版都到安裝一致的軟體版本。",
-          "link": "https://ivonblog.com/posts/linux-snap-introduction/",
-          "publishedOn": "2026-07-17T17:00:00.000Z",
-          "wordCount": 1407,
-          "title": "Linux系統的Snap是什麼？跨發行版套件管理員使用方法",
-          "imageUrl": "https://ivonblog.com/posts/linux-snap-introduction/featured.png"
         }
       ]
     },
