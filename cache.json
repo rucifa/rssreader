@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396545",
+          "author": "Geoff Graham",
+          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+          "publishedOn": "2026-08-17T14:15:50.000Z",
+          "wordCount": 3443,
+          "title": "Dark mode toggles: two states are enough",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396557",
           "author": "Daniel Schwarz",
           "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -235,6 +245,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "閒來無事拿出10年前買的Zenfone 2 Selfie，刷機爲Android 10。\n\n\n1. 懷古\n    \n\n    \n    \n        #\n    \n    \n\n參照之前寫的：ASUS Zenfone 2 Selfie真的是一台爛手機",
+          "link": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/",
+          "publishedOn": "2026-08-16T14:00:00.000Z",
+          "wordCount": 1298,
+          "title": "Zenfone 2 Selfie刷機升Android 10 (Resurrection Remix 8)",
+          "imageUrl": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/successor-of-richard-stallman/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -784,36 +804,6 @@
           "wordCount": 868,
           "title": "同是中階機，小米和Sony卻有天與地的差別，讓我快變索黑了",
           "imageUrl": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/kernelsu-android-root/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "討論如何用KernelSU取得Root權限。\nKernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。\n\n  \n\nKernelSU是自由軟體，原始碼位於Github\n它讓擁有Root權限的su執行於kernel space，使得Root權限更難被偵測到。並且允許只有特定的APP才可以使用Root權限。",
-          "link": "https://ivonblog.com/posts/kernelsu-android-root/",
-          "publishedOn": "2026-07-19T07:00:00.000Z",
-          "wordCount": 1343,
-          "title": "KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強",
-          "imageUrl": "https://ivonblog.com/posts/kernelsu-android-root/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "各位鄉親各位夥伴大家好，Brave瀏覽器是最好的Google Chrome替代品，是市場挑戰者，不要不信。你已經不能指望Mozilla Firefox能對抗Google了。走實用主義的Brave才是贏家。\nBrave正在崛起，成爲Google Chrome和Microsoft Edge以外的第三大瀏覽器。根據2025年統計，Brave的每月用戶活躍人數已經超過一億了！",
-          "link": "https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/",
-          "publishedOn": "2026-07-19T05:00:00.000Z",
-          "wordCount": 885,
-          "title": "Brave是最好的Chrome替代品，縱使爭議很多。不能指望Firefox了",
-          "imageUrl": "https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/install-steam-snap-arm64/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "我是Arch Linux “ARM” 用戶，我在ARM架構的Linux平板成功安裝Steam了。\n\n  \n\nSteam for ARM64現在能用Snap一鍵安裝了，官方說在Nvidia GDX Spark和高通處理器的筆電測試過。\n對於執行Ubuntu ARM的裝置來說，譬如樹莓派，安裝Steam就是一行snap install指令的事情。",
-          "link": "https://ivonblog.com/posts/install-steam-snap-arm64/",
-          "publishedOn": "2026-07-18T15:00:00.000Z",
-          "wordCount": 1199,
-          "title": "用Snap在ARM Linux系統安裝Steam + FEX-Emu",
-          "imageUrl": "https://ivonblog.com/posts/install-steam-snap-arm64/featured.webp"
         }
       ]
     },
@@ -845,6 +835,26 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21482",
+          "author": "Chris Coyier",
+          "description": "There was a fun little debate about color themes and UI/UX. There is some solid logic to having three states for a color theme toggle: Meaning: That’s what we have in the 2.0 editor. Lea Verou presents a full-throated argument that color theme toggles should be two-state, not three-state. If you switch to the opposite, […]",
+          "link": "https://blog.codepen.io/2026/08/17/chris-corner-toggles-color/",
+          "publishedOn": "2026-08-17T17:59:59.000Z",
+          "wordCount": 1002,
+          "title": "Chris’ Corner: Toggles & Color",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21451",
+          "author": "Chris Coyier",
+          "description": "Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]",
+          "link": "https://blog.codepen.io/2026/08/13/chris-corner-colors/",
+          "publishedOn": "2026-08-13T14:01:10.000Z",
+          "wordCount": 1573,
+          "title": "Chris’ Corner: Colors",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-6.16.38-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21454",
           "author": "Chris Coyier",
@@ -912,6 +922,26 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21482",
+          "author": "Chris Coyier",
+          "description": "There was a fun little debate about color themes and UI/UX. There is some solid logic to having three states for a color theme toggle: Meaning: That’s what we have in the 2.0 editor. Lea Verou presents a full-throated argument that color theme toggles should be two-state, not three-state. If you switch to the opposite, […]",
+          "link": "https://blog.codepen.io/2026/08/17/chris-corner-toggles-color/",
+          "publishedOn": "2026-08-17T17:59:59.000Z",
+          "wordCount": 1002,
+          "title": "Chris’ Corner: Toggles & Color",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21451",
+          "author": "Chris Coyier",
+          "description": "Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]",
+          "link": "https://blog.codepen.io/2026/08/13/chris-corner-colors/",
+          "publishedOn": "2026-08-13T14:01:10.000Z",
+          "wordCount": 1573,
+          "title": "Chris’ Corner: Colors",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-6.16.38-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21454",
           "author": "Chris Coyier",

@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T01:41:24.059Z</updated>
+    <updated>2026-08-18T01:36:43.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Toggles & Color]]></title>
+        <id>https://blog.codepen.io/?p=21482</id>
+        <link href="https://blog.codepen.io/2026/08/17/chris-corner-toggles-color/"/>
+        <updated>2026-08-17T17:59:59.000Z</updated>
+        <summary type="html"><![CDATA[There was a fun little debate about color themes and UI/UX. There is some solid logic to having three states for a color theme toggle: Meaning: That’s what we have in the 2.0 editor. Lea Verou presents a full-throated argument that color theme toggles should be two-state, not three-state. If you switch to the opposite, […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Toggles & Color]]></title>
+        <id>https://blog.codepen.io/?p=21482</id>
+        <link href="https://blog.codepen.io/2026/08/17/chris-corner-toggles-color/"/>
+        <updated>2026-08-17T17:59:59.000Z</updated>
+        <summary type="html"><![CDATA[There was a fun little debate about color themes and UI/UX. There is some solid logic to having three states for a color theme toggle: Meaning: That’s what we have in the 2.0 editor. Lea Verou presents a full-throated argument that color theme toggles should be two-state, not three-state. If you switch to the opposite, […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
+        <id>https://css-tricks.com/?p=396545</id>
+        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
+        <updated>2026-08-17T14:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
+Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zenfone 2 Selfie刷機升Android 10 (Resurrection Remix 8)]]></title>
+        <id>https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/</id>
+        <link href="https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/"/>
+        <updated>2026-08-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[閒來無事拿出10年前買的Zenfone 2 Selfie，刷機爲Android 10。
+
+
+1. 懷古
+    
+
+    
+    
+        #
+    
+    
+
+參照之前寫的：ASUS Zenfone 2 Selfie真的是一台爛手機]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰來接班Linus和Stallman的自由軟體事業？]]></title>
         <id>https://ivonblog.com/posts/successor-of-richard-stallman/</id>
@@ -127,6 +180,26 @@ Uperf簡介
 這篇文章討論的皆是針對Uperf這款工具所設計的前端。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Colors]]></title>
+        <id>https://blog.codepen.io/?p=21451</id>
+        <link href="https://blog.codepen.io/2026/08/13/chris-corner-colors/"/>
+        <updated>2026-08-13T14:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Colors]]></title>
+        <id>https://blog.codepen.io/?p=21451</id>
+        <link href="https://blog.codepen.io/2026/08/13/chris-corner-colors/"/>
+        <updated>2026-08-13T14:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1293,48 +1366,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強]]></title>
-        <id>https://ivonblog.com/posts/kernelsu-android-root/</id>
-        <link href="https://ivonblog.com/posts/kernelsu-android-root/"/>
-        <updated>2026-07-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[討論如何用KernelSU取得Root權限。
-KernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。
-
-  
-
-KernelSU是自由軟體，原始碼位於Github
-它讓擁有Root權限的su執行於kernel space，使得Root權限更難被偵測到。並且允許只有特定的APP才可以使用Root權限。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave是最好的Chrome替代品，縱使爭議很多。不能指望Firefox了]]></title>
-        <id>https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/</id>
-        <link href="https://ivonblog.com/posts/brave-browser-is-the-best-google-chrome-alternative/"/>
-        <updated>2026-07-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[各位鄉親各位夥伴大家好，Brave瀏覽器是最好的Google Chrome替代品，是市場挑戰者，不要不信。你已經不能指望Mozilla Firefox能對抗Google了。走實用主義的Brave才是贏家。
-Brave正在崛起，成爲Google Chrome和Microsoft Edge以外的第三大瀏覽器。根據2025年統計，Brave的每月用戶活躍人數已經超過一億了！]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Snap在ARM Linux系統安裝Steam + FEX-Emu]]></title>
-        <id>https://ivonblog.com/posts/install-steam-snap-arm64/</id>
-        <link href="https://ivonblog.com/posts/install-steam-snap-arm64/"/>
-        <updated>2026-07-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我是Arch Linux “ARM” 用戶，我在ARM架構的Linux平板成功安裝Steam了。
-
-  
-
-Steam for ARM64現在能用Snap一鍵安裝了，官方說在Nvidia GDX Spark和高通處理器的筆電測試過。
-對於執行Ubuntu ARM的裝置來說，譬如樹莓派，安裝Steam就是一行snap install指令的事情。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
