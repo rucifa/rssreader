@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T01:36:43.931Z</updated>
+    <updated>2026-08-19T01:38:33.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[437: The Cheese. It Has Been Moved.]]></title>
+        <id>https://blog.codepen.io/?p=21491</id>
+        <link href="https://blog.codepen.io/2026/08/18/437-the-cheese-it-has-been-moved/"/>
+        <updated>2026-08-18T14:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Stephen and Chris hop on to talk about the couple of weeks post 2.0 launch. Things are certainly different in 2.0! Literally the location of certain buttons is in a new place, and that requires folks to poke around a bit and figure it out. Some people just do that and it’s a non-issue. Some […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[437: The Cheese. It Has Been Moved.]]></title>
+        <id>https://blog.codepen.io/?p=21491</id>
+        <link href="https://blog.codepen.io/2026/08/18/437-the-cheese-it-has-been-moved/"/>
+        <updated>2026-08-18T14:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Stephen and Chris hop on to talk about the couple of weeks post 2.0 launch. Things are certainly different in 2.0! Literally the location of certain buttons is in a new place, and that requires folks to poke around a bit and figure it out. Some people just do that and it’s a non-issue. Some […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 最新Cloudflare 註冊教學：3 分鐘免費申請帳號完整步驟]]></title>
+        <id>https://www.chirue.com/?p=16030</id>
+        <link href="https://www.chirue.com/2026-%e6%9c%80%e6%96%b0cloudflare-%e8%a8%bb%e5%86%8a%e6%95%99%e5%ad%b8%ef%bc%9a3-%e5%88%86%e9%90%98%e5%85%8d%e8%b2%bb%e7%94%b3%e8%ab%8b%e5%b8%b3%e8%99%9f%e5%ae%8c%e6%95%b4%e6%ad%a5%e9%a9%9f/"/>
+        <updated>2026-08-18T08:00:44.000Z</updated>
+        <summary type="html"><![CDATA[本文會說明如何註冊一個全新的 Cloudflare 帳戶，並帶您一步步完成基礎設定、順利進入後台Dashboa […]]]></summary>
+        <author>
+            <name>Susan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: Toggles & Color]]></title>
         <id>https://blog.codepen.io/?p=21482</id>
@@ -1346,26 +1376,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
 今天接觸到了2022年的Redmi Note 11 Pro 5G（規格同POCO X4 Pro 5G），跟我2023年買的主力機Xperia 10 V比較，發現：哇同樣是萬元出頭的SD695處理器中階機，小米的規格爲什麼能給到這麼好，Sony卻做的像垃圾一樣，還賣比較貴。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Unusual Ideas]]></title>
-        <id>https://blog.codepen.io/?p=21376</id>
-        <link href="https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/"/>
-        <updated>2026-07-20T11:11:38.000Z</updated>
-        <summary type="html"><![CDATA[I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Unusual Ideas]]></title>
-        <id>https://blog.codepen.io/?p=21376</id>
-        <link href="https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/"/>
-        <updated>2026-07-20T11:11:38.000Z</updated>
-        <summary type="html"><![CDATA[I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

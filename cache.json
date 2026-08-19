@@ -819,6 +819,16 @@
       "siteUrl": "https://www.chirue.com",
       "articles": [
         {
+          "id": "https://www.chirue.com/?p=16030",
+          "author": "Susan",
+          "description": "本文會說明如何註冊一個全新的 Cloudflare 帳戶，並帶您一步步完成基礎設定、順利進入後台Dashboa […]",
+          "link": "https://www.chirue.com/2026-%e6%9c%80%e6%96%b0cloudflare-%e8%a8%bb%e5%86%8a%e6%95%99%e5%ad%b8%ef%bc%9a3-%e5%88%86%e9%90%98%e5%85%8d%e8%b2%bb%e7%94%b3%e8%ab%8b%e5%b8%b3%e8%99%9f%e5%ae%8c%e6%95%b4%e6%ad%a5%e9%a9%9f/",
+          "publishedOn": "2026-08-18T08:00:44.000Z",
+          "wordCount": 2039,
+          "title": "2026 最新Cloudflare 註冊教學：3 分鐘免費申請帳號完整步驟",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/08/ChatGPT-Image-2026年8月18日-上午10_49_30.png"
+        },
+        {
           "id": "https://www.chirue.com/?p=15997",
           "author": "Fany",
           "description": "在 AI 驅動軟體開發的浪潮下，從程式撰寫、測試到部署的每個環節都正被重新定義。自 2024 年 Gartne […]",
@@ -836,6 +846,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21491",
+          "author": "Chris Coyier",
+          "description": "Stephen and Chris hop on to talk about the couple of weeks post 2.0 launch. Things are certainly different in 2.0! Literally the location of certain buttons is in a new place, and that requires folks to poke around a bit and figure it out. Some people just do that and it’s a non-issue. Some […]",
+          "link": "https://blog.codepen.io/2026/08/18/437-the-cheese-it-has-been-moved/",
+          "publishedOn": "2026-08-18T14:05:45.000Z",
+          "wordCount": 1020,
+          "title": "437: The Cheese. It Has Been Moved.",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-437.mp3",
+            "length": "22098680",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21482",
           "author": "Chris Coyier",
           "description": "There was a fun little debate about color themes and UI/UX. There is some solid logic to having three states for a color theme toggle: Meaning: That’s what we have in the 2.0 editor. Lea Verou presents a full-throated argument that color theme toggles should be two-state, not three-state. If you switch to the opposite, […]",
@@ -904,16 +929,6 @@
           "wordCount": 2195,
           "title": "The Launch of CodePen 2.0",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21376",
-          "author": "Chris Coyier",
-          "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
-          "link": "https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/",
-          "publishedOn": "2026-07-20T11:11:38.000Z",
-          "wordCount": 1174,
-          "title": "Chris’ Corner: Unusual Ideas",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-7.57.10-AM.png"
         }
       ]
     },
@@ -923,6 +938,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21491",
+          "author": "Chris Coyier",
+          "description": "Stephen and Chris hop on to talk about the couple of weeks post 2.0 launch. Things are certainly different in 2.0! Literally the location of certain buttons is in a new place, and that requires folks to poke around a bit and figure it out. Some people just do that and it’s a non-issue. Some […]",
+          "link": "https://blog.codepen.io/2026/08/18/437-the-cheese-it-has-been-moved/",
+          "publishedOn": "2026-08-18T14:05:45.000Z",
+          "wordCount": 1020,
+          "title": "437: The Cheese. It Has Been Moved.",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-437.mp3",
+            "length": "22098680",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21482",
           "author": "Chris Coyier",
           "description": "There was a fun little debate about color themes and UI/UX. There is some solid logic to having three states for a color theme toggle: Meaning: That’s what we have in the 2.0 editor. Lea Verou presents a full-throated argument that color theme toggles should be two-state, not three-state. If you switch to the opposite, […]",
@@ -991,16 +1021,6 @@
           "wordCount": 2195,
           "title": "The Launch of CodePen 2.0",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21376",
-          "author": "Chris Coyier",
-          "description": "I like how Alan questions something nearly all of us take for granted: What if We Used Proportional Fonts for Code Blocks? And he kinda leaves it at that. What if. Lots of text is almost certainly easier to read in a non-monospace font, but is lots of code easier to read? And spaces/tabs are […]",
-          "link": "https://blog.codepen.io/2026/07/20/chris-corner-unusual-ideas/",
-          "publishedOn": "2026-07-20T11:11:38.000Z",
-          "wordCount": 1174,
-          "title": "Chris’ Corner: Unusual Ideas",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-7.57.10-AM.png"
         }
       ]
     }
