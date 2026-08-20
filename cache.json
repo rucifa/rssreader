@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396428",
+          "author": "Geoff Graham",
+          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+          "publishedOn": "2026-08-19T14:44:41.000Z",
+          "wordCount": 3540,
+          "title": "CSS Navigation Matching, Early Days",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396623",
+          "author": "Geoff Graham",
+          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-student-plan/",
+          "publishedOn": "2026-08-19T08:50:00.000Z",
+          "wordCount": 2828,
+          "title": "WordPress.com Student Plan",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396545",
           "author": "Geoff Graham",
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -115,16 +135,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3045,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -222,21 +232,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8090,
-          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
         }
       ]
     },
@@ -245,6 +240,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/my-sony-xperia-1-iii/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "2026年，Sony Xperia 1 III還能用嗎，遊戲效能足夠嗎，拍照是否依然強悍？\n\n誒？爲什麼不是5年多的心得？這臺很久了餒。\n因爲我是2025年買的二手。\n參照：為了更好的拍照，火龍888的Xperia 1 III照樣用\n2025年，我買了2021年的年度旗艦Xperia 1 III，SD888/12G/256G/4K120Hz，因爲我沒錢。一年過去了如何呢。",
+          "link": "https://ivonblog.com/posts/my-sony-xperia-1-iii/",
+          "publishedOn": "2026-08-19T15:00:00.000Z",
+          "wordCount": 1282,
+          "title": "使用Xperia 1 III一年多的心得，當作微單拍照與遊戲專用機",
+          "imageUrl": "https://ivonblog.com/posts/my-sony-xperia-1-iii/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-xperia-1-iii-lineageos/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "將Sony Xperia 1 III (XQ-BC72，LineageOS機型代號pdx215) 刷機升級最新Android系統。\n\n並取得Root權限。安裝降頻Root模組，緩解SD888處理器拍照和玩遊戲容易過熱的問題。\n\nSony Xperia 1、Sony Xperia 1 II、Sony Xperia 1 IV、Sony Xperia 1 V、Sony Xperia 1 VI、Sony Xperia 1 VII用戶亦可以參考本文的步驟。",
+          "link": "https://ivonblog.com/posts/sony-xperia-1-iii-lineageos/",
+          "publishedOn": "2026-08-18T14:00:00.000Z",
+          "wordCount": 1477,
+          "title": "Xperia 1 III刷LineageOS + Root解決SD888過熱問題 + 降頻省電",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-1-iii-lineageos/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -764,46 +779,6 @@
           "wordCount": 1529,
           "title": "Gelbooru搜尋用法：專門收集成人動漫圖片的圖站，類似Danbooru",
           "imageUrl": "https://ivonblog.com/posts/gelbooru-introduction/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ugly-ai-slops-so-what/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "有些人很討厭AI\n不論多好的作品，一看到AI兩字就會直接說：\n「三小AI醜死了」\n\n  \n\n現在你還可以貼多米多羅的「三小AI醜死了」，但以後人們只會越來越不在意。\n有時我看到AI就躁，甚至會生理上反感AI。覺得可以加入反AI教了。",
-          "link": "https://ivonblog.com/posts/ugly-ai-slops-so-what/",
-          "publishedOn": "2026-07-21T11:00:00.000Z",
-          "wordCount": 846,
-          "title": "「三小AI醜死了」但以後人們只會越來越不在意是否使用AI創作",
-          "imageUrl": "https://ivonblog.com/posts/ugly-ai-slops-so-what/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "哪家手機牌子值得買？我會看「是否能刷機」這個指標，也就是開放root。\n有哪些手機好刷機呢？\n如果手機能解鎖，即使是貴的要命的Sony、Pixel、Nothing我都會考慮。\n但若不能解鎖，CP值再高的realme、小米、三星我都不會買。",
-          "link": "https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/",
-          "publishedOn": "2026-07-21T03:00:00.000Z",
-          "wordCount": 1178,
-          "title": "適合刷機的Android手機 / 無法解鎖Bootloader手機的恥辱柱",
-          "imageUrl": "https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-general-flashing-rom/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇不是某部手機的刷機教學，是Ivon刷過幾個大廠牌的手機歸納出來的刷機通用步驟。\n本文討論的是較正規的刷機方法：解鎖Bootloader，刷Root權限管理員取得Root權限，再刷入第三方ROM。不使用刷機助手或漏洞破解的作法。",
-          "link": "https://ivonblog.com/posts/android-general-flashing-rom/",
-          "publishedOn": "2026-07-21T02:00:00.000Z",
-          "wordCount": 1296,
-          "title": "Android手機如何取得Root權限＋刷機流程介紹",
-          "imageUrl": "https://ivonblog.com/posts/android-general-flashing-rom/featured.png"
-        },
-        {
-          "id": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "我快變索黑了！🤬 本來覺得Sony手機還不錯的，再次接觸Pixel和小米之後信仰逐漸崩塌。\n今天接觸到了2022年的Redmi Note 11 Pro 5G（規格同POCO X4 Pro 5G），跟我2023年買的主力機Xperia 10 V比較，發現：哇同樣是萬元出頭的SD695處理器中階機，小米的規格爲什麼能給到這麼好，Sony卻做的像垃圾一樣，還賣比較貴。",
-          "link": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/",
-          "publishedOn": "2026-07-20T15:00:00.000Z",
-          "wordCount": 868,
-          "title": "同是中階機，小米和Sony卻有天與地的差別，讓我快變索黑了",
-          "imageUrl": "https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/featured.webp"
         }
       ]
     },

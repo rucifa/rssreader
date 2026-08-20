@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T01:38:33.248Z</updated>
+    <updated>2026-08-20T01:37:47.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用Xperia 1 III一年多的心得，當作微單拍照與遊戲專用機]]></title>
+        <id>https://ivonblog.com/posts/my-sony-xperia-1-iii/</id>
+        <link href="https://ivonblog.com/posts/my-sony-xperia-1-iii/"/>
+        <updated>2026-08-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年，Sony Xperia 1 III還能用嗎，遊戲效能足夠嗎，拍照是否依然強悍？
+
+誒？爲什麼不是5年多的心得？這臺很久了餒。
+因爲我是2025年買的二手。
+參照：為了更好的拍照，火龍888的Xperia 1 III照樣用
+2025年，我買了2021年的年度旗艦Xperia 1 III，SD888/12G/256G/4K120Hz，因爲我沒錢。一年過去了如何呢。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
+        <id>https://css-tricks.com/?p=396428</id>
+        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
+        <updated>2026-08-19T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
+CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
+        <id>https://css-tricks.com/?p=396623</id>
+        <link href="https://css-tricks.com/wordpress-student-plan/"/>
+        <updated>2026-08-19T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
+WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[437: The Cheese. It Has Been Moved.]]></title>
         <id>https://blog.codepen.io/?p=21491</id>
@@ -24,6 +61,20 @@
         <summary type="html"><![CDATA[Stephen and Chris hop on to talk about the couple of weeks post 2.0 launch. Things are certainly different in 2.0! Literally the location of certain buttons is in a new place, and that requires folks to poke around a bit and figure it out. Some people just do that and it’s a non-issue. Some […]]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xperia 1 III刷LineageOS + Root解決SD888過熱問題 + 降頻省電]]></title>
+        <id>https://ivonblog.com/posts/sony-xperia-1-iii-lineageos/</id>
+        <link href="https://ivonblog.com/posts/sony-xperia-1-iii-lineageos/"/>
+        <updated>2026-08-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[將Sony Xperia 1 III (XQ-BC72，LineageOS機型代號pdx215) 刷機升級最新Android系統。
+
+並取得Root權限。安裝降頻Root模組，緩解SD888處理器拍照和玩遊戲容易過熱的問題。
+
+Sony Xperia 1、Sony Xperia 1 II、Sony Xperia 1 IV、Sony Xperia 1 V、Sony Xperia 1 VI、Sony Xperia 1 VII用戶亦可以參考本文的步驟。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -1297,83 +1348,6 @@ AltStore是一款開源的應用程式商店，可以繞過App Store，在iOS/iP
     text-align: center;
     background:
     linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「三小AI醜死了」但以後人們只會越來越不在意是否使用AI創作]]></title>
-        <id>https://ivonblog.com/posts/ugly-ai-slops-so-what/</id>
-        <link href="https://ivonblog.com/posts/ugly-ai-slops-so-what/"/>
-        <updated>2026-07-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[有些人很討厭AI
-不論多好的作品，一看到AI兩字就會直接說：
-「三小AI醜死了」
-
-  
-
-現在你還可以貼多米多羅的「三小AI醜死了」，但以後人們只會越來越不在意。
-有時我看到AI就躁，甚至會生理上反感AI。覺得可以加入反AI教了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
-        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
-        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
-        <updated>2026-07-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[適合刷機的Android手機 / 無法解鎖Bootloader手機的恥辱柱]]></title>
-        <id>https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/</id>
-        <link href="https://ivonblog.com/posts/best-phones-with-unlockable-bootloader/"/>
-        <updated>2026-07-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[哪家手機牌子值得買？我會看「是否能刷機」這個指標，也就是開放root。
-有哪些手機好刷機呢？
-如果手機能解鎖，即使是貴的要命的Sony、Pixel、Nothing我都會考慮。
-但若不能解鎖，CP值再高的realme、小米、三星我都不會買。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android手機如何取得Root權限＋刷機流程介紹]]></title>
-        <id>https://ivonblog.com/posts/android-general-flashing-rom/</id>
-        <link href="https://ivonblog.com/posts/android-general-flashing-rom/"/>
-        <updated>2026-07-21T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇不是某部手機的刷機教學，是Ivon刷過幾個大廠牌的手機歸納出來的刷機通用步驟。
-本文討論的是較正規的刷機方法：解鎖Bootloader，刷Root權限管理員取得Root權限，再刷入第三方ROM。不使用刷機助手或漏洞破解的作法。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同是中階機，小米和Sony卻有天與地的差別，讓我快變索黑了]]></title>
-        <id>https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/</id>
-        <link href="https://ivonblog.com/posts/redmi-note-11-pro-5g-vs-sony-xperia-10-v/"/>
-        <updated>2026-07-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我快變索黑了！🤬 本來覺得Sony手機還不錯的，再次接觸Pixel和小米之後信仰逐漸崩塌。
-今天接觸到了2022年的Redmi Note 11 Pro 5G（規格同POCO X4 Pro 5G），跟我2023年買的主力機Xperia 10 V比較，發現：哇同樣是萬元出頭的SD695處理器中階機，小米的規格爲什麼能給到這麼好，Sony卻做的像垃圾一樣，還賣比較貴。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
