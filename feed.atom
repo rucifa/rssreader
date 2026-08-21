@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T01:37:47.465Z</updated>
+    <updated>2026-08-21T01:42:32.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
+        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
+        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
+        <updated>2026-08-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Johan Grobler)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用GhostLock漏洞一鍵取得Android手機的Root權限，免解鎖Bootloader，以Pixel爲例子]]></title>
+        <id>https://ivonblog.com/posts/root-my-pixel-app/</id>
+        <link href="https://ivonblog.com/posts/root-my-pixel-app/"/>
+        <updated>2026-08-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[免解鎖Bootloader取得Android手機的Root權限 ～ 適用Google Pixel 6, 7, 8, 9, 10。還有其他品牌的Android手機。
+手機安全機制都是雜魚 ～ 雜魚 ～ ♥
+透過「Root My Pixel」App，利用GhostLock漏洞暫時取得Pixel手機的Root權限，無需解鎖Bootloader，無需清除手機資料，就可以安裝KernelSU。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拋棄主流社群媒體到Mastodon後發現我還是想要流量]]></title>
+        <id>https://ivonblog.com/posts/2026082001/</id>
+        <link href="https://ivonblog.com/posts/2026082001/"/>
+        <updated>2026-08-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果沒有人看著我，是否會比較快樂。
+Hello darkness my old friend
+我又回來找你了，沉默之聲(sound of silence)。人們想要流量。
+有時候會覺得文章和攝影作品是否優先po在Threads而非Mastodon比較好，因爲演算法眷顧你的話就有流量爆炸的機會，那麼你寫的隨便一篇廢文就都有很有價值了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Xperia 1 III一年多的心得，當作微單拍照與遊戲專用機]]></title>
         <id>https://ivonblog.com/posts/my-sony-xperia-1-iii/</id>

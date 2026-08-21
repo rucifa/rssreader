@@ -144,6 +144,16 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+          "author": "hello@smashingmagazine.com (Johan Grobler)",
+          "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
+          "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+          "publishedOn": "2026-08-20T13:00:00.000Z",
+          "wordCount": 5713,
+          "title": "Timing Charts: A Blueprint For SMIL Animations",
+          "imageUrl": "https:null"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
@@ -240,6 +250,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/root-my-pixel-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "免解鎖Bootloader取得Android手機的Root權限 ～ 適用Google Pixel 6, 7, 8, 9, 10。還有其他品牌的Android手機。\n手機安全機制都是雜魚 ～ 雜魚 ～ ♥\n透過「Root My Pixel」App，利用GhostLock漏洞暫時取得Pixel手機的Root權限，無需解鎖Bootloader，無需清除手機資料，就可以安裝KernelSU。",
+          "link": "https://ivonblog.com/posts/root-my-pixel-app/",
+          "publishedOn": "2026-08-20T04:00:00.000Z",
+          "wordCount": 1261,
+          "title": "用GhostLock漏洞一鍵取得Android手機的Root權限，免解鎖Bootloader，以Pixel爲例子",
+          "imageUrl": "https://ivonblog.com/posts/root-my-pixel-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2026082001/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "如果沒有人看著我，是否會比較快樂。\nHello darkness my old friend\n我又回來找你了，沉默之聲(sound of silence)。人們想要流量。\n有時候會覺得文章和攝影作品是否優先po在Threads而非Mastodon比較好，因爲演算法眷顧你的話就有流量爆炸的機會，那麼你寫的隨便一篇廢文就都有很有價值了。",
+          "link": "https://ivonblog.com/posts/2026082001/",
+          "publishedOn": "2026-08-19T17:00:00.000Z",
+          "wordCount": 849,
+          "title": "拋棄主流社群媒體到Mastodon後發現我還是想要流量",
+          "imageUrl": "https://ivonblog.com/posts/2026082001/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/my-sony-xperia-1-iii/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
