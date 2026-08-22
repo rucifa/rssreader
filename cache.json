@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396644",
+          "author": "Geoff Graham",
+          "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+          "publishedOn": "2026-08-21T15:13:03.000Z",
+          "wordCount": 3334,
+          "title": "Resolved: CSS Class Prefix Selector",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=396428",
           "author": "Geoff Graham",
           "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -250,6 +260,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/joplin-timeline-generator-plugin/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "主要是設計給自己用的小插件（延伸模組）。我沒事想到什麼就會拿出手機，打開Joplin記下想法，然後幾天後轉貼到Hugo的動態牆頁面（/post/timeline）。所以，需要一個快速插入我指定日期格式的工具。\n起因於幾個月前的Blog的Timeline頁面小更新。以前的Timeline是只有記錄日期。現在每篇新的短博文都有anchor了，純用li加id實現，透過timestamp提供獨一無二的URL，在任何HTML環境都能用。這樣有人無聊到引用我的廢文的話就能快速定位。舉例來說可以點這個連結https://ivonblog.com/posts/timeline-2026/#d2026-07-23-01-09-03自動跳轉到該日期的貼文。",
+          "link": "https://ivonblog.com/posts/joplin-timeline-generator-plugin/",
+          "publishedOn": "2026-08-21T09:00:00.000Z",
+          "wordCount": 824,
+          "title": "Joplin簡易筆記小插件：在Markdown快速加入可跳轉的時間戳",
+          "imageUrl": null
+        },
         {
           "id": "https://ivonblog.com/posts/root-my-pixel-app/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -779,36 +799,6 @@
           "wordCount": 1201,
           "title": "替代Gboard的開源Android中文輸入法？",
           "imageUrl": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/awesome-foss-ios-apps/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在Github檢視這篇文章。\n介紹一些我覺得好用的自由及開放原始碼 (Free and Open Source) 的iOS APP，適用iPhone與iPad。\n\n  \n\n收錄標準： 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。這些都是我用過並參考網友經驗，覺得不錯才放進列表的，有些用途太狹隘、單純只是reference implementation、沒在維護的、設計不良的APP並不會包含進去。",
-          "link": "https://ivonblog.com/posts/awesome-foss-ios-apps/",
-          "publishedOn": "2026-07-23T08:00:00.000Z",
-          "wordCount": 1471,
-          "title": "iPhone與iPad好用的開源APP分享",
-          "imageUrl": "https://ivonblog.com/posts/awesome-foss-ios-apps/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/awesome-foss-android-apps/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在Github檢視此列表\n本文基於Ivon個人經驗、網友評價，列出一些自由開源（FOSS, Free and Open source）的好用Android APP。主要來自F-Droid與Github。\n\n  \n\n收錄標準： 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。",
-          "link": "https://ivonblog.com/posts/awesome-foss-android-apps/",
-          "publishedOn": "2026-07-23T07:00:00.000Z",
-          "wordCount": 1980,
-          "title": "F-Droid與開源Android APP推薦列表",
-          "imageUrl": "https://ivonblog.com/posts/awesome-foss-android-apps/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gelbooru-introduction/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/gelbooru-introduction/",
-          "publishedOn": "2026-07-22T15:00:00.000Z",
-          "wordCount": 1529,
-          "title": "Gelbooru搜尋用法：專門收集成人動漫圖片的圖站，類似Danbooru",
-          "imageUrl": "https://ivonblog.com/posts/gelbooru-introduction/featured.webp"
         }
       ]
     },
