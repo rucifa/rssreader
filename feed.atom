@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T01:35:49.419Z</updated>
+    <updated>2026-08-23T01:45:04.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -1278,58 +1278,6 @@ AltStore是一款開源的應用程式商店，可以繞過App Store，在iOS/iP
 這樣有什麼好處呢？AltStore可以免越獄安裝IPA（iOS APP的應用安裝包），例如：]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[替代Gboard的開源Android中文輸入法？]]></title>
-        <id>https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/</id>
-        <link href="https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/"/>
-        <updated>2026-07-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What are the FOSS Chinese IME alternatives to Gboard?
-在degoogle的Android手機，有什麼好用的開源中文輸入法呢？打字不會蒐集使用者資料的？
-我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，包括注音和拼音輸入法，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[435: The 2.0 Launch & Team CodePen’s Favorite Features]]></title>
-        <id>https://blog.codepen.io/?p=21383</id>
-        <link href="https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/"/>
-        <updated>2026-07-23T17:05:56.000Z</updated>
-        <summary type="html"><![CDATA[The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[435: The 2.0 Launch & Team CodePen’s Favorite Features]]></title>
-        <id>https://blog.codepen.io/?p=21383</id>
-        <link href="https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/"/>
-        <updated>2026-07-23T17:05:56.000Z</updated>
-        <summary type="html"><![CDATA[The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Launch of CodePen 2.0]]></title>
-        <id>https://blog.codepen.io/?p=21351</id>
-        <link href="https://blog.codepen.io/2026/07/23/two-point-oh/"/>
-        <updated>2026-07-23T16:02:07.000Z</updated>
-        <summary type="html"><![CDATA[If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Launch of CodePen 2.0]]></title>
-        <id>https://blog.codepen.io/?p=21351</id>
-        <link href="https://blog.codepen.io/2026/07/23/two-point-oh/"/>
-        <updated>2026-07-23T16:02:07.000Z</updated>
-        <summary type="html"><![CDATA[If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

@@ -789,16 +789,6 @@
           "wordCount": 1465,
           "title": "在iOS安裝第三方APP：AltStore使用教學",
           "imageUrl": "https://ivonblog.com/posts/ios-altstore/featured.png"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "What are the FOSS Chinese IME alternatives to Gboard?\n在degoogle的Android手機，有什麼好用的開源中文輸入法呢？打字不會蒐集使用者資料的？\n我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，包括注音和拼音輸入法，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。",
-          "link": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
-          "publishedOn": "2026-07-24T03:00:00.000Z",
-          "wordCount": 1201,
-          "title": "替代Gboard的開源Android中文輸入法？",
-          "imageUrl": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/featured.webp"
         }
       ]
     },
@@ -899,31 +889,6 @@
           "wordCount": 1197,
           "title": "Chris’ Corner: Click Something Do Something",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21383",
-          "author": "Chris Coyier",
-          "description": "The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.",
-          "link": "https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/",
-          "publishedOn": "2026-07-23T17:05:56.000Z",
-          "wordCount": 1047,
-          "title": "435: The 2.0 Launch & Team CodePen’s Favorite Features",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-435.mp3",
-            "length": "23272451",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/versioning.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21351",
-          "author": "Chris Coyier",
-          "description": "If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]",
-          "link": "https://blog.codepen.io/2026/07/23/two-point-oh/",
-          "publishedOn": "2026-07-23T16:02:07.000Z",
-          "wordCount": 2195,
-          "title": "The Launch of CodePen 2.0",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
         }
       ]
     },
@@ -991,31 +956,6 @@
           "wordCount": 1197,
           "title": "Chris’ Corner: Click Something Do Something",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21383",
-          "author": "Chris Coyier",
-          "description": "The whole team is here! That’s a first for us. Today we’re launching 2.0, so we’re having a little fun in this episode picking out our favorite features. Time Jumps Links Plus a bonus appearance here of Marie’s victory graphic.",
-          "link": "https://blog.codepen.io/2026/07/23/435-the-2-0-launch-team-codepens-favorite-features/",
-          "publishedOn": "2026-07-23T17:05:56.000Z",
-          "wordCount": 1047,
-          "title": "435: The 2.0 Launch & Team CodePen’s Favorite Features",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-435.mp3",
-            "length": "23272451",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/versioning.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21351",
-          "author": "Chris Coyier",
-          "description": "If you sense a joyous exhale, that’s Team CodePen in crossing this launch milestone for the most ambitious professional project any of us has ever achieved. Today, we declare CodePen 2.0 officially launched. We do it, naturally, for you, as we set out to rebuild our online editor to better support what today’s developers want […]",
-          "link": "https://blog.codepen.io/2026/07/23/two-point-oh/",
-          "publishedOn": "2026-07-23T16:02:07.000Z",
-          "wordCount": 2195,
-          "title": "The Launch of CodePen 2.0",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/launch-email-1-header.webp"
         }
       ]
     }
