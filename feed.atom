@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T01:45:04.544Z</updated>
+    <updated>2026-08-24T01:43:18.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone 6使用Amethyst免電腦越獄，支援iOS 12 ~ 13]]></title>
+        <id>https://ivonblog.com/posts/ios-12-amethyst-jailbreak/</id>
+        <link href="https://ivonblog.com/posts/ios-12-amethyst-jailbreak/"/>
+        <updated>2026-08-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヽ( ° ▽°)ノ 嘛，總之iPhone 6 ( iOS 12.5.8 ) 有半完美越獄出現了。名字叫做 紫水晶「Amethyst」
+因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。
+
+1. Amethyst簡介
+    
+
+    
+    
+        #
+    
+    
+
+Amethyst是2026年由staturnz開發的越獄方案，不用像checkra1n那樣每次開機都要電腦DFU模式觸發。用手機App就可以了。主要是利用的漏洞不一樣。Amethyst使用的是Trigon (CVE-2023-32434) 漏洞，而非硬體底層的checkm8漏洞。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[checkra1n越獄教學，以iPhone 6 + iOS 12爲例]]></title>
+        <id>https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/</id>
+        <link href="https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/"/>
+        <updated>2026-08-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 5S ~ iPhone X的Apple裝置，都有名爲checkm8的硬體漏洞，我們能用以此漏洞爲基礎的開源工具：象棋將軍「checkra1n」來越獄。
+
+  
+
+本文測試的裝置：iPod touch 6，系統版本iOS 12.5.8
+因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
         <id>https://css-tricks.com/?p=396644</id>
@@ -1190,92 +1227,6 @@ God knows…涼宮春日的內心
 Xperia 10 V二年使用心得：胃口被Sony養壞了 
  讓死者回歸死亡，切斷Xperia 5 II的執念之終結 
 它是沒有壞掉啦，我有Root加上刷LineageOS取得最新版Android 16更新，8GB RAM多工方便。加上有開充電保養所以續航力幾乎沒衰退，一天能撐8小時以上。使用幾乎不會發熱。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我教學文章的「截圖加手機外框」示意圖堅持不挖孔原則]]></title>
-        <id>https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/</id>
-        <link href="https://ivonblog.com/posts/hole-punch-and-notch-of-phone-screenshots-are-wrong/"/>
-        <updated>2026-07-25T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[有時候在寫教學文章的時候爲了讓APP看起來比較炫，我會在截圖加上手機邊框。
-Android我大部分用Sony Xperia 10 V或Xperia 1 III截圖。
-
-  
-
-iOS的話過去用iPhone SE 2016，現在用iPhone 12 Mini。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feather，直接在iPhone簽名IPA的開源APP，免電腦]]></title>
-        <id>https://ivonblog.com/posts/ios-feather-signing-app/</id>
-        <link href="https://ivonblog.com/posts/ios-feather-signing-app/"/>
-        <updated>2026-07-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如果我有一雙翅膀，我要離開這個地方。如果妳要和我飛翔，不要離開我的肩膀，一不小心就會失去了影像（指掉簽）。
-Feather為一款讓你在iPhone/iPad簽名IPA的開源APP，免越獄。
-
-  
-
-Feather由khcrysalis開發，它能夠在iOS裝置直接簽名IPA並安裝IPA（背後使用ZSign），不用透過電腦，也不用傳送給第三方伺服器處理，簽名全都是在本機進行的。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiveContainer教學，iOS安裝第三方APP數量無上限，免越獄]]></title>
-        <id>https://ivonblog.com/posts/livecontainer-ios-app-launcher/</id>
-        <link href="https://ivonblog.com/posts/livecontainer-ios-app-launcher/"/>
-        <updated>2026-07-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請參閱：iOS所有安裝第三方APP、側載IPA的方法
-想要在iPhone/iPad安裝第三方APP，卻苦於免費Apple開發者帳號只有3個APP的簽名限制嗎？
-Duy Tran開發的「LiveContainer」用一種曲折的方式解決這個問題。
-
-  
-
-它有點類似虛擬機，或說是容器，但其實是APP啟動器，讓你不用真的安裝APP也可以使用APP。雖然APP是暫時執行的，但是資料會保存在同一個資料夾，日後可以持續使用。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS使用UDID Registrations付費簽名IPA，無限制安裝第三方APP]]></title>
-        <id>https://ivonblog.com/posts/ios-sideloading-udid-registrations/</id>
-        <link href="https://ivonblog.com/posts/ios-sideloading-udid-registrations/"/>
-        <updated>2026-07-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請參考：iOS側載IPA方式匯總
-本文Ivon分享透過UDID Registration購買開發者憑證，用於給IPA簽名，再側載到iOS裝置的操作過程。
-測試系統版本：iOS 27
-什麼是側載IPA？簡單來說就是安裝App Store以外的APP，比如，這裡有很多開源免費的第三方iOS APP。有些開源軟體的開發者沒有上架App Store，而是在Github發表，得手動側載IPA。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideStore在iPhone安裝第三方APP，免電腦重簽安裝IPA教學]]></title>
-        <id>https://ivonblog.com/posts/ios-sidestore/</id>
-        <link href="https://ivonblog.com/posts/ios-sidestore/"/>
-        <updated>2026-07-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請參閱：iOS所有安裝第三方APP、側載IPA的方法
-如果想在iOS安裝第三方APP又不想連著電腦，可嘗試SideStore。
-
-值得安裝的第三方IPA列表，請參考我的：iPhone好用的開源APP分享
-SideStore是AltStore的分支版本，主打「免電腦安裝與重簽IPA」，也就是說您可以安裝任意第三方APP到iPhone/iPad，免越獄、免電腦。此外，您還能透過SidesStore給APP啟用JIT加速。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在iOS安裝第三方APP：AltStore使用教學]]></title>
-        <id>https://ivonblog.com/posts/ios-altstore/</id>
-        <link href="https://ivonblog.com/posts/ios-altstore/"/>
-        <updated>2026-07-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請參閱：iOS所有安裝第三方APP、側載IPA的方法
-AltStore是一款開源的應用程式商店，可以繞過App Store，在iOS/iPadOS裝置安裝未經Apple審核的第三方APP。
-
-這樣有什麼好處呢？AltStore可以免越獄安裝IPA（iOS APP的應用安裝包），例如：]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
