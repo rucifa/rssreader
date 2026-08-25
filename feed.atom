@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T01:43:18.186Z</updated>
+    <updated>2026-08-25T01:38:03.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Remember <me>]]></title>
+        <id>https://blog.codepen.io/?p=21469</id>
+        <link href="https://blog.codepen.io/2026/08/24/chris-corner-remember-me/"/>
+        <updated>2026-08-24T18:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Remember <me>]]></title>
+        <id>https://blog.codepen.io/?p=21469</id>
+        <link href="https://blog.codepen.io/2026/08/24/chris-corner-remember-me/"/>
+        <updated>2026-08-24T18:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
+        <id>https://css-tricks.com/?p=395401</id>
+        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
+        <updated>2026-08-24T13:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
+WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Fränk Klein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 6使用Amethyst免電腦越獄，支援iOS 12 ~ 13]]></title>
         <id>https://ivonblog.com/posts/ios-12-amethyst-jailbreak/</id>
@@ -1158,77 +1189,6 @@ God knows…涼宮春日的內心
         <summary type="html"><![CDATA[Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[終於升級換新iPhone 12 Mini了]]></title>
-        <id>https://ivonblog.com/posts/apple-iphone-12-mini-review/</id>
-        <link href="https://ivonblog.com/posts/apple-iphone-12-mini-review/"/>
-        <updated>2026-07-26T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[終於升級換新iPhone了，最近把我用了4年的iPhone SE換掉，升級到了最新的iPhone 12 Mini。這樣我就能在更大的螢幕上看黑人抬棺材了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android手機看E-hentai：EhViewer下載使用教學（綠色版/彩色版/茶色版）]]></title>
-        <id>https://ivonblog.com/posts/android-ehviewer/</id>
-        <link href="https://ivonblog.com/posts/android-ehviewer/"/>
-        <updated>2026-07-26T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target + .content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.68);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[替代Sony Xperia 10 V的新手機人選，還、不存在]]></title>
-        <id>https://ivonblog.com/posts/want-to-replace-sony-xperia-10-v/</id>
-        <link href="https://ivonblog.com/posts/want-to-replace-sony-xperia-10-v/"/>
-        <updated>2026-07-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我想買台新手機來取代用了3年的中階小手機Sony Xperia 10 V。我從2025年夏天就一直在研究取代Xperia 10 V的可能性，但到今年夏天，還是無法得出結論。
-參考：
-Xperia 10 V二年使用心得：胃口被Sony養壞了 
- 讓死者回歸死亡，切斷Xperia 5 II的執念之終結 
-它是沒有壞掉啦，我有Root加上刷LineageOS取得最新版Android 16更新，8GB RAM多工方便。加上有開充電保養所以續航力幾乎沒衰退，一天能撐8小時以上。使用幾乎不會發熱。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
