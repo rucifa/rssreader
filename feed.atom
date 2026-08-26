@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T01:38:03.191Z</updated>
+    <updated>2026-08-26T01:43:33.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[438: Are Diffusion Models Better Than LLMs at Web Design?]]></title>
+        <id>https://blog.codepen.io/?p=21506</id>
+        <link href="https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/"/>
+        <updated>2026-08-25T16:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[438: Are Diffusion Models Better Than LLMs at Web Design?]]></title>
+        <id>https://blog.codepen.io/?p=21506</id>
+        <link href="https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/"/>
+        <updated>2026-08-25T16:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
+        <id>https://css-tricks.com/?p=396665</id>
+        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
+        <updated>2026-08-25T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
+MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
+        <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
+        <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
+        <updated>2026-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pierre Burgy)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: Remember <me>]]></title>
         <id>https://blog.codepen.io/?p=21469</id>
@@ -24,6 +65,20 @@
         <summary type="html"><![CDATA[Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Linux解壓縮日文亂碼的.zip檔案，解決SHIFT-JIS、GBK、Big5亂碼問題]]></title>
+        <id>https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/</id>
+        <link href="https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/"/>
+        <updated>2026-08-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[解決Ubunu等Linux發行版解壓縮檔案出現亂碼的問題。
+
+  
+
+在中文Linux環境解壓縮檔案，有時會遇到使用Windows區域字元編碼，譬如Big5、GBK、SHIFT-JIS，致使解出來是亂碼的情況。若是程式，可能還會無法正常執行呢。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +90,18 @@
 WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Fränk Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android版Firefox究竟哪裡不安全？談網頁隔離的重要性]]></title>
+        <id>https://ivonblog.com/posts/firefox-site-isolation-issues/</id>
+        <link href="https://ivonblog.com/posts/firefox-site-isolation-issues/"/>
+        <updated>2026-08-23T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[：お前さっき俺がウェブサイトでパスワード入力してる時、チラチラ見てただろ！（剛剛我在網頁輸入密碼的時候，你偷看了對吧！）
+：いや、見てないですよ！（不我才沒有看）
+：嘘つけ絶対見てた！（你這個騙子，你絕對看了！）]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396665",
+          "author": "Geoff Graham",
+          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+          "publishedOn": "2026-08-25T14:10:34.000Z",
+          "wordCount": 3049,
+          "title": "MicroLighter: Syntax Highlighter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395401",
           "author": "Fränk Klein",
           "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -164,6 +174,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "author": "hello@smashingmagazine.com (Pierre Burgy)",
+          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "publishedOn": "2026-08-25T08:00:00.000Z",
+          "wordCount": 4229,
+          "title": "Why Your Website Should Never Stop Changing",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "author": "hello@smashingmagazine.com (Johan Grobler)",
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
@@ -270,6 +295,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "解決Ubunu等Linux發行版解壓縮檔案出現亂碼的問題。\n\n  \n\n在中文Linux環境解壓縮檔案，有時會遇到使用Windows區域字元編碼，譬如Big5、GBK、SHIFT-JIS，致使解出來是亂碼的情況。若是程式，可能還會無法正常執行呢。",
+          "link": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/",
+          "publishedOn": "2026-08-24T17:00:00.000Z",
+          "wordCount": 1208,
+          "title": "如何在Linux解壓縮日文亂碼的.zip檔案，解決SHIFT-JIS、GBK、Big5亂碼問題",
+          "imageUrl": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/firefox-site-isolation-issues/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "：お前さっき俺がウェブサイトでパスワード入力してる時、チラチラ見てただろ！（剛剛我在網頁輸入密碼的時候，你偷看了對吧！）\n：いや、見てないですよ！（不我才沒有看）\n：嘘つけ絶対見てた！（你這個騙子，你絕對看了！）",
+          "link": "https://ivonblog.com/posts/firefox-site-isolation-issues/",
+          "publishedOn": "2026-08-23T20:00:00.000Z",
+          "wordCount": 855,
+          "title": "Android版Firefox究竟哪裡不安全？談網頁隔離的重要性",
+          "imageUrl": "https://ivonblog.com/posts/firefox-site-isolation-issues/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/ios-12-amethyst-jailbreak/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -771,6 +816,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21506",
+          "author": "Chris Coyier",
+          "description": "Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]",
+          "link": "https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/",
+          "publishedOn": "2026-08-25T16:27:08.000Z",
+          "wordCount": null,
+          "title": "438: Are Diffusion Models Better Than LLMs at Web Design?",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-438.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codepen.io/?p=21469",
           "author": "Chris Coyier",
           "description": "Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]",
@@ -847,6 +907,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21506",
+          "author": "Chris Coyier",
+          "description": "Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]",
+          "link": "https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/",
+          "publishedOn": "2026-08-25T16:27:08.000Z",
+          "wordCount": null,
+          "title": "438: Are Diffusion Models Better Than LLMs at Web Design?",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-438.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21469",
           "author": "Chris Coyier",
