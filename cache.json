@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=394713",
+          "author": "Saleh Mubashar",
+          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+          "publishedOn": "2026-08-26T15:38:41.000Z",
+          "wordCount": 4417,
+          "title": "animation-trigger",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396665",
           "author": "Geoff Graham",
           "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -174,6 +184,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
+          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "publishedOn": "2026-08-26T13:00:00.000Z",
+          "wordCount": 5904,
+          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
           "author": "hello@smashingmagazine.com (Pierre Burgy)",
           "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
@@ -272,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-          "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)",
-          "description": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
-          "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-          "publishedOn": "2026-07-28T10:00:00.000Z",
-          "wordCount": 3688,
-          "title": "Thinking Outside The Box: Digital Design In The AI Era",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
         }
       ]
     },
@@ -295,6 +305,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/steins-gate-re-boot-game-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "夏Comic Market結束了，當然要來玩命運石之門 RE:BOOT (STEINS;GATE RE:BOOT) ，來看看嘟嘟嚕能否活過8月15日。\n\n  \n\n\n  \n\n2026年的這款新作評價如何？\n我認爲算是失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了",
+          "link": "https://ivonblog.com/posts/steins-gate-re-boot-game-review/",
+          "publishedOn": "2026-08-27T03:00:00.000Z",
+          "wordCount": 1230,
+          "title": "命運石之門RE:BOOT 心得 + 新舊作差異，我覺得不行",
+          "imageUrl": "https://ivonblog.com/posts/steins-gate-re-boot-game-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "一直有人說Firefox和Chrome一樣越來越吃記憶體(RAM)，但說真的，我們能怪他們嗎…？追求低記憶體佔用的指標根本不現實。\n瀏覽器的工作早就不是單純看HTML網頁那麼簡單了，它要管理行程，分多個行程開沙盒保護安全，同步服務，還要處理外掛。此外網頁會載入大量JavaScript，現在還有WebAssembly（在瀏覽器跑C與Rust低階語言寫的程式）、WebGPU存取顯卡，需要的電腦資源自然就會變多了。",
+          "link": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/",
+          "publishedOn": "2026-08-26T15:00:00.000Z",
+          "wordCount": 835,
+          "title": "追求不吃記憶體的瀏覽器是不現實的指標",
+          "imageUrl": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -714,66 +744,6 @@
           "wordCount": 1197,
           "title": "Titanium Browser：支援安裝Chrome擴充套件的輕量Android瀏覽器",
           "imageUrl": "https://ivonblog.com/posts/android-titanium-browser/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone-socrates/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "《伊翁後篇：或論蘋果與自由》\nἼων δεύτερος ἢ περὶ Μήλου καὶ Ἐλευθερίας\n伊翁後篇是《伊翁篇》失傳的後半段，此段文字據信由古希臘哲學家柏拉圖等人記載。\n\n  \n\n出場人物\n蘇格拉底(Socrates)：仍然什麼都不知道，卻總能使知道一切的人開始懷疑自己。\n伊翁(Ion)：同時使用Android與iPhone，自稱已從果粉的洞穴中走出。\n格勞孔(Glaucon)：一位只想把iPhone手機買來用的一般通過爺。\n尚-保羅·沙特(Jean-Paul Charles Aymard Sartre)：從高盧來的黑衣客人，似乎走錯了時代。\n蘋果的神教\n    \n\n    \n    \n        #\n    \n    \n\n昨日黃昏，我與蘇格拉底經過市中心一座四面透明、燈火明亮的神殿。殿內沒有神像，只有一排排閃耀的手機、耳機、手錶和轉接頭。人們安靜地撫摸它們，彷彿正在接受某種入教儀式。",
-          "link": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone-socrates/",
-          "publishedOn": "2026-07-28T18:00:00.000Z",
-          "wordCount": 1468,
-          "title": "蘇格拉底看：iPhone與Android哪個比較好？何謂自由？",
-          "imageUrl": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone-socrates/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "爲什麼會有「如果我要花好幾萬塊買Android手機，幹嘛不買iPhone就好」的心態？\n難不成，你一想到要買Apple產品就會很興奮，就算只是買耳機或一個轉接頭，從購物到下單的過程都會有一種充滿儀式的高級感，收到iPhone就好像拿到黃金一樣需要小心保護？iPhone真的是最偉大的發明！",
-          "link": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone/",
-          "publishedOn": "2026-07-28T17:00:00.000Z",
-          "wordCount": 909,
-          "title": "「如果我要花好幾萬塊買Android手機，幹嘛不買iPhone就好？」的優劣心態",
-          "imageUrl": "https://ivonblog.com/posts/why-do-you-buy-expensive-android-phones-instead-of-the-iphone/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-iconify-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": ".special-table table {\n  border-collapse: collapse !important;\n  border-spacing: 0 !important;\n  border: 0px !important;\n}\n\n.special-table td,\n.special-table th {\n  border: hidden !important;\n  word-break: normal !important;\n}\n\nIconify這個APP能讓你自訂原生Android的狀態欄、系統圖示、鎖定畫面。\n\n想要自訂Android手機外觀嗎？Samsung有Good Lock，小米也有自家的主題系統，那麼Pixel這類的原生Android系統能不能做到呢？",
-          "link": "https://ivonblog.com/posts/android-iconify-app/",
-          "publishedOn": "2026-07-28T15:00:00.000Z",
-          "wordCount": 1218,
-          "title": "使用Iconify自訂Android系統圖示 & 鎖定畫面，適用Pixel與LineageOS等原生系統",
-          "imageUrl": "https://ivonblog.com/posts/android-iconify-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gsc-nendoroid-suzumiya-haruhi-2-0/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "「我是雄中畢業的涼宮春日。我對普通的人類電腦使用者沒有興趣。假如你們當中有使用Plan 9、FreeBSD、Gentoo Linux的話，儘管來找我。完畢！」\n\nGod knows…涼宮春日的內心\n今年是動畫《涼宮春日的憂鬱》播映20週年，動畫第一季在2006年播出。永無止境的8月什麼的…我才不知道呢！",
-          "link": "https://ivonblog.com/posts/gsc-nendoroid-suzumiya-haruhi-2-0/",
-          "publishedOn": "2026-07-28T14:00:00.000Z",
-          "wordCount": 883,
-          "title": "涼宮春日2.0 ～ GSC黏土人第3000號 ～  開箱",
-          "imageUrl": "https://ivonblog.com/posts/gsc-nendoroid-suzumiya-haruhi-2-0/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/teach-scratch-instead-of-c-language-at-school/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "國中小階段，針對初學者應該教哪種程式語言呢？以前我看Scratch覺得這什麼智障玩意，本來程式碼會寫的東西變成貓與積木我就看不懂了，後來發現這其實是不差的入門教材。重點是培養運算思維，屬於108課綱強調的重點。",
-          "link": "https://ivonblog.com/posts/teach-scratch-instead-of-c-language-at-school/",
-          "publishedOn": "2026-07-28T09:00:00.000Z",
-          "wordCount": 832,
-          "title": "國中小資訊課應該教Scratch不要教C語言",
-          "imageUrl": "https://ivonblog.com/posts/teach-scratch-instead-of-c-language-at-school/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/pale-moon-browser/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Pale Moon是想給體驗舊版Firefox的選擇。\n實在不能理解說2017年Firefox v57改版，淘汰掉舊版XUL擴充就導致用戶大量流失的說法，這是Firefox邁向現代化的基礎，瀏覽器擴充的權限不能開太大否則是危險的。看當時的PTT browsers板一堆人在哀嚎XUL的消失。感覺這個嚴重程度不亞於2026年Chrome拋棄Manifest V2。但科技總歸要進步的，人們要適應新東西需要時間。Firefox市佔率流失還有其他因素。",
-          "link": "https://ivonblog.com/posts/pale-moon-browser/",
-          "publishedOn": "2026-07-28T08:00:00.000Z",
-          "wordCount": 1206,
-          "title": "Pale Moon & Basilik瀏覽器：舊版Firefox支援XUL的fork",
-          "imageUrl": "https://ivonblog.com/posts/pale-moon-browser/featured.webp"
         }
       ]
     },
@@ -874,31 +844,6 @@
           "wordCount": 1573,
           "title": "Chris’ Corner: Colors",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-6.16.38-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21454",
-          "author": "Chris Coyier",
-          "description": "Just one week off our big 2.0 launch, Shaw and Chris hop on to talk about how email is actually a big part of the launch. Social media ain’t what it used to be, and not everybody is on your app every single day waiting for a notification. Sponsor: Notion With the recent launch of […]",
-          "link": "https://blog.codepen.io/2026/07/28/436-the-design-message-of-launch-emails-with-mjml/",
-          "publishedOn": "2026-07-28T20:29:28.000Z",
-          "wordCount": 906,
-          "title": "436: The Design & Message of Launch Emails (with MJML)",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-436.mp3",
-            "length": "19739884",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21434",
-          "author": "Chris Coyier",
-          "description": "Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]",
-          "link": "https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/",
-          "publishedOn": "2026-07-27T15:13:00.000Z",
-          "wordCount": 1197,
-          "title": "Chris’ Corner: Click Something Do Something",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -966,31 +911,6 @@
           "wordCount": 1573,
           "title": "Chris’ Corner: Colors",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-6.16.38-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21454",
-          "author": "Chris Coyier",
-          "description": "Just one week off our big 2.0 launch, Shaw and Chris hop on to talk about how email is actually a big part of the launch. Social media ain’t what it used to be, and not everybody is on your app every single day waiting for a notification. Sponsor: Notion With the recent launch of […]",
-          "link": "https://blog.codepen.io/2026/07/28/436-the-design-message-of-launch-emails-with-mjml/",
-          "publishedOn": "2026-07-28T20:29:28.000Z",
-          "wordCount": 906,
-          "title": "436: The Design & Message of Launch Emails (with MJML)",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-436.mp3",
-            "length": "19739884",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21434",
-          "author": "Chris Coyier",
-          "description": "Maybe I’m just old (coughs dust), but if you can make a click do something in HTML and CSS alone, it always feels cool and fancy to me. Even just “click to go to another page”, the foundation of the web, is cool and fancy. And if it happens to go to a same-domain URL, […]",
-          "link": "https://blog.codepen.io/2026/07/27/chris-corner-click-something-do-something/",
-          "publishedOn": "2026-07-27T15:13:00.000Z",
-          "wordCount": 1197,
-          "title": "Chris’ Corner: Click Something Do Something",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     }
