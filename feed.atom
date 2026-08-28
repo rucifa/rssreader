@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T08:41:17.589Z</updated>
+    <updated>2026-08-28T10:53:17.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
+        <id>https://css-tricks.com/?p=395259</id>
+        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
+        <updated>2026-08-27T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
+Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[命運石之門RE:BOOT 心得 + 新舊作差異，我覺得不行]]></title>
         <id>https://ivonblog.com/posts/steins-gate-re-boot-game-review/</id>
@@ -1112,51 +1123,6 @@ Duy Tran開發的LiveContainer能在iOS載入IPA卻不用真的安裝，藉此�
 這個APP名字有點難唸，它是一款無廣告的Youtube APP，支援背景播放、懸浮窗播放、純音樂模式、顯示倒讚、SponsorBlock跳過業配片段、DeArrow消除標題黨縮圖。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux安裝最新的Ladybird，體驗獨立開發的全新瀏覽器]]></title>
-        <id>https://ivonblog.com/posts/ladybird-browser/</id>
-        <link href="https://ivonblog.com/posts/ladybird-browser/"/>
-        <updated>2026-07-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ladybird Browser (瓢蟲瀏覽器) 是一款從頭寫起的瀏覽器。
-
-  
-
-
-1. 簡介
-    
-
-    
-    
-        #
-    
-    
-
-這可是用Rust + C++從頭寫起的瀏覽器呢，不基於Chromium也不使用Gecko更不是WebKit，與現有的瀏覽器擴充都不相容。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Titanium Browser：支援安裝Chrome擴充套件的輕量Android瀏覽器]]></title>
-        <id>https://ivonblog.com/posts/android-titanium-browser/</id>
-        <link href="https://ivonblog.com/posts/android-titanium-browser/"/>
-        <updated>2026-07-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[鈦瀏覽器 (Titanium Browser) 可說是Android版Helium Browser。
-氦瀏覽器 Helium Browser 是2025年新出現的Chromium fork，輕量保護隱私擋廣告。在現代瀏覽器不斷加入各種臃腫功能的當下，Helium開發者反而做減法。預設狀態下跟Chromium一樣幾乎什麼都沒有，十分輕量。內建uBlock Origin將所有廣告全擋掉。Helium沒有Brave的各種品牌置入。且瀏覽器不蒐集使用者資訊。目前Helium由位於美國的兩人團隊imput.net維護，提供Linux、Windows、macOS版本。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bull And Bear Case For Digital Design In The Age Of AI]]></title>
-        <id>https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/</id>
-        <link href="https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"/>
-        <updated>2026-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Budd)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395259",
+          "author": "Daniel Schwarz",
+          "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+          "publishedOn": "2026-08-27T14:41:06.000Z",
+          "wordCount": 4067,
+          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=394713",
           "author": "Saleh Mubashar",
           "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -282,21 +292,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-          "author": "hello@smashingmagazine.com (Andy Budd)",
-          "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
-          "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-          "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 4784,
-          "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
         }
       ]
     },
@@ -724,26 +719,6 @@
           "wordCount": 1192,
           "title": "用Yattee在iPhone與Apple TV無廣告看Youtube影片",
           "imageUrl": "https://ivonblog.com/posts/ios-yattee-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ladybird-browser/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Ladybird Browser (瓢蟲瀏覽器) 是一款從頭寫起的瀏覽器。\n\n  \n\n\n1. 簡介\n    \n\n    \n    \n        #\n    \n    \n\n這可是用Rust + C++從頭寫起的瀏覽器呢，不基於Chromium也不使用Gecko更不是WebKit，與現有的瀏覽器擴充都不相容。",
-          "link": "https://ivonblog.com/posts/ladybird-browser/",
-          "publishedOn": "2026-07-29T22:00:00.000Z",
-          "wordCount": 1171,
-          "title": "在Linux安裝最新的Ladybird，體驗獨立開發的全新瀏覽器",
-          "imageUrl": "https://ivonblog.com/posts/ladybird-browser/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-titanium-browser/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "鈦瀏覽器 (Titanium Browser) 可說是Android版Helium Browser。\n氦瀏覽器 Helium Browser 是2025年新出現的Chromium fork，輕量保護隱私擋廣告。在現代瀏覽器不斷加入各種臃腫功能的當下，Helium開發者反而做減法。預設狀態下跟Chromium一樣幾乎什麼都沒有，十分輕量。內建uBlock Origin將所有廣告全擋掉。Helium沒有Brave的各種品牌置入。且瀏覽器不蒐集使用者資訊。目前Helium由位於美國的兩人團隊imput.net維護，提供Linux、Windows、macOS版本。",
-          "link": "https://ivonblog.com/posts/android-titanium-browser/",
-          "publishedOn": "2026-07-29T18:00:00.000Z",
-          "wordCount": 1197,
-          "title": "Titanium Browser：支援安裝Chrome擴充套件的輕量Android瀏覽器",
-          "imageUrl": "https://ivonblog.com/posts/android-titanium-browser/featured.webp"
         }
       ]
     },
