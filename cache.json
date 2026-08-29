@@ -669,56 +669,6 @@
           "wordCount": 1195,
           "title": "StikDebug，免電腦啟用JIT加速！讓iPhone APP執行速度更快，支援iOS 26以上裝置",
           "imageUrl": "https://ivonblog.com/posts/stikdebug-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-ehpanda-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/ios-ehpanda-app/",
-          "publishedOn": "2026-07-30T17:00:00.000Z",
-          "wordCount": 1481,
-          "title": "iOS看E-hentai的APP：EhPanda",
-          "imageUrl": "https://ivonblog.com/posts/ios-ehpanda-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/blogroll/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。這個頁面每次載入的時候都是隨機排序的喔！",
-          "link": "https://ivonblog.com/blogroll/",
-          "publishedOn": "2026-07-30T14:22:02.000Z",
-          "wordCount": 879,
-          "title": "部落滾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/jhentai-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/jhentai-app/",
-          "publishedOn": "2026-07-30T14:00:00.000Z",
-          "wordCount": 1600,
-          "title": "JHenTai：跨平台的E-hentai APP，電腦版EhViewer替代品，手機電腦皆可用",
-          "imageUrl": "https://ivonblog.com/posts/jhentai-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/a-list-of-e-hentai-apps/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/a-list-of-e-hentai-apps/",
-          "publishedOn": "2026-07-30T10:00:00.000Z",
-          "wordCount": 1516,
-          "title": "除了EhViewer外，你還有這幾款替代APP可以看E-hentai",
-          "imageUrl": "https://ivonblog.com/posts/a-list-of-e-hentai-apps/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-yattee-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "教學如何使用Yattee APP。\n想要在iOS系統無廣告看Youtube影片嗎？試試「Yattee」APP吧。\n\n這個APP名字有點難唸，它是一款無廣告的Youtube APP，支援背景播放、懸浮窗播放、純音樂模式、顯示倒讚、SponsorBlock跳過業配片段、DeArrow消除標題黨縮圖。",
-          "link": "https://ivonblog.com/posts/ios-yattee-app/",
-          "publishedOn": "2026-07-30T00:00:00.000Z",
-          "wordCount": 1192,
-          "title": "用Yattee在iPhone與Apple TV無廣告看Youtube影片",
-          "imageUrl": "https://ivonblog.com/posts/ios-yattee-app/featured.webp"
         }
       ]
     },
