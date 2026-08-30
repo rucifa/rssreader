@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T06:40:18.578Z</updated>
+    <updated>2026-08-30T04:53:08.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YTNine：讓老iPhone與iPad正常看Yotube的APP，支援iOS 6 ~ iOS 9]]></title>
+        <id>https://ivonblog.com/posts/ios-ytnine-app/</id>
+        <link href="https://ivonblog.com/posts/ios-ytnine-app/"/>
+        <updated>2026-08-29T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YTNine, a YouTube client for jailbroken iOS 6 - 9.
+10年前的舊iPhone 4S和iPad Air 2還能用嗎？App都不能裝了。頂多看看Youtube吧，但是要看Youtube影片，Google官方的App已經不能安裝更新了，用Safari瀏覽器？因爲WebKit被鎖在舊版本，也根本打不開呢！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
         <id>https://css-tricks.com/?p=395259</id>
@@ -890,73 +901,6 @@ Minecraft runs on a potato PC, while Luanti runs on a toaster. When running on t
   
 
 嚴格來說，我並沒有裝真正的Android-x86 (BlissOS)，這也不是ChromeOS。而是跑在Arch Linux上的Waydroid容器，透過極小的Wayland合成器讓它全螢幕執行。Linux host除了必要的SSH daemon之外，將整台主機的資源留給Android container。這就變成了Linux + Android混合平板。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-31T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=396295</id>
-        <link href="https://css-tricks.com/whats-important-16/"/>
-        <updated>2026-07-31T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
-What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
-        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
-        <updated>2026-07-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiveContainer + SideStore教學：iPhone無限制安裝第三方APP，免電腦重簽IPA]]></title>
-        <id>https://ivonblog.com/posts/livecontainer-plus-sidestore/</id>
-        <link href="https://ivonblog.com/posts/livecontainer-plus-sidestore/"/>
-        <updated>2026-07-31T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文討論透過融合LiveContainer和SideStore來簽名IPA的方法。簡稱 LC + SS。
-
-  
-
-
-1. 問題點
-    
-
-    
-    
-        #
-    
-    
-
-Duy Tran開發的LiveContainer能在iOS載入IPA卻不用真的安裝，藉此打破iOS側載只能安裝3個APP的限制。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StikDebug，免電腦啟用JIT加速！讓iPhone APP執行速度更快，支援iOS 26以上裝置]]></title>
-        <id>https://ivonblog.com/posts/stikdebug-app/</id>
-        <link href="https://ivonblog.com/posts/stikdebug-app/"/>
-        <updated>2026-07-31T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[StikDebug (舊名StikJIT) 是免電腦的JIT啟用方案，屬於on-device JIT enabler，適用iOS 26以上的iPhone或iPad裝置，不需要越獄。
-這有什麼用呢？許多APP可以因此受益，舉凡UTM、PojavLauncher、PPSSPP、RetroArch模擬器都能夠透過JIT加速，大幅加速執行效能。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
