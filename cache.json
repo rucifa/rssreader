@@ -609,16 +609,6 @@
           "wordCount": 826,
           "title": "不以星星數來判斷Github專案是否值得推薦",
           "imageUrl": "https://ivonblog.com/posts/github-is-not-a-social-media/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/waydroid-only-session/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Configuring Waydroid only session with Sway on Linux. Turning a Linux tablet into a semi-Android tablet.\n我將Surface Go 2變成Android平板了，我可以在開機後選擇要進入Linux電腦版桌面，亦或是Android。這樣能大幅節省系統資源消耗。\n\n  \n\n嚴格來說，我並沒有裝真正的Android-x86 (BlissOS)，這也不是ChromeOS。而是跑在Arch Linux上的Waydroid容器，透過極小的Wayland合成器讓它全螢幕執行。Linux host除了必要的SSH daemon之外，將整台主機的資源留給Android container。這就變成了Linux + Android混合平板。",
-          "link": "https://ivonblog.com/posts/waydroid-only-session/",
-          "publishedOn": "2026-08-01T06:00:00.000Z",
-          "wordCount": 1468,
-          "title": "將Linux Surface平板變成Android平板 (Waydroid only session)",
-          "imageUrl": "https://ivonblog.com/posts/waydroid-only-session/featured.webp"
         }
       ]
     },
