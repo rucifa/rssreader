@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T04:57:22.613Z</updated>
+    <updated>2026-09-01T04:35:56.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone安裝OpenSSH Server方便遠端登入控制 + iproxy代理SSH連線]]></title>
+        <id>https://ivonblog.com/posts/jailbroken-ios-ssh-server/</id>
+        <link href="https://ivonblog.com/posts/jailbroken-ios-ssh-server/"/>
+        <updated>2026-08-31T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[將iPhone & iPad變成SSH Server。
+iOS是基於Darwin開發的系統，理所當然有跑OpenSSH的能力！
+注意，是將iOS變成SSH Server，而非SSH Client。
+在iPhone越獄後，可以在iOS安裝OpenSSH伺服器，讓我們能隨時遠端登入系統執行APT進行系統管理，除錯，使用SFTP傳檔案等等。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[透過Surf瀏覽器讓老iPhone正常打開網頁，Puffin Browser替代品]]></title>
+        <id>https://ivonblog.com/posts/surf-ios-remote-browser/</id>
+        <link href="https://ivonblog.com/posts/surf-ios-remote-browser/"/>
+        <updated>2026-08-31T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Safari無法打開網頁？你的瀏覽器太舊網頁顯示不支援？
+相信這是很多使用老iPhone用戶會遇到的問題。尤其iOS 17以前，所有瀏覽器核心強制使用WebKit，且跟著iOS版本跑。如果被放生，就無法更新瀏覽器核心了。現在最新版的Chrome和Firefox都要iOS 16以上版本才能安裝了呢，那麼舊版裝置怎麼辦呢。慢慢的，網站會嫌你太舊不支援。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
+        <id>https://css-tricks.com/?p=396630</id>
+        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
+        <updated>2026-08-31T15:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
+Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
+        <id>https://css-tricks.com/?p=396738</id>
+        <link href="https://css-tricks.com/whats-important-18/"/>
+        <updated>2026-08-31T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
+What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: What do you do with an HTML email?]]></title>
+        <id>https://blog.codepen.io/?p=21521</id>
+        <link href="https://blog.codepen.io/2026/08/31/chris-corner-what-do-you-do-with-an-html-email/"/>
+        <updated>2026-08-31T12:25:49.000Z</updated>
+        <summary type="html"><![CDATA[I got a cool trick for you. You can just paste an HTML email into Gmail. So let’s say you’re using (the very nice) MJML language to create an nice responsive cross-client-compatible email on CodePen. Like this one. You can just select all that nice visual output and Copy it. Then in Gmail, make a […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: What do you do with an HTML email?]]></title>
+        <id>https://blog.codepen.io/?p=21521</id>
+        <link href="https://blog.codepen.io/2026/08/31/chris-corner-what-do-you-do-with-an-html-email/"/>
+        <updated>2026-08-31T12:25:49.000Z</updated>
+        <summary type="html"><![CDATA[I got a cool trick for you. You can just paste an HTML email into Gmail. So let’s say you’re using (the very nice) MJML language to create an nice responsive cross-client-compatible email on CodePen. Like this one. You can just select all that nice visual output and Copy it. Then in Gmail, make a […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS用iSH Shell跑SSH伺服器，電腦遠端連線存取iPhone檔案]]></title>
+        <id>https://ivonblog.com/posts/ios-ish-shell-ssh-server/</id>
+        <link href="https://ivonblog.com/posts/ios-ish-shell-ssh-server/"/>
+        <updated>2026-08-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文講述的主旨不是要你用iPhone SSH到遠端主機，而是在iPhone跑SSH伺服器，讓電腦可以遠端存取iPhone檔案，不需要越獄。
+1. 準備SSH連線客戶端
+    
+
+    
+    
+        #
+    
+    
+
+Linux電腦：開啟終端機，安裝openssh-client套件]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
+        <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
+        <updated>2026-08-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS就是拿macOS改的，你還沒收到通知嗎...越獄後的恍然大悟]]></title>
+        <id>https://ivonblog.com/posts/ios-is-based-on-macos/</id>
+        <link href="https://ivonblog.com/posts/ios-is-based-on-macos/"/>
+        <updated>2026-08-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[似乎有人會以為iOS是憑空生出來的系統，但絕對不是這樣。有Mac的技術積累才有iOS。
+你還沒收到通知嗎，iOS就是拿macOS改的。
+iOS真的將檔案系統隱藏的很好，跟Android沒Root還能瞄到根目錄對比起來，一般使用者頂多看到App本身的目錄。檔案App也是有限的家目錄，無法知道iPhone的系統結構有/usr/bin和/etc的存在。使用者就容易變成只知道「App」，而沒有PC檔案管理的概念。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們真的需要小手機回來嗎，還是懷舊感作祟？]]></title>
+        <id>https://ivonblog.com/posts/do-we-really-want-small-phones-back/</id>
+        <link href="https://ivonblog.com/posts/do-we-really-want-small-phones-back/"/>
+        <updated>2026-08-31T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[風立ちぬ、いざ生きめやも。
+手機太大或太小都不行啊。
+有個有趣比喻說：小手機現在就像愛快羅密歐(Alfa Romeo)的車一樣，很多人吵著說想要但其實沒人要買了。
+這是在Reddit的Nothing Phone社區看到的。有人建議Nothing應該要迎合小眾市場出一款小型手機。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YTNine：讓老iPhone與iPad正常看Yotube的APP，支援iOS 6 ~ iOS 9]]></title>
         <id>https://ivonblog.com/posts/ios-ytnine-app/</id>
@@ -876,16 +997,6 @@ Gap Decorations Are Now Available, Here’s What’s New originally handwritten 
         <summary type="html"><![CDATA[Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑。
 Minecraft runs on a potato PC, while Luanti runs on a toaster. When running on the low-end PC, the performance of Luanti is better than Minecraft.
 我測試了，在極端低劣硬體（Intel Pentium 4425y + UHD 615內顯 + 4GB RAM）的情況下，方塊遊戲Luanti能提供比Minecraft更好的視覺效果。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不以星星數來判斷Github專案是否值得推薦]]></title>
-        <id>https://ivonblog.com/posts/github-is-not-a-social-media/</id>
-        <link href="https://ivonblog.com/posts/github-is-not-a-social-media/"/>
-        <updated>2026-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[媒體報導的時候用「超強開源！這個項目Github破幾萬顆星」當作推薦的指標是不是在騙不懂的人啊，你要不要看看GNU Savannah上面的Git儲存庫原始碼幾顆星啊？零顆！但GNU Coreutils仍在全球被數百萬人使用。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
