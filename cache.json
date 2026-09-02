@@ -170,16 +170,6 @@
           "wordCount": 3259,
           "title": "2026 State of CSS, Devs Surveys",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396204",
-          "author": "Sam Davis Omekarajr",
-          "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-          "publishedOn": "2026-08-03T15:53:20.000Z",
-          "wordCount": 3525,
-          "title": "Gap Decorations Are Now Available, Here’s What’s New",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
         }
       ]
     },
@@ -295,6 +285,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/ios-newterm-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "註：本APP需要越獄環境，如果你不需要越獄功能，只是想要單純存取Linux指令工具，請改到App Store裝iSH Shell。\n將iOS裝置越獄後，我們通常會安裝Sileo管理插件吧，檔案管理則是Filza，那麼這一切背後的操作是否能用指令完成呢？",
+          "link": "https://ivonblog.com/posts/ios-newterm-app/",
+          "publishedOn": "2026-08-31T19:00:00.000Z",
+          "wordCount": 1264,
+          "title": "NewTerm：iOS越獄必備終端機APP，用APT指令管理Sileo插件更新",
+          "imageUrl": "https://ivonblog.com/posts/ios-newterm-app/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/jailbroken-ios-ssh-server/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -664,26 +664,6 @@
           "wordCount": 839,
           "title": "用Linux代表你是Larper，你只是想曬桌布耍酷而已",
           "imageUrl": "https://ivonblog.com/posts/linux-users-are-larpers/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/decimen-optical-transfer/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "請用手機開啓這個網頁：https://decimen.app/receive/\n然後播放以下影片，掃描裡面出現的閃爍QR Code。\n你就會得到一張小禮物。\n現在我可以透過影片跟各位直接分享檔案了，就是說，檔案直接編碼後儲存在影片裡面！\n透過：Decimen Optical Transfer 這個vibe-coded的專案我才知道QR Code無線傳檔是有可能的，將檔案用噴泉碼編碼之後，用手機鏡頭解碼得到原始檔案，不用透過網路或藍牙，它也沒有將檔案上傳到第三方伺服器再下載，全都是透過QR Code光學傳輸。",
-          "link": "https://ivonblog.com/posts/decimen-optical-transfer/",
-          "publishedOn": "2026-08-03T06:00:00.000Z",
-          "wordCount": 840,
-          "title": "Decimen：透過QR Code掃碼傳檔案，不用網路",
-          "imageUrl": "https://ivonblog.com/posts/decimen-optical-transfer/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑。\nMinecraft runs on a potato PC, while Luanti runs on a toaster. When running on the low-end PC, the performance of Luanti is better than Minecraft.\n我測試了，在極端低劣硬體（Intel Pentium 4425y + UHD 615內顯 + 4GB RAM）的情況下，方塊遊戲Luanti能提供比Minecraft更好的視覺效果。",
-          "link": "https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/",
-          "publishedOn": "2026-08-03T05:00:00.000Z",
-          "wordCount": 862,
-          "title": "Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑",
-          "imageUrl": "https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/featured.webp"
         }
       ]
     },

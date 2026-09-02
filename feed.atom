@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T04:35:56.721Z</updated>
+    <updated>2026-09-02T03:58:32.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NewTerm：iOS越獄必備終端機APP，用APT指令管理Sileo插件更新]]></title>
+        <id>https://ivonblog.com/posts/ios-newterm-app/</id>
+        <link href="https://ivonblog.com/posts/ios-newterm-app/"/>
+        <updated>2026-08-31T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[註：本APP需要越獄環境，如果你不需要越獄功能，只是想要單純存取Linux指令工具，請改到App Store裝iSH Shell。
+將iOS裝置越獄後，我們通常會安裝Sileo管理插件吧，檔案管理則是Filza，那麼這一切背後的操作是否能用指令完成呢？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone安裝OpenSSH Server方便遠端登入控制 + iproxy代理SSH連線]]></title>
         <id>https://ivonblog.com/posts/jailbroken-ios-ssh-server/</id>
@@ -960,43 +971,6 @@ APatch是介於KernelSU以及Magisk的折衷方案，同時相容兩邊的模組
   海綿寶寶TikTok嘉豪
 
 Larper，名詞，本來是指真人角色扮演遊戲(Live Action Role Playing)的玩家，他們爲了玩劇本殺會全力投入演戲力求還原設定，但後來網路上逐漸衍生出負面含義，也就是poser。意思類似臺語說的：假會(ké-gâu)]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
-        <id>https://css-tricks.com/?p=396204</id>
-        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
-        <updated>2026-08-03T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
-Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sam Davis Omekarajr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decimen：透過QR Code掃碼傳檔案，不用網路]]></title>
-        <id>https://ivonblog.com/posts/decimen-optical-transfer/</id>
-        <link href="https://ivonblog.com/posts/decimen-optical-transfer/"/>
-        <updated>2026-08-03T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[請用手機開啓這個網頁：https://decimen.app/receive/
-然後播放以下影片，掃描裡面出現的閃爍QR Code。
-你就會得到一張小禮物。
-現在我可以透過影片跟各位直接分享檔案了，就是說，檔案直接編碼後儲存在影片裡面！
-透過：Decimen Optical Transfer 這個vibe-coded的專案我才知道QR Code無線傳檔是有可能的，將檔案用噴泉碼編碼之後，用手機鏡頭解碼得到原始檔案，不用透過網路或藍牙，它也沒有將檔案上傳到第三方伺服器再下載，全都是透過QR Code光學傳輸。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑]]></title>
-        <id>https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/</id>
-        <link href="https://ivonblog.com/posts/luanti-vs-minecraft-on-low-end-pc/"/>
-        <updated>2026-08-03T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Minecraft能在馬鈴薯電腦跑，Luanti則是地瓜葉電腦也能跑。
-Minecraft runs on a potato PC, while Luanti runs on a toaster. When running on the low-end PC, the performance of Luanti is better than Minecraft.
-我測試了，在極端低劣硬體（Intel Pentium 4425y + UHD 615內顯 + 4GB RAM）的情況下，方塊遊戲Luanti能提供比Minecraft更好的視覺效果。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
