@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T03:58:32.480Z</updated>
+    <updated>2026-09-03T03:57:51.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Android Open：反對Google的Android開發者驗證]]></title>
+        <id>https://ivonblog.com/posts/keep-android-open/</id>
+        <link href="https://ivonblog.com/posts/keep-android-open/"/>
+        <updated>2026-09-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[未來，Android手機將無法自由地安裝APK！
+從2026年9月開始，Google實施了Android開發者驗證(Android Developer Verification)政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部落滾]]></title>
+        <id>https://ivonblog.com/blogroll/</id>
+        <link href="https://ivonblog.com/blogroll/"/>
+        <updated>2026-09-01T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。這個頁面每次載入的時候都是隨機排序的喔！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NewTerm：iOS越獄必備終端機APP，用APT指令管理Sileo插件更新]]></title>
         <id>https://ivonblog.com/posts/ios-newterm-app/</id>
@@ -945,32 +966,6 @@ APatch是介於KernelSU以及Magisk的折衷方案，同時相容兩邊的模組
 
 本文Ivon分享開源Root方案「APatch」的安裝方式。
 撰文當下測試的手機：Sony Xperia 10 V，系統版本LineageOS 23 (Android 16)，APatch版本11219]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年Magisk推薦安裝的模組，提升手機效能、擋廣告、自定義主題]]></title>
-        <id>https://ivonblog.com/posts/magisk-recommended-modules/</id>
-        <link href="https://ivonblog.com/posts/magisk-recommended-modules/"/>
-        <updated>2026-08-03T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[推薦一些Ivon覺得不錯的Magisk模組（模塊，modules），以跨裝置、實用性、開源、常常有在更新的為主，包含一些Root權限APP。
-圖例：使用「Iconify」模組，自訂Android的Material You外觀與鎖定畫面。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Linux代表你是Larper，你只是想曬桌布耍酷而已]]></title>
-        <id>https://ivonblog.com/posts/linux-users-are-larpers/</id>
-        <link href="https://ivonblog.com/posts/linux-users-are-larpers/"/>
-        <updated>2026-08-03T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[什麼樣的人會刻意去用Linux？
-你看，同年齡的別人都在用Windows臭打遊戲，而我則是Linux hacking高手，就很……
-
-  海綿寶寶TikTok嘉豪
-
-Larper，名詞，本來是指真人角色扮演遊戲(Live Action Role Playing)的玩家，他們爲了玩劇本殺會全力投入演戲力求還原設定，但後來網路上逐漸衍生出負面含義，也就是poser。意思類似臺語說的：假會(ké-gâu)]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

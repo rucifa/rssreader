@@ -286,6 +286,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/keep-android-open/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "未來，Android手機將無法自由地安裝APK！\n從2026年9月開始，Google實施了Android開發者驗證(Android Developer Verification)政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。",
+          "link": "https://ivonblog.com/posts/keep-android-open/",
+          "publishedOn": "2026-09-02T04:00:00.000Z",
+          "wordCount": 1219,
+          "title": "Keep Android Open：反對Google的Android開發者驗證",
+          "imageUrl": "https://ivonblog.com/posts/keep-android-open/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/blogroll/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。這個頁面每次載入的時候都是隨機排序的喔！",
+          "link": "https://ivonblog.com/blogroll/",
+          "publishedOn": "2026-09-01T17:00:00.000Z",
+          "wordCount": 882,
+          "title": "部落滾",
+          "imageUrl": null
+        },
+        {
           "id": "https://ivonblog.com/posts/ios-newterm-app/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "註：本APP需要越獄環境，如果你不需要越獄功能，只是想要單純存取Linux指令工具，請改到App Store裝iSH Shell。\n將iOS裝置越獄後，我們通常會安裝Sileo管理插件吧，檔案管理則是Filza，那麼這一切背後的操作是否能用指令完成呢？",
@@ -644,26 +664,6 @@
           "wordCount": 1205,
           "title": "APatch Root方案安裝教學，相容KernelSU與Magisk模組",
           "imageUrl": "https://ivonblog.com/posts/apatch-android-root/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/magisk-recommended-modules/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "推薦一些Ivon覺得不錯的Magisk模組（模塊，modules），以跨裝置、實用性、開源、常常有在更新的為主，包含一些Root權限APP。\n圖例：使用「Iconify」模組，自訂Android的Material You外觀與鎖定畫面。",
-          "link": "https://ivonblog.com/posts/magisk-recommended-modules/",
-          "publishedOn": "2026-08-03T18:30:00.000Z",
-          "wordCount": 1327,
-          "title": "2026年Magisk推薦安裝的模組，提升手機效能、擋廣告、自定義主題",
-          "imageUrl": "https://ivonblog.com/posts/magisk-recommended-modules/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-users-are-larpers/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "什麼樣的人會刻意去用Linux？\n你看，同年齡的別人都在用Windows臭打遊戲，而我則是Linux hacking高手，就很……\n\n  海綿寶寶TikTok嘉豪\n\nLarper，名詞，本來是指真人角色扮演遊戲(Live Action Role Playing)的玩家，他們爲了玩劇本殺會全力投入演戲力求還原設定，但後來網路上逐漸衍生出負面含義，也就是poser。意思類似臺語說的：假會(ké-gâu)",
-          "link": "https://ivonblog.com/posts/linux-users-are-larpers/",
-          "publishedOn": "2026-08-03T18:00:00.000Z",
-          "wordCount": 839,
-          "title": "用Linux代表你是Larper，你只是想曬桌布耍酷而已",
-          "imageUrl": "https://ivonblog.com/posts/linux-users-are-larpers/featured.webp"
         }
       ]
     },
