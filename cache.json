@@ -286,6 +286,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/too-poor-for-business-logic/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "覺得Youtube Premium太貴……那個，也許是因為你太窮。在成功的商業人士世界，訂閱一個App根本就像買杯星巴克一樣日常不過的事情。\n試論：\n看Youtube使用擋廣告軟體是小偷行為，都給你Premium這種方案了你不訂閱是要讓創作者喝西北風？Google禁絕Adblock是必要行為。",
+          "link": "https://ivonblog.com/posts/too-poor-for-business-logic/",
+          "publishedOn": "2026-09-03T02:00:00.000Z",
+          "wordCount": 848,
+          "title": "覺得訂閱制軟體很貴，大概是你太窮，不懂商業邏輯",
+          "imageUrl": "https://ivonblog.com/posts/too-poor-for-business-logic/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/keep-android-open/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "未來，Android手機將無法自由地安裝APK！\n從2026年9月開始，Google實施了Android開發者驗證(Android Developer Verification)政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。",
