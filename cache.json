@@ -160,16 +160,6 @@
           "wordCount": 5295,
           "title": "Using and Styling the Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396471",
-          "author": "Geoff Graham",
-          "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-          "publishedOn": "2026-08-06T15:54:52.000Z",
-          "wordCount": 3259,
-          "title": "2026 State of CSS, Devs Surveys",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
         }
       ]
     },
@@ -285,6 +275,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/kancolle-command-center-kai/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我們知道，艦隊Collection（艦隊收藏、艦これ）有許多遊戲資料是黑箱運作的，提督們經過反覆檢證與計算，才把一個個的遊戲公式推算出來，例如索敵值、制空值、遠征配置等資料，讓提督能夠有效的攻略遊戲。\n為了更有效的攻略遊戲，玩艦隊Collection時好的輔助程式是不可少的，它可以減少提督翻閱Wiki、手動按計算機的時間。",
+          "link": "https://ivonblog.com/posts/kancolle-command-center-kai/",
+          "publishedOn": "2026-09-03T07:00:00.000Z",
+          "wordCount": 1294,
+          "title": "「KC3改」 + Damecon Browser使用教學，玩艦隊Collection好用的輔助程式",
+          "imageUrl": "https://ivonblog.com/posts/kancolle-command-center-kai/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/too-poor-for-business-logic/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -664,16 +664,6 @@
           "wordCount": 1360,
           "title": "Xperia XZ1/XZ2使用Xperable漏洞強制解鎖Bootloader + 取得Root權限",
           "imageUrl": "https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/apatch-android-root/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "覺得Magisk太容易被Root偵測針對？想用KernelSU卻發現手機廠商太黑心不支援GKI核心？這時可以使用APatch作為替代。\n\n  \n\nAPatch是介於KernelSU以及Magisk的折衷方案，同時相容兩邊的模組，並且可以達到不錯的Root隱蔽性。\n\n本文Ivon分享開源Root方案「APatch」的安裝方式。\n撰文當下測試的手機：Sony Xperia 10 V，系統版本LineageOS 23 (Android 16)，APatch版本11219",
-          "link": "https://ivonblog.com/posts/apatch-android-root/",
-          "publishedOn": "2026-08-06T08:00:00.000Z",
-          "wordCount": 1205,
-          "title": "APatch Root方案安裝教學，相容KernelSU與Magisk模組",
-          "imageUrl": "https://ivonblog.com/posts/apatch-android-root/featured.webp"
         }
       ]
     },
