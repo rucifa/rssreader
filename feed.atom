@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T03:56:22.743Z</updated>
+    <updated>2026-09-06T04:02:11.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -916,51 +916,6 @@ Sony Xperia XZ1 Compact，代號lilac，可以透過刷機更新 Android版本�
         <summary type="html"><![CDATA[Dopamine (多巴胺) 為一款iOS越獄APP，能夠讓你的iPhone/iPad擁有類似永久越獄的環境。支援iOS 15/iOS 16/iOS 17/iOS 18/iOS 26系統。
 
 為什麼這麼說呢？因為Dopamine屬於半完美越獄(semi-untethered jailbreak)，每次重開機後要重新啟用越獄環境。但是不需要電腦，靠APP啟用就行。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
-        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
-        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
-        <updated>2026-08-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony手機相機從XZ1傳承到Xperia 1的調色風格]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-camera-color-science-from-xz1-to-1-iii/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-camera-color-science-from-xz1-to-1-iii/"/>
-        <updated>2026-08-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[去年大約這個時間我也去了澄清湖呢，這地方的氛圍給一種黨國時期老人會很喜歡的感覺。跟高雄其他景點比起來，感覺連路牌都是經費不足的樣子。
-在這裡測試Xperia XZ1c (2017) V.S. Xperia 1 III (2021) 拍出來的照片，使用自動模式。儘管新機解析度提升，他們的色調看起來就都Sony拍的，色彩風格(color science)傳承了下來。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xperia XZ1/XZ2使用Xperable漏洞強制解鎖Bootloader + 取得Root權限]]></title>
-        <id>https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/</id>
-        <link href="https://ivonblog.com/posts/unlock-sony-xperia-bootloader-using-xperable-fastboot-exploit/"/>
-        <updated>2026-08-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在無法Root也不能刷機的舊型Sony Xperia XZ系列手機，可以透過Xperable工具強制解鎖Bootloader。
-解鎖Bootloader並刷入LineageOS的日版Sony Xperia XZ1 Compact
-
-這是一套組合拳。2019年，XDA開發者j4nn基於CVE-2019-2215漏洞，製作了名爲BinderShell工具，能夠在不解鎖Bootloader的情況下取得Root權限。並且能進一步搭配另一個CVE-2021-1931緩衝區溢位漏洞，修改Sony手機的開機過程，向Fastboot寫入自訂數值，從而強制解鎖Sony手機的Bootloader。後者需要用到2021年發表的Xperable工具。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
