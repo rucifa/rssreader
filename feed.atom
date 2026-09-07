@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T04:02:11.004Z</updated>
+    <updated>2026-09-07T04:01:34.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -904,18 +904,6 @@ SmashingConf Freiburg 2026, September 7-10 originally handwritten and published 
 
 Sony Xperia XZ1 Compact，代號lilac，可以透過刷機更新 Android版本。
 這臺給我的感覺，正如我在2017年看《少女終末旅行》一樣，有一種走向末日的安詳感。然後現在繼續延伸生命。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Dopamine」iOS 15 ~ iOS 26免電腦越獄APP使用教學]]></title>
-        <id>https://ivonblog.com/posts/ios-dopamine-jailbreak/</id>
-        <link href="https://ivonblog.com/posts/ios-dopamine-jailbreak/"/>
-        <updated>2026-08-08T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dopamine (多巴胺) 為一款iOS越獄APP，能夠讓你的iPhone/iPad擁有類似永久越獄的環境。支援iOS 15/iOS 16/iOS 17/iOS 18/iOS 26系統。
-
-為什麼這麼說呢？因為Dopamine屬於半完美越獄(semi-untethered jailbreak)，每次重開機後要重新啟用越獄環境。但是不需要電腦，靠APP啟用就行。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

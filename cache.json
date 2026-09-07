@@ -609,16 +609,6 @@
           "wordCount": 1392,
           "title": "Xperia XZ1 Compact刷LineageOS + 取得Root權限",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-dopamine-jailbreak/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Dopamine (多巴胺) 為一款iOS越獄APP，能夠讓你的iPhone/iPad擁有類似永久越獄的環境。支援iOS 15/iOS 16/iOS 17/iOS 18/iOS 26系統。\n\n為什麼這麼說呢？因為Dopamine屬於半完美越獄(semi-untethered jailbreak)，每次重開機後要重新啟用越獄環境。但是不需要電腦，靠APP啟用就行。",
-          "link": "https://ivonblog.com/posts/ios-dopamine-jailbreak/",
-          "publishedOn": "2026-08-08T02:00:00.000Z",
-          "wordCount": 1300,
-          "title": "「Dopamine」iOS 15 ~ iOS 26免電腦越獄APP使用教學",
-          "imageUrl": "https://ivonblog.com/posts/ios-dopamine-jailbreak/featured.webp"
         }
       ]
     },
