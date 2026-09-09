@@ -130,26 +130,6 @@
           "wordCount": 11022,
           "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394978",
-          "author": "Preethi",
-          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/animating-css-border-image/",
-          "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3803,
-          "title": "Animating CSS border-image",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396506",
-          "author": "Geoff Graham",
-          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-          "publishedOn": "2026-08-10T15:57:39.000Z",
-          "wordCount": 2667,
-          "title": "SmashingConf Freiburg 2026, September 7-10",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
         }
       ]
     },
@@ -250,6 +230,36 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/lineageos-statistics-in-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Android手機刷機真的涼了嗎？\n全球刷機人數不斷減少的當下，北朝鮮居然還有9個太陽的後裔在研究Android刷機，沒有路 ✋😭🤚 將軍真是高瞻遠矚。\n\n  \n\nLineageOS有使用者自願參加的統計功能，會蒐集匿名系統資料上傳到官方伺服器，能夠讓開發者知道有多少人在用這個系統。",
+          "link": "https://ivonblog.com/posts/lineageos-statistics-in-2026/",
+          "publishedOn": "2026-09-08T05:00:00.000Z",
+          "wordCount": 851,
+          "title": "有多少人在用LineageOS？刷機真的不行了嗎？",
+          "imageUrl": "https://ivonblog.com/posts/lineageos-statistics-in-2026/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/old-flagship-phones-are-better-than-new-mid-range-phones/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你會買過季旗艦機還是新中階機呢…？\n我要說「現在的手機效能過剩」完全是假命題。手機處理器不是越新就越強，並非跑分高就代表新中階段已經摸到了舊旗艦的邊。不太可能才隔不到5年，新中階就超越舊旗艦。",
+          "link": "https://ivonblog.com/posts/old-flagship-phones-are-better-than-new-mid-range-phones/",
+          "publishedOn": "2026-09-07T15:00:00.000Z",
+          "wordCount": 856,
+          "title": "買新中階還是舊旗艦？手機效能過剩了，完全是假命題",
+          "imageUrl": "https://ivonblog.com/posts/old-flagship-phones-are-better-than-new-mid-range-phones/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/reduce-snapdragon-888-heating-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "透過兩個技巧大幅減少高通處理器發熱。本文討論的內容主要適用於搭載高通SD888和SD 8Gen 1處理器的手機。\n實際例子：未調教前的SD888，連遊戲都沒開，簡單滑個Facebook和瀏覽器，溫度就飆破45度。調教後，機身溫度在40度左右徘徊，不容易發熱了。",
+          "link": "https://ivonblog.com/posts/reduce-snapdragon-888-heating-root/",
+          "publishedOn": "2026-09-07T14:00:00.000Z",
+          "wordCount": 1304,
+          "title": "Root解決高通888 & 8Gen1手機的發熱問題，提昇續航",
+          "imageUrl": "https://ivonblog.com/posts/reduce-snapdragon-888-heating-root/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/kancolle-command-center-kai/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -579,36 +589,6 @@
           "wordCount": 853,
           "title": "第三方ROM如果依賴Google釋出的AOSP原始碼遲早像RHEL一樣玩死開源",
           "imageUrl": "https://ivonblog.com/posts/2026081201/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "在2026年繼續使用十年前的Sony Xperia XZ1 Compact的體驗？\n刷機續命的可能性存在嗎？\n\n  \n\n先聽首歌吧：\n初音ミクオリジナル曲「Little Traveler」 (2008)\n這就是你需要的正常手機的樣子。",
-          "link": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/",
-          "publishedOn": "2026-08-10T15:00:00.000Z",
-          "wordCount": 1311,
-          "title": "漂漂方形小手機開箱：Xperia XZ1 Compact，十年後繼續使用5吋小手機～",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-xz1-compact-review/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/why-gacha-players-dont-just-watch-hentai/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/why-gacha-players-dont-just-watch-hentai/",
-          "publishedOn": "2026-08-10T12:00:00.000Z",
-          "wordCount": 1215,
-          "title": "你是本子玩家，玩電子妓女手遊究竟是要看角色還是玩遊戲，何不直接玩成人遊戲？",
-          "imageUrl": "https://ivonblog.com/posts/why-gacha-players-dont-just-watch-hentai/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Android最後的美型方塊小手機。\n\n  \n\n現在，重生了。\n\n  \n\nSony Xperia XZ1 Compact，代號lilac，可以透過刷機更新 Android版本。\n這臺給我的感覺，正如我在2017年看《少女終末旅行》一樣，有一種走向末日的安詳感。然後現在繼續延伸生命。",
-          "link": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/",
-          "publishedOn": "2026-08-09T17:00:00.000Z",
-          "wordCount": 1392,
-          "title": "Xperia XZ1 Compact刷LineageOS + 取得Root權限",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-xz1-compact-lineageos/featured.webp"
         }
       ]
     },
@@ -650,6 +630,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21583",
+          "author": "Chris Coyier",
+          "description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]",
+          "link": "https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/",
+          "publishedOn": "2026-09-08T17:42:59.000Z",
+          "wordCount": 875,
+          "title": "439: Dragging! Drag Everything!",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-439.mp3",
+            "length": "14390405",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21521",
           "author": "Chris Coyier",
@@ -727,6 +722,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21583",
+          "author": "Chris Coyier",
+          "description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]",
+          "link": "https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/",
+          "publishedOn": "2026-09-08T17:42:59.000Z",
+          "wordCount": 875,
+          "title": "439: Dragging! Drag Everything!",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-439.mp3",
+            "length": "14390405",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21521",
           "author": "Chris Coyier",
