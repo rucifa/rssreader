@@ -139,6 +139,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
+          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": 4572,
+          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
@@ -207,21 +222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-          "author": "hello@smashingmagazine.com (Alexey Kopytin)",
-          "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
-          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-          "publishedOn": "2026-08-11T10:00:00.000Z",
-          "wordCount": 4329,
-          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
         }
       ]
     },

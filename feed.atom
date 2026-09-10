@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T04:10:28.230Z</updated>
+    <updated>2026-09-10T04:08:04.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
+        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
+        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[439: Dragging! Drag Everything!]]></title>
         <id>https://blog.codepen.io/?p=21583</id>
@@ -848,16 +858,6 @@ Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong
 目前，第三方ROM功能比較完整的屬GrapheneOS，比LineageOS穩定。可是，GrapheneOS開發仰賴Google佛心釋出的完整Pixel原始碼還有各種底層驅動，在穩定的系統基礎上強化安全性。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
-        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
-        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
-        <updated>2026-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
         </author>
     </entry>
 </feed>
