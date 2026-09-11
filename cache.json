@@ -120,16 +120,6 @@
           "wordCount": 3511,
           "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396255",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-          "publishedOn": "2026-08-12T13:43:56.000Z",
-          "wordCount": 11022,
-          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
         }
       ]
     },
@@ -579,16 +569,6 @@
           "wordCount": 809,
           "title": "我的私心推薦歌單（2026年版）",
           "imageUrl": "https://ivonblog.com/posts/my-best-hit-music-playlist/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/2026081201/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Android會不會走向閉源呢，仰賴AOSP的第三方ROM又該怎麼辦？\n目前，第三方ROM功能比較完整的屬GrapheneOS，比LineageOS穩定。可是，GrapheneOS開發仰賴Google佛心釋出的完整Pixel原始碼還有各種底層驅動，在穩定的系統基礎上強化安全性。",
-          "link": "https://ivonblog.com/posts/2026081201/",
-          "publishedOn": "2026-08-12T01:00:00.000Z",
-          "wordCount": 853,
-          "title": "第三方ROM如果依賴Google釋出的AOSP原始碼遲早像RHEL一樣玩死開源",
-          "imageUrl": "https://ivonblog.com/posts/2026081201/featured.webp"
         }
       ]
     },
@@ -612,16 +592,6 @@
           "wordCount": 2039,
           "title": "2026 最新Cloudflare 註冊教學：3 分鐘免費申請帳號完整步驟",
           "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/08/ChatGPT-Image-2026年8月18日-上午10_49_30.png"
-        },
-        {
-          "id": "https://www.chirue.com/?p=15997",
-          "author": "Fany",
-          "description": "在 AI 驅動軟體開發的浪潮下，從程式撰寫、測試到部署的每個環節都正被重新定義。自 2024 年 Gartne […]",
-          "link": "https://www.chirue.com/%e5%b0%8e%e5%85%a5github-copilot%e5%89%8d%ef%bc%8ccio%e8%a9%b2%e7%a2%ba%e8%aa%8d%e7%9a%845%e4%bb%b6%e4%ba%8b%ef%bc%9a%e5%90%88%e8%a6%8f%e3%80%81%e6%88%90%e6%9c%ac%e8%88%87%e6%a8%a1%e5%9e%8b%e9%81%b8/",
-          "publishedOn": "2026-08-12T05:35:46.000Z",
-          "wordCount": 2299,
-          "title": "導入GitHub Copilot前，CIO該確認的5件事：合規、成本與模型選擇全指南",
-          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/08/未命名設計-1.png"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T04:08:04.664Z</updated>
+    <updated>2026-09-11T04:06:09.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -826,38 +826,6 @@ Sony曾經也是這樣，有自家工廠。我那買不到兩年就綠線發作�
         <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
-        <id>https://css-tricks.com/?p=396255</id>
-        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
-        <updated>2026-08-12T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
-Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[導入GitHub Copilot前，CIO該確認的5件事：合規、成本與模型選擇全指南]]></title>
-        <id>https://www.chirue.com/?p=15997</id>
-        <link href="https://www.chirue.com/%e5%b0%8e%e5%85%a5github-copilot%e5%89%8d%ef%bc%8ccio%e8%a9%b2%e7%a2%ba%e8%aa%8d%e7%9a%845%e4%bb%b6%e4%ba%8b%ef%bc%9a%e5%90%88%e8%a6%8f%e3%80%81%e6%88%90%e6%9c%ac%e8%88%87%e6%a8%a1%e5%9e%8b%e9%81%b8/"/>
-        <updated>2026-08-12T05:35:46.000Z</updated>
-        <summary type="html"><![CDATA[在 AI 驅動軟體開發的浪潮下，從程式撰寫、測試到部署的每個環節都正被重新定義。自 2024 年 Gartne […]]]></summary>
-        <author>
-            <name>Fany</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第三方ROM如果依賴Google釋出的AOSP原始碼遲早像RHEL一樣玩死開源]]></title>
-        <id>https://ivonblog.com/posts/2026081201/</id>
-        <link href="https://ivonblog.com/posts/2026081201/"/>
-        <updated>2026-08-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Android會不會走向閉源呢，仰賴AOSP的第三方ROM又該怎麼辦？
-目前，第三方ROM功能比較完整的屬GrapheneOS，比LineageOS穩定。可是，GrapheneOS開發仰賴Google佛心釋出的完整Pixel原始碼還有各種底層驅動，在穩定的系統基礎上強化安全性。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
