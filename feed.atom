@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T04:06:09.659Z</updated>
+    <updated>2026-09-12T04:06:48.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shrink-wrap Text with `position-anchor`]]></title>
+        <id>https://blog.codepen.io/?p=21601</id>
+        <link href="https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/"/>
+        <updated>2026-09-11T22:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]]]></summary>
+        <author>
+            <name>Stephen Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shrink-wrap Text with `position-anchor`]]></title>
+        <id>https://blog.codepen.io/?p=21601</id>
+        <link href="https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/"/>
+        <updated>2026-09-11T22:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]]]></summary>
+        <author>
+            <name>Stephen Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
+        <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
+        <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
+        <updated>2026-09-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alex Williams)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《月影魅像-解放之羽》心得：讓人下面入木三分的懸疑恐怖小品]]></title>
+        <id>https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/</id>
+        <link href="https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/"/>
+        <updated>2026-09-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
         <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
@@ -768,64 +845,6 @@ Uperf簡介
 這篇文章討論的皆是針對Uperf這款工具所設計的前端。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Colors]]></title>
-        <id>https://blog.codepen.io/?p=21451</id>
-        <link href="https://blog.codepen.io/2026/08/13/chris-corner-colors/"/>
-        <updated>2026-08-13T14:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Colors]]></title>
-        <id>https://blog.codepen.io/?p=21451</id>
-        <link href="https://blog.codepen.io/2026/08/13/chris-corner-colors/"/>
-        <updated>2026-08-13T14:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手機在中國生產就有資安風險嗎？]]></title>
-        <id>https://ivonblog.com/posts/are-mic-phones-dangerous/</id>
-        <link href="https://ivonblog.com/posts/are-mic-phones-dangerous/"/>
-        <updated>2026-08-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[即使手機不是中國品牌，若在中國生產，也有資安風險嗎？
-若是全美國製造的手機，你會買嗎？
-我最近才知道Samsung很久以前就避開中國生產旗艦了，2019年後就跑去越南和印度了。
-Sony曾經也是這樣，有自家工廠。我那買不到兩年就綠線發作的Xperia 5 II還是寫泰國製造呢，Sony自家工廠製造的品質真的非常好。但Sony在2025年後全都丟中國OEM了。不知道爲什麼Sony中階的10系列一直在中國代工沒什麼問題，但是旗艦1VII一發包就死機，然後就有人大作文章是中共陰謀。但Sony也有責任吧，就像綠線問題不能全怪三星面板，你手機設計也有問題。然後才是OEM代工的責任。Sony在2025年的自我調查顯示，1VII會死機真的是他們的電路板製程設計有疏失。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的私心推薦歌單（2026年版）]]></title>
-        <id>https://ivonblog.com/posts/my-best-hit-music-playlist/</id>
-        <link href="https://ivonblog.com/posts/my-best-hit-music-playlist/"/>
-        <updated>2026-08-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇文章不定時更新。
-
-  
-
-這是代表我的人格與人生經驗的歌單：我公開的精選Spotify播放清單
-話說因爲Spotify界面太醜，轉過來一年多了我一直沒什麼做播放清單的慾望。感覺以前在Apple Music比較有儀式感，但Apple Music太封閉了我不可能再回去。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
-        <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
-        <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
-        <updated>2026-08-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

@@ -129,6 +129,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+          "author": "hello@smashingmagazine.com (Alex Williams)",
+          "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
+          "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+          "publishedOn": "2026-09-11T13:00:00.000Z",
+          "wordCount": 5560,
+          "title": "Building A UX ROI Case That Survives The Boardroom",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
@@ -197,21 +212,6 @@
           "wordCount": 5713,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
-          "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-          "publishedOn": "2026-08-13T10:00:00.000Z",
-          "wordCount": 3968,
-          "title": "New EU Guidelines For AI Labelling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
         }
       ]
     },
@@ -220,6 +220,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/",
+          "publishedOn": "2026-09-10T21:00:00.000Z",
+          "wordCount": 1505,
+          "title": "《月影魅像-解放之羽》心得：讓人下面入木三分的懸疑恐怖小品",
+          "imageUrl": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/lineageos-statistics-in-2026/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -549,26 +559,6 @@
           "wordCount": 1222,
           "title": "Uperf + Scene使用評價，提昇Android手機遊戲效能、續航省電、紀錄FPS變化",
           "imageUrl": "https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/are-mic-phones-dangerous/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "即使手機不是中國品牌，若在中國生產，也有資安風險嗎？\n若是全美國製造的手機，你會買嗎？\n我最近才知道Samsung很久以前就避開中國生產旗艦了，2019年後就跑去越南和印度了。\nSony曾經也是這樣，有自家工廠。我那買不到兩年就綠線發作的Xperia 5 II還是寫泰國製造呢，Sony自家工廠製造的品質真的非常好。但Sony在2025年後全都丟中國OEM了。不知道爲什麼Sony中階的10系列一直在中國代工沒什麼問題，但是旗艦1VII一發包就死機，然後就有人大作文章是中共陰謀。但Sony也有責任吧，就像綠線問題不能全怪三星面板，你手機設計也有問題。然後才是OEM代工的責任。Sony在2025年的自我調查顯示，1VII會死機真的是他們的電路板製程設計有疏失。",
-          "link": "https://ivonblog.com/posts/are-mic-phones-dangerous/",
-          "publishedOn": "2026-08-13T13:00:00.000Z",
-          "wordCount": 839,
-          "title": "手機在中國生產就有資安風險嗎？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/my-best-hit-music-playlist/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇文章不定時更新。\n\n  \n\n這是代表我的人格與人生經驗的歌單：我公開的精選Spotify播放清單\n話說因爲Spotify界面太醜，轉過來一年多了我一直沒什麼做播放清單的慾望。感覺以前在Apple Music比較有儀式感，但Apple Music太封閉了我不可能再回去。",
-          "link": "https://ivonblog.com/posts/my-best-hit-music-playlist/",
-          "publishedOn": "2026-08-13T12:00:00.000Z",
-          "wordCount": 809,
-          "title": "我的私心推薦歌單（2026年版）",
-          "imageUrl": "https://ivonblog.com/posts/my-best-hit-music-playlist/featured.webp"
         }
       ]
     },
@@ -601,6 +591,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21601",
+          "author": "Stephen Shaw",
+          "description": "Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]",
+          "link": "https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/",
+          "publishedOn": "2026-09-11T22:45:01.000Z",
+          "wordCount": 1608,
+          "title": "Shrink-wrap Text with `position-anchor`",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/ios-chat-copy.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21583",
           "author": "Chris Coyier",
           "description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]",
@@ -674,16 +674,6 @@
           "wordCount": 1002,
           "title": "Chris’ Corner: Toggles & Color",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21451",
-          "author": "Chris Coyier",
-          "description": "Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]",
-          "link": "https://blog.codepen.io/2026/08/13/chris-corner-colors/",
-          "publishedOn": "2026-08-13T14:01:10.000Z",
-          "wordCount": 1573,
-          "title": "Chris’ Corner: Colors",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-6.16.38-AM.png"
         }
       ]
     },
@@ -693,6 +683,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21601",
+          "author": "Stephen Shaw",
+          "description": "Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]",
+          "link": "https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/",
+          "publishedOn": "2026-09-11T22:45:01.000Z",
+          "wordCount": 1608,
+          "title": "Shrink-wrap Text with `position-anchor`",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/ios-chat-copy.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21583",
           "author": "Chris Coyier",
           "description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]",
@@ -766,16 +766,6 @@
           "wordCount": 1002,
           "title": "Chris’ Corner: Toggles & Color",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21451",
-          "author": "Chris Coyier",
-          "description": "Gradients can look super different depending on what color space you have them interpolate in. It’s sRGB by default, and there is a decent chance you’ve never even thought about it. But it’s a small syntax change to change that, as Keith Grant documents. One of those is not better than the other. Maybe it’s […]",
-          "link": "https://blog.codepen.io/2026/08/13/chris-corner-colors/",
-          "publishedOn": "2026-08-13T14:01:10.000Z",
-          "wordCount": 1573,
-          "title": "Chris’ Corner: Colors",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-6.16.38-AM.png"
         }
       ]
     }
