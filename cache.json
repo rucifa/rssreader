@@ -110,16 +110,6 @@
           "wordCount": 3443,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396557",
-          "author": "Daniel Schwarz",
-          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-17/",
-          "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3511,
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         }
       ]
     },
@@ -220,6 +210,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "有時候會覺得，現在的我為什麼那麼失敗的感覺。想回到過去。\n也許是因為過於疲憊，今天下課後，我不幸追撞了黑色高級車。\n……誰叫高雄澄清路最近總是坑坑疤疤的啊。\n然後穿越回了十年前的學生時代。",
+          "link": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/",
+          "publishedOn": "2026-09-12T07:00:00.000Z",
+          "wordCount": 921,
+          "title": "穿越回到高中青春時代但是我不想重來",
+          "imageUrl": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -519,46 +519,6 @@
           "wordCount": 1182,
           "title": "touchHLE：老iPhone模擬器，在Android手機遊玩遠古iOS手遊",
           "imageUrl": "https://ivonblog.com/posts/touchhle-ios-emulator/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/my-apple-ipad-air-6/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "iPad Air系列真的很盤嗎？這是我的兩年下來使用心得。\n\n  \n\n首先要講我的需求，我的工作跟《蔚藍檔案》的狼師主角類似，不是別人X我，就是我X別人，所以我需要一款方便攜帶且長續航的電腦。在那之前我是拿RK3566處理器的Arch Linux ARM平板，老實說體驗不是很好呢。",
-          "link": "https://ivonblog.com/posts/my-apple-ipad-air-6/",
-          "publishedOn": "2026-08-14T15:00:00.000Z",
-          "wordCount": 909,
-          "title": "iPad Air 6兩年使用心得，外出文書工作用的良好軍馬",
-          "imageUrl": "https://ivonblog.com/posts/my-apple-ipad-air-6/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-savertuner-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "微調LineageOS與原生Android的省電模式，不要強制使用深色模式。\n現在手機電量那麼大，有人會一出門就開著省電模式一整天嗎……？\n對於高功耗的手機要延長續航力，就會有人做出從100%就開著省電模式的愚蠢舉動。然後手機就會降頻，螢幕變暗，導致體驗變差。",
-          "link": "https://ivonblog.com/posts/android-savertuner-app/",
-          "publishedOn": "2026-08-14T01:00:00.000Z",
-          "wordCount": 838,
-          "title": "使用SaverTuner微調LineageOS的省電模式",
-          "imageUrl": "https://ivonblog.com/posts/android-savertuner-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/lineageos-bypass-charging/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "和栗薰子教教我…如何在第三方ROM使用旁路充電呢……\n首先要確認：旁路充電（Bypass Charging）是什麼? 旁路充電VS全局旁路充電 2.0 - 小丰子\n注意我講的是旁路充電(Bypass charging)————直接對電路板供電，而非限制充電到80%，這能減少充電發熱問題，並防止手機高負載情況下突然沒電。除了在遊戲的時候持續供電之外，也能讓手機長時間插著電源而不怕電池過充。",
-          "link": "https://ivonblog.com/posts/lineageos-bypass-charging/",
-          "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": 852,
-          "title": "在LineageOS使用旁路充電 (Bypass Charging)，繞過電池供電",
-          "imageUrl": "https://ivonblog.com/posts/lineageos-bypass-charging/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Uperf + Scene是調整Android手機效能的工具，被中國酷安玩家稱作為搞機必備軟體。\n\n  \n\n最近在善心人士的推薦下認識了這款APP。這邊附上Ivon實際測試使用這個工具的效果。\n\nUperf簡介\n    \n\n    \n    \n        #\n    \n    \n\n這篇文章討論的皆是針對Uperf這款工具所設計的前端。",
-          "link": "https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/",
-          "publishedOn": "2026-08-13T17:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Uperf + Scene使用評價，提昇Android手機遊戲效能、續航省電、紀錄FPS變化",
-          "imageUrl": "https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/featured.webp"
         }
       ]
     },

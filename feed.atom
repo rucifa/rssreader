@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T04:06:48.241Z</updated>
+    <updated>2026-09-13T04:18:14.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[穿越回到高中青春時代但是我不想重來]]></title>
+        <id>https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/</id>
+        <link href="https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/"/>
+        <updated>2026-09-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有時候會覺得，現在的我為什麼那麼失敗的感覺。想回到過去。
+也許是因為過於疲憊，今天下課後，我不幸追撞了黑色高級車。
+……誰叫高雄澄清路最近總是坑坑疤疤的啊。
+然後穿越回了十年前的學生時代。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shrink-wrap Text with `position-anchor`]]></title>
         <id>https://blog.codepen.io/?p=21601</id>
@@ -769,80 +782,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
     
 
 這可能是最接近實用化的首款開源iOS模擬器吧？Apple釋出的iPhone模擬器僅限於開發者存取。其他用QEMU模擬XNU，試圖跑iPhone的問題也多多呢。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad Air 6兩年使用心得，外出文書工作用的良好軍馬]]></title>
-        <id>https://ivonblog.com/posts/my-apple-ipad-air-6/</id>
-        <link href="https://ivonblog.com/posts/my-apple-ipad-air-6/"/>
-        <updated>2026-08-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iPad Air系列真的很盤嗎？這是我的兩年下來使用心得。
-
-  
-
-首先要講我的需求，我的工作跟《蔚藍檔案》的狼師主角類似，不是別人X我，就是我X別人，所以我需要一款方便攜帶且長續航的電腦。在那之前我是拿RK3566處理器的Arch Linux ARM平板，老實說體驗不是很好呢。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
-        <id>https://css-tricks.com/?p=396557</id>
-        <link href="https://css-tricks.com/whats-important-17/"/>
-        <updated>2026-08-14T14:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
-What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用SaverTuner微調LineageOS的省電模式]]></title>
-        <id>https://ivonblog.com/posts/android-savertuner-app/</id>
-        <link href="https://ivonblog.com/posts/android-savertuner-app/"/>
-        <updated>2026-08-14T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[微調LineageOS與原生Android的省電模式，不要強制使用深色模式。
-現在手機電量那麼大，有人會一出門就開著省電模式一整天嗎……？
-對於高功耗的手機要延長續航力，就會有人做出從100%就開著省電模式的愚蠢舉動。然後手機就會降頻，螢幕變暗，導致體驗變差。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在LineageOS使用旁路充電 (Bypass Charging)，繞過電池供電]]></title>
-        <id>https://ivonblog.com/posts/lineageos-bypass-charging/</id>
-        <link href="https://ivonblog.com/posts/lineageos-bypass-charging/"/>
-        <updated>2026-08-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[和栗薰子教教我…如何在第三方ROM使用旁路充電呢……
-首先要確認：旁路充電（Bypass Charging）是什麼? 旁路充電VS全局旁路充電 2.0 - 小丰子
-注意我講的是旁路充電(Bypass charging)————直接對電路板供電，而非限制充電到80%，這能減少充電發熱問題，並防止手機高負載情況下突然沒電。除了在遊戲的時候持續供電之外，也能讓手機長時間插著電源而不怕電池過充。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uperf + Scene使用評價，提昇Android手機遊戲效能、續航省電、紀錄FPS變化]]></title>
-        <id>https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/</id>
-        <link href="https://ivonblog.com/posts/uperf-userspace-performance-controller-for-android/"/>
-        <updated>2026-08-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uperf + Scene是調整Android手機效能的工具，被中國酷安玩家稱作為搞機必備軟體。
-
-  
-
-最近在善心人士的推薦下認識了這款APP。這邊附上Ivon實際測試使用這個工具的效果。
-
-Uperf簡介
-    
-
-    
-    
-        #
-    
-    
-
-這篇文章討論的皆是針對Uperf這款工具所設計的前端。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
