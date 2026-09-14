@@ -489,36 +489,6 @@
           "wordCount": 1298,
           "title": "Zenfone 2 Selfie刷機升Android 10 (Resurrection Remix 8)",
           "imageUrl": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/successor-of-richard-stallman/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "如果Linus Torvalds死了，誰來帶領Linux專案向前進呢，他都56歲了。是否Linux會逐漸變的不自由？\n另一方面，我更擔心Richard Stallman死後怎麼辦，去哪裡找第二個像他對自由開源軟體這麼瘋的人。大海航行靠舵手啊。他73歲了耶。",
-          "link": "https://ivonblog.com/posts/successor-of-richard-stallman/",
-          "publishedOn": "2026-08-15T15:00:00.000Z",
-          "wordCount": 863,
-          "title": "誰來接班Linus和Stallman的自由軟體事業？",
-          "imageUrl": "https://ivonblog.com/posts/successor-of-richard-stallman/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-distros-6324/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "你是Linux紅老嗨？\n\n  \n\n此時一名儒雅隨和的吧友路過：「你什么浪人？引流土狗，发不出资历你妈今晚就得死。」\n剛學會裝Arch Linux的script kiddie：「I use Arch Linux btw。」\n擁有紅老嗨資歷（RedHat在證交所上市的時候人就在現場）的boomer：「誰家小孩。」",
-          "link": "https://ivonblog.com/posts/linux-distros-6324/",
-          "publishedOn": "2026-08-15T14:00:00.000Z",
-          "wordCount": 840,
-          "title": "抽象紅老嗨使用什麼Linux發行版？",
-          "imageUrl": "https://ivonblog.com/posts/linux-distros-6324/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/touchhle-ios-emulator/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "老iPhone模擬器耶，好好玩。\n讓iOS APP執行於Android手機。\n\n1. touchHLE簡介\n    \n\n    \n    \n        #\n    \n    \n\n這可能是最接近實用化的首款開源iOS模擬器吧？Apple釋出的iPhone模擬器僅限於開發者存取。其他用QEMU模擬XNU，試圖跑iPhone的問題也多多呢。",
-          "link": "https://ivonblog.com/posts/touchhle-ios-emulator/",
-          "publishedOn": "2026-08-14T17:00:00.000Z",
-          "wordCount": 1182,
-          "title": "touchHLE：老iPhone模擬器，在Android手機遊玩遠古iOS手遊",
-          "imageUrl": "https://ivonblog.com/posts/touchhle-ios-emulator/featured.webp"
         }
       ]
     },

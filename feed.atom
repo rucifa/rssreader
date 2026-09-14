@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T04:18:14.222Z</updated>
+    <updated>2026-09-14T04:25:03.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -733,55 +733,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
     
 
 參照之前寫的：ASUS Zenfone 2 Selfie真的是一台爛手機]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰來接班Linus和Stallman的自由軟體事業？]]></title>
-        <id>https://ivonblog.com/posts/successor-of-richard-stallman/</id>
-        <link href="https://ivonblog.com/posts/successor-of-richard-stallman/"/>
-        <updated>2026-08-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如果Linus Torvalds死了，誰來帶領Linux專案向前進呢，他都56歲了。是否Linux會逐漸變的不自由？
-另一方面，我更擔心Richard Stallman死後怎麼辦，去哪裡找第二個像他對自由開源軟體這麼瘋的人。大海航行靠舵手啊。他73歲了耶。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抽象紅老嗨使用什麼Linux發行版？]]></title>
-        <id>https://ivonblog.com/posts/linux-distros-6324/</id>
-        <link href="https://ivonblog.com/posts/linux-distros-6324/"/>
-        <updated>2026-08-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[你是Linux紅老嗨？
-
-  
-
-此時一名儒雅隨和的吧友路過：「你什么浪人？引流土狗，发不出资历你妈今晚就得死。」
-剛學會裝Arch Linux的script kiddie：「I use Arch Linux btw。」
-擁有紅老嗨資歷（RedHat在證交所上市的時候人就在現場）的boomer：「誰家小孩。」]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[touchHLE：老iPhone模擬器，在Android手機遊玩遠古iOS手遊]]></title>
-        <id>https://ivonblog.com/posts/touchhle-ios-emulator/</id>
-        <link href="https://ivonblog.com/posts/touchhle-ios-emulator/"/>
-        <updated>2026-08-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[老iPhone模擬器耶，好好玩。
-讓iOS APP執行於Android手機。
-
-1. touchHLE簡介
-    
-
-    
-    
-        #
-    
-    
-
-這可能是最接近實用化的首款開源iOS模擬器吧？Apple釋出的iPhone模擬器僅限於開發者存取。其他用QEMU模擬XNU，試圖跑iPhone的問題也多多呢。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
