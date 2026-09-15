@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-14T04:25:03.617Z</updated>
+    <updated>2026-09-15T04:25:23.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Things Getting Better]]></title>
+        <id>https://blog.codepen.io/?p=21579</id>
+        <link href="https://blog.codepen.io/2026/09/14/chris-corner-things-getting-better/"/>
+        <updated>2026-09-14T17:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Things Getting Better]]></title>
+        <id>https://blog.codepen.io/?p=21579</id>
+        <link href="https://blog.codepen.io/2026/09/14/chris-corner-things-getting-better/"/>
+        <updated>2026-09-14T17:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[穿越回到高中青春時代但是我不想重來]]></title>
         <id>https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/</id>
@@ -713,28 +733,6 @@ Sony Xperia 1、Sony Xperia 1 II、Sony Xperia 1 IV、Sony Xperia 1 V、Sony Xpe
 Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zenfone 2 Selfie刷機升Android 10 (Resurrection Remix 8)]]></title>
-        <id>https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/</id>
-        <link href="https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/"/>
-        <updated>2026-08-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[閒來無事拿出10年前買的Zenfone 2 Selfie，刷機爲Android 10。
-
-
-1. 懷古
-    
-
-    
-    
-        #
-    
-    
-
-參照之前寫的：ASUS Zenfone 2 Selfie真的是一台爛手機]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

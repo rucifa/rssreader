@@ -479,16 +479,6 @@
           "wordCount": 1477,
           "title": "Xperia 1 III刷LineageOS + Root解決SD888過熱問題 + 降頻省電",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-1-iii-lineageos/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "閒來無事拿出10年前買的Zenfone 2 Selfie，刷機爲Android 10。\n\n\n1. 懷古\n    \n\n    \n    \n        #\n    \n    \n\n參照之前寫的：ASUS Zenfone 2 Selfie真的是一台爛手機",
-          "link": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/",
-          "publishedOn": "2026-08-16T14:00:00.000Z",
-          "wordCount": 1298,
-          "title": "Zenfone 2 Selfie刷機升Android 10 (Resurrection Remix 8)",
-          "imageUrl": "https://ivonblog.com/posts/asus-zenfone-2-selfie-lineageos/featured.webp"
         }
       ]
     },
@@ -520,6 +510,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21579",
+          "author": "Chris Coyier",
+          "description": "Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]",
+          "link": "https://blog.codepen.io/2026/09/14/chris-corner-things-getting-better/",
+          "publishedOn": "2026-09-14T17:00:38.000Z",
+          "wordCount": 1529,
+          "title": "Chris’ Corner: Things Getting Better",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-6.57.23-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21601",
           "author": "Stephen Shaw",
@@ -612,6 +612,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21579",
+          "author": "Chris Coyier",
+          "description": "Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]",
+          "link": "https://blog.codepen.io/2026/09/14/chris-corner-things-getting-better/",
+          "publishedOn": "2026-09-14T17:00:38.000Z",
+          "wordCount": 1529,
+          "title": "Chris’ Corner: Things Getting Better",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-6.57.23-AM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21601",
           "author": "Stephen Shaw",
