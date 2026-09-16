@@ -100,16 +100,6 @@
           "wordCount": 2828,
           "title": "WordPress.com Student Plan",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396545",
-          "author": "Geoff Graham",
-          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-          "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3443,
-          "title": "Dark mode toggles: two states are enough",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         }
       ]
     },
@@ -210,6 +200,86 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/downgrade-iphone-4s-to-ios-6/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "iPhone上市時搭載的前幾個OS版本，往往是最順的吧。偏偏Apple為了你好不準任意降級。\niPhone 4S是典型的受害者，本來剛出來幾年iOS 5, 6, 7還很順的，到iOS 8就不行了，升級到iOS 9更是連UI滑動都會卡。",
+          "link": "https://ivonblog.com/posts/downgrade-iphone-4s-to-ios-6/",
+          "publishedOn": "2026-09-15T14:00:00.000Z",
+          "wordCount": 1310,
+          "title": "iPhone 4S強制降級回iOS 6，Legacy iOS Kit使用方法",
+          "imageUrl": "https://ivonblog.com/posts/downgrade-iphone-4s-to-ios-6/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-carbon-jailbreaking/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "「Carbon」是由@mineekdev & @staturnzdev製作的越獄方案。它透過利用WebKit的漏洞來越獄，藉此安裝Cydia。\n跟Phoniex by Siguza & tihmstar還有EverPwnage by LukeZGD比起來，Carbon的漏洞透過Safari就能觸發，不用另外側載IPA就能用。",
+          "link": "https://ivonblog.com/posts/ios-carbon-jailbreaking/",
+          "publishedOn": "2026-09-15T09:00:00.000Z",
+          "wordCount": 1199,
+          "title": "iPhone 4S使用Carbon網頁進行完美越獄，適用iOS 8 ~ 9.3.6",
+          "imageUrl": "https://ivonblog.com/posts/ios-carbon-jailbreaking/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-usbmuxd-usb-reverse-tethering-to-ios/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "讓iPhone使用Linux電腦的網路上網，並非手機分享網路給電腦(USB Tethering)，而是電腦分享網路給手機(USB Reverse Tethering)。免越獄。\n如圖，iPhone自身沒有連上Wifi，只靠USB連線到電腦，然後用電腦的乙太網路連線。因此兩者的對外IP是一樣的。",
+          "link": "https://ivonblog.com/posts/linux-usbmuxd-usb-reverse-tethering-to-ios/",
+          "publishedOn": "2026-09-15T08:00:00.000Z",
+          "wordCount": 1401,
+          "title": "讓iPhone用電腦網路上網，Linux usbmuxd USB Reverse Tethering",
+          "imageUrl": "https://ivonblog.com/posts/linux-usbmuxd-usb-reverse-tethering-to-ios/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ios-everpwnage-jailbreaking/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "EverPwnage是LukeZGD開發的iOS 7完美越獄工具。主要透過觸發oob_entry的kernel漏洞取得root權限，然後安裝Cydia。\n取得了一臺卡在iOS 7的iPhone 4S，這是Apple首度採取扁平化設計的第一個iOS版本。本來我想用Aquilia by staturnz來越獄，但是沒有跨平臺Linux版的樣子。所以我才用EverPwnage。",
+          "link": "https://ivonblog.com/posts/ios-everpwnage-jailbreaking/",
+          "publishedOn": "2026-09-15T05:00:00.000Z",
+          "wordCount": 1214,
+          "title": "iPhone 4S用EverPwnage實現完美越獄，支援iOS 7 ~ iOS 9.3.6",
+          "imageUrl": "https://ivonblog.com/posts/ios-everpwnage-jailbreaking/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/watch-youtube-on-old-android-devices/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "舊Android手機或平板，無法看Youtube影片？\n本文Ivon討論如何在無法刷機升級系統、停留在舊版Android的裝置，看Youtube影片。\n資料大量參考自Reddit的r/androidafterlife板，感謝開發者的付出！\n2026年，根據Google Play頁面資料，Youtube官方APP最低支援到Android 8.0。因為Youtube需要Google服務框架(GMS)才能用，所以基本上是跟著Google的支援週期跑的。Google服務框架放棄支援舊版本Android，Youtube就會不能用。在那之下的Android版本會慢慢不能看，出現無法登入，轉圈圈等問題。連帶的，Youtube ReVanced這類破解專案，也會拋棄舊版Android支援。下載舊版Youtube APK是不行的，它會拒絕載入。",
+          "link": "https://ivonblog.com/posts/watch-youtube-on-old-android-devices/",
+          "publishedOn": "2026-09-15T04:00:00.000Z",
+          "wordCount": 1293,
+          "title": "舊Android手機看Youtube的APP方案一覽 (Android 1.5 ~ Android 7.0)",
+          "imageUrl": "https://ivonblog.com/posts/watch-youtube-on-old-android-devices/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/try-to-stop-pirating-hentai/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/try-to-stop-pirating-hentai/",
+          "publishedOn": "2026-09-13T18:00:00.000Z",
+          "wordCount": 1208,
+          "title": "色色應該看正版，其實Pixiv Fanbox真的便宜，支持獨立創作者跟買獨立音樂一樣重要",
+          "imageUrl": "https://ivonblog.com/posts/try-to-stop-pirating-hentai/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/pipewire-galgame-fake-asmr/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "將任意Galgame的角色變成偽ASMR語音的實驗，適用Linux與Steam Deck。\n訂了Final E500耳機，突發奇想，可否不修改任何檔案，就將Steam的Galgame改成類似的ASMR音頻輸出。\n效果大概像是這樣（需要耳機）",
+          "link": "https://ivonblog.com/posts/pipewire-galgame-fake-asmr/",
+          "publishedOn": "2026-09-13T17:00:00.000Z",
+          "wordCount": 835,
+          "title": "將任意Galgame的角色變成偽ASMR語音的實驗 (PipeWire + EasyEffects)",
+          "imageUrl": "https://ivonblog.com/posts/pipewire-galgame-fake-asmr/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-xperia-l2-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你聽音樂用Sony金磚\n我聽音樂也用Sony金磚\n沒什麼差別對吧（暴論）\n\n  \n\n\n  \n\n迷之音：兩支價格差10倍耶\n找到家人不要的Xperia L2，我真的很慶幸Sony退出做低階手機市場了，出這什麼MTK 6737T的垃圾手機，當年賣6990臺幣，比紅米貴。即使是2018年這規格也算很低階了。",
+          "link": "https://ivonblog.com/posts/sony-xperia-l2-root/",
+          "publishedOn": "2026-09-13T12:00:00.000Z",
+          "wordCount": 1202,
+          "title": "Sony Xperia L2解鎖Bootloader取得Root權限",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-l2-root/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -511,6 +581,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21632",
+          "author": "Chris Coyier",
+          "description": "Rach and Chris jump on the podcast to talk about the brand-new in-app notification system we built and shipped. We’re actively trying to balance a system that isn’t annoying, but allows us to show targetting information to targetted users when we think that’s valuable for both you and us. It started with “We launched 2.0!” […]",
+          "link": "https://blog.codepen.io/2026/09/15/440-hey-hi-right-here-in-app-notifications-that-like-you/",
+          "publishedOn": "2026-09-15T20:50:04.000Z",
+          "wordCount": 982,
+          "title": "440: Hey! Hi! Right here! In-App Notifications That Like You",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-440.mp3",
+            "length": "23215875",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21579",
           "author": "Chris Coyier",
           "description": "Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]",
@@ -612,6 +697,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21632",
+          "author": "Chris Coyier",
+          "description": "Rach and Chris jump on the podcast to talk about the brand-new in-app notification system we built and shipped. We’re actively trying to balance a system that isn’t annoying, but allows us to show targetting information to targetted users when we think that’s valuable for both you and us. It started with “We launched 2.0!” […]",
+          "link": "https://blog.codepen.io/2026/09/15/440-hey-hi-right-here-in-app-notifications-that-like-you/",
+          "publishedOn": "2026-09-15T20:50:04.000Z",
+          "wordCount": 982,
+          "title": "440: Hey! Hi! Right here! In-App Notifications That Like You",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-440.mp3",
+            "length": "23215875",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21579",
           "author": "Chris Coyier",
