@@ -80,26 +80,6 @@
           "wordCount": 3334,
           "title": "Resolved: CSS Class Prefix Selector",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396428",
-          "author": "Geoff Graham",
-          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-          "publishedOn": "2026-08-19T14:44:41.000Z",
-          "wordCount": 3540,
-          "title": "CSS Navigation Matching, Early Days",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396623",
-          "author": "Geoff Graham",
-          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-student-plan/",
-          "publishedOn": "2026-08-19T08:50:00.000Z",
-          "wordCount": 2828,
-          "title": "WordPress.com Student Plan",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
         }
       ]
     },
@@ -215,6 +195,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/home-of-chonglangtv/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/home-of-chonglangtv/",
+          "publishedOn": "2026-09-17T14:00:00.000Z",
+          "wordCount": 1724,
+          "title": "【冲浪TV專題】盤點神友浪人新家，Reddit與Reddit站外的中文社區",
+          "imageUrl": "https://ivonblog.com/posts/home-of-chonglangtv/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/linux-access-ios-files/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -584,16 +574,6 @@
           "wordCount": 849,
           "title": "拋棄主流社群媒體到Mastodon後發現我還是想要流量",
           "imageUrl": "https://ivonblog.com/posts/2026082001/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/my-sony-xperia-1-iii/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "2026年，Sony Xperia 1 III還能用嗎，遊戲效能足夠嗎，拍照是否依然強悍？\n\n誒？爲什麼不是5年多的心得？這臺很久了餒。\n因爲我是2025年買的二手。\n參照：為了更好的拍照，火龍888的Xperia 1 III照樣用\n2025年，我買了2021年的年度旗艦Xperia 1 III，SD888/12G/256G/4K120Hz，因爲我沒錢。一年過去了如何呢。",
-          "link": "https://ivonblog.com/posts/my-sony-xperia-1-iii/",
-          "publishedOn": "2026-08-19T15:00:00.000Z",
-          "wordCount": 1282,
-          "title": "使用Xperia 1 III一年多的心得，當作微單拍照與遊戲專用機",
-          "imageUrl": "https://ivonblog.com/posts/my-sony-xperia-1-iii/featured.webp"
         }
       ]
     },

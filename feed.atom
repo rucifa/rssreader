@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T04:27:04.530Z</updated>
+    <updated>2026-09-18T04:11:23.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【冲浪TV專題】盤點神友浪人新家，Reddit與Reddit站外的中文社區]]></title>
+        <id>https://ivonblog.com/posts/home-of-chonglangtv/</id>
+        <link href="https://ivonblog.com/posts/home-of-chonglangtv/"/>
+        <updated>2026-09-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
         <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
@@ -841,43 +888,6 @@ Hello darkness my old friend
 有時候會覺得文章和攝影作品是否優先po在Threads而非Mastodon比較好，因爲演算法眷顧你的話就有流量爆炸的機會，那麼你寫的隨便一篇廢文就都有很有價值了。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Xperia 1 III一年多的心得，當作微單拍照與遊戲專用機]]></title>
-        <id>https://ivonblog.com/posts/my-sony-xperia-1-iii/</id>
-        <link href="https://ivonblog.com/posts/my-sony-xperia-1-iii/"/>
-        <updated>2026-08-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年，Sony Xperia 1 III還能用嗎，遊戲效能足夠嗎，拍照是否依然強悍？
-
-誒？爲什麼不是5年多的心得？這臺很久了餒。
-因爲我是2025年買的二手。
-參照：為了更好的拍照，火龍888的Xperia 1 III照樣用
-2025年，我買了2021年的年度旗艦Xperia 1 III，SD888/12G/256G/4K120Hz，因爲我沒錢。一年過去了如何呢。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
-        <id>https://css-tricks.com/?p=396428</id>
-        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
-        <updated>2026-08-19T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
-CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
-        <id>https://css-tricks.com/?p=396623</id>
-        <link href="https://css-tricks.com/wordpress-student-plan/"/>
-        <updated>2026-08-19T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
-WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
