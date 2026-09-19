@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T04:11:23.162Z</updated>
+    <updated>2026-09-19T04:08:04.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手機沒有3.5mm耳機孔不是缺點，因為做好DAC真的太難了吧]]></title>
+        <id>https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/</id>
+        <link href="https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/"/>
+        <updated>2026-09-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在主流手機品牌幾乎都沒有3.5mm耳機孔了。
+
+Unpopular opinion: 手機沒有3.5mm耳機孔，也許…並不是壞事。
+一來普通用戶的耳機需求用藍牙音質就能滿足了，多少木耳Youtube Music聽爽爽，哪會聽Tidal無損。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【冲浪TV專題】盤點神友浪人新家，Reddit與Reddit站外的中文社區]]></title>
         <id>https://ivonblog.com/posts/home-of-chonglangtv/</id>
@@ -851,41 +864,6 @@ Resolved: CSS Class Prefix Selector originally handwritten and published with lo
         <updated>2026-08-21T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[主要是設計給自己用的小插件（延伸模組）。我沒事想到什麼就會拿出手機，打開Joplin記下想法，然後幾天後轉貼到Hugo的動態牆頁面（/post/timeline）。所以，需要一個快速插入我指定日期格式的工具。
 起因於幾個月前的Blog的Timeline頁面小更新。以前的Timeline是只有記錄日期。現在每篇新的短博文都有anchor了，純用li加id實現，透過timestamp提供獨一無二的URL，在任何HTML環境都能用。這樣有人無聊到引用我的廢文的話就能快速定位。舉例來說可以點這個連結https://ivonblog.com/posts/timeline-2026/#d2026-07-23-01-09-03自動跳轉到該日期的貼文。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
-        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
-        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
-        <updated>2026-08-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Johan Grobler)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用GhostLock漏洞一鍵取得Android手機的Root權限，免解鎖Bootloader，以Pixel爲例子]]></title>
-        <id>https://ivonblog.com/posts/root-my-pixel-app/</id>
-        <link href="https://ivonblog.com/posts/root-my-pixel-app/"/>
-        <updated>2026-08-20T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[免解鎖Bootloader取得Android手機的Root權限 ～ 適用Google Pixel 6, 7, 8, 9, 10。還有其他品牌的Android手機。
-手機安全機制都是雜魚 ～ 雜魚 ～ ♥
-透過「Root My Pixel」App，利用GhostLock漏洞暫時取得Pixel手機的Root權限，無需解鎖Bootloader，無需清除手機資料，就可以安裝KernelSU。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拋棄主流社群媒體到Mastodon後發現我還是想要流量]]></title>
-        <id>https://ivonblog.com/posts/2026082001/</id>
-        <link href="https://ivonblog.com/posts/2026082001/"/>
-        <updated>2026-08-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如果沒有人看著我，是否會比較快樂。
-Hello darkness my old friend
-我又回來找你了，沉默之聲(sound of silence)。人們想要流量。
-有時候會覺得文章和攝影作品是否優先po在Threads而非Mastodon比較好，因爲演算法眷顧你的話就有流量爆炸的機會，那麼你寫的隨便一篇廢文就都有很有價值了。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
