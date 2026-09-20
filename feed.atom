@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T04:08:04.266Z</updated>
+    <updated>2026-09-20T04:27:11.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -842,28 +842,6 @@ Amethyst是2026年由staturnz開發的越獄方案，不用像checkra1n那樣每
 
 本文測試的裝置：iPod touch 6，系統版本iOS 12.5.8
 因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
-        <id>https://css-tricks.com/?p=396644</id>
-        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
-        <updated>2026-08-21T15:13:03.000Z</updated>
-        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
-Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joplin簡易筆記小插件：在Markdown快速加入可跳轉的時間戳]]></title>
-        <id>https://ivonblog.com/posts/joplin-timeline-generator-plugin/</id>
-        <link href="https://ivonblog.com/posts/joplin-timeline-generator-plugin/"/>
-        <updated>2026-08-21T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[主要是設計給自己用的小插件（延伸模組）。我沒事想到什麼就會拿出手機，打開Joplin記下想法，然後幾天後轉貼到Hugo的動態牆頁面（/post/timeline）。所以，需要一個快速插入我指定日期格式的工具。
-起因於幾個月前的Blog的Timeline頁面小更新。以前的Timeline是只有記錄日期。現在每篇新的短博文都有anchor了，純用li加id實現，透過timestamp提供獨一無二的URL，在任何HTML環境都能用。這樣有人無聊到引用我的廢文的話就能快速定位。舉例來說可以點這個連結https://ivonblog.com/posts/timeline-2026/#d2026-07-23-01-09-03自動跳轉到該日期的貼文。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

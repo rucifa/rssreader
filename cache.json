@@ -70,16 +70,6 @@
           "wordCount": 6762,
           "title": "WordPress PHP-Only Block Registration",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396644",
-          "author": "Geoff Graham",
-          "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-          "publishedOn": "2026-08-21T15:13:03.000Z",
-          "wordCount": 3334,
-          "title": "Resolved: CSS Class Prefix Selector",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
         }
       ]
     },
@@ -544,16 +534,6 @@
           "wordCount": 1307,
           "title": "checkra1n越獄教學，以iPhone 6 + iOS 12爲例",
           "imageUrl": "https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/joplin-timeline-generator-plugin/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "主要是設計給自己用的小插件（延伸模組）。我沒事想到什麼就會拿出手機，打開Joplin記下想法，然後幾天後轉貼到Hugo的動態牆頁面（/post/timeline）。所以，需要一個快速插入我指定日期格式的工具。\n起因於幾個月前的Blog的Timeline頁面小更新。以前的Timeline是只有記錄日期。現在每篇新的短博文都有anchor了，純用li加id實現，透過timestamp提供獨一無二的URL，在任何HTML環境都能用。這樣有人無聊到引用我的廢文的話就能快速定位。舉例來說可以點這個連結https://ivonblog.com/posts/timeline-2026/#d2026-07-23-01-09-03自動跳轉到該日期的貼文。",
-          "link": "https://ivonblog.com/posts/joplin-timeline-generator-plugin/",
-          "publishedOn": "2026-08-21T09:00:00.000Z",
-          "wordCount": 824,
-          "title": "Joplin簡易筆記小插件：在Markdown快速加入可跳轉的時間戳",
-          "imageUrl": null
         }
       ]
     },
