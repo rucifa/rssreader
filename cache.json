@@ -514,26 +514,6 @@
           "wordCount": 855,
           "title": "Android版Firefox究竟哪裡不安全？談網頁隔離的重要性",
           "imageUrl": "https://ivonblog.com/posts/firefox-site-isolation-issues/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-12-amethyst-jailbreak/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "ヽ( ° ▽°)ノ 嘛，總之iPhone 6 ( iOS 12.5.8 ) 有半完美越獄出現了。名字叫做 紫水晶「Amethyst」\n因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。\n\n1. Amethyst簡介\n    \n\n    \n    \n        #\n    \n    \n\nAmethyst是2026年由staturnz開發的越獄方案，不用像checkra1n那樣每次開機都要電腦DFU模式觸發。用手機App就可以了。主要是利用的漏洞不一樣。Amethyst使用的是Trigon (CVE-2023-32434) 漏洞，而非硬體底層的checkm8漏洞。",
-          "link": "https://ivonblog.com/posts/ios-12-amethyst-jailbreak/",
-          "publishedOn": "2026-08-22T07:00:00.000Z",
-          "wordCount": 1265,
-          "title": "iPhone 6使用Amethyst免電腦越獄，支援iOS 12 ~ 13",
-          "imageUrl": "https://ivonblog.com/posts/ios-12-amethyst-jailbreak/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "iPhone 5S ~ iPhone X的Apple裝置，都有名爲checkm8的硬體漏洞，我們能用以此漏洞爲基礎的開源工具：象棋將軍「checkra1n」來越獄。\n\n  \n\n本文測試的裝置：iPod touch 6，系統版本iOS 12.5.8\n因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。",
-          "link": "https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/",
-          "publishedOn": "2026-08-22T06:00:00.000Z",
-          "wordCount": 1307,
-          "title": "checkra1n越獄教學，以iPhone 6 + iOS 12爲例",
-          "imageUrl": "https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/featured.webp"
         }
       ]
     },

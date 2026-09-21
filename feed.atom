@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-20T04:27:11.163Z</updated>
+    <updated>2026-09-21T04:25:16.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -805,43 +805,6 @@ WordPress PHP-Only Block Registration originally handwritten and published with 
         <summary type="html"><![CDATA[：お前さっき俺がウェブサイトでパスワード入力してる時、チラチラ見てただろ！（剛剛我在網頁輸入密碼的時候，你偷看了對吧！）
 ：いや、見てないですよ！（不我才沒有看）
 ：嘘つけ絶対見てた！（你這個騙子，你絕對看了！）]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 6使用Amethyst免電腦越獄，支援iOS 12 ~ 13]]></title>
-        <id>https://ivonblog.com/posts/ios-12-amethyst-jailbreak/</id>
-        <link href="https://ivonblog.com/posts/ios-12-amethyst-jailbreak/"/>
-        <updated>2026-08-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヽ( ° ▽°)ノ 嘛，總之iPhone 6 ( iOS 12.5.8 ) 有半完美越獄出現了。名字叫做 紫水晶「Amethyst」
-因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。
-
-1. Amethyst簡介
-    
-
-    
-    
-        #
-    
-    
-
-Amethyst是2026年由staturnz開發的越獄方案，不用像checkra1n那樣每次開機都要電腦DFU模式觸發。用手機App就可以了。主要是利用的漏洞不一樣。Amethyst使用的是Trigon (CVE-2023-32434) 漏洞，而非硬體底層的checkm8漏洞。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[checkra1n越獄教學，以iPhone 6 + iOS 12爲例]]></title>
-        <id>https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/</id>
-        <link href="https://ivonblog.com/posts/ios-12-checkra1n-jailbreak/"/>
-        <updated>2026-08-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 5S ~ iPhone X的Apple裝置，都有名爲checkm8的硬體漏洞，我們能用以此漏洞爲基礎的開源工具：象棋將軍「checkra1n」來越獄。
-
-  
-
-本文測試的裝置：iPod touch 6，系統版本iOS 12.5.8
-因爲iPod touch 6跟iPhone 6處理器一樣，越獄是通用的，所以我用它示範。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
