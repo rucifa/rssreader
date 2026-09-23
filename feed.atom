@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T04:20:49.646Z</updated>
+    <updated>2026-09-23T04:17:52.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[441: Challenges For We, Challenges For Thee]]></title>
+        <id>https://blog.codepen.io/?p=21650</id>
+        <link href="https://blog.codepen.io/2026/09/22/441-challenges-for-we-challenges-for-thee/"/>
+        <updated>2026-09-22T14:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[441: Challenges For We, Challenges For Thee]]></title>
+        <id>https://blog.codepen.io/?p=21650</id>
+        <link href="https://blog.codepen.io/2026/09/22/441-challenges-for-we-challenges-for-thee/"/>
+        <updated>2026-09-22T14:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final E500人聲特化耳機使用心得 (ASMR + 白噪音 + 聽音樂用途)]]></title>
+        <id>https://ivonblog.com/posts/final-e500-review/</id>
+        <link href="https://ivonblog.com/posts/final-e500-review/"/>
+        <updated>2026-09-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Final E500是日本Final公司在2019年推出的一款便宜耳機，現在還有在生產，屬於Final E系列裡面的最低階型號，主打人聲強化，常常出現在ASMR耳機的推薦名單中。
+我一直好奇，為什麼沒有評測試過戴ASMR專用耳機看 會員制餐廳 (Blackhole 8) 本篇？與其聽Vtuber挖耳朵，不如聽聽挖屁眼的效果。嗯 ~ Final E500這耳機效果真好，除了近距離聆聽蔬菜棒和布丁脫出的聲音，還能聽到攝影師在偷笑和氣音。金金吼細……。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沉迷過甲蟲王者、恐龍王、百獸大戰的卡片，現在他們還能玩嗎]]></title>
+        <id>https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/</id>
+        <link href="https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/"/>
+        <updated>2026-09-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[到Youtube看了小時候很沉迷的機臺遊戲的遊玩畫面，包含甲蟲王者（甲虫王者ムシキング）、恐龍王（古代王者 恐竜キング）、百獸大戰（百獣大戦アニマルカイザー）最早的已經是2003年推出的。臺灣SEGA大量從日本引進。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[買手機應該追求極致旗艦機，還是夠用的中階就好？]]></title>
+        <id>https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/</id>
+        <link href="https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/"/>
+        <updated>2026-09-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[對一個手頭不算寬裕，但又有一些消費能力的人來說，購買3C產品到底該追求夠用，還是極致一步到位？
+先來聽： MC HotDog - 貧民百萬歌星
+在追求高級產品時，我意識到一件事，追求完美是無窮無盡的偏執。產品一定都會有分級，高端與低端，通常會用價格決定品質。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Root模組解決Android SRC重取樣Apple Music導致音質上不去的問題]]></title>
+        <id>https://ivonblog.com/posts/android-usb-sample-rate-unlocker/</id>
+        <link href="https://ivonblog.com/posts/android-usb-sample-rate-unlocker/"/>
+        <updated>2026-09-20T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[＊＊只要Apple Music新增這個功能，本文討論的內容就沒什麼意義了。＊＊
+似乎Android版Apple Music早就能繞過SRC了？可是我在Sony Xperia 1 III (LineageOS 23) 測不出來。根據nyanako0129協助提供的測試，原廠ROM的Xperia 1 III，是可以用Apple Music輸出192kHz的。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手機沒有3.5mm耳機孔不是缺點，因為做好DAC真的太難了吧]]></title>
         <id>https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/</id>
@@ -782,29 +846,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
   
 
 在中文Linux環境解壓縮檔案，有時會遇到使用Windows區域字元編碼，譬如Big5、GBK、SHIFT-JIS，致使解出來是亂碼的情況。若是程式，可能還會無法正常執行呢。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
-        <id>https://css-tricks.com/?p=395401</id>
-        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
-        <updated>2026-08-24T13:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
-WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Fränk Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android版Firefox究竟哪裡不安全？談網頁隔離的重要性]]></title>
-        <id>https://ivonblog.com/posts/firefox-site-isolation-issues/</id>
-        <link href="https://ivonblog.com/posts/firefox-site-isolation-issues/"/>
-        <updated>2026-08-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[：お前さっき俺がウェブサイトでパスワード入力してる時、チラチラ見てただろ！（剛剛我在網頁輸入密碼的時候，你偷看了對吧！）
-：いや、見てないですよ！（不我才沒有看）
-：嘘つけ絶対見てた！（你這個騙子，你絕對看了！）]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

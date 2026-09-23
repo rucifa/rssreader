@@ -60,16 +60,6 @@
           "wordCount": 3049,
           "title": "MicroLighter: Syntax Highlighter",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395401",
-          "author": "Fränk Klein",
-          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-php-block-registration/",
-          "publishedOn": "2026-08-24T13:54:02.000Z",
-          "wordCount": 6762,
-          "title": "WordPress PHP-Only Block Registration",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
         }
       ]
     },
@@ -175,6 +165,46 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/final-e500-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Final E500是日本Final公司在2019年推出的一款便宜耳機，現在還有在生產，屬於Final E系列裡面的最低階型號，主打人聲強化，常常出現在ASMR耳機的推薦名單中。\n我一直好奇，為什麼沒有評測試過戴ASMR專用耳機看 會員制餐廳 (Blackhole 8) 本篇？與其聽Vtuber挖耳朵，不如聽聽挖屁眼的效果。嗯 ~ Final E500這耳機效果真好，除了近距離聆聽蔬菜棒和布丁脫出的聲音，還能聽到攝影師在偷笑和氣音。金金吼細……。",
+          "link": "https://ivonblog.com/posts/final-e500-review/",
+          "publishedOn": "2026-09-22T14:00:00.000Z",
+          "wordCount": 1243,
+          "title": "Final E500人聲特化耳機使用心得 (ASMR + 白噪音 + 聽音樂用途)",
+          "imageUrl": "https://ivonblog.com/posts/final-e500-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "到Youtube看了小時候很沉迷的機臺遊戲的遊玩畫面，包含甲蟲王者（甲虫王者ムシキング）、恐龍王（古代王者 恐竜キング）、百獸大戰（百獣大戦アニマルカイザー）最早的已經是2003年推出的。臺灣SEGA大量從日本引進。",
+          "link": "https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/",
+          "publishedOn": "2026-09-22T08:00:00.000Z",
+          "wordCount": 819,
+          "title": "沉迷過甲蟲王者、恐龍王、百獸大戰的卡片，現在他們還能玩嗎",
+          "imageUrl": "https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "對一個手頭不算寬裕，但又有一些消費能力的人來說，購買3C產品到底該追求夠用，還是極致一步到位？\n先來聽： MC HotDog - 貧民百萬歌星\n在追求高級產品時，我意識到一件事，追求完美是無窮無盡的偏執。產品一定都會有分級，高端與低端，通常會用價格決定品質。",
+          "link": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/",
+          "publishedOn": "2026-09-21T10:00:00.000Z",
+          "wordCount": 840,
+          "title": "買手機應該追求極致旗艦機，還是夠用的中階就好？",
+          "imageUrl": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-usb-sample-rate-unlocker/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "＊＊只要Apple Music新增這個功能，本文討論的內容就沒什麼意義了。＊＊\n似乎Android版Apple Music早就能繞過SRC了？可是我在Sony Xperia 1 III (LineageOS 23) 測不出來。根據nyanako0129協助提供的測試，原廠ROM的Xperia 1 III，是可以用Apple Music輸出192kHz的。",
+          "link": "https://ivonblog.com/posts/android-usb-sample-rate-unlocker/",
+          "publishedOn": "2026-09-20T01:10:00.000Z",
+          "wordCount": 888,
+          "title": "用Root模組解決Android SRC重取樣Apple Music導致音質上不去的問題",
+          "imageUrl": "https://ivonblog.com/posts/android-usb-sample-rate-unlocker/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -504,16 +534,6 @@
           "wordCount": 1208,
           "title": "如何在Linux解壓縮日文亂碼的.zip檔案，解決SHIFT-JIS、GBK、Big5亂碼問題",
           "imageUrl": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/firefox-site-isolation-issues/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "：お前さっき俺がウェブサイトでパスワード入力してる時、チラチラ見てただろ！（剛剛我在網頁輸入密碼的時候，你偷看了對吧！）\n：いや、見てないですよ！（不我才沒有看）\n：嘘つけ絶対見てた！（你這個騙子，你絕對看了！）",
-          "link": "https://ivonblog.com/posts/firefox-site-isolation-issues/",
-          "publishedOn": "2026-08-23T20:00:00.000Z",
-          "wordCount": 855,
-          "title": "Android版Firefox究竟哪裡不安全？談網頁隔離的重要性",
-          "imageUrl": "https://ivonblog.com/posts/firefox-site-isolation-issues/featured.webp"
         }
       ]
     },
@@ -534,6 +554,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21650",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps",
+          "link": "https://blog.codepen.io/2026/09/22/441-challenges-for-we-challenges-for-thee/",
+          "publishedOn": "2026-09-22T14:07:23.000Z",
+          "wordCount": 884,
+          "title": "441: Challenges For We, Challenges For Thee",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-441.mp3",
+            "length": "23151123",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21632",
           "author": "Chris Coyier",
@@ -626,6 +661,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21650",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps",
+          "link": "https://blog.codepen.io/2026/09/22/441-challenges-for-we-challenges-for-thee/",
+          "publishedOn": "2026-09-22T14:07:23.000Z",
+          "wordCount": 884,
+          "title": "441: Challenges For We, Challenges For Thee",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-441.mp3",
+            "length": "23151123",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21632",
           "author": "Chris Coyier",
