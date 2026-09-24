@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T04:17:52.355Z</updated>
+    <updated>2026-09-24T04:13:43.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GSC 零之使魔F 露易絲 2.0黏土人開箱，拜託打我]]></title>
+        <id>https://ivonblog.com/posts/gsc-nendoroid-louise-2-0/</id>
+        <link href="https://ivonblog.com/posts/gsc-nendoroid-louise-2-0/"/>
+        <updated>2026-09-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[太好了！GSC露易絲黏土人有附鞭子！拜託，打我！
+
+  
+
+《零之使魔》（ゼロの使い魔）是山口昇創作的異世界穿越輕小說，2004年出版，後推出TV動畫《零之使魔》《零之使魔 雙月的騎士》《零之使魔 三美姬的輪舞曲》《零之使魔F》，共四季。動畫結局跟輕小說不一樣，純粹是製作組自己掰出來的。原作者還沒寫完輕小說就過世了，後由出版社另外找人根據大綱寫出《零之使魔》完結篇。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Web Components]]></title>
+        <id>https://blog.codepen.io/?p=21517</id>
+        <link href="https://blog.codepen.io/2026/09/23/chris-corner-web-components-2/"/>
+        <updated>2026-09-23T14:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Dave Rupert has a new syntax highlighter: MicroLighter. He wrote about the why. There are a bunch of trade-offs with all the technologies that do this job. The trade-offs here seem pretty worth it for a relatively lightweight, infrequent syntax highlighting job. I mean 2 KB as a base library is pretty amazing, with the […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Web Components]]></title>
+        <id>https://blog.codepen.io/?p=21517</id>
+        <link href="https://blog.codepen.io/2026/09/23/chris-corner-web-components-2/"/>
+        <updated>2026-09-23T14:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Dave Rupert has a new syntax highlighter: MicroLighter. He wrote about the why. There are a bunch of trade-offs with all the technologies that do this job. The trade-offs here seem pretty worth it for a relatively lightweight, infrequent syntax highlighting job. I mean 2 KB as a base library is pretty amazing, with the […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[441: Challenges For We, Challenges For Thee]]></title>
         <id>https://blog.codepen.io/?p=21650</id>
@@ -793,61 +827,6 @@ animation-trigger originally handwritten and published with love on CSS-Tricks. 
         <summary type="html"><![CDATA[Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
-        <id>https://css-tricks.com/?p=396665</id>
-        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
-        <updated>2026-08-25T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
-MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
-        <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
-        <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
-        <updated>2026-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pierre Burgy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Remember <me>]]></title>
-        <id>https://blog.codepen.io/?p=21469</id>
-        <link href="https://blog.codepen.io/2026/08/24/chris-corner-remember-me/"/>
-        <updated>2026-08-24T18:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Remember <me>]]></title>
-        <id>https://blog.codepen.io/?p=21469</id>
-        <link href="https://blog.codepen.io/2026/08/24/chris-corner-remember-me/"/>
-        <updated>2026-08-24T18:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Linux解壓縮日文亂碼的.zip檔案，解決SHIFT-JIS、GBK、Big5亂碼問題]]></title>
-        <id>https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/</id>
-        <link href="https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/"/>
-        <updated>2026-08-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[解決Ubunu等Linux發行版解壓縮檔案出現亂碼的問題。
-
-  
-
-在中文Linux環境解壓縮檔案，有時會遇到使用Windows區域字元編碼，譬如Big5、GBK、SHIFT-JIS，致使解出來是亂碼的情況。若是程式，可能還會無法正常執行呢。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

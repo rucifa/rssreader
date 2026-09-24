@@ -50,16 +50,6 @@
           "wordCount": 4417,
           "title": "animation-trigger",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396665",
-          "author": "Geoff Graham",
-          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-          "publishedOn": "2026-08-25T14:10:34.000Z",
-          "wordCount": 3049,
-          "title": "MicroLighter: Syntax Highlighter",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
         }
       ]
     },
@@ -142,21 +132,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-          "author": "hello@smashingmagazine.com (Pierre Burgy)",
-          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
-          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-          "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 4229,
-          "title": "Why Your Website Should Never Stop Changing",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
         }
       ]
     },
@@ -165,6 +140,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/gsc-nendoroid-louise-2-0/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "太好了！GSC露易絲黏土人有附鞭子！拜託，打我！\n\n  \n\n《零之使魔》（ゼロの使い魔）是山口昇創作的異世界穿越輕小說，2004年出版，後推出TV動畫《零之使魔》《零之使魔 雙月的騎士》《零之使魔 三美姬的輪舞曲》《零之使魔F》，共四季。動畫結局跟輕小說不一樣，純粹是製作組自己掰出來的。原作者還沒寫完輕小說就過世了，後由出版社另外找人根據大綱寫出《零之使魔》完結篇。",
+          "link": "https://ivonblog.com/posts/gsc-nendoroid-louise-2-0/",
+          "publishedOn": "2026-09-23T15:00:00.000Z",
+          "wordCount": 889,
+          "title": "GSC 零之使魔F 露易絲 2.0黏土人開箱，拜託打我",
+          "imageUrl": "https://ivonblog.com/posts/gsc-nendoroid-louise-2-0/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/final-e500-review/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -524,16 +509,6 @@
           "wordCount": 835,
           "title": "追求不吃記憶體的瀏覽器是不現實的指標",
           "imageUrl": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "解決Ubunu等Linux發行版解壓縮檔案出現亂碼的問題。\n\n  \n\n在中文Linux環境解壓縮檔案，有時會遇到使用Windows區域字元編碼，譬如Big5、GBK、SHIFT-JIS，致使解出來是亂碼的情況。若是程式，可能還會無法正常執行呢。",
-          "link": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/",
-          "publishedOn": "2026-08-24T17:00:00.000Z",
-          "wordCount": 1208,
-          "title": "如何在Linux解壓縮日文亂碼的.zip檔案，解決SHIFT-JIS、GBK、Big5亂碼問題",
-          "imageUrl": "https://ivonblog.com/posts/extract-zip-files-with-specific-encoding/featured.webp"
         }
       ]
     },
@@ -555,6 +530,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21517",
+          "author": "Chris Coyier",
+          "description": "Dave Rupert has a new syntax highlighter: MicroLighter. He wrote about the why. There are a bunch of trade-offs with all the technologies that do this job. The trade-offs here seem pretty worth it for a relatively lightweight, infrequent syntax highlighting job. I mean 2 KB as a base library is pretty amazing, with the […]",
+          "link": "https://blog.codepen.io/2026/09/23/chris-corner-web-components-2/",
+          "publishedOn": "2026-09-23T14:34:12.000Z",
+          "wordCount": 1110,
+          "title": "Chris’ Corner: Web Components",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21650",
           "author": "Chris Coyier",
           "description": "Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps",
@@ -643,16 +628,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21469",
-          "author": "Chris Coyier",
-          "description": "Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]",
-          "link": "https://blog.codepen.io/2026/08/24/chris-corner-remember-me/",
-          "publishedOn": "2026-08-24T18:01:56.000Z",
-          "wordCount": 1551,
-          "title": "Chris’ Corner: Remember <me>",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/08/CleanShot-2026-08-03-at-14.31.57.gif"
         }
       ]
     },
@@ -662,6 +637,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21517",
+          "author": "Chris Coyier",
+          "description": "Dave Rupert has a new syntax highlighter: MicroLighter. He wrote about the why. There are a bunch of trade-offs with all the technologies that do this job. The trade-offs here seem pretty worth it for a relatively lightweight, infrequent syntax highlighting job. I mean 2 KB as a base library is pretty amazing, with the […]",
+          "link": "https://blog.codepen.io/2026/09/23/chris-corner-web-components-2/",
+          "publishedOn": "2026-09-23T14:34:12.000Z",
+          "wordCount": 1110,
+          "title": "Chris’ Corner: Web Components",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21650",
           "author": "Chris Coyier",
           "description": "Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps",
@@ -750,16 +735,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21469",
-          "author": "Chris Coyier",
-          "description": "Sometimes we gotta take matters into our own hands, am I right? I was reading Aaron Gustafson’s Never Lose Form Progress Again which is just a wonderful idea for a Web Component. Basically you wrap a <form> in <form-saver> and it saves the data a person types into a form to localStorage so they don’t […]",
-          "link": "https://blog.codepen.io/2026/08/24/chris-corner-remember-me/",
-          "publishedOn": "2026-08-24T18:01:56.000Z",
-          "wordCount": 1551,
-          "title": "Chris’ Corner: Remember <me>",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/08/CleanShot-2026-08-03-at-14.31.57.gif"
         }
       ]
     }
