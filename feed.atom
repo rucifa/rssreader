@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-24T04:13:43.714Z</updated>
+    <updated>2026-09-25T04:26:14.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -775,58 +775,6 @@ Creating Web Widgets Using the Document Picture-in-Picture API originally handwr
 我認爲算是失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了失敗了]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追求不吃記憶體的瀏覽器是不現實的指標]]></title>
-        <id>https://ivonblog.com/posts/using-lightweight-browser-is-impossible/</id>
-        <link href="https://ivonblog.com/posts/using-lightweight-browser-is-impossible/"/>
-        <updated>2026-08-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一直有人說Firefox和Chrome一樣越來越吃記憶體(RAM)，但說真的，我們能怪他們嗎…？追求低記憶體佔用的指標根本不現實。
-瀏覽器的工作早就不是單純看HTML網頁那麼簡單了，它要管理行程，分多個行程開沙盒保護安全，同步服務，還要處理外掛。此外網頁會載入大量JavaScript，現在還有WebAssembly（在瀏覽器跑C與Rust低階語言寫的程式）、WebGPU存取顯卡，需要的電腦資源自然就會變多了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
-        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
-        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
-        <updated>2026-08-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[438: Are Diffusion Models Better Than LLMs at Web Design?]]></title>
-        <id>https://blog.codepen.io/?p=21506</id>
-        <link href="https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/"/>
-        <updated>2026-08-25T16:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[438: Are Diffusion Models Better Than LLMs at Web Design?]]></title>
-        <id>https://blog.codepen.io/?p=21506</id>
-        <link href="https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/"/>
-        <updated>2026-08-25T16:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

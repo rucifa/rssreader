@@ -40,16 +40,6 @@
           "wordCount": 4067,
           "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394713",
-          "author": "Saleh Mubashar",
-          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-          "publishedOn": "2026-08-26T15:38:41.000Z",
-          "wordCount": 4417,
-          "title": "animation-trigger",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -117,21 +107,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
-          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
-          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5904,
-          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
         }
       ]
     },
@@ -499,16 +474,6 @@
           "wordCount": 1230,
           "title": "命運石之門RE:BOOT 心得 + 新舊作差異，我覺得不行",
           "imageUrl": "https://ivonblog.com/posts/steins-gate-re-boot-game-review/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "一直有人說Firefox和Chrome一樣越來越吃記憶體(RAM)，但說真的，我們能怪他們嗎…？追求低記憶體佔用的指標根本不現實。\n瀏覽器的工作早就不是單純看HTML網頁那麼簡單了，它要管理行程，分多個行程開沙盒保護安全，同步服務，還要處理外掛。此外網頁會載入大量JavaScript，現在還有WebAssembly（在瀏覽器跑C與Rust低階語言寫的程式）、WebGPU存取顯卡，需要的電腦資源自然就會變多了。",
-          "link": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/",
-          "publishedOn": "2026-08-26T15:00:00.000Z",
-          "wordCount": 835,
-          "title": "追求不吃記憶體的瀏覽器是不現實的指標",
-          "imageUrl": "https://ivonblog.com/posts/using-lightweight-browser-is-impossible/featured.webp"
         }
       ]
     },
@@ -613,21 +578,6 @@
           "wordCount": 1244,
           "title": "Chris’ Corner: What do you do with an HTML email?",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/08/example-mjml-scaled.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21506",
-          "author": "Chris Coyier",
-          "description": "Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]",
-          "link": "https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/",
-          "publishedOn": "2026-08-25T16:27:08.000Z",
-          "wordCount": null,
-          "title": "438: Are Diffusion Models Better Than LLMs at Web Design?",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-438.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -720,21 +670,6 @@
           "wordCount": 1244,
           "title": "Chris’ Corner: What do you do with an HTML email?",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/08/example-mjml-scaled.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21506",
-          "author": "Chris Coyier",
-          "description": "Chris has Jacob Miller on the show, who is building a tool called DiffUI. The big idea is that it uses a diffusion model to do prompt-to-website design rather than an LLM, because image-based models are more interesting and creative. So stay there for a while, producing really detailed visual mockups and plans, then head […]",
-          "link": "https://blog.codepen.io/2026/08/25/438-are-diffusion-models-better-than-llms-at-web-design/",
-          "publishedOn": "2026-08-25T16:27:08.000Z",
-          "wordCount": null,
-          "title": "438: Are Diffusion Models Better Than LLMs at Web Design?",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-438.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
