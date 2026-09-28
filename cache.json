@@ -106,6 +106,46 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/sony-xperia-1-iii-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "在Sony Xperia 1 III手機取得Root權限，藉此安裝各種Magisk模組與Xposed框架，任你喜好修改系統。\n\n本文內容的步驟也適用於所有Xperia 1系列的手機，包括Xperia 1 (J9110)、Xperia 1 II、Xperia 1 IV、Xperia 1 V、Xperia 1 VI、Xperia 1 VII、Xperia 1 VIII。",
+          "link": "https://ivonblog.com/posts/sony-xperia-1-iii-root/",
+          "publishedOn": "2026-09-27T17:00:00.000Z",
+          "wordCount": 1299,
+          "title": "Sony手機Root教學，以Xperia 1 III爲例，刷入Magisk",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-1-iii-root/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/denppakuukan-in-chayi-city/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/denppakuukan-in-chayi-city/",
+          "publishedOn": "2026-09-27T11:00:00.000Z",
+          "wordCount": 1172,
+          "title": "嘉義「電波空間」Galgame專賣店半日遊",
+          "imageUrl": "https://ivonblog.com/posts/denppakuukan-in-chayi-city/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-xperia-5-ii-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Sony Xperia 5 II (XQ-AS72) 透過官方管道解鎖後，便可以Root和刷機(刷入第三方ROM)。\n操作前務必備份重要資料，解鎖bootloader後手機資料會全部清除。\n本文教學亦適用於Xperia 5 (J9210)、Xperia 5 III、Xperia 5 IV、Xperia 5 V。",
+          "link": "https://ivonblog.com/posts/sony-xperia-5-ii-root/",
+          "publishedOn": "2026-09-26T21:00:00.000Z",
+          "wordCount": 1284,
+          "title": "Sony Xperia 5 II解鎖與Root教學，刷入Magisk",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-5-ii-root/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-xperia-10-v-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Ivon的Sony Xperia 10 V性能強化週間，改善系統延遲度、改善拍照效果、改善喇叭外放。\n介紹如何解鎖Sony Xperia 10 V (XQ-DC72) 的Bootloader，取得Root權限。\n\n  \n\nIvon想Root的原因是這支明明有雙喇叭音質還是很破，想說刷杜比音效模組改善之。",
+          "link": "https://ivonblog.com/posts/sony-xperia-10-v-root/",
+          "publishedOn": "2026-09-26T02:00:00.000Z",
+          "wordCount": 1358,
+          "title": "Sony Xperia 10 V的Root，安裝Magisk，改善卡頓、裝Dolby Atmos提昇喇叭外放",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-10-v-root/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/gsc-nendoroid-louise-2-0/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "太好了！GSC露易絲黏土人有附鞭子！拜託，打我！\n\n  \n\n《零之使魔》（ゼロの使い魔）是山口昇創作的異世界穿越輕小說，2004年出版，後推出TV動畫《零之使魔》《零之使魔 雙月的騎士》《零之使魔 三美姬的輪舞曲》《零之使魔F》，共四季。動畫結局跟輕小說不一樣，純粹是製作組自己掰出來的。原作者還沒寫完輕小說就過世了，後由出版社另外找人根據大綱寫出《零之使魔》完結篇。",
@@ -444,16 +484,6 @@
           "wordCount": 879,
           "title": "我們真的需要小手機回來嗎，還是懷舊感作祟？",
           "imageUrl": "https://ivonblog.com/posts/do-we-really-want-small-phones-back/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-ytnine-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "YTNine, a YouTube client for jailbroken iOS 6 - 9.\n10年前的舊iPhone 4S和iPad Air 2還能用嗎？App都不能裝了。頂多看看Youtube吧，但是要看Youtube影片，Google官方的App已經不能安裝更新了，用Safari瀏覽器？因爲WebKit被鎖在舊版本，也根本打不開呢！",
-          "link": "https://ivonblog.com/posts/ios-ytnine-app/",
-          "publishedOn": "2026-08-29T02:00:00.000Z",
-          "wordCount": 1197,
-          "title": "YTNine：讓老iPhone與iPad正常看Yotube的APP，支援iOS 6 ~ iOS 9",
-          "imageUrl": "https://ivonblog.com/posts/ios-ytnine-app/featured.webp"
         }
       ]
     },
