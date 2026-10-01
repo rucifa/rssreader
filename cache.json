@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "publishedOn": "2026-09-30T13:30:00.000Z",
+          "wordCount": 4643,
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
@@ -378,36 +393,6 @@
           "wordCount": 1219,
           "title": "Keep Android Open：反對Google的Android開發者驗證",
           "imageUrl": "https://ivonblog.com/posts/keep-android-open/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/blogroll/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。這個頁面每次載入的時候都是隨機排序的喔！",
-          "link": "https://ivonblog.com/blogroll/",
-          "publishedOn": "2026-09-01T17:00:00.000Z",
-          "wordCount": 882,
-          "title": "部落滾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-newterm-app/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "註：本APP需要越獄環境，如果你不需要越獄功能，只是想要單純存取Linux指令工具，請改到App Store裝iSH Shell。\n將iOS裝置越獄後，我們通常會安裝Sileo管理插件吧，檔案管理則是Filza，那麼這一切背後的操作是否能用指令完成呢？",
-          "link": "https://ivonblog.com/posts/ios-newterm-app/",
-          "publishedOn": "2026-08-31T19:00:00.000Z",
-          "wordCount": 1264,
-          "title": "NewTerm：iOS越獄必備終端機APP，用APT指令管理Sileo插件更新",
-          "imageUrl": "https://ivonblog.com/posts/ios-newterm-app/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/jailbroken-ios-ssh-server/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "將iPhone & iPad變成SSH Server。\niOS是基於Darwin開發的系統，理所當然有跑OpenSSH的能力！\n注意，是將iOS變成SSH Server，而非SSH Client。\n在iPhone越獄後，可以在iOS安裝OpenSSH伺服器，讓我們能隨時遠端登入系統執行APT進行系統管理，除錯，使用SFTP傳檔案等等。",
-          "link": "https://ivonblog.com/posts/jailbroken-ios-ssh-server/",
-          "publishedOn": "2026-08-31T18:00:00.000Z",
-          "wordCount": 1256,
-          "title": "iPhone安裝OpenSSH Server方便遠端登入控制 + iproxy代理SSH連線",
-          "imageUrl": "https://ivonblog.com/posts/jailbroken-ios-ssh-server/featured.webp"
         }
       ]
     },
@@ -428,6 +413,31 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21688",
+          "author": "Chris Coyier",
+          "description": "Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]",
+          "link": "https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/",
+          "publishedOn": "2026-09-30T16:41:48.000Z",
+          "wordCount": 965,
+          "title": "442: Pens are Actually Websites",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-442.mp3",
+            "length": "17592012",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21697",
+          "author": "Chris Coyier",
+          "description": "Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]",
+          "link": "https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/",
+          "publishedOn": "2026-09-30T15:24:28.000Z",
+          "wordCount": 1034,
+          "title": "Chris’ Corner: Sweet Typography",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.53.16-PM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21517",
           "author": "Chris Coyier",
@@ -510,6 +520,31 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21688",
+          "author": "Chris Coyier",
+          "description": "Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]",
+          "link": "https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/",
+          "publishedOn": "2026-09-30T16:41:48.000Z",
+          "wordCount": 965,
+          "title": "442: Pens are Actually Websites",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-442.mp3",
+            "length": "17592012",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.codepen.io/?p=21697",
+          "author": "Chris Coyier",
+          "description": "Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]",
+          "link": "https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/",
+          "publishedOn": "2026-09-30T15:24:28.000Z",
+          "wordCount": 1034,
+          "title": "Chris’ Corner: Sweet Typography",
+          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.53.16-PM.png"
+        },
         {
           "id": "https://blog.codepen.io/?p=21517",
           "author": "Chris Coyier",

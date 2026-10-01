@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T05:04:17.061Z</updated>
+    <updated>2026-10-01T05:18:22.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[442: Pens are Actually Websites]]></title>
+        <id>https://blog.codepen.io/?p=21688</id>
+        <link href="https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/"/>
+        <updated>2026-09-30T16:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[442: Pens are Actually Websites]]></title>
+        <id>https://blog.codepen.io/?p=21688</id>
+        <link href="https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/"/>
+        <updated>2026-09-30T16:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Sweet Typography]]></title>
+        <id>https://blog.codepen.io/?p=21697</id>
+        <link href="https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/"/>
+        <updated>2026-09-30T15:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Sweet Typography]]></title>
+        <id>https://blog.codepen.io/?p=21697</id>
+        <link href="https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/"/>
+        <updated>2026-09-30T15:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
+        <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
+        <updated>2026-09-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony手機Root教學，以Xperia 1 III爲例，刷入Magisk]]></title>
         <id>https://ivonblog.com/posts/sony-xperia-1-iii-root/</id>
@@ -677,40 +727,6 @@ LineageOS有使用者自願參加的統計功能，會蒐集匿名系統資料�
         <updated>2026-09-02T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[未來，Android手機將無法自由地安裝APK！
 從2026年9月開始，Google實施了Android開發者驗證(Android Developer Verification)政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部落滾]]></title>
-        <id>https://ivonblog.com/blogroll/</id>
-        <link href="https://ivonblog.com/blogroll/"/>
-        <updated>2026-09-01T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[部落滾，這是個類似友站連結/友情鏈結的頁面，蒐羅我覺得有趣的個人網站與部落格，加上一點個人印象，與各位分享，體驗網際網路資訊共享、互相幫助的樂趣。這個頁面每次載入的時候都是隨機排序的喔！]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NewTerm：iOS越獄必備終端機APP，用APT指令管理Sileo插件更新]]></title>
-        <id>https://ivonblog.com/posts/ios-newterm-app/</id>
-        <link href="https://ivonblog.com/posts/ios-newterm-app/"/>
-        <updated>2026-08-31T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[註：本APP需要越獄環境，如果你不需要越獄功能，只是想要單純存取Linux指令工具，請改到App Store裝iSH Shell。
-將iOS裝置越獄後，我們通常會安裝Sileo管理插件吧，檔案管理則是Filza，那麼這一切背後的操作是否能用指令完成呢？]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone安裝OpenSSH Server方便遠端登入控制 + iproxy代理SSH連線]]></title>
-        <id>https://ivonblog.com/posts/jailbroken-ios-ssh-server/</id>
-        <link href="https://ivonblog.com/posts/jailbroken-ios-ssh-server/"/>
-        <updated>2026-08-31T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[將iPhone & iPad變成SSH Server。
-iOS是基於Darwin開發的系統，理所當然有跑OpenSSH的能力！
-注意，是將iOS變成SSH Server，而非SSH Client。
-在iPhone越獄後，可以在iOS安裝OpenSSH伺服器，讓我們能隨時遠端登入系統執行APT進行系統管理，除錯，使用SFTP傳檔案等等。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
