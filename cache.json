@@ -85,6 +85,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "所有的一切，都將迎來終結。\n將Sony Xperia 5 II手機改裝LCD面板，杜絕再次綠線的可能。\n\n  \n\n給OLED手機改裝不成比例的LCD面板，導致機身上方整個凸一塊出來？這個配置像是二戰的奇異改裝戰車。好比，芬蘭爲了在繼續戰爭中對抗蘇聯，臨時將BT-7戰車，裝上114mm榴彈炮，改裝而成的BT-42突擊炮。雖然看起來口徑很大但其實沒有足夠的殺傷力。\n\n  作者：進藤つらみ",
+          "link": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/",
+          "publishedOn": "2026-10-01T05:00:00.000Z",
+          "wordCount": 1562,
+          "title": "Xperia 5 II綠線發作，換副廠LCD螢幕的使用心得",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "現在的手機有可能單手操作打字嗎？\n所謂優質小手機的標準，在螢幕小於6吋之外，應該還要包含能方便「單手握持」與「單手操作」在內吧。打字能單手做到，不需要雙手並用。\n如今主流市場定義的小手機是6吋左右(含螢幕+機身)，我覺得6吋剛好，不能再大了。但是他們都太寬了！Pixel、iPhone、Samsung Galaxy的6吋手機，寬度平均都在71mm以上，但是我的手只能容納68mm以下的寬度呀。",
+          "link": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/",
+          "publishedOn": "2026-09-30T05:00:00.000Z",
+          "wordCount": 875,
+          "title": "小尺寸手機應該要追求好握，單手操作的極限是寬度70mm，沒想到連Sony也淪陷了...",
+          "imageUrl": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "真是可怕，本來以爲像我這種刷機狂魔的個性，刷最多的品牌應該是小米，我應該成為忠實米粉一年一換才對，即使HyperOS限制刷機，但是blog tags數量統計下來，刷機數量最多的是Sony。\n的確Sony單部手機不像小米和Pixel那樣得到多個ROM支援。",
+          "link": "https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/",
+          "publishedOn": "2026-09-29T06:00:00.000Z",
+          "wordCount": 840,
+          "title": "我刷機最多的型號竟然是Sony而非小米",
+          "imageUrl": "https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/sony-xperia-1-iii-root/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "在Sony Xperia 1 III手機取得Root權限，藉此安裝各種Magisk模組與Xposed框架，任你喜好修改系統。\n\n本文內容的步驟也適用於所有Xperia 1系列的手機，包括Xperia 1 (J9110)、Xperia 1 II、Xperia 1 IV、Xperia 1 V、Xperia 1 VI、Xperia 1 VII、Xperia 1 VIII。",
@@ -383,16 +413,6 @@
           "wordCount": 848,
           "title": "覺得訂閱制軟體很貴，大概是你太窮，不懂商業邏輯",
           "imageUrl": "https://ivonblog.com/posts/too-poor-for-business-logic/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/keep-android-open/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "未來，Android手機將無法自由地安裝APK！\n從2026年9月開始，Google實施了Android開發者驗證(Android Developer Verification)政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。",
-          "link": "https://ivonblog.com/posts/keep-android-open/",
-          "publishedOn": "2026-09-02T04:00:00.000Z",
-          "wordCount": 1219,
-          "title": "Keep Android Open：反對Google的Android開發者驗證",
-          "imageUrl": "https://ivonblog.com/posts/keep-android-open/featured.webp"
         }
       ]
     },

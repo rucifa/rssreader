@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T05:18:22.383Z</updated>
+    <updated>2026-10-02T05:06:40.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xperia 5 II綠線發作，換副廠LCD螢幕的使用心得]]></title>
+        <id>https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/</id>
+        <link href="https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[所有的一切，都將迎來終結。
+將Sony Xperia 5 II手機改裝LCD面板，杜絕再次綠線的可能。
+
+  
+
+給OLED手機改裝不成比例的LCD面板，導致機身上方整個凸一塊出來？這個配置像是二戰的奇異改裝戰車。好比，芬蘭爲了在繼續戰爭中對抗蘇聯，臨時將BT-7戰車，裝上114mm榴彈炮，改裝而成的BT-42突擊炮。雖然看起來口徑很大但其實沒有足夠的殺傷力。
+
+  作者：進藤つらみ]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[442: Pens are Actually Websites]]></title>
         <id>https://blog.codepen.io/?p=21688</id>
@@ -54,6 +71,29 @@
         <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小尺寸手機應該要追求好握，單手操作的極限是寬度70mm，沒想到連Sony也淪陷了...]]></title>
+        <id>https://ivonblog.com/posts/narrow-phones-for-single-hand-use/</id>
+        <link href="https://ivonblog.com/posts/narrow-phones-for-single-hand-use/"/>
+        <updated>2026-09-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在的手機有可能單手操作打字嗎？
+所謂優質小手機的標準，在螢幕小於6吋之外，應該還要包含能方便「單手握持」與「單手操作」在內吧。打字能單手做到，不需要雙手並用。
+如今主流市場定義的小手機是6吋左右(含螢幕+機身)，我覺得6吋剛好，不能再大了。但是他們都太寬了！Pixel、iPhone、Samsung Galaxy的6吋手機，寬度平均都在71mm以上，但是我的手只能容納68mm以下的寬度呀。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我刷機最多的型號竟然是Sony而非小米]]></title>
+        <id>https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/</id>
+        <link href="https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/"/>
+        <updated>2026-09-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[真是可怕，本來以爲像我這種刷機狂魔的個性，刷最多的品牌應該是小米，我應該成為忠實米粉一年一換才對，即使HyperOS限制刷機，但是blog tags數量統計下來，刷機數量最多的是Sony。
+的確Sony單部手機不像小米和Pixel那樣得到多個ROM支援。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -716,17 +756,6 @@ LineageOS有使用者自願參加的統計功能，會蒐集匿名系統資料�
         <summary type="html"><![CDATA[覺得Youtube Premium太貴……那個，也許是因為你太窮。在成功的商業人士世界，訂閱一個App根本就像買杯星巴克一樣日常不過的事情。
 試論：
 看Youtube使用擋廣告軟體是小偷行為，都給你Premium這種方案了你不訂閱是要讓創作者喝西北風？Google禁絕Adblock是必要行為。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Android Open：反對Google的Android開發者驗證]]></title>
-        <id>https://ivonblog.com/posts/keep-android-open/</id>
-        <link href="https://ivonblog.com/posts/keep-android-open/"/>
-        <updated>2026-09-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[未來，Android手機將無法自由地安裝APK！
-從2026年9月開始，Google實施了Android開發者驗證(Android Developer Verification)政策，強制驗證所有開發者身份。這會影響到使用者安裝APK的權利。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
