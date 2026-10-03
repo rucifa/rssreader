@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-02T05:06:40.879Z</updated>
+    <updated>2026-10-03T04:49:30.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -733,29 +733,6 @@ LineageOS有使用者自願參加的統計功能，會蒐集匿名系統資料�
         <updated>2026-09-07T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[透過兩個技巧大幅減少高通處理器發熱。本文討論的內容主要適用於搭載高通SD888和SD 8Gen 1處理器的手機。
 實際例子：未調教前的SD888，連遊戲都沒開，簡單滑個Facebook和瀏覽器，溫度就飆破45度。調教後，機身溫度在40度左右徘徊，不容易發熱了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「KC3改」 + Damecon Browser使用教學，玩艦隊Collection好用的輔助程式]]></title>
-        <id>https://ivonblog.com/posts/kancolle-command-center-kai/</id>
-        <link href="https://ivonblog.com/posts/kancolle-command-center-kai/"/>
-        <updated>2026-09-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我們知道，艦隊Collection（艦隊收藏、艦これ）有許多遊戲資料是黑箱運作的，提督們經過反覆檢證與計算，才把一個個的遊戲公式推算出來，例如索敵值、制空值、遠征配置等資料，讓提督能夠有效的攻略遊戲。
-為了更有效的攻略遊戲，玩艦隊Collection時好的輔助程式是不可少的，它可以減少提督翻閱Wiki、手動按計算機的時間。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[覺得訂閱制軟體很貴，大概是你太窮，不懂商業邏輯]]></title>
-        <id>https://ivonblog.com/posts/too-poor-for-business-logic/</id>
-        <link href="https://ivonblog.com/posts/too-poor-for-business-logic/"/>
-        <updated>2026-09-03T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[覺得Youtube Premium太貴……那個，也許是因為你太窮。在成功的商業人士世界，訂閱一個App根本就像買杯星巴克一樣日常不過的事情。
-試論：
-看Youtube使用擋廣告軟體是小偷行為，都給你Premium這種方案了你不訂閱是要讓創作者喝西北風？Google禁絕Adblock是必要行為。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
