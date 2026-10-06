@@ -85,6 +85,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/foss-eclecticism-android-ios-dual-wield/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "你說你也喜歡科技？\n\n  \n\n如果我像一般使用者對3C規格一無所知，可能會快樂一點。成為normie的方法就是使用蘋果全家桶然後不回頭。這樣的話你就不會再關心3C規格什麼的了，因為iPhone就是可信任的工具。不用想，時間到了買新iPhone就好，誰管Android機有什麼新晶片，RAM多少，系統是否負優化，還是能安裝什麼第三方神奇APK啊。看哪，很多3C Youtuber他們不也都是拿iPhone嗎…這才是正常人的世界。",
+          "link": "https://ivonblog.com/posts/foss-eclecticism-android-ios-dual-wield/",
+          "publishedOn": "2026-10-05T03:00:00.000Z",
+          "wordCount": 921,
+          "title": "自由軟體折衷主義：Android與iOS雙持，終於找到自由與好用的平衡",
+          "imageUrl": "https://ivonblog.com/posts/foss-eclecticism-android-ios-dual-wield/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/try-sony-xperia-1-viii/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "實際去摸了非21:9比例的Sony Xperia 1 VIII，一臺售價四萬四臺幣。\n三小時後，我更加確信我不會買這種比例的手機了。\n太大支了 >w< 而且還很難握。\n看看第一張附圖，Xpera 1 III vs Xperia 1 VIII。在Xperia 1 V之後，，4K120Hz的21:9螢幕沒了，還買的下去Sony手機的都是什麼神人啊。算是能理解一些索黑的感受了。",
