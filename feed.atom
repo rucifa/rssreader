@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T05:52:11.632Z</updated>
+    <updated>2026-10-07T05:24:56.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[443: Image Hosting is Quite Powerful on CodePen]]></title>
+        <id>https://blog.codepen.io/?p=21768</id>
+        <link href="https://blog.codepen.io/2026/10/06/443-image-hosting-is-quite-powerful-on-codepen/"/>
+        <updated>2026-10-07T02:01:23.000Z</updated>
+        <summary type="html"><![CDATA[We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[443: Image Hosting is Quite Powerful on CodePen]]></title>
+        <id>https://blog.codepen.io/?p=21768</id>
+        <link href="https://blog.codepen.io/2026/10/06/443-image-hosting-is-quite-powerful-on-codepen/"/>
+        <updated>2026-10-07T02:01:23.000Z</updated>
+        <summary type="html"><![CDATA[We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
+        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
+        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
+        <updated>2026-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由軟體折衷主義：Android與iOS雙持，終於找到自由與好用的平衡]]></title>
         <id>https://ivonblog.com/posts/foss-eclecticism-android-ios-dual-wield/</id>
@@ -738,28 +768,6 @@ Google Chrome對Linux系統的支援度很不錯，用法跟Windows和macOS系�
   
 
 LineageOS有使用者自願參加的統計功能，會蒐集匿名系統資料上傳到官方伺服器，能夠讓開發者知道有多少人在用這個系統。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[買新中階還是舊旗艦？手機效能過剩了，完全是假命題]]></title>
-        <id>https://ivonblog.com/posts/old-flagship-phones-are-better-than-new-mid-range-phones/</id>
-        <link href="https://ivonblog.com/posts/old-flagship-phones-are-better-than-new-mid-range-phones/"/>
-        <updated>2026-09-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[你會買過季旗艦機還是新中階機呢…？
-我要說「現在的手機效能過剩」完全是假命題。手機處理器不是越新就越強，並非跑分高就代表新中階段已經摸到了舊旗艦的邊。不太可能才隔不到5年，新中階就超越舊旗艦。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Root解決高通888 & 8Gen1手機的發熱問題，提昇續航]]></title>
-        <id>https://ivonblog.com/posts/reduce-snapdragon-888-heating-root/</id>
-        <link href="https://ivonblog.com/posts/reduce-snapdragon-888-heating-root/"/>
-        <updated>2026-09-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[透過兩個技巧大幅減少高通處理器發熱。本文討論的內容主要適用於搭載高通SD888和SD 8Gen 1處理器的手機。
-實際例子：未調教前的SD888，連遊戲都沒開，簡單滑個Facebook和瀏覽器，溫度就飆破45度。調教後，機身溫度在40度左右徘徊，不容易發熱了。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
