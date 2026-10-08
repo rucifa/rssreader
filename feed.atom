@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T05:24:56.501Z</updated>
+    <updated>2026-10-08T05:33:28.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -755,21 +755,6 @@ Google Chrome對Linux系統的支援度很不錯，用法跟Windows和macOS系�
         <summary type="html"><![CDATA[Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有多少人在用LineageOS？刷機真的不行了嗎？]]></title>
-        <id>https://ivonblog.com/posts/lineageos-statistics-in-2026/</id>
-        <link href="https://ivonblog.com/posts/lineageos-statistics-in-2026/"/>
-        <updated>2026-09-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Android手機刷機真的涼了嗎？
-全球刷機人數不斷減少的當下，北朝鮮居然還有9個太陽的後裔在研究Android刷機，沒有路 ✋😭🤚 將軍真是高瞻遠矚。
-
-  
-
-LineageOS有使用者自願參加的統計功能，會蒐集匿名系統資料上傳到官方伺服器，能夠讓開發者知道有多少人在用這個系統。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
