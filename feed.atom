@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T05:33:28.854Z</updated>
+    <updated>2026-10-09T05:37:36.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -725,36 +725,6 @@ Google Chrome對Linux系統的支援度很不錯，用法跟Windows和macOS系�
     linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
-        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
-        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
-        <updated>2026-09-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[439: Dragging! Drag Everything!]]></title>
-        <id>https://blog.codepen.io/?p=21583</id>
-        <link href="https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/"/>
-        <updated>2026-09-08T17:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[439: Dragging! Drag Everything!]]></title>
-        <id>https://blog.codepen.io/?p=21583</id>
-        <link href="https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/"/>
-        <updated>2026-09-08T17:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

@@ -76,21 +76,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
-          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-          "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4572,
-          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
         }
       ]
     },
@@ -517,21 +502,6 @@
           "wordCount": 1608,
           "title": "Shrink-wrap Text with `position-anchor`",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/ios-chat-copy.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21583",
-          "author": "Chris Coyier",
-          "description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]",
-          "link": "https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/",
-          "publishedOn": "2026-09-08T17:42:59.000Z",
-          "wordCount": 875,
-          "title": "439: Dragging! Drag Everything!",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-439.mp3",
-            "length": "14390405",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -639,21 +609,6 @@
           "wordCount": 1608,
           "title": "Shrink-wrap Text with `position-anchor`",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/ios-chat-copy.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21583",
-          "author": "Chris Coyier",
-          "description": "Stephen just implemented a great UI feature for the 2.0 editor where all the Panels that were previously stuck to the left side of the page can now be dragged away to become an “Editor Tab” just like a file (or Block!). Now you’ve got a lot more freedom for what you’re looking at, and […]",
-          "link": "https://blog.codepen.io/2026/09/08/439-dragging-drag-everything/",
-          "publishedOn": "2026-09-08T17:42:59.000Z",
-          "wordCount": 875,
-          "title": "439: Dragging! Drag Everything!",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-439.mp3",
-            "length": "14390405",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     }
