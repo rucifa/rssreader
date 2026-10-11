@@ -61,21 +61,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-          "author": "hello@smashingmagazine.com (Alex Williams)",
-          "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-          "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-          "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5560,
-          "title": "Building A UX ROI Case That Survives The Boardroom",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
         }
       ]
     },
@@ -84,6 +69,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/",
+          "publishedOn": "2026-10-08T17:00:00.000Z",
+          "wordCount": 1535,
+          "title": "最喜歡的艦娘老婆排名（鎮守府Pick圖表產生器）",
+          "imageUrl": "https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/foss-eclecticism-android-ios-dual-wield/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -113,6 +108,16 @@
           "wordCount": 1562,
           "title": "Xperia 5 II綠線發作，換副廠LCD螢幕的使用心得",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/timeline-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "【閱讀前須知】\n此處是我為取代Facebook動態牆製作的特別網頁，跟首頁的長篇文章不同，這裡是紀錄簡短想法的筆記之用，部份想法可能會另外彙整成文。\n這裡的微部落格充滿各種觀點，尚未經過打磨，有反映時事，有靈光隨想，有偏激之言，有政治評論，可能冒犯到所有人。僅代表個人意見，請謹慎閱讀。\nParrhesia (παρρησία)，即只說真話不欺瞞，有負面的後果也在所不惜。說真話不只是言論自由，真理顯現也符合大眾利益，更是公民義務。唯有對自己誠實才能讓我們解脫。",
+          "link": "https://ivonblog.com/posts/timeline-2026/",
+          "publishedOn": "2026-09-30T17:01:00.000Z",
+          "wordCount": 15131,
+          "title": "/dev/null",
+          "imageUrl": null
         },
         {
           "id": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/",
@@ -373,16 +378,6 @@
           "wordCount": 921,
           "title": "穿越回到高中青春時代但是我不想重來",
           "imageUrl": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/",
-          "publishedOn": "2026-09-10T21:00:00.000Z",
-          "wordCount": 1505,
-          "title": "《月影魅像-解放之羽》心得：讓人下面入木三分的懸疑恐怖小品",
-          "imageUrl": "https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/featured.webp"
         }
       ]
     },

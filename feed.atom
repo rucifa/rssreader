@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T05:21:37.759Z</updated>
+    <updated>2026-10-11T05:13:23.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最喜歡的艦娘老婆排名（鎮守府Pick圖表產生器）]]></title>
+        <id>https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/</id>
+        <link href="https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/"/>
+        <updated>2026-10-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[443: Image Hosting is Quite Powerful on CodePen]]></title>
         <id>https://blog.codepen.io/?p=21768</id>
@@ -76,6 +123,19 @@
 給OLED手機改裝不成比例的LCD面板，導致機身上方整個凸一塊出來？這個配置像是二戰的奇異改裝戰車。好比，芬蘭爲了在繼續戰爭中對抗蘇聯，臨時將BT-7戰車，裝上114mm榴彈炮，改裝而成的BT-42突擊炮。雖然看起來口徑很大但其實沒有足夠的殺傷力。
 
   作者：進藤つらみ]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[/dev/null]]></title>
+        <id>https://ivonblog.com/posts/timeline-2026/</id>
+        <link href="https://ivonblog.com/posts/timeline-2026/"/>
+        <updated>2026-09-30T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[【閱讀前須知】
+此處是我為取代Facebook動態牆製作的特別網頁，跟首頁的長篇文章不同，這裡是紀錄簡短想法的筆記之用，部份想法可能會另外彙整成文。
+這裡的微部落格充滿各種觀點，尚未經過打磨，有反映時事，有靈光隨想，有偏激之言，有政治評論，可能冒犯到所有人。僅代表個人意見，請謹慎閱讀。
+Parrhesia (παρρησία)，即只說真話不欺瞞，有負面的後果也在所不惜。說真話不只是言論自由，真理顯現也符合大眾利益，更是公民義務。唯有對自己誠實才能讓我們解脫。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
@@ -668,63 +728,6 @@ Google Chrome對Linux系統的支援度很不錯，用法跟Windows和macOS系�
         <summary type="html"><![CDATA[Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]]]></summary>
         <author>
             <name>Stephen Shaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
-        <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
-        <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
-        <updated>2026-09-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《月影魅像-解放之羽》心得：讓人下面入木三分的懸疑恐怖小品]]></title>
-        <id>https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/</id>
-        <link href="https://ivonblog.com/posts/tsukikage-no-simulacre-kaihou-no-hane-review/"/>
-        <updated>2026-09-10T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target + .content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.68);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
