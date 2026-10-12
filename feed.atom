@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T05:13:23.849Z</updated>
+    <updated>2026-10-12T05:26:38.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -695,39 +695,6 @@ Google Chrome對Linux系統的支援度很不錯，用法跟Windows和macOS系�
 找到家人不要的Xperia L2，我真的很慶幸Sony退出做低階手機市場了，出這什麼MTK 6737T的垃圾手機，當年賣6990臺幣，比紅米貴。即使是2018年這規格也算很低階了。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[穿越回到高中青春時代但是我不想重來]]></title>
-        <id>https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/</id>
-        <link href="https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/"/>
-        <updated>2026-09-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[有時候會覺得，現在的我為什麼那麼失敗的感覺。想回到過去。
-也許是因為過於疲憊，今天下課後，我不幸追撞了黑色高級車。
-……誰叫高雄澄清路最近總是坑坑疤疤的啊。
-然後穿越回了十年前的學生時代。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shrink-wrap Text with `position-anchor`]]></title>
-        <id>https://blog.codepen.io/?p=21601</id>
-        <link href="https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/"/>
-        <updated>2026-09-11T22:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]]]></summary>
-        <author>
-            <name>Stephen Shaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shrink-wrap Text with `position-anchor`]]></title>
-        <id>https://blog.codepen.io/?p=21601</id>
-        <link href="https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/"/>
-        <updated>2026-09-11T22:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]]]></summary>
-        <author>
-            <name>Stephen Shaw</name>
         </author>
     </entry>
 </feed>

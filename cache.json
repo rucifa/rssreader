@@ -368,16 +368,6 @@
           "wordCount": 1202,
           "title": "Sony Xperia L2解鎖Bootloader取得Root權限",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-l2-root/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "有時候會覺得，現在的我為什麼那麼失敗的感覺。想回到過去。\n也許是因為過於疲憊，今天下課後，我不幸追撞了黑色高級車。\n……誰叫高雄澄清路最近總是坑坑疤疤的啊。\n然後穿越回了十年前的學生時代。",
-          "link": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/",
-          "publishedOn": "2026-09-12T07:00:00.000Z",
-          "wordCount": 921,
-          "title": "穿越回到高中青春時代但是我不想重來",
-          "imageUrl": "https://ivonblog.com/posts/dreaming-back-to-high-school-from-2026/featured.webp"
         }
       ]
     },
@@ -487,16 +477,6 @@
           "wordCount": 1529,
           "title": "Chris’ Corner: Things Getting Better",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-6.57.23-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21601",
-          "author": "Stephen Shaw",
-          "description": "Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]",
-          "link": "https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/",
-          "publishedOn": "2026-09-11T22:45:01.000Z",
-          "wordCount": 1608,
-          "title": "Shrink-wrap Text with `position-anchor`",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/ios-chat-copy.jpg"
         }
       ]
     },
@@ -594,16 +574,6 @@
           "wordCount": 1529,
           "title": "Chris’ Corner: Things Getting Better",
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-6.57.23-AM.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21601",
-          "author": "Stephen Shaw",
-          "description": "Normal text wrapping can leave big gaps in your container, which can become even more exaggerated with the new-ish CSS values of text-wrap: balance and text-wrap: pretty. You almost certainly want to use balance or pretty because they do a great job preventing “dangling” lines in your text, even with icons. But what can we […]",
-          "link": "https://blog.codepen.io/2026/09/11/shrink-wrap-text-with-position-anchor/",
-          "publishedOn": "2026-09-11T22:45:01.000Z",
-          "wordCount": 1608,
-          "title": "Shrink-wrap Text with `position-anchor`",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/ios-chat-copy.jpg"
         }
       ]
     }
