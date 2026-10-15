@@ -70,6 +70,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/nicehck-yd30-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "早知道，還是原道？\n在我用原道醬的小卡打了一發之後，該來寫寫原道耳機二代的使用心得了。\n\nNiceHCK YD30原道二代\n哇靠，超好聽的\n原道耳機是高CP值的中國品牌耳機。有句話說，早知道還是原道。從十年前就紅遍兩岸的耳機圈的神物。他們說，不到人民幣50塊的耳機能吊打一萬塊的耳機，聽了會讓你瞬間從HiFi退燒，覺得追求高階耳機都是圖個啥呀。因為各種刷梗而爆紅。",
+          "link": "https://ivonblog.com/posts/nicehck-yd30-review/",
+          "publishedOn": "2026-10-13T17:00:00.000Z",
+          "wordCount": 1196,
+          "title": "真的不錯聽耶，NiceHCK YD30原道耳機二代使用心得",
+          "imageUrl": "https://ivonblog.com/posts/nicehck-yd30-review/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/sony-xperia-midrange-photos-need-edits/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "Sony中階機拍照真的很可怕。儘管我說Xperia 10 V很爛，但是拍照數量是我拿過機型最多的，明明只是中階機，三年累積下來超過至少1000張，遠超旗艦機Xperia 5 II和Xperia 1 III的數量，大概以前拿小米9T也沒拍這麼多。",
@@ -358,66 +368,6 @@
           "wordCount": 1192,
           "title": "使用AppSync Unified在越獄iPhone安裝第三方IPA，關閉iOS驗證簽名機制",
           "imageUrl": "https://ivonblog.com/posts/appsync-unified-ios-tweak/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/downgrade-iphone-4s-to-ios-6/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "iPhone上市時搭載的前幾個OS版本，往往是最順的吧。偏偏Apple為了你好不準任意降級。\niPhone 4S是典型的受害者，本來剛出來幾年iOS 5, 6, 7還很順的，到iOS 8就不行了，升級到iOS 9更是連UI滑動都會卡。",
-          "link": "https://ivonblog.com/posts/downgrade-iphone-4s-to-ios-6/",
-          "publishedOn": "2026-09-15T14:00:00.000Z",
-          "wordCount": 1310,
-          "title": "iPhone 4S強制降級回iOS 6，Legacy iOS Kit使用方法",
-          "imageUrl": "https://ivonblog.com/posts/downgrade-iphone-4s-to-ios-6/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-carbon-jailbreaking/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "「Carbon」是由@mineekdev & @staturnzdev製作的越獄方案。它透過利用WebKit的漏洞來越獄，藉此安裝Cydia。\n跟Phoniex by Siguza & tihmstar還有EverPwnage by LukeZGD比起來，Carbon的漏洞透過Safari就能觸發，不用另外側載IPA就能用。",
-          "link": "https://ivonblog.com/posts/ios-carbon-jailbreaking/",
-          "publishedOn": "2026-09-15T09:00:00.000Z",
-          "wordCount": 1199,
-          "title": "iPhone 4S使用Carbon網頁進行完美越獄，適用iOS 8 ~ 9.3.6",
-          "imageUrl": "https://ivonblog.com/posts/ios-carbon-jailbreaking/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/linux-usbmuxd-usb-reverse-tethering-to-ios/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "讓iPhone使用Linux電腦的網路上網，並非手機分享網路給電腦(USB Tethering)，而是電腦分享網路給手機(USB Reverse Tethering)。免越獄。\n如圖，iPhone自身沒有連上Wifi，只靠USB連線到電腦，然後用電腦的乙太網路連線。因此兩者的對外IP是一樣的。",
-          "link": "https://ivonblog.com/posts/linux-usbmuxd-usb-reverse-tethering-to-ios/",
-          "publishedOn": "2026-09-15T08:00:00.000Z",
-          "wordCount": 1401,
-          "title": "讓iPhone用電腦網路上網，Linux usbmuxd USB Reverse Tethering",
-          "imageUrl": "https://ivonblog.com/posts/linux-usbmuxd-usb-reverse-tethering-to-ios/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/install-google-chrome-on-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "列出各Linux發行版安裝Google Chrome瀏覽器的方法，還有一些Ivon的使用經驗談。\n\n  \n\n「Google Chrome」是Google公司基於開源的「Chromium」專案所開發的瀏覽器。\nGoogle Chrome對Linux系統的支援度很不錯，用法跟Windows和macOS系統一樣，開啟後登入Google帳號便可將書籤與擴充套件同步過來。Google Chrome針對Linux系統提供了完整的DRM支援，以及H.264解碼器。",
-          "link": "https://ivonblog.com/posts/install-google-chrome-on-linux/",
-          "publishedOn": "2026-09-15T07:00:00.000Z",
-          "wordCount": 1383,
-          "title": "Linux系統安裝Google Chrome瀏覽器的方法",
-          "imageUrl": "https://ivonblog.com/posts/install-google-chrome-on-linux/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/ios-everpwnage-jailbreaking/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "EverPwnage是LukeZGD開發的iOS 7完美越獄工具。主要透過觸發oob_entry的kernel漏洞取得root權限，然後安裝Cydia。\n取得了一臺卡在iOS 7的iPhone 4S，這是Apple首度採取扁平化設計的第一個iOS版本。本來我想用Aquilia by staturnz來越獄，但是沒有跨平臺Linux版的樣子。所以我才用EverPwnage。",
-          "link": "https://ivonblog.com/posts/ios-everpwnage-jailbreaking/",
-          "publishedOn": "2026-09-15T05:00:00.000Z",
-          "wordCount": 1214,
-          "title": "iPhone 4S用EverPwnage實現完美越獄，支援iOS 7 ~ iOS 9.3.6",
-          "imageUrl": "https://ivonblog.com/posts/ios-everpwnage-jailbreaking/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/watch-youtube-on-old-android-devices/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "舊Android手機或平板，無法看Youtube影片？\n本文Ivon討論如何在無法刷機升級系統、停留在舊版Android的裝置，看Youtube影片。\n資料大量參考自Reddit的r/androidafterlife板，感謝開發者的付出！\n2026年，根據Google Play頁面資料，Youtube官方APP最低支援到Android 8.0。因為Youtube需要Google服務框架(GMS)才能用，所以基本上是跟著Google的支援週期跑的。Google服務框架放棄支援舊版本Android，Youtube就會不能用。在那之下的Android版本會慢慢不能看，出現無法登入，轉圈圈等問題。連帶的，Youtube ReVanced這類破解專案，也會拋棄舊版Android支援。下載舊版Youtube APK是不行的，它會拒絕載入。",
-          "link": "https://ivonblog.com/posts/watch-youtube-on-old-android-devices/",
-          "publishedOn": "2026-09-15T04:00:00.000Z",
-          "wordCount": 1293,
-          "title": "舊Android手機看Youtube的APP方案一覽 (Android 1.5 ~ Android 7.0)",
-          "imageUrl": "https://ivonblog.com/posts/watch-youtube-on-old-android-devices/featured.webp"
         }
       ]
     },
@@ -450,6 +400,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21809",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]",
+          "link": "https://blog.codepen.io/2026/10/14/444-a-gosh-dang-full-blown-read-write-api/",
+          "publishedOn": "2026-10-14T15:31:33.000Z",
+          "wordCount": 898,
+          "title": "444: A Gosh-Dang Full-Blown Read/Write API",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-444.mp3",
+            "length": "23067516",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21768",
           "author": "Chris Coyier",
           "description": "We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]",
@@ -528,16 +493,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21579",
-          "author": "Chris Coyier",
-          "description": "Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]",
-          "link": "https://blog.codepen.io/2026/09/14/chris-corner-things-getting-better/",
-          "publishedOn": "2026-09-14T17:00:38.000Z",
-          "wordCount": 1529,
-          "title": "Chris’ Corner: Things Getting Better",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-6.57.23-AM.png"
         }
       ]
     },
@@ -547,6 +502,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21809",
+          "author": "Chris Coyier",
+          "description": "Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]",
+          "link": "https://blog.codepen.io/2026/10/14/444-a-gosh-dang-full-blown-read-write-api/",
+          "publishedOn": "2026-10-14T15:31:33.000Z",
+          "wordCount": 898,
+          "title": "444: A Gosh-Dang Full-Blown Read/Write API",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-444.mp3",
+            "length": "23067516",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21768",
           "author": "Chris Coyier",
           "description": "We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]",
@@ -625,16 +595,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21579",
-          "author": "Chris Coyier",
-          "description": "Very cool that random() in CSS is coming to Chrome to join Safari who led that feature. It means one of my favorite demos I’ve made when I was first playing with it will work for more people. I just like how little code it is and how it combines some fun modern CSS features. […]",
-          "link": "https://blog.codepen.io/2026/09/14/chris-corner-things-getting-better/",
-          "publishedOn": "2026-09-14T17:00:38.000Z",
-          "wordCount": 1529,
-          "title": "Chris’ Corner: Things Getting Better",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-6.57.23-AM.png"
         }
       ]
     }
