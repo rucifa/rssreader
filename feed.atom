@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-15T04:07:45.493Z</updated>
+    <updated>2026-10-16T04:03:55.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Camera簡介：可以手動調整ISO與快門速度的Android相機APP，支援Camera2 API]]></title>
+        <id>https://ivonblog.com/posts/android-open-camera/</id>
+        <link href="https://ivonblog.com/posts/android-open-camera/"/>
+        <updated>2026-10-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[講到最好的Android相機APP，Ivon認為還得是Open Camera莫屬。
+
+它提供拍照與錄影功能，但是…不僅於此！
+很少有相機APP是開源的，然後又提供這麼多自訂功能，讓人把玩。如果你追求自由開源的相機方案，不想被各家廠商的閉源APP綁架，那麼你值得嘗試Open Camera！]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光子相機：手動控制與調色濾鏡的Android開源拍照APP]]></title>
+        <id>https://ivonblog.com/posts/android-photon-camera/</id>
+        <link href="https://ivonblog.com/posts/android-photon-camera/"/>
+        <updated>2026-10-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[喜歡手動調整拍照參數的Android用戶，可以試試bjzhou開發的「光子相機」Photon Camera。
+
+Android開源相機App又增添新的生力軍了，過去我比較常用的是Open Camera，跨品牌通用。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android手機第三方相機拍照難看，可能要到CameraX普及才解決]]></title>
+        <id>https://ivonblog.com/posts/android-3rd-party-camera-app-issues/</id>
+        <link href="https://ivonblog.com/posts/android-3rd-party-camera-app-issues/"/>
+        <updated>2026-10-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android手機對第三方相機支援度挺混亂的，很依賴個別廠商實作，且幾乎沒有第三方介入的餘地
+看看原廠 vs 第三方相機品質。
+
+
+所謂第三方相機，是相對於手機系統內建的相機而言，非原廠開發的相機APP。
+不是有很多人反映Instagram相機的限時動態在Android拍起來很難看嗎，iPhone就不會。致使Android用戶必須用系統相機拍完再上傳。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[444: A Gosh-Dang Full-Blown Read/Write API]]></title>
         <id>https://blog.codepen.io/?p=21809</id>
@@ -24,6 +64,17 @@
         <summary type="html"><![CDATA[Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony手機外觀顏色的設計是很有水準的]]></title>
+        <id>https://ivonblog.com/posts/sony-xperia-colors/</id>
+        <link href="https://ivonblog.com/posts/sony-xperia-colors/"/>
+        <updated>2026-10-14T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[根據我的觀察，Sony手機的選色審美一直都是沒問題的，美感設計一直在線。低調，耐看，其實是Sony手機的一項優點。
+你看看啊，自2019年以來，1系列和5系列都是偏低調的顏色。Sony手機不會推出iPhone三星那種高飽和度的顏色，也甚少推出玫瑰金。Xperia 1 VIII出現的金色款可說是一種稀有的產物。正如iPhone 17推出的宇宙橙，大膽鮮明的配色，成為一種張揚炫耀用的東西。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -609,75 +660,6 @@ Unpopular opinion: 手機沒有3.5mm耳機孔，也許…並不是壞事。
     text-align: center;
     background:
     linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
-        <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
-        <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
-        <updated>2026-09-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免安裝iTunes，Linux系統透過libimobiledevice連接iPhone傳照片、備份系統、DFU重置系統]]></title>
-        <id>https://ivonblog.com/posts/linux-access-ios-files/</id>
-        <link href="https://ivonblog.com/posts/linux-access-ios-files/"/>
-        <updated>2026-09-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux系統透過一些開源軟體的幫助就能存取iPhone/iPad的照片，甚至可以免iTunes整機備份、重置系統、給iPhone越獄。
-
-  
-
-為何不用iTunes呢？iTunes只有Windows與macOS版，Linux系統得用Wine裝，但是用Wine裝iTunes很痛苦的，最新版本就算依賴套件全裝開啟還是黑螢幕。若不想為存取iPhone/iPad檔案開Windows虛擬機，那就使用開源軟體來達成目標吧！不需要用Windows上閉源的iMazing、iTools軟體。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[復活老iPhone 4S計劃，復古CCD拍照，高推力隨身聽，還是單純懷舊感作祟買的？]]></title>
-        <id>https://ivonblog.com/posts/apple-iphone-4s-review/</id>
-        <link href="https://ivonblog.com/posts/apple-iphone-4s-review/"/>
-        <updated>2026-09-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[失去的童年，長大後要把它買回來…報復性補償。也就是，長大後有錢就能買想要的玩具了。
-
-  
-
-最近我想買一支iPhone 4S來回味，因為我2016年的時候短暫用過 短短三天的哀鳳戀情 本來買白的然後換黑的，二手花3000買到的，是我第一支iPhone。結果被家人弄丟了呢。2011年iPhone 4S發售，當時我拿的大陸長江山寨機也是仿冒iPhone外形的。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[440: Hey! Hi! Right here! In-App Notifications That Like You]]></title>
-        <id>https://blog.codepen.io/?p=21632</id>
-        <link href="https://blog.codepen.io/2026/09/15/440-hey-hi-right-here-in-app-notifications-that-like-you/"/>
-        <updated>2026-09-15T20:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Rach and Chris jump on the podcast to talk about the brand-new in-app notification system we built and shipped. We’re actively trying to balance a system that isn’t annoying, but allows us to show targetting information to targetted users when we think that’s valuable for both you and us. It started with “We launched 2.0!” […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[440: Hey! Hi! Right here! In-App Notifications That Like You]]></title>
-        <id>https://blog.codepen.io/?p=21632</id>
-        <link href="https://blog.codepen.io/2026/09/15/440-hey-hi-right-here-in-app-notifications-that-like-you/"/>
-        <updated>2026-09-15T20:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Rach and Chris jump on the podcast to talk about the brand-new in-app notification system we built and shipped. We’re actively trying to balance a system that isn’t annoying, but allows us to show targetting information to targetted users when we think that’s valuable for both you and us. It started with “We launched 2.0!” […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用AppSync Unified在越獄iPhone安裝第三方IPA，關閉iOS驗證簽名機制]]></title>
-        <id>https://ivonblog.com/posts/appsync-unified-ios-tweak/</id>
-        <link href="https://ivonblog.com/posts/appsync-unified-ios-tweak/"/>
-        <updated>2026-09-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[即使越獄了，iPhone依然不能任意側載IPA，安裝第三方APP！
-因為iOS有簽名驗證機制。第一，iOS會檢查你的IPA是否符合Apple頒發的憑證簽名，否則會出現「無法驗證此APP」「需要驗證開發者」等錯誤。第二，使用者透過App Store下載的IPA，會用使用者的Apple ID簽名才能啟動，致使IPA不能任意分享給他人。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
