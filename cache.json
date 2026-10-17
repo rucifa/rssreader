@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
+          "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": 4790,
+          "title": "Is Your Organization Messing Up AI Adoption?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/how-name-things/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
@@ -353,16 +368,6 @@
           "wordCount": 840,
           "title": "手機沒有3.5mm耳機孔不是缺點，因為做好DAC真的太難了吧",
           "imageUrl": "https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/home-of-chonglangtv/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
-          "link": "https://ivonblog.com/posts/home-of-chonglangtv/",
-          "publishedOn": "2026-09-17T14:00:00.000Z",
-          "wordCount": 1724,
-          "title": "【冲浪TV專題】盤點神友浪人新家，Reddit與Reddit站外的中文社區",
-          "imageUrl": "https://ivonblog.com/posts/home-of-chonglangtv/featured.webp"
         }
       ]
     },

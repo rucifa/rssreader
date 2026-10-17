@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T04:03:55.711Z</updated>
+    <updated>2026-10-17T03:54:47.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Your Organization Messing Up AI Adoption?]]></title>
+        <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
+        <link href="https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"/>
+        <updated>2026-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Camera簡介：可以手動調整ISO與快門速度的Android相機APP，支援Camera2 API]]></title>
         <id>https://ivonblog.com/posts/android-open-camera/</id>
@@ -613,53 +623,6 @@ Ivon想Root的原因是這支明明有雙喇叭音質還是很破，想說刷杜
 
 Unpopular opinion: 手機沒有3.5mm耳機孔，也許…並不是壞事。
 一來普通用戶的耳機需求用藍牙音質就能滿足了，多少木耳Youtube Music聽爽爽，哪會聽Tidal無損。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【冲浪TV專題】盤點神友浪人新家，Reddit與Reddit站外的中文社區]]></title>
-        <id>https://ivonblog.com/posts/home-of-chonglangtv/</id>
-        <link href="https://ivonblog.com/posts/home-of-chonglangtv/"/>
-        <updated>2026-09-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target + .content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.68);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
