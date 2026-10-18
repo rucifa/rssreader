@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T03:54:47.507Z</updated>
+    <updated>2026-10-18T04:00:53.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -610,19 +610,6 @@ Ivon想Root的原因是這支明明有雙喇叭音質還是很破，想說刷杜
         <updated>2026-09-20T01:10:00.000Z</updated>
         <summary type="html"><![CDATA[＊＊只要Apple Music新增這個功能，本文討論的內容就沒什麼意義了。＊＊
 似乎Android版Apple Music早就能繞過SRC了？可是我在Sony Xperia 1 III (LineageOS 23) 測不出來。根據nyanako0129協助提供的測試，原廠ROM的Xperia 1 III，是可以用Apple Music輸出192kHz的。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手機沒有3.5mm耳機孔不是缺點，因為做好DAC真的太難了吧]]></title>
-        <id>https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/</id>
-        <link href="https://ivonblog.com/posts/is-the-35mm-headphone-jack-still-necessary-on-phones/"/>
-        <updated>2026-09-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在主流手機品牌幾乎都沒有3.5mm耳機孔了。
-
-Unpopular opinion: 手機沒有3.5mm耳機孔，也許…並不是壞事。
-一來普通用戶的耳機需求用藍牙音質就能滿足了，多少木耳Youtube Music聽爽爽，哪會聽Tidal無損。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
