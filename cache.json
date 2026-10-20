@@ -70,6 +70,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/gcam-ports-installation/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這篇文章Ivon將介紹如何在Android手機安裝GCam，並介紹下載GCam APK的網站。\n\n  \n\n\n1. 什麼是GCam\n    \n\n    \n    \n        #\n    \n    \n\n如果想改善Android手機拍照效果，有些人會跟你說要下載GCam吧？",
+          "link": "https://ivonblog.com/posts/gcam-ports-installation/",
+          "publishedOn": "2026-10-19T17:00:00.000Z",
+          "wordCount": 1328,
+          "title": "GCam APK安裝教學 ～ 用強大演算法改善手機拍照品質 ～ 非官方的Google Pixel相機",
+          "imageUrl": "https://ivonblog.com/posts/gcam-ports-installation/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/android-open-camera/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "講到最好的Android相機APP，Ivon認為還得是Open Camera莫屬。\n\n它提供拍照與錄影功能，但是…不僅於此！\n很少有相機APP是開源的，然後又提供這麼多自訂功能，讓人把玩。如果你追求自由開源的相機方案，不想被各家廠商的閉源APP綁架，那麼你值得嘗試Open Camera！",
@@ -348,16 +358,6 @@
           "wordCount": 840,
           "title": "買手機應該追求極致旗艦機，還是夠用的中階就好？",
           "imageUrl": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-usb-sample-rate-unlocker/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "＊＊只要Apple Music新增這個功能，本文討論的內容就沒什麼意義了。＊＊\n似乎Android版Apple Music早就能繞過SRC了？可是我在Sony Xperia 1 III (LineageOS 23) 測不出來。根據nyanako0129協助提供的測試，原廠ROM的Xperia 1 III，是可以用Apple Music輸出192kHz的。",
-          "link": "https://ivonblog.com/posts/android-usb-sample-rate-unlocker/",
-          "publishedOn": "2026-09-20T01:10:00.000Z",
-          "wordCount": 888,
-          "title": "用Root模組解決Android SRC重取樣Apple Music導致音質上不去的問題",
-          "imageUrl": "https://ivonblog.com/posts/android-usb-sample-rate-unlocker/featured.webp"
         }
       ]
     },

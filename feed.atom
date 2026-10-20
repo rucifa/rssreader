@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T04:10:14.819Z</updated>
+    <updated>2026-10-20T04:22:59.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GCam APK安裝教學 ～ 用強大演算法改善手機拍照品質 ～ 非官方的Google Pixel相機]]></title>
+        <id>https://ivonblog.com/posts/gcam-ports-installation/</id>
+        <link href="https://ivonblog.com/posts/gcam-ports-installation/"/>
+        <updated>2026-10-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這篇文章Ivon將介紹如何在Android手機安裝GCam，並介紹下載GCam APK的網站。
+
+  
+
+
+1. 什麼是GCam
+    
+
+    
+    
+        #
+    
+    
+
+如果想改善Android手機拍照效果，有些人會跟你說要下載GCam吧？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Your Organization Messing Up AI Adoption?]]></title>
         <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
@@ -599,17 +623,6 @@ Ivon想Root的原因是這支明明有雙喇叭音質還是很破，想說刷杜
         <summary type="html"><![CDATA[對一個手頭不算寬裕，但又有一些消費能力的人來說，購買3C產品到底該追求夠用，還是極致一步到位？
 先來聽： MC HotDog - 貧民百萬歌星
 在追求高級產品時，我意識到一件事，追求完美是無窮無盡的偏執。產品一定都會有分級，高端與低端，通常會用價格決定品質。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Root模組解決Android SRC重取樣Apple Music導致音質上不去的問題]]></title>
-        <id>https://ivonblog.com/posts/android-usb-sample-rate-unlocker/</id>
-        <link href="https://ivonblog.com/posts/android-usb-sample-rate-unlocker/"/>
-        <updated>2026-09-20T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[＊＊只要Apple Music新增這個功能，本文討論的內容就沒什麼意義了。＊＊
-似乎Android版Apple Music早就能繞過SRC了？可是我在Sony Xperia 1 III (LineageOS 23) 測不出來。根據nyanako0129協助提供的測試，原廠ROM的Xperia 1 III，是可以用Apple Music輸出192kHz的。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
