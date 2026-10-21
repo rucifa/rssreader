@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T04:22:59.722Z</updated>
+    <updated>2026-10-21T04:12:59.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[445: CodePen AI is Here]]></title>
+        <id>https://blog.codepen.io/?p=21840</id>
+        <link href="https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/"/>
+        <updated>2026-10-20T13:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[445: CodePen AI is Here]]></title>
+        <id>https://blog.codepen.io/?p=21840</id>
+        <link href="https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/"/>
+        <updated>2026-10-20T13:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
+        <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
+        <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
+        <updated>2026-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GCam APK安裝教學 ～ 用強大演算法改善手機拍照品質 ～ 非官方的Google Pixel相機]]></title>
         <id>https://ivonblog.com/posts/gcam-ports-installation/</id>
@@ -611,18 +641,6 @@ Ivon想Root的原因是這支明明有雙喇叭音質還是很破，想說刷杜
         <link href="https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/"/>
         <updated>2026-09-22T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[到Youtube看了小時候很沉迷的機臺遊戲的遊玩畫面，包含甲蟲王者（甲虫王者ムシキング）、恐龍王（古代王者 恐竜キング）、百獸大戰（百獣大戦アニマルカイザー）最早的已經是2003年推出的。臺灣SEGA大量從日本引進。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[買手機應該追求極致旗艦機，還是夠用的中階就好？]]></title>
-        <id>https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/</id>
-        <link href="https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/"/>
-        <updated>2026-09-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[對一個手頭不算寬裕，但又有一些消費能力的人來說，購買3C產品到底該追求夠用，還是極致一步到位？
-先來聽： MC HotDog - 貧民百萬歌星
-在追求高級產品時，我意識到一件事，追求完美是無窮無盡的偏執。產品一定都會有分級，高端與低端，通常會用價格決定品質。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

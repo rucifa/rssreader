@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+          "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+          "publishedOn": "2026-10-20T10:00:00.000Z",
+          "wordCount": 5961,
+          "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
@@ -348,16 +363,6 @@
           "wordCount": 819,
           "title": "沉迷過甲蟲王者、恐龍王、百獸大戰的卡片，現在他們還能玩嗎",
           "imageUrl": "https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "對一個手頭不算寬裕，但又有一些消費能力的人來說，購買3C產品到底該追求夠用，還是極致一步到位？\n先來聽： MC HotDog - 貧民百萬歌星\n在追求高級產品時，我意識到一件事，追求完美是無窮無盡的偏執。產品一定都會有分級，高端與低端，通常會用價格決定品質。",
-          "link": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/",
-          "publishedOn": "2026-09-21T10:00:00.000Z",
-          "wordCount": 840,
-          "title": "買手機應該追求極致旗艦機，還是夠用的中階就好？",
-          "imageUrl": "https://ivonblog.com/posts/buy-phone-high-end-or-good-enough/featured.webp"
         }
       ]
     },
@@ -389,6 +394,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21840",
+          "author": "Chris Coyier",
+          "description": "Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]",
+          "link": "https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/",
+          "publishedOn": "2026-10-20T13:01:54.000Z",
+          "wordCount": 988,
+          "title": "445: CodePen AI is Here",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-445.mp3",
+            "length": "20523257",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21809",
           "author": "Chris Coyier",
@@ -476,6 +496,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21840",
+          "author": "Chris Coyier",
+          "description": "Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]",
+          "link": "https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/",
+          "publishedOn": "2026-10-20T13:01:54.000Z",
+          "wordCount": 988,
+          "title": "445: CodePen AI is Here",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-445.mp3",
+            "length": "20523257",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://blog.codepen.io/?p=21809",
           "author": "Chris Coyier",
