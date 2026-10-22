@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T04:12:59.275Z</updated>
+    <updated>2026-10-22T04:13:24.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -602,47 +602,6 @@ Ivon想Root的原因是這支明明有雙喇叭音質還是很破，想說刷杜
         <summary type="html"><![CDATA[Dave Rupert has a new syntax highlighter: MicroLighter. He wrote about the why. There are a bunch of trade-offs with all the technologies that do this job. The trade-offs here seem pretty worth it for a relatively lightweight, infrequent syntax highlighting job. I mean 2 KB as a base library is pretty amazing, with the […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[441: Challenges For We, Challenges For Thee]]></title>
-        <id>https://blog.codepen.io/?p=21650</id>
-        <link href="https://blog.codepen.io/2026/09/22/441-challenges-for-we-challenges-for-thee/"/>
-        <updated>2026-09-22T14:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[441: Challenges For We, Challenges For Thee]]></title>
-        <id>https://blog.codepen.io/?p=21650</id>
-        <link href="https://blog.codepen.io/2026/09/22/441-challenges-for-we-challenges-for-thee/"/>
-        <updated>2026-09-22T14:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Marie and Chris talk about CodePen Challenges. We’ve been at it for many years! We get into the technology behind it, how we build our own CMS for it that powers the website and the emails that get sent about it. We also cover why they can be so beneficial for everyone involved. Time Jumps]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final E500人聲特化耳機使用心得 (ASMR + 白噪音 + 聽音樂用途)]]></title>
-        <id>https://ivonblog.com/posts/final-e500-review/</id>
-        <link href="https://ivonblog.com/posts/final-e500-review/"/>
-        <updated>2026-09-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Final E500是日本Final公司在2019年推出的一款便宜耳機，現在還有在生產，屬於Final E系列裡面的最低階型號，主打人聲強化，常常出現在ASMR耳機的推薦名單中。
-我一直好奇，為什麼沒有評測試過戴ASMR專用耳機看 會員制餐廳 (Blackhole 8) 本篇？與其聽Vtuber挖耳朵，不如聽聽挖屁眼的效果。嗯 ~ Final E500這耳機效果真好，除了近距離聆聽蔬菜棒和布丁脫出的聲音，還能聽到攝影師在偷笑和氣音。金金吼細……。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沉迷過甲蟲王者、恐龍王、百獸大戰的卡片，現在他們還能玩嗎]]></title>
-        <id>https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/</id>
-        <link href="https://ivonblog.com/posts/mushiking-and-dinosaur-king-and-animal-kaiser/"/>
-        <updated>2026-09-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[到Youtube看了小時候很沉迷的機臺遊戲的遊玩畫面，包含甲蟲王者（甲虫王者ムシキング）、恐龍王（古代王者 恐竜キング）、百獸大戰（百獣大戦アニマルカイザー）最早的已經是2003年推出的。臺灣SEGA大量從日本引進。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
