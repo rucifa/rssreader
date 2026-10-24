@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+          "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+          "publishedOn": "2026-10-23T13:00:00.000Z",
+          "wordCount": 3561,
+          "title": "Accordion Icons: Which Work Best?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
@@ -84,6 +99,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/sega-xstellar-figure-blue-archive-mika-swimsuit-ver/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "好的相機能把彌香拍的像沙灘美人\n壞的相機會把她拍的像是沙雕美人\n像三一大猩猩\n本來我是很喜歡聖亞的，但是看到Mika的泳裝模型就。。。\n十七歲女生的溫柔，其實是很那個的。。。\n泳裝很漂亮，所以就帶去外拍啦\n今天來開箱SEGA在2026年推出的景品",
+          "link": "https://ivonblog.com/posts/sega-xstellar-figure-blue-archive-mika-swimsuit-ver/",
+          "publishedOn": "2026-10-23T02:00:00.000Z",
+          "wordCount": 864,
+          "title": "帶彌香去海邊 ～ SEGA 蔚藍檔案 XStellar 聖園彌香 泳裝ver",
+          "imageUrl": "https://ivonblog.com/posts/sega-xstellar-figure-blue-archive-mika-swimsuit-ver/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/taito-figure-ro-500-holiday-ver/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "TAITO於2016年推出的呂500Figure，吃冰棒。\n艦これ 潜水艦 呂500の休日をイメージしたフィギュア\n我覺得因爲呂500的潛水艦屬性，應該要拍外景～所以就帶著出去了。\n\n  \n\n\n  \n\n這隻跟2014 TAITO島風應該有點對應關係，都是坐在游泳圈山方便展示的種類～",
+          "link": "https://ivonblog.com/posts/taito-figure-ro-500-holiday-ver/",
+          "publishedOn": "2026-10-23T01:00:00.000Z",
+          "wordCount": 841,
+          "title": "TAITO 呂500休日ver.到海邊，附贈精緻魚雷與支架",
+          "imageUrl": "https://ivonblog.com/posts/taito-figure-ro-500-holiday-ver/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/gcam-ports-installation/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -365,6 +400,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21748",
+          "author": "Chris Coyier",
+          "description": "It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]",
+          "link": "https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/",
+          "publishedOn": "2026-10-21T15:47:20.000Z",
+          "wordCount": 1086,
+          "title": "Chris’ Corner: We Heart CSS",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.codepen.io/?p=21840",
           "author": "Chris Coyier",
           "description": "Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]",
@@ -441,6 +486,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21748",
+          "author": "Chris Coyier",
+          "description": "It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]",
+          "link": "https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/",
+          "publishedOn": "2026-10-21T15:47:20.000Z",
+          "wordCount": null,
+          "title": "Chris’ Corner: We Heart CSS",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21840",
           "author": "Chris Coyier",

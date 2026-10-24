@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T04:17:10.409Z</updated>
+    <updated>2026-10-24T04:08:11.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
+        <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
+        <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
+        <updated>2026-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帶彌香去海邊 ～ SEGA 蔚藍檔案 XStellar 聖園彌香 泳裝ver]]></title>
+        <id>https://ivonblog.com/posts/sega-xstellar-figure-blue-archive-mika-swimsuit-ver/</id>
+        <link href="https://ivonblog.com/posts/sega-xstellar-figure-blue-archive-mika-swimsuit-ver/"/>
+        <updated>2026-10-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[好的相機能把彌香拍的像沙灘美人
+壞的相機會把她拍的像是沙雕美人
+像三一大猩猩
+本來我是很喜歡聖亞的，但是看到Mika的泳裝模型就。。。
+十七歲女生的溫柔，其實是很那個的。。。
+泳裝很漂亮，所以就帶去外拍啦
+今天來開箱SEGA在2026年推出的景品]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAITO 呂500休日ver.到海邊，附贈精緻魚雷與支架]]></title>
+        <id>https://ivonblog.com/posts/taito-figure-ro-500-holiday-ver/</id>
+        <link href="https://ivonblog.com/posts/taito-figure-ro-500-holiday-ver/"/>
+        <updated>2026-10-23T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TAITO於2016年推出的呂500Figure，吃冰棒。
+艦これ 潜水艦 呂500の休日をイメージしたフィギュア
+我覺得因爲呂500的潛水艦屬性，應該要拍外景～所以就帶著出去了。
+
+  
+
+
+  
+
+這隻跟2014 TAITO島風應該有點對應關係，都是坐在游泳圈山方便展示的種類～]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: We Heart CSS]]></title>
+        <id>https://blog.codepen.io/?p=21748</id>
+        <link href="https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/"/>
+        <updated>2026-10-21T15:47:20.000Z</updated>
+        <summary type="html"><![CDATA[It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: We Heart CSS]]></title>
+        <id>https://blog.codepen.io/?p=21748</id>
+        <link href="https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/"/>
+        <updated>2026-10-21T15:47:20.000Z</updated>
+        <summary type="html"><![CDATA[It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[445: CodePen AI is Here]]></title>
         <id>https://blog.codepen.io/?p=21840</id>
