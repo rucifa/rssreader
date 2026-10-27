@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-26T04:14:32.899Z</updated>
+    <updated>2026-10-27T04:33:34.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks has a new owner!]]></title>
+        <id>https://css-tricks.com/?p=397227</id>
+        <link href="https://css-tricks.com/css-tricks-has-a-new-owner/"/>
+        <updated>2026-10-26T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.
+CSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
         <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
@@ -557,65 +568,6 @@ Parrhesia (παρρησία)，即只說真話不欺瞞，有負面的後果也�
         <summary type="html"><![CDATA[在Sony Xperia 1 III手機取得Root權限，藉此安裝各種Magisk模組與Xposed框架，任你喜好修改系統。
 
 本文內容的步驟也適用於所有Xperia 1系列的手機，包括Xperia 1 (J9110)、Xperia 1 II、Xperia 1 IV、Xperia 1 V、Xperia 1 VI、Xperia 1 VII、Xperia 1 VIII。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嘉義「電波空間」Galgame專賣店半日遊]]></title>
-        <id>https://ivonblog.com/posts/denppakuukan-in-chayi-city/</id>
-        <link href="https://ivonblog.com/posts/denppakuukan-in-chayi-city/"/>
-        <updated>2026-09-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target + .content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.68);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Xperia 5 II解鎖與Root教學，刷入Magisk]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-5-ii-root/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-5-ii-root/"/>
-        <updated>2026-09-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony Xperia 5 II (XQ-AS72) 透過官方管道解鎖後，便可以Root和刷機(刷入第三方ROM)。
-操作前務必備份重要資料，解鎖bootloader後手機資料會全部清除。
-本文教學亦適用於Xperia 5 (J9210)、Xperia 5 III、Xperia 5 IV、Xperia 5 V。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
