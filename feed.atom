@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T05:05:44.952Z</updated>
+    <updated>2026-10-29T05:18:03.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -556,17 +556,6 @@ Parrhesia (παρρησία)，即只說真話不欺瞞，有負面的後果也�
         <summary type="html"><![CDATA[現在的手機有可能單手操作打字嗎？
 所謂優質小手機的標準，在螢幕小於6吋之外，應該還要包含能方便「單手握持」與「單手操作」在內吧。打字能單手做到，不需要雙手並用。
 如今主流市場定義的小手機是6吋左右(含螢幕+機身)，我覺得6吋剛好，不能再大了。但是他們都太寬了！Pixel、iPhone、Samsung Galaxy的6吋手機，寬度平均都在71mm以上，但是我的手只能容納68mm以下的寬度呀。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刷機最多的型號竟然是Sony而非小米]]></title>
-        <id>https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/</id>
-        <link href="https://ivonblog.com/posts/best-phones-for-custom-rom-in-my-inventory-are-sony-xperia-series/"/>
-        <updated>2026-09-29T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[真是可怕，本來以爲像我這種刷機狂魔的個性，刷最多的品牌應該是小米，我應該成為忠實米粉一年一換才對，即使HyperOS限制刷機，但是blog tags數量統計下來，刷機數量最多的是Sony。
-的確Sony單部手機不像小米和Pixel那樣得到多個ROM支援。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
