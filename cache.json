@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397546",
+          "author": "Preethi",
+          "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-frankenstein-table/",
+          "publishedOn": "2026-10-29T13:47:08.000Z",
+          "wordCount": 2191,
+          "title": "The Frankenstein Table",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396840",
           "author": "Daniel Schwarz",
           "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -97,21 +107,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
-          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-          "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4643,
-          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
         }
       ]
     },
@@ -120,6 +115,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/is-using-gcam-cheating/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "用GCam這種自動修圖的相機APP拍照算不算作弊？\n看過去我Sony中階Xperia 10 V手機拍的照片，好漂亮的幾張啊，然而原廠的很難拍出這種效果，幾乎是GCam的功勞，Sony只負責提供硬體，小巧好握的機身。\n\n\n\n\n\n因為我奉行Parrhesia原則（直言不諱，即使說出真相可能帶來風險或負面後果，仍勇於坦誠發言，將說真話視為一種道德責任 by 傅柯），用GCam常常拍出遠超Sony和小米原廠相機效果的照片…如果我分享照片，應該標註用GCam拍的嗎。就像使用AI開發軟體、用AI繪圖，應該憑良心自行揭露。",
+          "link": "https://ivonblog.com/posts/is-using-gcam-cheating/",
+          "publishedOn": "2026-10-29T03:00:00.000Z",
+          "wordCount": 879,
+          "title": "用GCam拍照算不算作弊？我對用GCam拍照想法的轉變",
+          "imageUrl": "https://ivonblog.com/posts/is-using-gcam-cheating/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/sega-xstellar-figure-blue-archive-mika-swimsuit-ver/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
@@ -319,26 +324,6 @@
           "wordCount": 1562,
           "title": "Xperia 5 II綠線發作，換副廠LCD螢幕的使用心得",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/timeline-2026/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "【閱讀前須知】\n此處是我為取代Facebook動態牆製作的特別網頁，跟首頁的長篇文章不同，這裡是紀錄簡短想法的筆記之用，部份想法可能會另外彙整成文。\n這裡的微部落格充滿各種觀點，尚未經過打磨，有反映時事，有靈光隨想，有偏激之言，有政治評論，可能冒犯到所有人。僅代表個人意見，請謹慎閱讀。\nParrhesia (παρρησία)，即只說真話不欺瞞，有負面的後果也在所不惜。說真話不只是言論自由，真理顯現也符合大眾利益，更是公民義務。唯有對自己誠實才能讓我們解脫。",
-          "link": "https://ivonblog.com/posts/timeline-2026/",
-          "publishedOn": "2026-09-30T17:01:00.000Z",
-          "wordCount": 15131,
-          "title": "/dev/null",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "現在的手機有可能單手操作打字嗎？\n所謂優質小手機的標準，在螢幕小於6吋之外，應該還要包含能方便「單手握持」與「單手操作」在內吧。打字能單手做到，不需要雙手並用。\n如今主流市場定義的小手機是6吋左右(含螢幕+機身)，我覺得6吋剛好，不能再大了。但是他們都太寬了！Pixel、iPhone、Samsung Galaxy的6吋手機，寬度平均都在71mm以上，但是我的手只能容納68mm以下的寬度呀。",
-          "link": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/",
-          "publishedOn": "2026-09-30T05:00:00.000Z",
-          "wordCount": 875,
-          "title": "小尺寸手機應該要追求好握，單手操作的極限是寬度70mm，沒想到連Sony也淪陷了...",
-          "imageUrl": "https://ivonblog.com/posts/narrow-phones-for-single-hand-use/featured.webp"
         }
       ]
     },
@@ -353,6 +338,16 @@
       "feedUrl": "https://www.chirue.com/feed/",
       "siteUrl": "https://www.chirue.com",
       "articles": [
+        {
+          "id": "https://www.chirue.com/?p=16262",
+          "author": "Susan",
+          "description": "綠世界 ( 化名 ) 位於台灣中部，從事多元能源工程已超過 20 年。目前員工逾 200 人，年營收達數億元規 […]",
+          "link": "https://www.chirue.com/broadcom-vmware-to-proxmox-ve/",
+          "publishedOn": "2026-10-27T05:38:50.000Z",
+          "wordCount": 2318,
+          "title": "Broadcom VMware 授權漲價後，中部能源企業轉 Proxmox VE，授權成本降約 86%",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/10/Gemini_Generated_Image_1of00c1of00c1of0-1024x765.jpg"
+        },
         {
           "id": "https://www.chirue.com/?p=16210",
           "author": "Susan",
@@ -424,31 +419,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/10/np_image_3818496_000000.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21688",
-          "author": "Chris Coyier",
-          "description": "Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]",
-          "link": "https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/",
-          "publishedOn": "2026-09-30T16:41:48.000Z",
-          "wordCount": 965,
-          "title": "442: Pens are Actually Websites",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-442.mp3",
-            "length": "17592012",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21697",
-          "author": "Chris Coyier",
-          "description": "Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]",
-          "link": "https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/",
-          "publishedOn": "2026-09-30T15:24:28.000Z",
-          "wordCount": 1034,
-          "title": "Chris’ Corner: Sweet Typography",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.53.16-PM.png"
         }
       ]
     },
@@ -511,31 +481,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/10/np_image_3818496_000000.png"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21688",
-          "author": "Chris Coyier",
-          "description": "Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]",
-          "link": "https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/",
-          "publishedOn": "2026-09-30T16:41:48.000Z",
-          "wordCount": 965,
-          "title": "442: Pens are Actually Websites",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-442.mp3",
-            "length": "17592012",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21697",
-          "author": "Chris Coyier",
-          "description": "Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]",
-          "link": "https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/",
-          "publishedOn": "2026-09-30T15:24:28.000Z",
-          "wordCount": 1034,
-          "title": "Chris’ Corner: Sweet Typography",
-          "imageUrl": "https://blog.codepen.io/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.53.16-PM.png"
         }
       ]
     }

@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T05:18:03.307Z</updated>
+    <updated>2026-10-30T05:17:34.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Frankenstein Table]]></title>
+        <id>https://css-tricks.com/?p=397546</id>
+        <link href="https://css-tricks.com/the-frankenstein-table/"/>
+        <updated>2026-10-29T13:47:08.000Z</updated>
+        <summary type="html"><![CDATA[A super scary way to go about tables using other layout techniques, like CSS Grid.
+The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用GCam拍照算不算作弊？我對用GCam拍照想法的轉變]]></title>
+        <id>https://ivonblog.com/posts/is-using-gcam-cheating/</id>
+        <link href="https://ivonblog.com/posts/is-using-gcam-cheating/"/>
+        <updated>2026-10-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[用GCam這種自動修圖的相機APP拍照算不算作弊？
+看過去我Sony中階Xperia 10 V手機拍的照片，好漂亮的幾張啊，然而原廠的很難拍出這種效果，幾乎是GCam的功勞，Sony只負責提供硬體，小巧好握的機身。
+
+
+
+
+
+因為我奉行Parrhesia原則（直言不諱，即使說出真相可能帶來風險或負面後果，仍勇於坦誠發言，將說真話視為一種道德責任 by 傅柯），用GCam常常拍出遠超Sony和小米原廠相機效果的照片…如果我分享照片，應該標註用GCam拍的嗎。就像使用AI開發軟體、用AI繪圖，應該憑良心自行揭露。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More]]></title>
         <id>https://css-tricks.com/?p=396840</id>
@@ -15,6 +43,16 @@
 What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadcom VMware 授權漲價後，中部能源企業轉 Proxmox VE，授權成本降約 86%]]></title>
+        <id>https://www.chirue.com/?p=16262</id>
+        <link href="https://www.chirue.com/broadcom-vmware-to-proxmox-ve/"/>
+        <updated>2026-10-27T05:38:50.000Z</updated>
+        <summary type="html"><![CDATA[綠世界 ( 化名 ) 位於台灣中部，從事多元能源工程已超過 20 年。目前員工逾 200 人，年營收達數億元規 […]]]></summary>
+        <author>
+            <name>Susan</name>
         </author>
     </entry>
     <entry>
@@ -481,81 +519,6 @@ NiceHCK YD30原道二代
 給OLED手機改裝不成比例的LCD面板，導致機身上方整個凸一塊出來？這個配置像是二戰的奇異改裝戰車。好比，芬蘭爲了在繼續戰爭中對抗蘇聯，臨時將BT-7戰車，裝上114mm榴彈炮，改裝而成的BT-42突擊炮。雖然看起來口徑很大但其實沒有足夠的殺傷力。
 
   作者：進藤つらみ]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[/dev/null]]></title>
-        <id>https://ivonblog.com/posts/timeline-2026/</id>
-        <link href="https://ivonblog.com/posts/timeline-2026/"/>
-        <updated>2026-09-30T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[【閱讀前須知】
-此處是我為取代Facebook動態牆製作的特別網頁，跟首頁的長篇文章不同，這裡是紀錄簡短想法的筆記之用，部份想法可能會另外彙整成文。
-這裡的微部落格充滿各種觀點，尚未經過打磨，有反映時事，有靈光隨想，有偏激之言，有政治評論，可能冒犯到所有人。僅代表個人意見，請謹慎閱讀。
-Parrhesia (παρρησία)，即只說真話不欺瞞，有負面的後果也在所不惜。說真話不只是言論自由，真理顯現也符合大眾利益，更是公民義務。唯有對自己誠實才能讓我們解脫。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[442: Pens are Actually Websites]]></title>
-        <id>https://blog.codepen.io/?p=21688</id>
-        <link href="https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/"/>
-        <updated>2026-09-30T16:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[442: Pens are Actually Websites]]></title>
-        <id>https://blog.codepen.io/?p=21688</id>
-        <link href="https://blog.codepen.io/2026/09/30/442-pens-are-actually-websites/"/>
-        <updated>2026-09-30T16:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Sweet Typography]]></title>
-        <id>https://blog.codepen.io/?p=21697</id>
-        <link href="https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/"/>
-        <updated>2026-09-30T15:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: Sweet Typography]]></title>
-        <id>https://blog.codepen.io/?p=21697</id>
-        <link href="https://blog.codepen.io/2026/09/30/chris-corner-sweet-typography/"/>
-        <updated>2026-09-30T15:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
-        <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
-        <updated>2026-09-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小尺寸手機應該要追求好握，單手操作的極限是寬度70mm，沒想到連Sony也淪陷了...]]></title>
-        <id>https://ivonblog.com/posts/narrow-phones-for-single-hand-use/</id>
-        <link href="https://ivonblog.com/posts/narrow-phones-for-single-hand-use/"/>
-        <updated>2026-09-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在的手機有可能單手操作打字嗎？
-所謂優質小手機的標準，在螢幕小於6吋之外，應該還要包含能方便「單手握持」與「單手操作」在內吧。打字能單手做到，不需要雙手並用。
-如今主流市場定義的小手機是6吋左右(含螢幕+機身)，我覺得6吋剛好，不能再大了。但是他們都太寬了！Pixel、iPhone、Samsung Galaxy的6吋手機，寬度平均都在71mm以上，但是我的手只能容納68mm以下的寬度呀。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
