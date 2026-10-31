@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T05:17:34.628Z</updated>
+    <updated>2026-10-31T05:00:26.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[446: Our Next-Generation of Feeds is Here]]></title>
+        <id>https://blog.codepen.io/?p=21887</id>
+        <link href="https://blog.codepen.io/2026/10/30/446-our-next-generation-of-feeds-is-here/"/>
+        <updated>2026-10-30T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CodePen has “feeds” for exploring content, like our Trending feed for showing off what’s popular lately all across CodePen, and our Following feed showing off the work of people you’ve chosen to follow on CodePen. Both of those require some fairly fancy technology to pull off! We’ve pulled this tech in-house, so we have more […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[446: Our Next-Generation of Feeds is Here]]></title>
+        <id>https://blog.codepen.io/?p=21887</id>
+        <link href="https://blog.codepen.io/2026/10/30/446-our-next-generation-of-feeds-is-here/"/>
+        <updated>2026-10-30T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CodePen has “feeds” for exploring content, like our Trending feed for showing off what’s popular lately all across CodePen, and our Following feed showing off the work of people you’ve chosen to follow on CodePen. Both of those require some fairly fancy technology to pull off! We’ve pulled this tech in-house, so we have more […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Frankenstein Table]]></title>
         <id>https://css-tricks.com/?p=397546</id>
@@ -502,23 +522,6 @@ NiceHCK YD30原道二代
 三小時後，我更加確信我不會買這種比例的手機了。
 太大支了 >w< 而且還很難握。
 看看第一張附圖，Xpera 1 III vs Xperia 1 VIII。在Xperia 1 V之後，，4K120Hz的21:9螢幕沒了，還買的下去Sony手機的都是什麼神人啊。算是能理解一些索黑的感受了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xperia 5 II綠線發作，換副廠LCD螢幕的使用心得]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/"/>
-        <updated>2026-10-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[所有的一切，都將迎來終結。
-將Sony Xperia 5 II手機改裝LCD面板，杜絕再次綠線的可能。
-
-  
-
-給OLED手機改裝不成比例的LCD面板，導致機身上方整個凸一塊出來？這個配置像是二戰的奇異改裝戰車。好比，芬蘭爲了在繼續戰爭中對抗蘇聯，臨時將BT-7戰車，裝上114mm榴彈炮，改裝而成的BT-42突擊炮。雖然看起來口徑很大但其實沒有足夠的殺傷力。
-
-  作者：進藤つらみ]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

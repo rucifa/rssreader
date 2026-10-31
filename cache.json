@@ -314,16 +314,6 @@
           "wordCount": 907,
           "title": "體驗Xperia 1 VIII讓我決定以後還是別買Sony手機了",
           "imageUrl": "https://ivonblog.com/posts/try-sony-xperia-1-viii/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "所有的一切，都將迎來終結。\n將Sony Xperia 5 II手機改裝LCD面板，杜絕再次綠線的可能。\n\n  \n\n給OLED手機改裝不成比例的LCD面板，導致機身上方整個凸一塊出來？這個配置像是二戰的奇異改裝戰車。好比，芬蘭爲了在繼續戰爭中對抗蘇聯，臨時將BT-7戰車，裝上114mm榴彈炮，改裝而成的BT-42突擊炮。雖然看起來口徑很大但其實沒有足夠的殺傷力。\n\n  作者：進藤つらみ",
-          "link": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/",
-          "publishedOn": "2026-10-01T05:00:00.000Z",
-          "wordCount": 1562,
-          "title": "Xperia 5 II綠線發作，換副廠LCD螢幕的使用心得",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-5-ii-with-mod-lcd-display/featured.webp"
         }
       ]
     },
@@ -365,6 +355,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21887",
+          "author": "Chris Coyier",
+          "description": "CodePen has “feeds” for exploring content, like our Trending feed for showing off what’s popular lately all across CodePen, and our Following feed showing off the work of people you’ve chosen to follow on CodePen. Both of those require some fairly fancy technology to pull off! We’ve pulled this tech in-house, so we have more […]",
+          "link": "https://blog.codepen.io/2026/10/30/446-our-next-generation-of-feeds-is-here/",
+          "publishedOn": "2026-10-30T14:50:00.000Z",
+          "wordCount": 1025,
+          "title": "446: Our Next-Generation of Feeds is Here",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-446.mp3",
+            "length": "21329629",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21748",
           "author": "Chris Coyier",
@@ -427,6 +432,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21887",
+          "author": "Chris Coyier",
+          "description": "CodePen has “feeds” for exploring content, like our Trending feed for showing off what’s popular lately all across CodePen, and our Following feed showing off the work of people you’ve chosen to follow on CodePen. Both of those require some fairly fancy technology to pull off! We’ve pulled this tech in-house, so we have more […]",
+          "link": "https://blog.codepen.io/2026/10/30/446-our-next-generation-of-feeds-is-here/",
+          "publishedOn": "2026-10-30T14:50:00.000Z",
+          "wordCount": 1025,
+          "title": "446: Our Next-Generation of Feeds is Here",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-446.mp3",
+            "length": "21329629",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21748",
           "author": "Chris Coyier",
