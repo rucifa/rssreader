@@ -49,6 +49,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "publishedOn": "2026-10-31T08:00:00.000Z",
+          "wordCount": 4533,
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
@@ -115,6 +130,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/four-posters-of-my-college-years/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我最喜歡的動漫 & 最喜歡的樂團。\n這四樣東西構成了我那個年代的大學青春文化：命運  大訂單、艦隊收藏、披頭四、平克弗洛伊德。\n\n作為英語系學生，在我遁入Linux與開源軟體計算機的世界之前，大學生活可以說是幾乎繞著他們打轉，譬如我可以一邊打甲級難度的艦隊季節活動，然後聽Atom Heart Mother，再切換到blender做軍機的3D建模。Pink Floyd的搖滾樂當作業用BGM很方便，因為一首歌都10分鐘以上XD",
+          "link": "https://ivonblog.com/posts/four-posters-of-my-college-years/",
+          "publishedOn": "2026-10-31T05:00:00.000Z",
+          "wordCount": 906,
+          "title": "四張海報看大學青春：從日本御宅文化，軍武迷，到英國搖滾",
+          "imageUrl": "https://ivonblog.com/posts/four-posters-of-my-college-years/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/is-using-gcam-cheating/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
