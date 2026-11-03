@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-02T05:29:27.540Z</updated>
+    <updated>2026-11-03T06:08:50.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Doin’ Stuff in CSS]]></title>
+        <id>https://blog.codepen.io/?p=21879</id>
+        <link href="https://blog.codepen.io/2026/11/02/chris-corner-doin-stuff-in-css/"/>
+        <updated>2026-11-02T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Doin’ Stuff in CSS]]></title>
+        <id>https://blog.codepen.io/?p=21879</id>
+        <link href="https://blog.codepen.io/2026/11/02/chris-corner-doin-stuff-in-css/"/>
+        <updated>2026-11-02T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()]]></title>
+        <id>https://css-tricks.com/?p=397698</id>
+        <link href="https://css-tricks.com/whats-important-20/"/>
+        <updated>2026-11-02T15:06:07.000Z</updated>
+        <summary type="html"><![CDATA[This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween
+What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Spark Of Color In November’s Gray (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/</id>

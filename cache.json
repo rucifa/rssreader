@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397698",
+          "author": "Daniel Schwarz",
+          "description": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween\nWhat’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-20/",
+          "publishedOn": "2026-11-02T15:06:07.000Z",
+          "wordCount": 2786,
+          "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397546",
           "author": "Preethi",
           "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -371,6 +381,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21879",
+          "author": "Chris Coyier",
+          "description": "The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]",
+          "link": "https://blog.codepen.io/2026/11/02/chris-corner-doin-stuff-in-css/",
+          "publishedOn": "2026-11-02T18:00:38.000Z",
+          "wordCount": 1440,
+          "title": "Chris’ Corner: Doin’ Stuff in CSS",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codepen.io/?p=21887",
           "author": "Chris Coyier",
           "description": "CodePen has “feeds” for exploring content, like our Trending feed for showing off what’s popular lately all across CodePen, and our Following feed showing off the work of people you’ve chosen to follow on CodePen. Both of those require some fairly fancy technology to pull off! We’ve pulled this tech in-house, so we have more […]",
@@ -447,6 +467,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21879",
+          "author": "Chris Coyier",
+          "description": "The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]",
+          "link": "https://blog.codepen.io/2026/11/02/chris-corner-doin-stuff-in-css/",
+          "publishedOn": "2026-11-02T18:00:38.000Z",
+          "wordCount": 1440,
+          "title": "Chris’ Corner: Doin’ Stuff in CSS",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21887",
           "author": "Chris Coyier",
