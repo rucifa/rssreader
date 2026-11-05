@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397777",
+          "author": "Geoff Graham",
+          "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashing-ai-conference/",
+          "publishedOn": "2026-11-04T15:02:51.000Z",
+          "wordCount": 1939,
+          "title": "Smashing AI Conference",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397741",
           "author": "Temani Afif",
           "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -142,21 +152,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/how-name-things/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
-          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
-          "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 3945,
-          "title": "A Practical Guide To Naming Things",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
         }
       ]
     },
@@ -165,6 +160,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/old-xperia-1-telephoto-camera-limitations/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "TL;DR：掏出臺幣四萬塊直接換最新的Xperia 1 VIII或以上型號，擁有1/1.56吋大底，否則八代以前Xperia 1 III、Xperia 1 IV、Xperia 1 V、Xperia 1 VI、Xperia 1 VII的長焦拍照，不用額外軟體的情況下，幾乎是無解的。",
+          "link": "https://ivonblog.com/posts/old-xperia-1-telephoto-camera-limitations/",
+          "publishedOn": "2026-11-03T13:00:00.000Z",
+          "wordCount": 878,
+          "title": "解決Sony Xperia 1系列長焦拍照不好的問題",
+          "imageUrl": "https://ivonblog.com/posts/old-xperia-1-telephoto-camera-limitations/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/four-posters-of-my-college-years/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",

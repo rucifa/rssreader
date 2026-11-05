@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T05:47:11.268Z</updated>
+    <updated>2026-11-05T06:05:35.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing AI Conference]]></title>
+        <id>https://css-tricks.com/?p=397777</id>
+        <link href="https://css-tricks.com/smashing-ai-conference/"/>
+        <updated>2026-11-04T15:02:51.000Z</updated>
+        <summary type="html"><![CDATA[The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.
+Smashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
         <id>https://css-tricks.com/?p=397741</id>
@@ -15,6 +26,16 @@
 Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解決Sony Xperia 1系列長焦拍照不好的問題]]></title>
+        <id>https://ivonblog.com/posts/old-xperia-1-telephoto-camera-limitations/</id>
+        <link href="https://ivonblog.com/posts/old-xperia-1-telephoto-camera-limitations/"/>
+        <updated>2026-11-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR：掏出臺幣四萬塊直接換最新的Xperia 1 VIII或以上型號，擁有1/1.56吋大底，否則八代以前Xperia 1 III、Xperia 1 IV、Xperia 1 V、Xperia 1 VI、Xperia 1 VII的長焦拍照，不用額外軟體的情況下，幾乎是無解的。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -562,16 +583,6 @@ NiceHCK YD30原道二代
         <summary type="html"><![CDATA[We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
-        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
-        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
-        <updated>2026-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
