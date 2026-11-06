@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-05T06:05:35.307Z</updated>
+    <updated>2026-11-06T06:00:13.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows系統如何讀取Linux的BTRFS硬碟：WinBTRFS使用 + 使用者權限映射教學]]></title>
+        <id>https://ivonblog.com/posts/winbtrfs-usage/</id>
+        <link href="https://ivonblog.com/posts/winbtrfs-usage/"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BTRFS作為Linux最先進的的檔案系統，已經有越來越多的Linux發行版將其作為預設選項，例如Fedora、openSUSE、Arch Linux，Ubuntu未來也可能使用BTRFS取代過去預設的EXT4。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming Typography: Building a Modern CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=396817</id>
+        <link href="https://css-tricks.com/taming-typography-modern-css-reset/"/>
+        <updated>2026-11-05T14:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.
+Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Stu Robson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Immersive LLM Chat Experiences More Accessible]]></title>
+        <id>https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/</id>
+        <link href="https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"/>
+        <updated>2026-11-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing AI Conference]]></title>
         <id>https://css-tricks.com/?p=397777</id>
@@ -563,26 +594,6 @@ NiceHCK YD30原道二代
     linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[443: Image Hosting is Quite Powerful on CodePen]]></title>
-        <id>https://blog.codepen.io/?p=21768</id>
-        <link href="https://blog.codepen.io/2026/10/06/443-image-hosting-is-quite-powerful-on-codepen/"/>
-        <updated>2026-10-07T02:01:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[443: Image Hosting is Quite Powerful on CodePen]]></title>
-        <id>https://blog.codepen.io/?p=21768</id>
-        <link href="https://blog.codepen.io/2026/10/06/443-image-hosting-is-quite-powerful-on-codepen/"/>
-        <updated>2026-10-07T02:01:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
