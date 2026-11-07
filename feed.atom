@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T06:00:13.097Z</updated>
+    <updated>2026-11-07T05:32:03.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
+        <id>https://css-tricks.com/?p=397890</id>
+        <link href="https://css-tricks.com/css-tricks-redesign-preview/"/>
+        <updated>2026-11-06T18:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.
+RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Community For In-House UX People]]></title>
+        <id>https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/</id>
+        <link href="https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"/>
+        <updated>2026-11-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows系統如何讀取Linux的BTRFS硬碟：WinBTRFS使用 + 使用者權限映射教學]]></title>
         <id>https://ivonblog.com/posts/winbtrfs-usage/</id>
@@ -545,53 +566,6 @@ NiceHCK YD30原道二代
         <updated>2026-10-10T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[有些舊型遊戲，需要放入CD或DVD，也就是光碟/光盤/光驅才能執行遊戲。
 我是在玩2020年發售的《蒼之彼方的四重奏 High Resolution》遇到這問題的。在Linux用Steam Proton破完數位版了，想買實體版來收藏。本來以爲遊戲是執行exe安裝到電腦的遊戲，裝完就能丟掉光碟了，結果強制依賴光碟才能啓動。這算什麼呀，把PC當PS5家機嗎。這應該是爲了防盜版的措施吧，讓你難以盜拷。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最喜歡的艦娘老婆排名（鎮守府Pick圖表產生器）]]></title>
-        <id>https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/</id>
-        <link href="https://ivonblog.com/posts/my-kantai-collection-kanmusu-picks/"/>
-        <updated>2026-10-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[html.content-warning-locked {
-    overflow: hidden;
-  }
-
-  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
-    overflow: hidden;
-  }
-
-  .content-warning-close-target {
-    position: fixed;
-    width: 1px;
-    height: 1px;
-    opacity: 0;
-    pointer-events: none;
-  }
-
-  #content-warning-accepted:target + .content-warning-overlay {
-    display: none;
-  }
-
-  .content-warning-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 1.25rem;
-    background: rgba(0, 0, 0, 0.68);
-    color: #333333;
-    overflow: auto;
-  }
-
-  .content-warning-dialog {
-    width: min(92vw, 520px);
-    padding: 1.35rem 1.25rem 1.25rem;
-    text-align: center;
-    background:
-    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
