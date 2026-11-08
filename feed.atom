@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-07T05:32:03.653Z</updated>
+    <updated>2026-11-08T05:33:27.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[447: WebMCP Rules (and We Already Have It)]]></title>
+        <id>https://blog.codepen.io/?p=21880</id>
+        <link href="https://blog.codepen.io/2026/11/07/447-webmcp-rules-and-we-already-have-it/"/>
+        <updated>2026-11-07T20:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[447: WebMCP Rules (and We Already Have It)]]></title>
+        <id>https://blog.codepen.io/?p=21880</id>
+        <link href="https://blog.codepen.io/2026/11/07/447-webmcp-rules-and-we-already-have-it/"/>
+        <updated>2026-11-07T20:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
         <id>https://css-tricks.com/?p=397890</id>

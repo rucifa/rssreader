@@ -451,6 +451,21 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21880",
+          "author": "Chris Coyier",
+          "description": "Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]",
+          "link": "https://blog.codepen.io/2026/11/07/447-webmcp-rules-and-we-already-have-it/",
+          "publishedOn": "2026-11-07T20:15:31.000Z",
+          "wordCount": 971,
+          "title": "447: WebMCP Rules (and We Already Have It)",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-447.mp3",
+            "length": "20171022",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codepen.io/?p=21879",
           "author": "Chris Coyier",
           "description": "The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]",
@@ -522,6 +537,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21880",
+          "author": "Chris Coyier",
+          "description": "Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]",
+          "link": "https://blog.codepen.io/2026/11/07/447-webmcp-rules-and-we-already-have-it/",
+          "publishedOn": "2026-11-07T20:15:31.000Z",
+          "wordCount": 971,
+          "title": "447: WebMCP Rules (and We Already Have It)",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-447.mp3",
+            "length": "20171022",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21879",
           "author": "Chris Coyier",
