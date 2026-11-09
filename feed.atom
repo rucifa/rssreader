@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T05:33:27.254Z</updated>
+    <updated>2026-11-09T05:44:15.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -24,6 +24,28 @@
         <summary type="html"><![CDATA[Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony手機原廠免費健檢活動 ～ 回娘家換電池維修記，優惠方案還算便宜]]></title>
+        <id>https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/</id>
+        <link href="https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/"/>
+        <updated>2026-11-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[逐漸遠去的日常，回歸塵土的地獄。
+將Sony手機Xperia 10 V送原廠維修清潔，並以優惠價換電池的過程分享。
+
+沉睡在悲傷的海洋中
+    
+
+    
+    
+        #
+    
+    
+
+悲しい海に沈む……原來防水手機不能在水下拍照啊。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -575,17 +597,6 @@ NiceHCK YD30原道二代
   圖源：Sony Facebook
 
 …不會有人買Sony手機真的是因為仇中反韓的情緒才買的吧。中國手機品牌的系統雖然流氓，但仍有透過刷機挽救的可能。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux用Wine跑需要DVD才能玩的遊戲]]></title>
-        <id>https://ivonblog.com/posts/play-dvd-games-on-linux/</id>
-        <link href="https://ivonblog.com/posts/play-dvd-games-on-linux/"/>
-        <updated>2026-10-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[有些舊型遊戲，需要放入CD或DVD，也就是光碟/光盤/光驅才能執行遊戲。
-我是在玩2020年發售的《蒼之彼方的四重奏 High Resolution》遇到這問題的。在Linux用Steam Proton破完數位版了，想買實體版來收藏。本來以爲遊戲是執行exe安裝到電腦的遊戲，裝完就能丟掉光碟了，結果強制依賴光碟才能啓動。這算什麼呀，把PC當PS5家機嗎。這應該是爲了防盜版的措施吧，讓你難以盜拷。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

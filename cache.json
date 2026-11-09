@@ -211,6 +211,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "逐漸遠去的日常，回歸塵土的地獄。\n將Sony手機Xperia 10 V送原廠維修清潔，並以優惠價換電池的過程分享。\n\n沉睡在悲傷的海洋中\n    \n\n    \n    \n        #\n    \n    \n\n悲しい海に沈む……原來防水手機不能在水下拍照啊。",
+          "link": "https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/",
+          "publishedOn": "2026-11-07T09:00:00.000Z",
+          "wordCount": 1351,
+          "title": "Sony手機原廠免費健檢活動 ～ 回娘家換電池維修記，優惠方案還算便宜",
+          "imageUrl": "https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/winbtrfs-usage/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "BTRFS作為Linux最先進的的檔案系統，已經有越來越多的Linux發行版將其作為預設選項，例如Fedora、openSUSE、Arch Linux，Ubuntu未來也可能使用BTRFS取代過去預設的EXT4。",
@@ -399,16 +409,6 @@
           "wordCount": 896,
           "title": "外包之後，Sony手機還是日本的，並沒有變成中國品牌",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-china-made-not-chinese-brand/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/play-dvd-games-on-linux/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "有些舊型遊戲，需要放入CD或DVD，也就是光碟/光盤/光驅才能執行遊戲。\n我是在玩2020年發售的《蒼之彼方的四重奏 High Resolution》遇到這問題的。在Linux用Steam Proton破完數位版了，想買實體版來收藏。本來以爲遊戲是執行exe安裝到電腦的遊戲，裝完就能丟掉光碟了，結果強制依賴光碟才能啓動。這算什麼呀，把PC當PS5家機嗎。這應該是爲了防盜版的措施吧，讓你難以盜拷。",
-          "link": "https://ivonblog.com/posts/play-dvd-games-on-linux/",
-          "publishedOn": "2026-10-10T15:00:00.000Z",
-          "wordCount": 1161,
-          "title": "在Linux用Wine跑需要DVD才能玩的遊戲",
-          "imageUrl": "https://ivonblog.com/posts/play-dvd-games-on-linux/featured.webp"
         }
       ]
     },
