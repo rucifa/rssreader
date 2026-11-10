@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397812",
+          "author": "Geoff Graham",
+          "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-version-20/",
+          "publishedOn": "2026-11-09T15:49:48.000Z",
+          "wordCount": 4758,
+          "title": "CSS-Tricks, Version 20",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
+            "length": "7389584",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397890",
           "author": "Geoff Graham",
           "description": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\nRSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -211,6 +226,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/male-hajimete-no-ejaculation-doujinshi/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/male-hajimete-no-ejaculation-doujinshi/",
+          "publishedOn": "2026-11-09T13:00:00.000Z",
+          "wordCount": 1534,
+          "title": "射精初體驗 ～ 半強迫奪走處男的本子分享",
+          "imageUrl": "https://ivonblog.com/posts/male-hajimete-no-ejaculation-doujinshi/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "逐漸遠去的日常，回歸塵土的地獄。\n將Sony手機Xperia 10 V送原廠維修清潔，並以優惠價換電池的過程分享。\n\n沉睡在悲傷的海洋中\n    \n\n    \n    \n        #\n    \n    \n\n悲しい海に沈む……原來防水手機不能在水下拍照啊。",
@@ -379,36 +404,6 @@
           "wordCount": 839,
           "title": "寧願用Windows 11，也不要折騰Linux（已黑化）",
           "imageUrl": "https://ivonblog.com/posts/use-windows-instead-of-linux-for-practicality/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/taito-figure-shimakaze-2014/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "瘦小可愛的島風原來有著大屁股。\n\n  \n\n\n  \n\n2014年發售的BANDAI TAITO島風模型。艦隊これくしょん -艦これ-　島風フィギュア\n這個島風模型是坐在泳圈上。底座寫有©2014 DMM.com/KADOKAWA GAMES All Rights Reserved.字樣。",
-          "link": "https://ivonblog.com/posts/taito-figure-shimakaze-2014/",
-          "publishedOn": "2026-10-11T13:00:00.000Z",
-          "wordCount": 864,
-          "title": "島風意外的大屁股，TAITO 2014 可分離支架的坐姿景品",
-          "imageUrl": "https://ivonblog.com/posts/taito-figure-shimakaze-2014/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/exq-figure-gotland-shifuku-mode/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "BANDAI EXQ在2021年推出的 艦隊收藏 哥特蘭 外出服 私服mode （ゴトランド 私服mode 艦隊これくしょん -艦これ- EXQフィギュア）\n將瑞典艦娘Gotland的衣服換成家居服飾。\n這個是中古品。雖然外盒受損卻沒拆過。",
-          "link": "https://ivonblog.com/posts/exq-figure-gotland-shifuku-mode/",
-          "publishedOn": "2026-10-11T12:00:00.000Z",
-          "wordCount": 852,
-          "title": "良家婦女變大嬸，EXQ 艦隊收藏 哥特蘭 外出服 私服mode",
-          "imageUrl": "https://ivonblog.com/posts/exq-figure-gotland-shifuku-mode/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-china-made-not-chinese-brand/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "起碼目前還沒有。\n誒誒，雖然Sony Xperia 1 VIII很醜，可是沒有證據顯示它是中國設計的吧？這點我得護航一下，Sony還是日本品牌，不是中資。\n\n  圖源：Sony Facebook\n\n…不會有人買Sony手機真的是因為仇中反韓的情緒才買的吧。中國手機品牌的系統雖然流氓，但仍有透過刷機挽救的可能。",
-          "link": "https://ivonblog.com/posts/sony-xperia-china-made-not-chinese-brand/",
-          "publishedOn": "2026-10-11T06:00:00.000Z",
-          "wordCount": 896,
-          "title": "外包之後，Sony手機還是日本的，並沒有變成中國品牌",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-china-made-not-chinese-brand/featured.webp"
         }
       ]
     },

@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-09T05:44:15.531Z</updated>
+    <updated>2026-11-10T06:52:02.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
+        <id>https://css-tricks.com/?p=397812</id>
+        <link href="https://css-tricks.com/css-tricks-version-20/"/>
+        <updated>2026-11-09T15:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.
+CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[射精初體驗 ～ 半強迫奪走處男的本子分享]]></title>
+        <id>https://ivonblog.com/posts/male-hajimete-no-ejaculation-doujinshi/</id>
+        <link href="https://ivonblog.com/posts/male-hajimete-no-ejaculation-doujinshi/"/>
+        <updated>2026-11-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html.content-warning-locked {
+    overflow: hidden;
+  }
+
+  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {
+    overflow: hidden;
+  }
+
+  .content-warning-close-target {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #content-warning-accepted:target + .content-warning-overlay {
+    display: none;
+  }
+
+  .content-warning-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: rgba(0, 0, 0, 0.68);
+    color: #333333;
+    overflow: auto;
+  }
+
+  .content-warning-dialog {
+    width: min(92vw, 520px);
+    padding: 1.35rem 1.25rem 1.25rem;
+    text-align: center;
+    background:
+    linear-gradient(180deg, #ffffff 0%, #eeeeee…]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[447: WebMCP Rules (and We Already Have It)]]></title>
         <id>https://blog.codepen.io/?p=21880</id>
@@ -554,51 +612,6 @@ NiceHCK YD30原道二代
         <summary type="html"><![CDATA[Cloudflare 全方位防護案例分享 歐美客戶的資安評級成為接單門檻 本篇 Cloudflare 導入案例 […]]]></summary>
         <author>
             <name>Susan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[島風意外的大屁股，TAITO 2014 可分離支架的坐姿景品]]></title>
-        <id>https://ivonblog.com/posts/taito-figure-shimakaze-2014/</id>
-        <link href="https://ivonblog.com/posts/taito-figure-shimakaze-2014/"/>
-        <updated>2026-10-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[瘦小可愛的島風原來有著大屁股。
-
-  
-
-
-  
-
-2014年發售的BANDAI TAITO島風模型。艦隊これくしょん -艦これ-　島風フィギュア
-這個島風模型是坐在泳圈上。底座寫有©2014 DMM.com/KADOKAWA GAMES All Rights Reserved.字樣。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良家婦女變大嬸，EXQ 艦隊收藏 哥特蘭 外出服 私服mode]]></title>
-        <id>https://ivonblog.com/posts/exq-figure-gotland-shifuku-mode/</id>
-        <link href="https://ivonblog.com/posts/exq-figure-gotland-shifuku-mode/"/>
-        <updated>2026-10-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BANDAI EXQ在2021年推出的 艦隊收藏 哥特蘭 外出服 私服mode （ゴトランド 私服mode 艦隊これくしょん -艦これ- EXQフィギュア）
-將瑞典艦娘Gotland的衣服換成家居服飾。
-這個是中古品。雖然外盒受損卻沒拆過。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外包之後，Sony手機還是日本的，並沒有變成中國品牌]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-china-made-not-chinese-brand/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-china-made-not-chinese-brand/"/>
-        <updated>2026-10-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[起碼目前還沒有。
-誒誒，雖然Sony Xperia 1 VIII很醜，可是沒有證據顯示它是中國設計的吧？這點我得護航一下，Sony還是日本品牌，不是中資。
-
-  圖源：Sony Facebook
-
-…不會有人買Sony手機真的是因為仇中反韓的情緒才買的吧。中國手機品牌的系統雖然流氓，但仍有透過刷機挽救的可能。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
