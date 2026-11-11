@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396572",
+          "author": "Jens Oliver Meiert",
+          "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-using-declarations-just-once/",
+          "publishedOn": "2026-11-10T16:42:18.000Z",
+          "wordCount": 2936,
+          "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397812",
           "author": "Geoff Graham",
           "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -364,46 +374,6 @@
           "wordCount": 1196,
           "title": "真的不錯聽耶，NiceHCK YD30原道耳機二代使用心得",
           "imageUrl": "https://ivonblog.com/posts/nicehck-yd30-review/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-midrange-photos-need-edits/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Sony中階機拍照真的很可怕。儘管我說Xperia 10 V很爛，但是拍照數量是我拿過機型最多的，明明只是中階機，三年累積下來超過至少1000張，遠超旗艦機Xperia 5 II和Xperia 1 III的數量，大概以前拿小米9T也沒拍這麼多。",
-          "link": "https://ivonblog.com/posts/sony-xperia-midrange-photos-need-edits/",
-          "publishedOn": "2026-10-12T17:00:00.000Z",
-          "wordCount": 856,
-          "title": "要修圖才能看的Sony中階手機拍照，Xperia 10 V",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-midrange-photos-need-edits/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-shutter-button-details/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "一定是忠貞索粉才會開始連快門鍵/拍照鍵的細節都去注意，然後比較不同機型間的觸感，覺得哪個比較好。\n\n  \n\n\n  \n\n實體快門鍵 (shutter button) 幾乎是Sony手機才有的東西，從2012年的Sony旗艦機傳承到現在。\n最近比較下來，我個人認為Xperia 1系列（下圖紫色）的快門鍵是最好的，5系列（下圖粉色）和10系列的就是普通的按鍵。",
-          "link": "https://ivonblog.com/posts/sony-xperia-shutter-button-details/",
-          "publishedOn": "2026-10-12T12:00:00.000Z",
-          "wordCount": 837,
-          "title": "Sony手機的快門鍵是儀式感和細節滿分的設計",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-shutter-button-details/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/windows-11-is-not-as-bad-as-the-media-says/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Windows 11的bug很多，但是也不該全部怪印度人CEO和印度員工吧，種族歧視的味兒太大了。中文網民有一種很奇怪的慣性，出事就用刻板印象下去嘲諷。\n\n  \n\n還有這種報導：Win11更新因兼容问题被喊停！印度阿三的系统果然不行 - 游侠网\n就像講到Sony就仇視DEI政策，在Concord大失敗之後，哪怕是作品沾到一點點都要被放大檢視，真的是莫名其妙。",
-          "link": "https://ivonblog.com/posts/windows-11-is-not-as-bad-as-the-media-says/",
-          "publishedOn": "2026-10-12T08:00:00.000Z",
-          "wordCount": 841,
-          "title": "Windows 11更新不穩定，媒體的批評太過了？別什麼都怪印度人",
-          "imageUrl": "https://ivonblog.com/posts/windows-11-is-not-as-bad-as-the-media-says/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/use-windows-instead-of-linux-for-practicality/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Windows比Linux好太多了。\n要是你的電腦性能不差，但因為沒有TPM而無法升級Windows 11，我的建議是想辦法用Rufus繞過偵測然後強行安裝上去。\n這招有效，真的，從2022年以來微軟說要封印就從沒禁成功過。即使是四代i7照樣能裝Windows 11。然後安裝系統後，跑個debloater腳本去除AI Slop就能用了。",
-          "link": "https://ivonblog.com/posts/use-windows-instead-of-linux-for-practicality/",
-          "publishedOn": "2026-10-12T07:00:00.000Z",
-          "wordCount": 839,
-          "title": "寧願用Windows 11，也不要折騰Linux（已黑化）",
-          "imageUrl": "https://ivonblog.com/posts/use-windows-instead-of-linux-for-practicality/featured.webp"
         }
       ]
     },
@@ -427,16 +397,6 @@
           "wordCount": 2318,
           "title": "Broadcom VMware 授權漲價後，中部能源企業轉 Proxmox VE，授權成本降約 86%",
           "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/10/Gemini_Generated_Image_1of00c1of00c1of0-1024x765.jpg"
-        },
-        {
-          "id": "https://www.chirue.com/?p=16210",
-          "author": "Susan",
-          "description": "Cloudflare 全方位防護案例分享 歐美客戶的資安評級成為接單門檻 本篇 Cloudflare 導入案例 […]",
-          "link": "https://www.chirue.com/cloudflare-case-study-supply-chain-security-audit/",
-          "publishedOn": "2026-10-12T02:36:00.000Z",
-          "wordCount": 2083,
-          "title": "Cloudflare 導入案例 : 上市電子公司以 Cloudflare WAF 將資安評分從 58 提升到 82, 通過供應鏈安全稽核",
-          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/10/Gemini_Generated_Image_gdr0hpgdr0hpgdr0-1024x572.jpg"
         }
       ]
     },
@@ -445,6 +405,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21962",
+          "author": "Chris Coyier",
+          "description": "Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]",
+          "link": "https://blog.codepen.io/2026/11/10/448-css-modules-is-cool-again/",
+          "publishedOn": "2026-11-10T16:39:02.000Z",
+          "wordCount": 936,
+          "title": "448: CSS Modules is Cool Again",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-448.mp3",
+            "length": "16973263",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21880",
           "author": "Chris Coyier",
@@ -532,6 +507,21 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21962",
+          "author": "Chris Coyier",
+          "description": "Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]",
+          "link": "https://blog.codepen.io/2026/11/10/448-css-modules-is-cool-again/",
+          "publishedOn": "2026-11-10T16:39:02.000Z",
+          "wordCount": 936,
+          "title": "448: CSS Modules is Cool Again",
+          "enclosure": {
+            "url": "https://radio.codepenassets.com/cpr-448.mp3",
+            "length": "16973263",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21880",
           "author": "Chris Coyier",

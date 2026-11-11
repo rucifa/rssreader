@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-10T06:52:02.641Z</updated>
+    <updated>2026-11-11T05:41:05.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
+        <id>https://css-tricks.com/?p=396572</id>
+        <link href="https://css-tricks.com/css-using-declarations-just-once/"/>
+        <updated>2026-11-10T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?
+CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[448: CSS Modules is Cool Again]]></title>
+        <id>https://blog.codepen.io/?p=21962</id>
+        <link href="https://blog.codepen.io/2026/11/10/448-css-modules-is-cool-again/"/>
+        <updated>2026-11-10T16:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[448: CSS Modules is Cool Again]]></title>
+        <id>https://blog.codepen.io/?p=21962</id>
+        <link href="https://blog.codepen.io/2026/11/10/448-css-modules-is-cool-again/"/>
+        <updated>2026-11-10T16:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
         <id>https://css-tricks.com/?p=397812</id>
@@ -547,71 +578,6 @@ NiceHCK YD30原道二代
 原道耳機是高CP值的中國品牌耳機。有句話說，早知道還是原道。從十年前就紅遍兩岸的耳機圈的神物。他們說，不到人民幣50塊的耳機能吊打一萬塊的耳機，聽了會讓你瞬間從HiFi退燒，覺得追求高階耳機都是圖個啥呀。因為各種刷梗而爆紅。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要修圖才能看的Sony中階手機拍照，Xperia 10 V]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-midrange-photos-need-edits/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-midrange-photos-need-edits/"/>
-        <updated>2026-10-12T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony中階機拍照真的很可怕。儘管我說Xperia 10 V很爛，但是拍照數量是我拿過機型最多的，明明只是中階機，三年累積下來超過至少1000張，遠超旗艦機Xperia 5 II和Xperia 1 III的數量，大概以前拿小米9T也沒拍這麼多。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony手機的快門鍵是儀式感和細節滿分的設計]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-shutter-button-details/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-shutter-button-details/"/>
-        <updated>2026-10-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一定是忠貞索粉才會開始連快門鍵/拍照鍵的細節都去注意，然後比較不同機型間的觸感，覺得哪個比較好。
-
-  
-
-
-  
-
-實體快門鍵 (shutter button) 幾乎是Sony手機才有的東西，從2012年的Sony旗艦機傳承到現在。
-最近比較下來，我個人認為Xperia 1系列（下圖紫色）的快門鍵是最好的，5系列（下圖粉色）和10系列的就是普通的按鍵。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11更新不穩定，媒體的批評太過了？別什麼都怪印度人]]></title>
-        <id>https://ivonblog.com/posts/windows-11-is-not-as-bad-as-the-media-says/</id>
-        <link href="https://ivonblog.com/posts/windows-11-is-not-as-bad-as-the-media-says/"/>
-        <updated>2026-10-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11的bug很多，但是也不該全部怪印度人CEO和印度員工吧，種族歧視的味兒太大了。中文網民有一種很奇怪的慣性，出事就用刻板印象下去嘲諷。
-
-  
-
-還有這種報導：Win11更新因兼容问题被喊停！印度阿三的系统果然不行 - 游侠网
-就像講到Sony就仇視DEI政策，在Concord大失敗之後，哪怕是作品沾到一點點都要被放大檢視，真的是莫名其妙。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寧願用Windows 11，也不要折騰Linux（已黑化）]]></title>
-        <id>https://ivonblog.com/posts/use-windows-instead-of-linux-for-practicality/</id>
-        <link href="https://ivonblog.com/posts/use-windows-instead-of-linux-for-practicality/"/>
-        <updated>2026-10-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Windows比Linux好太多了。
-要是你的電腦性能不差，但因為沒有TPM而無法升級Windows 11，我的建議是想辦法用Rufus繞過偵測然後強行安裝上去。
-這招有效，真的，從2022年以來微軟說要封印就從沒禁成功過。即使是四代i7照樣能裝Windows 11。然後安裝系統後，跑個debloater腳本去除AI Slop就能用了。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare 導入案例 : 上市電子公司以 Cloudflare WAF 將資安評分從 58 提升到 82, 通過供應鏈安全稽核]]></title>
-        <id>https://www.chirue.com/?p=16210</id>
-        <link href="https://www.chirue.com/cloudflare-case-study-supply-chain-security-audit/"/>
-        <updated>2026-10-12T02:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare 全方位防護案例分享 歐美客戶的資安評級成為接單門檻 本篇 Cloudflare 導入案例 […]]]></summary>
-        <author>
-            <name>Susan</name>
         </author>
     </entry>
 </feed>
