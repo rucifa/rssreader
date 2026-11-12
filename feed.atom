@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T05:41:05.229Z</updated>
+    <updated>2026-11-12T06:47:26.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[老牌的自由軟體可能被AI生成的新開源軟體給取代嗎？]]></title>
+        <id>https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/</id>
+        <link href="https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/"/>
+        <updated>2026-11-11T03:00:46.000Z</updated>
+        <summary type="html"><![CDATA[老牌開源軟體可能被AI生成的新軟體給取代嗎？
+老東西，你的替身最沒用啦….。
+自從真的有開發者明目張膽的叫AI抄了一整套Adobe系列的軟體，我就在想這問題。
+附圖是在Linux系統，跑一個界面跟Photoshop一樣但不是Photoshop的軟體，可編輯PSD。這就是號稱整套模仿Adobe產品的ArtCraft，開源免費。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
         <id>https://css-tricks.com/?p=396572</id>
@@ -146,6 +159,27 @@ CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tri
 RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xperia Z開箱，在二手店花500塊買到的Sony經典機種]]></title>
+        <id>https://ivonblog.com/posts/sony-xperia-z-review/</id>
+        <link href="https://ivonblog.com/posts/sony-xperia-z-review/"/>
+        <updated>2026-11-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[居然在海德沃福買手機了，在零件小物區挖到了Sony Mobile第一代手機Xperia Z (C6602)，2013年推出的5吋方塊旗艦機，能開機啊，還能刷上Android 14。
+
+五百塊撿垃圾
+    
+
+    
+    
+        #
+    
+    
+
+二手商店海德沃福的零件小物區說是可以再利用的商品區，然而告示牌英文寫的是junk。雖然是junk嗎，但是其實仍有很多能用的3C產品，可就是太老了，Android系統太舊，不識貨的人就把他們丟在這裡便宜賣，細心留意的話能發現很多經典機種。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -561,21 +595,6 @@ Android開源相機App又增添新的生力軍了，過去我比較常用的是O
         <updated>2026-10-14T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[根據我的觀察，Sony手機的選色審美一直都是沒問題的，美感設計一直在線。低調，耐看，其實是Sony手機的一項優點。
 你看看啊，自2019年以來，1系列和5系列都是偏低調的顏色。Sony手機不會推出iPhone三星那種高飽和度的顏色，也甚少推出玫瑰金。Xperia 1 VIII出現的金色款可說是一種稀有的產物。正如iPhone 17推出的宇宙橙，大膽鮮明的配色，成為一種張揚炫耀用的東西。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真的不錯聽耶，NiceHCK YD30原道耳機二代使用心得]]></title>
-        <id>https://ivonblog.com/posts/nicehck-yd30-review/</id>
-        <link href="https://ivonblog.com/posts/nicehck-yd30-review/"/>
-        <updated>2026-10-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[早知道，還是原道？
-在我用原道醬的小卡打了一發之後，該來寫寫原道耳機二代的使用心得了。
-
-NiceHCK YD30原道二代
-哇靠，超好聽的
-原道耳機是高CP值的中國品牌耳機。有句話說，早知道還是原道。從十年前就紅遍兩岸的耳機圈的神物。他們說，不到人民幣50塊的耳機能吊打一萬塊的耳機，聽了會讓你瞬間從HiFi退燒，覺得追求高階耳機都是圖個啥呀。因為各種刷梗而爆紅。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

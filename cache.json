@@ -236,6 +236,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "老牌開源軟體可能被AI生成的新軟體給取代嗎？\n老東西，你的替身最沒用啦….。\n自從真的有開發者明目張膽的叫AI抄了一整套Adobe系列的軟體，我就在想這問題。\n附圖是在Linux系統，跑一個界面跟Photoshop一樣但不是Photoshop的軟體，可編輯PSD。這就是號稱整套模仿Adobe產品的ArtCraft，開源免費。",
+          "link": "https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/",
+          "publishedOn": "2026-11-11T03:00:46.000Z",
+          "wordCount": 834,
+          "title": "老牌的自由軟體可能被AI生成的新開源軟體給取代嗎？",
+          "imageUrl": "https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/male-hajimete-no-ejaculation-doujinshi/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
@@ -254,6 +264,16 @@
           "wordCount": 1351,
           "title": "Sony手機原廠免費健檢活動 ～ 回娘家換電池維修記，優惠方案還算便宜",
           "imageUrl": "https://ivonblog.com/posts/xperia-10-v-sony-official-repair-experience/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/sony-xperia-z-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "居然在海德沃福買手機了，在零件小物區挖到了Sony Mobile第一代手機Xperia Z (C6602)，2013年推出的5吋方塊旗艦機，能開機啊，還能刷上Android 14。\n\n五百塊撿垃圾\n    \n\n    \n    \n        #\n    \n    \n\n二手商店海德沃福的零件小物區說是可以再利用的商品區，然而告示牌英文寫的是junk。雖然是junk嗎，但是其實仍有很多能用的3C產品，可就是太老了，Android系統太舊，不識貨的人就把他們丟在這裡便宜賣，細心留意的話能發現很多經典機種。",
+          "link": "https://ivonblog.com/posts/sony-xperia-z-review/",
+          "publishedOn": "2026-11-06T10:00:00.000Z",
+          "wordCount": 1170,
+          "title": "Xperia Z開箱，在二手店花500塊買到的Sony經典機種",
+          "imageUrl": "https://ivonblog.com/posts/sony-xperia-z-review/featured.webp"
         },
         {
           "id": "https://ivonblog.com/posts/winbtrfs-usage/",
@@ -364,16 +384,6 @@
           "wordCount": 858,
           "title": "Sony手機外觀顏色的設計是很有水準的",
           "imageUrl": "https://ivonblog.com/posts/sony-xperia-colors/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/nicehck-yd30-review/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "早知道，還是原道？\n在我用原道醬的小卡打了一發之後，該來寫寫原道耳機二代的使用心得了。\n\nNiceHCK YD30原道二代\n哇靠，超好聽的\n原道耳機是高CP值的中國品牌耳機。有句話說，早知道還是原道。從十年前就紅遍兩岸的耳機圈的神物。他們說，不到人民幣50塊的耳機能吊打一萬塊的耳機，聽了會讓你瞬間從HiFi退燒，覺得追求高階耳機都是圖個啥呀。因為各種刷梗而爆紅。",
-          "link": "https://ivonblog.com/posts/nicehck-yd30-review/",
-          "publishedOn": "2026-10-13T17:00:00.000Z",
-          "wordCount": 1196,
-          "title": "真的不錯聽耶，NiceHCK YD30原道耳機二代使用心得",
-          "imageUrl": "https://ivonblog.com/posts/nicehck-yd30-review/featured.webp"
         }
       ]
     },
