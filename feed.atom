@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T06:47:26.351Z</updated>
+    <updated>2026-11-13T06:03:38.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
+        <id>https://css-tricks.com/?p=397598</id>
+        <link href="https://css-tricks.com/beyond-12-columns/"/>
+        <updated>2026-11-12T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.
+Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should You Actually Add AI To That? A Four-Question Audit For Product Teams]]></title>
+        <id>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</id>
+        <link href="https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"/>
+        <updated>2026-11-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Connect 2026 第一手資訊｜直擊 Cloudflare 如何保護 AI Agent 新世代]]></title>
+        <id>https://www.chirue.com/?p=16364</id>
+        <link href="https://www.chirue.com/cloudflare-connect-2026-ai-agent/"/>
+        <updated>2026-11-12T06:35:43.000Z</updated>
+        <summary type="html"><![CDATA[本文依據 Cloudflare Connect 2026 年度盛會中現場演講所整理，透過 Cloudflare […]]]></summary>
+        <author>
+            <name>Susan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老牌的自由軟體可能被AI生成的新開源軟體給取代嗎？]]></title>
         <id>https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/</id>
@@ -549,52 +580,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[喜歡手動調整拍照參數的Android用戶，可以試試bjzhou開發的「光子相機」Photon Camera。
 
 Android開源相機App又增添新的生力軍了，過去我比較常用的是Open Camera，跨品牌通用。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android手機第三方相機拍照難看，可能要到CameraX普及才解決]]></title>
-        <id>https://ivonblog.com/posts/android-3rd-party-camera-app-issues/</id>
-        <link href="https://ivonblog.com/posts/android-3rd-party-camera-app-issues/"/>
-        <updated>2026-10-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Android手機對第三方相機支援度挺混亂的，很依賴個別廠商實作，且幾乎沒有第三方介入的餘地
-看看原廠 vs 第三方相機品質。
-
-
-所謂第三方相機，是相對於手機系統內建的相機而言，非原廠開發的相機APP。
-不是有很多人反映Instagram相機的限時動態在Android拍起來很難看嗎，iPhone就不會。致使Android用戶必須用系統相機拍完再上傳。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[444: A Gosh-Dang Full-Blown Read/Write API]]></title>
-        <id>https://blog.codepen.io/?p=21809</id>
-        <link href="https://blog.codepen.io/2026/10/14/444-a-gosh-dang-full-blown-read-write-api/"/>
-        <updated>2026-10-14T15:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[444: A Gosh-Dang Full-Blown Read/Write API]]></title>
-        <id>https://blog.codepen.io/?p=21809</id>
-        <link href="https://blog.codepen.io/2026/10/14/444-a-gosh-dang-full-blown-read-write-api/"/>
-        <updated>2026-10-14T15:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony手機外觀顏色的設計是很有水準的]]></title>
-        <id>https://ivonblog.com/posts/sony-xperia-colors/</id>
-        <link href="https://ivonblog.com/posts/sony-xperia-colors/"/>
-        <updated>2026-10-14T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[根據我的觀察，Sony手機的選色審美一直都是沒問題的，美感設計一直在線。低調，耐看，其實是Sony手機的一項優點。
-你看看啊，自2019年以來，1系列和5系列都是偏低調的顏色。Sony手機不會推出iPhone三星那種高飽和度的顏色，也甚少推出玫瑰金。Xperia 1 VIII出現的金色款可說是一種稀有的產物。正如iPhone 17推出的宇宙橙，大膽鮮明的配色，成為一種張揚炫耀用的東西。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>

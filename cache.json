@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397598",
+          "author": "Andy Clarke",
+          "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/beyond-12-columns/",
+          "publishedOn": "2026-11-12T16:06:55.000Z",
+          "wordCount": 3719,
+          "title": "Beyond 12 Columns: Designing Layouts With Personality",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=396572",
           "author": "Jens Oliver Meiert",
           "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -123,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
+          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "publishedOn": "2026-11-12T10:00:00.000Z",
+          "wordCount": 6061,
+          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -364,26 +389,6 @@
           "wordCount": 1198,
           "title": "光子相機：手動控制與調色濾鏡的Android開源拍照APP",
           "imageUrl": "https://ivonblog.com/posts/android-photon-camera/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-3rd-party-camera-app-issues/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "Android手機對第三方相機支援度挺混亂的，很依賴個別廠商實作，且幾乎沒有第三方介入的餘地\n看看原廠 vs 第三方相機品質。\n\n\n所謂第三方相機，是相對於手機系統內建的相機而言，非原廠開發的相機APP。\n不是有很多人反映Instagram相機的限時動態在Android拍起來很難看嗎，iPhone就不會。致使Android用戶必須用系統相機拍完再上傳。",
-          "link": "https://ivonblog.com/posts/android-3rd-party-camera-app-issues/",
-          "publishedOn": "2026-10-14T17:00:00.000Z",
-          "wordCount": 888,
-          "title": "Android手機第三方相機拍照難看，可能要到CameraX普及才解決",
-          "imageUrl": "https://ivonblog.com/posts/android-3rd-party-camera-app-issues/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/sony-xperia-colors/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "根據我的觀察，Sony手機的選色審美一直都是沒問題的，美感設計一直在線。低調，耐看，其實是Sony手機的一項優點。\n你看看啊，自2019年以來，1系列和5系列都是偏低調的顏色。Sony手機不會推出iPhone三星那種高飽和度的顏色，也甚少推出玫瑰金。Xperia 1 VIII出現的金色款可說是一種稀有的產物。正如iPhone 17推出的宇宙橙，大膽鮮明的配色，成為一種張揚炫耀用的東西。",
-          "link": "https://ivonblog.com/posts/sony-xperia-colors/",
-          "publishedOn": "2026-10-14T05:00:00.000Z",
-          "wordCount": 858,
-          "title": "Sony手機外觀顏色的設計是很有水準的",
-          "imageUrl": "https://ivonblog.com/posts/sony-xperia-colors/featured.webp"
         }
       ]
     },
@@ -398,6 +403,16 @@
       "feedUrl": "https://www.chirue.com/feed/",
       "siteUrl": "https://www.chirue.com",
       "articles": [
+        {
+          "id": "https://www.chirue.com/?p=16364",
+          "author": "Susan",
+          "description": "本文依據 Cloudflare Connect 2026 年度盛會中現場演講所整理，透過 Cloudflare […]",
+          "link": "https://www.chirue.com/cloudflare-connect-2026-ai-agent/",
+          "publishedOn": "2026-11-12T06:35:43.000Z",
+          "wordCount": 2167,
+          "title": "Cloudflare Connect 2026 第一手資訊｜直擊 Cloudflare 如何保護 AI Agent 新世代",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/11/cloudflare-connect-2026.png"
+        },
         {
           "id": "https://www.chirue.com/?p=16262",
           "author": "Susan",
@@ -494,21 +509,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21809",
-          "author": "Chris Coyier",
-          "description": "Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]",
-          "link": "https://blog.codepen.io/2026/10/14/444-a-gosh-dang-full-blown-read-write-api/",
-          "publishedOn": "2026-10-14T15:31:33.000Z",
-          "wordCount": 898,
-          "title": "444: A Gosh-Dang Full-Blown Read/Write API",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-444.mp3",
-            "length": "23067516",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -593,21 +593,6 @@
           "enclosure": {
             "url": "https://radio.codepenassets.com/cpr-445.mp3",
             "length": "20523257",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21809",
-          "author": "Chris Coyier",
-          "description": "Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]",
-          "link": "https://blog.codepen.io/2026/10/14/444-a-gosh-dang-full-blown-read-write-api/",
-          "publishedOn": "2026-10-14T15:31:33.000Z",
-          "wordCount": 898,
-          "title": "444: A Gosh-Dang Full-Blown Read/Write API",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-444.mp3",
-            "length": "23067516",
             "type": "audio/mpeg"
           },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
