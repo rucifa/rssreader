@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-13T06:03:38.743Z</updated>
+    <updated>2026-11-14T05:51:57.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Big Ol’ 2027 Black Friday Deals]]></title>
+        <id>https://css-tricks.com/?p=397800</id>
+        <link href="https://css-tricks.com/2027-front-end-black-friday-deals/"/>
+        <updated>2026-11-13T14:05:24.000Z</updated>
+        <summary type="html"><![CDATA[A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.
+10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
         <id>https://css-tricks.com/?p=397598</id>
@@ -557,31 +568,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Camera簡介：可以手動調整ISO與快門速度的Android相機APP，支援Camera2 API]]></title>
-        <id>https://ivonblog.com/posts/android-open-camera/</id>
-        <link href="https://ivonblog.com/posts/android-open-camera/"/>
-        <updated>2026-10-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[講到最好的Android相機APP，Ivon認為還得是Open Camera莫屬。
-
-它提供拍照與錄影功能，但是…不僅於此！
-很少有相機APP是開源的，然後又提供這麼多自訂功能，讓人把玩。如果你追求自由開源的相機方案，不想被各家廠商的閉源APP綁架，那麼你值得嘗試Open Camera！]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光子相機：手動控制與調色濾鏡的Android開源拍照APP]]></title>
-        <id>https://ivonblog.com/posts/android-photon-camera/</id>
-        <link href="https://ivonblog.com/posts/android-photon-camera/"/>
-        <updated>2026-10-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[喜歡手動調整拍照參數的Android用戶，可以試試bjzhou開發的「光子相機」Photon Camera。
-
-Android開源相機App又增添新的生力軍了，過去我比較常用的是Open Camera，跨品牌通用。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

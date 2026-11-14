@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397800",
+          "author": "Geoff Graham",
+          "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+          "publishedOn": "2026-11-13T14:05:24.000Z",
+          "wordCount": 2916,
+          "title": "10 Big Ol’ 2027 Black Friday Deals",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397598",
           "author": "Andy Clarke",
           "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -369,26 +379,6 @@
           "wordCount": 1328,
           "title": "GCam APK安裝教學 ～ 用強大演算法改善手機拍照品質 ～ 非官方的Google Pixel相機",
           "imageUrl": "https://ivonblog.com/posts/gcam-ports-installation/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-open-camera/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "講到最好的Android相機APP，Ivon認為還得是Open Camera莫屬。\n\n它提供拍照與錄影功能，但是…不僅於此！\n很少有相機APP是開源的，然後又提供這麼多自訂功能，讓人把玩。如果你追求自由開源的相機方案，不想被各家廠商的閉源APP綁架，那麼你值得嘗試Open Camera！",
-          "link": "https://ivonblog.com/posts/android-open-camera/",
-          "publishedOn": "2026-10-15T15:00:00.000Z",
-          "wordCount": 1217,
-          "title": "Open Camera簡介：可以手動調整ISO與快門速度的Android相機APP，支援Camera2 API",
-          "imageUrl": "https://ivonblog.com/posts/android-open-camera/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/android-photon-camera/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "喜歡手動調整拍照參數的Android用戶，可以試試bjzhou開發的「光子相機」Photon Camera。\n\nAndroid開源相機App又增添新的生力軍了，過去我比較常用的是Open Camera，跨品牌通用。",
-          "link": "https://ivonblog.com/posts/android-photon-camera/",
-          "publishedOn": "2026-10-15T14:00:00.000Z",
-          "wordCount": 1198,
-          "title": "光子相機：手動控制與調色濾鏡的Android開源拍照APP",
-          "imageUrl": "https://ivonblog.com/posts/android-photon-camera/featured.webp"
         }
       ]
     },
