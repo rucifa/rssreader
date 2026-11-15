@@ -247,21 +247,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
-          "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
-          "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4790,
-          "title": "Is Your Organization Messing Up AI Adoption?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg"
         }
       ]
     },
@@ -270,6 +255,26 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/install-ota-updates-and-keep-root-on-lineageos/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Install OTA updates and keep root on your LineageOS.\n討論永久保持root權限的方法。\n刷了LineageOS的Android手機，如何在OTA更新後如何保持Root權限？其實不用電腦進Fastboot重刷，我們只要抓住A/B分區更新後的「那個瞬間」寫入就行，就能傳承root之力給下一代系統。",
+          "link": "https://ivonblog.com/posts/install-ota-updates-and-keep-root-on-lineageos/",
+          "publishedOn": "2026-11-14T04:00:46.000Z",
+          "wordCount": 1173,
+          "title": "LineageOS如何在OTA系統更新後維持Root權限，適用Magisk / APatch / KernelSU",
+          "imageUrl": "https://ivonblog.com/posts/install-ota-updates-and-keep-root-on-lineageos/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ncku-galgame-literature-session-2026-11-13/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "html.content-warning-locked {\n    overflow: hidden;\n  }\n\n  html:has(#content-warning-accepted:not(:target) + .content-warning-overlay) {\n    overflow: hidden;\n  }\n\n  .content-warning-close-target {\n    position: fixed;\n    width: 1px;\n    height: 1px;\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  #content-warning-accepted:target + .content-warning-overlay {\n    display: none;\n  }\n\n  .content-warning-overlay {\n    position: fixed;\n    inset: 0;\n    z-index: 1000;\n    display: grid;\n    place-items: center;\n    padding: 1.25rem;\n    background: rgba(0, 0, 0, 0.68);\n    color: #333333;\n    overflow: auto;\n  }\n\n  .content-warning-dialog {\n    width: min(92vw, 520px);\n    padding: 1.35rem 1.25rem 1.25rem;\n    text-align: center;\n    background:\n    linear-gradient(180deg, #ffffff 0%, #eeeeee…",
+          "link": "https://ivonblog.com/posts/ncku-galgame-literature-session-2026-11-13/",
+          "publishedOn": "2026-11-13T15:00:00.000Z",
+          "wordCount": 1531,
+          "title": "去成大參加Galgame愛好者的線下聚會",
+          "imageUrl": "https://ivonblog.com/posts/ncku-galgame-literature-session-2026-11-13/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/can-ai-generated-software-replace-established-open-source-projects/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
