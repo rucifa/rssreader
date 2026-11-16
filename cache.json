@@ -256,6 +256,16 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/open-ear-earbuds-bone-vs-air-conduction/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "開放式藍牙耳機是不是智商稅呢？\n我想先釐清一個問題。從外形來看，「骨傳導開放式耳機」與「氣傳導開放式耳機」是很容易搞混的兩種類型。\n同樣是免將耳機塞進耳道裡，就能聽到聲音。在接觸開放式藍牙耳機以前，我一直誤以為這類產品使用的就叫做骨傳導技術。但是我經過研究後才發現原理不同，是不同的東西，價格當然也差很多。",
+          "link": "https://ivonblog.com/posts/open-ear-earbuds-bone-vs-air-conduction/",
+          "publishedOn": "2026-11-15T10:00:00.000Z",
+          "wordCount": 843,
+          "title": "「骨傳導」與「氣傳導」開放式耳機是不一樣的東西",
+          "imageUrl": "https://ivonblog.com/posts/open-ear-earbuds-bone-vs-air-conduction/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/install-ota-updates-and-keep-root-on-lineageos/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "Install OTA updates and keep root on your LineageOS.\n討論永久保持root權限的方法。\n刷了LineageOS的Android手機，如何在OTA更新後如何保持Root權限？其實不用電腦進Fastboot重刷，我們只要抓住A/B分區更新後的「那個瞬間」寫入就行，就能傳承root之力給下一代系統。",

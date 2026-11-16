@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T05:52:58.733Z</updated>
+    <updated>2026-11-16T05:52:39.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「骨傳導」與「氣傳導」開放式耳機是不一樣的東西]]></title>
+        <id>https://ivonblog.com/posts/open-ear-earbuds-bone-vs-air-conduction/</id>
+        <link href="https://ivonblog.com/posts/open-ear-earbuds-bone-vs-air-conduction/"/>
+        <updated>2026-11-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[開放式藍牙耳機是不是智商稅呢？
+我想先釐清一個問題。從外形來看，「骨傳導開放式耳機」與「氣傳導開放式耳機」是很容易搞混的兩種類型。
+同樣是免將耳機塞進耳道裡，就能聽到聲音。在接觸開放式藍牙耳機以前，我一直誤以為這類產品使用的就叫做骨傳導技術。但是我經過研究後才發現原理不同，是不同的東西，價格當然也差很多。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LineageOS如何在OTA系統更新後維持Root權限，適用Magisk / APatch / KernelSU]]></title>
         <id>https://ivonblog.com/posts/install-ota-updates-and-keep-root-on-lineageos/</id>
