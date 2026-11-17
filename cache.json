@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395816",
+          "author": "Lee Meyer",
+          "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+          "publishedOn": "2026-11-16T16:47:05.000Z",
+          "wordCount": 3563,
+          "title": "Staggering Scroll-Driven Animations with animation-range-start",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397800",
           "author": "Geoff Graham",
           "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -436,6 +446,16 @@
       "siteUrl": "https://blog.codepen.io",
       "articles": [
         {
+          "id": "https://blog.codepen.io/?p=21943",
+          "author": "Chris Coyier",
+          "description": "Sourcemaps aren’t new, but they’re still fascinating. Neciu Dan recently wrote a good overview article. The CSS and JavaScript we write are likely processed before they become the CSS and JavaScript sent over the internet to a browser. An obvious one is that you might author TypeScript, which is then processed into JavaScript, then bundled, […]",
+          "link": "https://blog.codepen.io/2026/11/16/chris-corner-sourcemaps/",
+          "publishedOn": "2026-11-16T16:52:41.000Z",
+          "wordCount": 1581,
+          "title": "Chris’ Corner: Sourcemaps",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.codepen.io/?p=21962",
           "author": "Chris Coyier",
           "description": "Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]",
@@ -522,6 +542,16 @@
       "feedUrl": "https://blog.codepen.io/feed/",
       "siteUrl": "https://blog.codepen.io",
       "articles": [
+        {
+          "id": "https://blog.codepen.io/?p=21943",
+          "author": "Chris Coyier",
+          "description": "Sourcemaps aren’t new, but they’re still fascinating. Neciu Dan recently wrote a good overview article. The CSS and JavaScript we write are likely processed before they become the CSS and JavaScript sent over the internet to a browser. An obvious one is that you might author TypeScript, which is then processed into JavaScript, then bundled, […]",
+          "link": "https://blog.codepen.io/2026/11/16/chris-corner-sourcemaps/",
+          "publishedOn": "2026-11-16T16:52:41.000Z",
+          "wordCount": 1581,
+          "title": "Chris’ Corner: Sourcemaps",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.codepen.io/?p=21962",
           "author": "Chris Coyier",
