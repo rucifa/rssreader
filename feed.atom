@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T07:29:54.936Z</updated>
+    <updated>2026-11-18T06:53:46.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet AI 2027 Conference (Dec 1)]]></title>
+        <id>https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/</id>
+        <link href="https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"/>
+        <updated>2026-11-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Sped Up The Build: How Can Accessibility Testing Keep Up?]]></title>
+        <id>https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/</id>
+        <link href="https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"/>
+        <updated>2026-11-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrew Chung)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris’ Corner: Sourcemaps]]></title>
         <id>https://blog.codepen.io/?p=21943</id>
@@ -636,30 +656,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCam APK安裝教學 ～ 用強大演算法改善手機拍照品質 ～ 非官方的Google Pixel相機]]></title>
-        <id>https://ivonblog.com/posts/gcam-ports-installation/</id>
-        <link href="https://ivonblog.com/posts/gcam-ports-installation/"/>
-        <updated>2026-10-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[這篇文章Ivon將介紹如何在Android手機安裝GCam，並介紹下載GCam APK的網站。
-
-  
-
-
-1. 什麼是GCam
-    
-
-    
-    
-        #
-    
-    
-
-如果想改善Android手機拍照效果，有些人會跟你說要下載GCam吧？]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>

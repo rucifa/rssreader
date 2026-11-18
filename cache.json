@@ -154,6 +154,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "publishedOn": "2026-11-17T12:00:00.000Z",
+          "wordCount": 4651,
+          "title": "Meet AI 2027 Conference (Dec 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "author": "hello@smashingmagazine.com (Andrew Chung)",
+          "description": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+          "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "publishedOn": "2026-11-17T08:00:00.000Z",
+          "wordCount": 4437,
+          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
@@ -394,16 +424,6 @@
           "wordCount": 841,
           "title": "TAITO 呂500休日ver.到海邊，附贈精緻魚雷與支架",
           "imageUrl": "https://ivonblog.com/posts/taito-figure-ro-500-holiday-ver/featured.webp"
-        },
-        {
-          "id": "https://ivonblog.com/posts/gcam-ports-installation/",
-          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
-          "description": "這篇文章Ivon將介紹如何在Android手機安裝GCam，並介紹下載GCam APK的網站。\n\n  \n\n\n1. 什麼是GCam\n    \n\n    \n    \n        #\n    \n    \n\n如果想改善Android手機拍照效果，有些人會跟你說要下載GCam吧？",
-          "link": "https://ivonblog.com/posts/gcam-ports-installation/",
-          "publishedOn": "2026-10-19T17:00:00.000Z",
-          "wordCount": 1328,
-          "title": "GCam APK安裝教學 ～ 用強大演算法改善手機拍照品質 ～ 非官方的Google Pixel相機",
-          "imageUrl": "https://ivonblog.com/posts/gcam-ports-installation/featured.webp"
         }
       ]
     },
