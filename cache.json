@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=398054",
+          "author": "Andy Bell",
+          "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/when-everything-has-changed/",
+          "publishedOn": "2026-11-18T14:55:21.000Z",
+          "wordCount": 3996,
+          "title": "When Everything Has Changed, What Do We Do Next?",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395816",
           "author": "Lee Meyer",
           "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -272,21 +282,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-          "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-          "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5961,
-          "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
         }
       ]
     },
@@ -539,21 +534,6 @@
           "wordCount": 1086,
           "title": "Chris’ Corner: We Heart CSS",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21840",
-          "author": "Chris Coyier",
-          "description": "Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]",
-          "link": "https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/",
-          "publishedOn": "2026-10-20T13:01:54.000Z",
-          "wordCount": 988,
-          "title": "445: CodePen AI is Here",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-445.mp3",
-            "length": "20523257",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -635,21 +615,6 @@
           "publishedOn": "2026-10-21T15:47:20.000Z",
           "wordCount": 1086,
           "title": "Chris’ Corner: We Heart CSS",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21840",
-          "author": "Chris Coyier",
-          "description": "Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]",
-          "link": "https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/",
-          "publishedOn": "2026-10-20T13:01:54.000Z",
-          "wordCount": 988,
-          "title": "445: CodePen AI is Here",
-          "enclosure": {
-            "url": "https://radio.codepenassets.com/cpr-445.mp3",
-            "length": "20523257",
-            "type": "audio/mpeg"
-          },
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]

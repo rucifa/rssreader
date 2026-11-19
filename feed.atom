@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T06:53:46.052Z</updated>
+    <updated>2026-11-19T06:54:44.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
+        <id>https://css-tricks.com/?p=398054</id>
+        <link href="https://css-tricks.com/when-everything-has-changed/"/>
+        <updated>2026-11-18T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …
+When Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet AI 2027 Conference (Dec 1)]]></title>
         <id>https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/</id>
@@ -626,36 +637,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[445: CodePen AI is Here]]></title>
-        <id>https://blog.codepen.io/?p=21840</id>
-        <link href="https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/"/>
-        <updated>2026-10-20T13:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[445: CodePen AI is Here]]></title>
-        <id>https://blog.codepen.io/?p=21840</id>
-        <link href="https://blog.codepen.io/2026/10/20/445-codepen-ai-is-here/"/>
-        <updated>2026-10-20T13:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
-        <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
-        <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
-        <updated>2026-10-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
 </feed>
