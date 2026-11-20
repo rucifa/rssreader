@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=397984",
+          "author": "John Rhea",
+          "description": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.\nscroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+          "publishedOn": "2026-11-19T14:57:54.000Z",
+          "wordCount": 3935,
+          "title": "scroll-state()",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=398054",
           "author": "Andy Bell",
           "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -291,6 +301,26 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/android-block-sideloading-without-google/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Android手機真的比較不安全嗎？\n給長輩用的手機果然不該開放任意安裝APK嗎？\n但Google真的放任詐騙APK橫行沒在做事嗎？\nAndroid的安全，是否一定要以安裝自由為代價？\n\n  \n\n在Threads看到有修手機的抱怨Android手機很不安全，因為能安裝任意APK，導致長輩用戶容易裝到一堆廣告APP，可能還包含詐騙與病毒，讓他處理的時候煩不勝煩。更可怕的是像三星、小米這種大品牌的手機系統本身就有廣告，容易看到誤導性廣告，就下載了假的防毒軟體APK。\n而且Android要禁止安裝第三方APK也就一個開關，受害者很容易就被「社交工程」誘導關掉，根本防君子不防小人。",
+          "link": "https://ivonblog.com/posts/android-block-sideloading-without-google/",
+          "publishedOn": "2026-11-19T17:00:00.000Z",
+          "wordCount": 857,
+          "title": "Android不安全？禁止安裝APK能否不依賴Google達成呢？",
+          "imageUrl": "https://ivonblog.com/posts/android-block-sideloading-without-google/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ventoid-android-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "如何使用手機製作Windows開機USB？如果電腦壞掉，身邊沒有第二臺電腦，臨時需要製作開機碟的用戶來說怎麼辦呢。\n在Android手機，可以透過Ventoid製作Linux或Windows的隨身碟USB，接著再插到電腦，進入UEFI界面開機。",
+          "link": "https://ivonblog.com/posts/ventoid-android-app/",
+          "publishedOn": "2026-11-19T01:00:00.000Z",
+          "wordCount": 1159,
+          "title": "Ventoid：用手機製作Windows開機USB，Ventoy for Android版",
+          "imageUrl": "https://ivonblog.com/posts/ventoid-android-app/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/open-ear-earbuds-bone-vs-air-conduction/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "開放式藍牙耳機是不是智商稅呢？\n我想先釐清一個問題。從外形來看，「骨傳導開放式耳機」與「氣傳導開放式耳機」是很容易搞混的兩種類型。\n同樣是免將耳機塞進耳道裡，就能聽到聲音。在接觸開放式藍牙耳機以前，我一直誤以為這類產品使用的就叫做骨傳導技術。但是我經過研究後才發現原理不同，是不同的東西，價格當然也差很多。",
@@ -524,16 +554,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21748",
-          "author": "Chris Coyier",
-          "description": "It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]",
-          "link": "https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/",
-          "publishedOn": "2026-10-21T15:47:20.000Z",
-          "wordCount": 1086,
-          "title": "Chris’ Corner: We Heart CSS",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -606,16 +626,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.codepen.io/?p=21748",
-          "author": "Chris Coyier",
-          "description": "It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]",
-          "link": "https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/",
-          "publishedOn": "2026-10-21T15:47:20.000Z",
-          "wordCount": 1086,
-          "title": "Chris’ Corner: We Heart CSS",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T06:54:44.472Z</updated>
+    <updated>2026-11-20T06:44:53.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android不安全？禁止安裝APK能否不依賴Google達成呢？]]></title>
+        <id>https://ivonblog.com/posts/android-block-sideloading-without-google/</id>
+        <link href="https://ivonblog.com/posts/android-block-sideloading-without-google/"/>
+        <updated>2026-11-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android手機真的比較不安全嗎？
+給長輩用的手機果然不該開放任意安裝APK嗎？
+但Google真的放任詐騙APK橫行沒在做事嗎？
+Android的安全，是否一定要以安裝自由為代價？
+
+  
+
+在Threads看到有修手機的抱怨Android手機很不安全，因為能安裝任意APK，導致長輩用戶容易裝到一堆廣告APP，可能還包含詐騙與病毒，讓他處理的時候煩不勝煩。更可怕的是像三星、小米這種大品牌的手機系統本身就有廣告，容易看到誤導性廣告，就下載了假的防毒軟體APK。
+而且Android要禁止安裝第三方APK也就一個開關，受害者很容易就被「社交工程」誘導關掉，根本防君子不防小人。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scroll-state()]]></title>
+        <id>https://css-tricks.com/?page_id=397984</id>
+        <link href="https://css-tricks.com/almanac/functions/s/scroll-state/"/>
+        <updated>2026-11-19T14:57:54.000Z</updated>
+        <summary type="html"><![CDATA[The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.
+scroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ventoid：用手機製作Windows開機USB，Ventoy for Android版]]></title>
+        <id>https://ivonblog.com/posts/ventoid-android-app/</id>
+        <link href="https://ivonblog.com/posts/ventoid-android-app/"/>
+        <updated>2026-11-19T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如何使用手機製作Windows開機USB？如果電腦壞掉，身邊沒有第二臺電腦，臨時需要製作開機碟的用戶來說怎麼辦呢。
+在Android手機，可以透過Ventoid製作Linux或Windows的隨身碟USB，接著再插到電腦，進入UEFI界面開機。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
         <id>https://css-tricks.com/?p=398054</id>
@@ -617,26 +657,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
 這隻跟2014 TAITO島風應該有點對應關係，都是坐在游泳圈山方便展示的種類～]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: We Heart CSS]]></title>
-        <id>https://blog.codepen.io/?p=21748</id>
-        <link href="https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/"/>
-        <updated>2026-10-21T15:47:20.000Z</updated>
-        <summary type="html"><![CDATA[It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris’ Corner: We Heart CSS]]></title>
-        <id>https://blog.codepen.io/?p=21748</id>
-        <link href="https://blog.codepen.io/2026/10/21/chris-corner-we-heart-css/"/>
-        <updated>2026-10-21T15:47:20.000Z</updated>
-        <summary type="html"><![CDATA[It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
