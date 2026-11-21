@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-20T06:44:53.003Z</updated>
+    <updated>2026-11-21T06:38:26.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
+        <id>https://css-tricks.com/?p=397535</id>
+        <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
+        <updated>2026-11-20T15:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.
+The book draws …
+Andy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android不安全？禁止安裝APK能否不依賴Google達成呢？]]></title>
         <id>https://ivonblog.com/posts/android-block-sideloading-without-google/</id>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397535",
+          "author": "Geoff Graham",
+          "description": "Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.\nThe book draws …\nAndy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+          "publishedOn": "2026-11-20T15:03:47.000Z",
+          "wordCount": 2484,
+          "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/standout-design-thumbmnail.png"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=397984",
           "author": "John Rhea",
           "description": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.\nscroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
