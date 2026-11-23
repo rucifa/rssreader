@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-22T06:06:24.946Z</updated>
+    <updated>2026-11-23T06:58:38.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[參加Sony Xperia TW手機攝影賞得到兩次獎品]]></title>
+        <id>https://ivonblog.com/posts/earned-sony-xperia-tw-photography-rewards/</id>
+        <link href="https://ivonblog.com/posts/earned-sony-xperia-tw-photography-rewards/"/>
+        <updated>2026-11-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sony臺灣分公司每個月都會舉辦Xperia攝影比賽徵件，參考Sony - Xperia Taiwan的動態。只要加入Facebook官方社團並依照指示寫hastag就有機會得獎。
+沒得的話就當作順便分享照片吧。似乎是這個活動的緣故，Facebook社團的索粉都很熱烈上傳自己拍的照片，證明Xperia在精心操作下也能拍出好照片。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
         <id>https://css-tricks.com/?p=397535</id>
