@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T06:58:38.567Z</updated>
+    <updated>2026-11-24T09:24:41.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Opining on CSS]]></title>
+        <id>https://blog.codepen.io/?p=21988</id>
+        <link href="https://blog.codepen.io/2026/11/23/chris-corner-opining-on-css/"/>
+        <updated>2026-11-23T16:33:24.000Z</updated>
+        <summary type="html"><![CDATA[It was fun to read Julia Evans’ journey to just writing CSS again, from originally using Tailwind. It’s a very personal journey with personal reasons, and I like the realness of that. Like Julia never really used a build system, which is, dare I say, kind of the point of Tailwind. Without it, instead of […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris’ Corner: Opining on CSS]]></title>
+        <id>https://blog.codepen.io/?p=21988</id>
+        <link href="https://blog.codepen.io/2026/11/23/chris-corner-opining-on-css/"/>
+        <updated>2026-11-23T16:33:24.000Z</updated>
+        <summary type="html"><![CDATA[It was fun to read Julia Evans’ journey to just writing CSS again, from originally using Tailwind. It’s a very personal journey with personal reasons, and I like the realness of that. Like Julia never really used a build system, which is, dare I say, kind of the point of Tailwind. Without it, instead of […]]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Fallbacks for a Robust Front-End]]></title>
+        <id>https://css-tricks.com/?p=396490</id>
+        <link href="https://css-tricks.com/using-frontend-fallbacks/"/>
+        <updated>2026-11-23T14:21:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.
+Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Steve Frenzel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Material Archive]]></title>
+        <id>https://css-tricks.com/?p=398239</id>
+        <link href="https://css-tricks.com/dev-material-archive/"/>
+        <updated>2026-11-23T14:18:50.000Z</updated>
+        <summary type="html"><![CDATA[A new resource resurrecting lost web-dev articles and posts:
+This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to 
+…
+Dev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[參加Sony Xperia TW手機攝影賞得到兩次獎品]]></title>
         <id>https://ivonblog.com/posts/earned-sony-xperia-tw-photography-rewards/</id>
