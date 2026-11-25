@@ -185,16 +185,6 @@
           "wordCount": 2958,
           "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397227",
-          "author": "Geoff Graham",
-          "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-          "publishedOn": "2026-10-26T15:29:36.000Z",
-          "wordCount": 4028,
-          "title": "CSS-Tricks has a new owner!",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -315,6 +305,56 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/ika-android-emulator/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這是一款適用於Linux的Android模擬器，叫做イカ，由DesktopECHO開發。\n\nIka是日語花枝的意思。我看乾脆叫它花枝模擬器吧。好笑的是開發者是想取名為墨魚的日文，但是被Google翻譯誤導了zzzz",
+          "link": "https://ivonblog.com/posts/ika-android-emulator/",
+          "publishedOn": "2026-11-24T15:00:00.000Z",
+          "wordCount": 1195,
+          "title": "Ika：適用Linux的Android模擬器，讓你安裝APK，支援GPU加速",
+          "imageUrl": "https://ivonblog.com/posts/ika-android-emulator/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/andarium-ios-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Google工程師imxieyi製作了能在iPhone跑Android系統的APP「Andarium」。開源免費無廣告。\n\n這個技術跟基於QEMU的UTM不太一樣，是透過原生編譯為arm64架構的User Mode Linux Kernel來執行Linux系統的，作者把它命名為Kernarium。並由此延伸出了能跑Android的Andarium，",
+          "link": "https://ivonblog.com/posts/andarium-ios-app/",
+          "publishedOn": "2026-11-24T08:00:00.000Z",
+          "wordCount": 1185,
+          "title": "用Andarium模擬器在iPhone & iPad安裝APK，免越獄",
+          "imageUrl": "https://ivonblog.com/posts/andarium-ios-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ladybird-browser/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Ladybird Browser (瓢蟲瀏覽器) 是一款從頭寫起的瀏覽器。\n\n  \n\n\n1. 簡介\n    \n\n    \n    \n        #\n    \n    \n\n這可是用Rust + C++從頭寫起的瀏覽器呢，不基於Chromium也不使用Gecko更不是WebKit，與現有的瀏覽器擴充都不相容。",
+          "link": "https://ivonblog.com/posts/ladybird-browser/",
+          "publishedOn": "2026-11-23T22:00:00.000Z",
+          "wordCount": 1185,
+          "title": "如何安裝Ladybird，體驗獨立開發的全新瀏覽器（Linux / macOS / Windows）",
+          "imageUrl": "https://ivonblog.com/posts/ladybird-browser/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/grandista-baki-hanma-yujiro-hanger/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "缺sann-á-king（曬衣架）嗎？本篇開箱，讓 範馬勇次郎 衣架發揮妙用…上面可以掛任何東西，包括讓其他模型做上去當蹺蹺板，順帶一提Fumo的鈴仙的耳朵折起來也能當掛鉤使用www",
+          "link": "https://ivonblog.com/posts/grandista-baki-hanma-yujiro-hanger/",
+          "publishedOn": "2026-11-23T12:00:00.000Z",
+          "wordCount": 826,
+          "title": "《刃牙》範馬勇次郎衣架的妙用",
+          "imageUrl": "https://ivonblog.com/posts/grandista-baki-hanma-yujiro-hanger/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-emulators-for-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "本文介紹Linux系統幾個免費的「Android模擬器」解決方案，讓您在Linux系統跑Android APP、玩手遊。\n\n  在Gentoo Linux的KDE Plasma桌面用Android-x86虛擬機玩FGO",
+          "link": "https://ivonblog.com/posts/android-emulators-for-linux/",
+          "publishedOn": "2026-11-23T08:00:00.000Z",
+          "wordCount": 1308,
+          "title": "想在電腦跑Android APP？介紹幾個Linux系統「Android手遊模擬器」的解決方案",
+          "imageUrl": "https://ivonblog.com/posts/android-emulators-for-linux/featured.webp"
+        },
         {
           "id": "https://ivonblog.com/posts/earned-sony-xperia-tw-photography-rewards/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
