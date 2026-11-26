@@ -12,6 +12,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=398743",
+          "author": "Geoff Graham",
+          "description": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe’re going full 2013-meets-2026 with an art-directed piece that …\nRSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+          "publishedOn": "2026-11-25T15:32:42.000Z",
+          "wordCount": 1721,
+          "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/remix-scroll.mp4",
+            "length": "15516421",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=398126",
+          "author": "Kevin Powell",
+          "description": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.\nStyle Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+          "publishedOn": "2026-11-25T14:06:34.000Z",
+          "wordCount": 3490,
+          "title": "Style Queries as Conditional Modifiers",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/20261116-1529-04.2595129.mp4",
+            "length": "5847089",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396490",
           "author": "Steve Frenzel",
           "description": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\nUsing Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -175,16 +205,6 @@
           "wordCount": 2191,
           "title": "The Frankenstein Table",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396840",
-          "author": "Daniel Schwarz",
-          "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-19/",
-          "publishedOn": "2026-10-27T15:09:16.000Z",
-          "wordCount": 2958,
-          "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
         }
       ]
     },
@@ -509,6 +529,16 @@
       "siteUrl": "https://www.chirue.com",
       "articles": [
         {
+          "id": "https://www.chirue.com/?p=16387",
+          "author": "Susan",
+          "description": "混合雲架構普及 傳統網路邊界正在消失 不論企業或政府機關，目前多數都已走向混合雲環境，企業多以雲端為主要運算環 […]",
+          "link": "https://www.chirue.com/cloudflare-one-replace-firewall-vpn/",
+          "publishedOn": "2026-11-26T02:06:08.000Z",
+          "wordCount": 2230,
+          "title": "Cloudflare One 統一納管雲地邊界，取代傳統防火牆與 VPN",
+          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/11/cloudflare-one-hybrid-cloud-edge-1024x687.jpg"
+        },
+        {
           "id": "https://www.chirue.com/?p=16364",
           "author": "Susan",
           "description": "本文依據 Cloudflare Connect 2026 年度盛會中現場演講所整理，透過 Cloudflare […]",
@@ -517,16 +547,6 @@
           "wordCount": 2167,
           "title": "Cloudflare Connect 2026 第一手資訊｜直擊 Cloudflare 如何保護 AI Agent 新世代",
           "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/11/cloudflare-connect-2026.png"
-        },
-        {
-          "id": "https://www.chirue.com/?p=16262",
-          "author": "Susan",
-          "description": "綠世界 ( 化名 ) 位於台灣中部，從事多元能源工程已超過 20 年。目前員工逾 200 人，年營收達數億元規 […]",
-          "link": "https://www.chirue.com/broadcom-vmware-to-proxmox-ve/",
-          "publishedOn": "2026-10-27T05:38:50.000Z",
-          "wordCount": 2318,
-          "title": "Broadcom VMware 授權漲價後，中部能源企業轉 Proxmox VE，授權成本降約 86%",
-          "imageUrl": "https://www.chirue.com/wp-content/uploads/2026/10/Gemini_Generated_Image_1of00c1of00c1of0-1024x765.jpg"
         }
       ]
     },
