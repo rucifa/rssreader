@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rucifa.github.io/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-27T07:48:18.872Z</updated>
+    <updated>2026-11-28T07:17:13.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rucifa.github.io/rssreader/index.html"/>
     <link rel="self" href="https://rucifa.github.io/rssreader/feed.atom"/>
@@ -733,23 +733,6 @@ What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally 
 The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用GCam拍照算不算作弊？我對用GCam拍照想法的轉變]]></title>
-        <id>https://ivonblog.com/posts/is-using-gcam-cheating/</id>
-        <link href="https://ivonblog.com/posts/is-using-gcam-cheating/"/>
-        <updated>2026-10-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[用GCam這種自動修圖的相機APP拍照算不算作弊？
-看過去我Sony中階Xperia 10 V手機拍的照片，好漂亮的幾張啊，然而原廠的很難拍出這種效果，幾乎是GCam的功勞，Sony只負責提供硬體，小巧好握的機身。
-
-
-
-
-
-因為我奉行Parrhesia原則（直言不諱，即使說出真相可能帶來風險或負面後果，仍勇於坦誠發言，將說真話視為一種道德責任 by 傅柯），用GCam常常拍出遠超Sony和小米原廠相機效果的照片…如果我分享照片，應該標註用GCam拍的嗎。就像使用AI開發軟體、用AI繪圖，應該憑良心自行揭露。]]></summary>
-        <author>
-            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
 </feed>
